@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1913-04-17"
-citations: ["9 Ala. App. 665", "9 Ala. App. 666"]
+citations: ["9 Ala. App. 665"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
