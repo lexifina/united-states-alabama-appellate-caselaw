@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 731"
+decided: "1933-06-30"
+citations: ["25 Ala. App. 510", "149 So. 713"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROY v. STATE."]
+source_url: "https://static.case.law/ala-app/25/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1665384
+cites_cases: ["115 Ala. 25", "136 So. 273", "148 So. 876", "18 Ala. App. 511", "20 Ala. App. 565", "22 So. 526", "24 Ala. App. 419", "9 So. 600", "92 Ala. 51"]
+---
+
+# Roy v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+This is the second appeal in this case, appellant having been formerly tried and convicted and upon appeal her case was reversed and remanded. Roy v. State, 24 Ala. App. 419, 136 So. 273.
+The fact that this appellant has been formerly tried and convicted under this indictment, and that this appeal is from a judgment of conviction upon her second trial in the court below, can in no manner militate against the right of appellant to have a fair and impartial trial, free from injurious error, for this right is accorded under the provisions of the Constitution and laws of this state. Vaughn v. State, 18 Ala. App. 511, 93 So. 256.
+The evidence in this case is entirely circumstantial, and the law expressly provides, when the evidence is circumstantial, it must be so complete, so strong, so cogent, as to show guilt to a moral certainty. It must exclude every other reasonable hypothesis than that of the guilt of the accused. No matter how strong the circumstances, if they can be reconciled with the theory that the defendant did not commit the crime for which he is on trial, he should be acquitted. Dutton v. State, ante, p. 472, 148 So. 876.
+It is earnestly insisted by appellant that she was entitled to a directed verdict under the evidence in this ease, that the evidence was wholly insufficient to meet the rule above announced, and that her conviction rested upon speculation, surmise and conjecture. It does appear that the most incriminating testimony in this case was that of one Dr. L. O. Havens, who said he was director of the state laboratory, and that of state witness Mrs. Wright. As to Dr. Havens, he testified that he studied chemistry at several reputable schools and colleges and had been engaged in that business about thirteen years. Upon this predicate the trial court permitted this witness to give as his opinion that certain spots upon some boards which had been brought to him by the sheriff from the Roy home were made from human blood. Appellant contends that this was but a mere conclusion or guess of the witness, and that upon cross-examination of said witness it was conclusively shown that he was not qualified to make the tests about which he was permitted to testify. We are not prepared to sustain this contention of appellant, but it must be conceded his testimony on cross-examination indicated a marked lack of knowledge, and that his tests were not made in accordance with well-recognized authorities with which he was confronted by counsel for appellant. There was introduced in evidence a text-book by John A. Kolmer, M. D., Dr. P. II. Sc. (Hon.), a well-recognized authority, and admitted to be such by this witness. There are copied in this record pages 322 to 32S of said work all relating to the proper manner of making tests of this character, and it does seem to appear that the purported tests made by this witness conform but in a slight degree to the rule announced by Kolmer, supra. We think to accord conclusive weight to the testimony of this witness where life or liberty of the accused is involved would be nothing less than hazardous. As to Mrs. Wright, the dependability and weight of her testimony was for the jury. She testified that she could see from her house down to the county line road, and that about quarter past 5 o’clock on the afternoon in question she saw this appellant and one Watts coming along that road from the direction where body of deceased was found. She also testified that she could tell from that distance that this appellant had on a blue percale dress with little figures in it. The time was on March 18th, and the testimony tends to show that the distance in question was from 300 to 400 yards. In addition to this, several witnesses testified that they stood at the Wright place and undertook to view the point or location as testified to by Mrs. Wright, and it was impossible to see the place or to distinguish persons at the point indicated. As stated, however, the weight and credioility of witness Mrs. Wright’s testimony remained a question for the jury. It was the duty of the court, however, on the motion for a new trial, to consider carefully the evidence of the two above-mentioned witnesses and to accord to appellant the benefit of any reasonable doubt arising from the consideration of all the evidence adduced. We think the court erred in overruling the motion for a new trial.
+There was also error in refusing to defendant charges 8 and 9. The following authorities are conclusive on this point: Gilbert v. State, 20 Ala. App. 565, 104 So. 45; Elmore v. State, 92 Ala. 51, 9 So. 600; Bell v. State, 115 Ala. 25, 39, 22 So. 526.
+Reversed and remanded.
