@@ -1,0 +1,25 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-06-16"
+citations: ["10 Ala. App. 605", "65 So. 710"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ineichen v. City of Anniston."]
+source_url: "https://static.case.law/ala-app/10/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626600
+cites_cases: ["10 L. R. A. 430", "10 South. 30", "104 Am. St. Rep. 283", "108 Ga. 27", "11 South. 383", "110 Ala. 619", "110 Tenn. 524", "116 Ala. 170", "121 Am. St. Rep. 21", "131 N. W. 817", "135 U. S. 100", "14 L. R. A. (N. S.) 1081", "148 Iowa, 173", "153 Ala. 675", "161 Ala. 83", "170 Fed. 449", "171 U. S. 1", "181 Fed. 551", "181 Fed. 561", "185 U. S. 37", "20 South. 127", "22 Sup. Ct. 576", "27 L. R. A. 219", "41 Ala. 139", "41 South. 153", "51 Fed. 286", "61 N. W. 1001", "8 South. 353", "8 South. 814", "90 Ala. 639", "90 Tex. 298", "91 Ala. 6", "91 Ala. 62", "91 Ala. 63", "91 Ala. 9", "93 Iowa, 316", "96 Ala. 115"]
+---
+
+# Ineichen v. City of Anniston
+
+## Majority (THOMAS, J.)
+
+THOMAS, J.
+The municipal ordinance, for a violation of which defendant was convicted, prohibited the carrying on of any. business for which a license was required without first taking out and paying for such license, and among the persons required to take out such a license were dealers in or agents for the sale of pianos or organs.
+The defendant, appellant here, admits that he is an agent for the sale of pianos, but contends that the ordinance has no application to him for the reason, as insisted, that he is protected from the payment of the tax levied on account of the fact that in such agency he represents, as appears without dispute, only a nonresident principal, Hallett-Davis Piano Company, whose place of business and factory for the manufacturing of the pianos sold by him, as such agent, is in Boston, Mass., from which point orders taken by him in Alabama for the sale of pianos, in the event they are approved and accepted by his principal when sent in to the home office, are filled by their shipping from such point to the purchaser in Alabama the piano so ordered.
+If the facts went no further than as stated, it is clear, under previous adjudications, that defendant is not liable for the tax levied by the ordinance, for in such event there is no doubt but what he was engaged exclusively in interstate commerce as agent for his nonresident principal. — Stratford v. City of Montgomery, 110 Ala. 619, 20 South. 127; Ware v. Mobile, 116 Ala. 170, 171, 41 South. 153, 14 L. R. A. (N. S.) 1081, 121 Am. St. Rep. 21; Stockard v. Morgan, 185 U. S. 37, 22 Sup. Ct. 576, 46 L. Ed. 785; 17 Am. & Eng. Ency. Law, 66, 67. However, it appears that, although that, as has been stated, was the general custom or practice followed by defendant in taking orders and by the said company in filing such orders, yet in two instances, within the limits of the appellee municipality, this custom or practice was departed from to this extent: Two of such orders so taken by defendant, sent in to, and accepted and approved by, the principal at the home office, were filled, not by shipments direct from the factory, but by having defendant deliver to each purchaser one of two pianos that had been previously and only shortly before sold and shipped from the factory to two other purchasers, respectively, who, after availing themselves of the right alloAved by their respective contracts of purchase to open, examine, and test the piano shipped him, had declined to accept it and Avas holding it subject to the orders of the company at the time that the defendant, by direction of the company, took it up and delivered it to the other purchaser named.
+If the opening of the box in which the piano was shipped and the examination and testing of the piano by the first'purchaser, who, as seen, was merely a conditional purchaser, did not destroy its character and identity as an original package, and thereby incorporate it into the general mass of the property of this state, then the fact of such opening, examination, and testing would have no bearing on the case, and defendant would not be subject to the tax levied by the ordinance, as the transaction was one of interstate commerce.— Authorities, supra; Stratford v. City of Montgomery, supra; Keith v. State, 91 Ala. 9, 8 South. 353, 10 L. R. A. 430; Tinker v. State, 90 Ala. 639, 8 South. 814; Tinker v. State, 96 Ala. 115, 11 South. 383; Harrison v. State, 91 Ala. 63, 10 South. 30; Schollenberger v. Penn, 171 U. S. 1, 18 Sup. Ct. 757, 43 L. Ed. 49. We are not of opinion that such opening, examination, and testing, under the circumstances stated, destroyed its character as an original package. — Wind v. Iler, 93 Iowa, 316, 61 N. W. 1001, 27 L. R. A. 219; U. S. v. Five Bowes Asafoetida (D. C.) 181 Fed. 561.
+It follows that the judgment of conviction must be reversed, and the cause remanded.
+Beversed and remanded.
