@@ -1,0 +1,43 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 367"
+decided: "1974-10-30"
+citations: ["53 Ala. App. 560", "302 So. 2d 534"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["The WATER SUPPLY BOARD OF the CITY OF ARAB, Alabama v. Charles W. WILLIAMS."]
+source_url: "https://static.case.law/ala-app/53/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1738738
+cites_cases: ["16 Ala.App. 333", "205 Ala. 378", "207 S.W.2d 217", "272 Ala. 383", "28 A.L.R. 472", "45 Ala.App. 401"]
+---
+
+# Water Supply Board v. Williams
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+This is an appeal from a judgment against appellant water works for terminating water service to appellee.
+The trial before the trial court, sitting without a jury, was had on a two count complaint. One count, as we perceive it, was bottomed on a breach of contract, the other count alleged negligence on the part of the water works in “cutting-off” appellee’s water service. Appellee claimed damages for inconvenience, expense of moving and various other alleged damages. After a hearing ore terms the trial court entered a general judgment for appellee and assessed his damages at $300.
+The record reveals that in 1967 the appellee contracted with appellant water works to provide water service at a specific location (which we will refer to hereafter as location A). Thereafter, in January of 1972, appellee again contracted with appellant water works to provide water service at another specific location (referred to hereafter as location B). Subsequently, appellee leased location A to a third party. The third party apparently made payments for the water service. The third party departed the premises March 15, 1972. At all times, however, the water service contract to location A remained in appellee’s name. In April 1972, the water company held appellee in default in payments for water service to location A and promptly terminated service to this location.
+The amount due from the nonpayment of the water bill at location A was then added to the water bill for location B. The appellee refused to pay the bill for the water service at location A, but did at all times pay his water bill for service at location B.
+Appellant water works notified appellee that his water service at location B would be terminated if the bill for past water service at location A was not paid in full. Appellee still refused to pay and his water service at location B was terminated.
+Counsel for appellant in brief argues two assignments of error; one that the trial court erred to reversal in sustaining appellee’s objection to the following question:
+“Q: Is it not a fact, Mr. Williams, that your electric service was terminated?”
+Appellant made a showing to the trial court that the answer to this question would have a bearing on the question of damages; i. e., that appellee did not move solely because of lack of water. Specifically, appellant contends that appellee claims damages as a result of having to move from location B because of no water service when, in fact, there were other factors involved, to wit, no electrical service and, therefore, the trial court erred in sustaining the objection to the above question.
+Appellant’s other argued assignment of error is to the effect that appellee has no right, as a matter of law, to recover in that appellant water works can add to the bill for water service for location B the past due bill for water service at location A and if its water subscriber does not pay, it (the water works) may terminate water service at location B.
+We agree with appellant as to his evidentiary assignment of error and make certain observations as to his latter contentions.
+What is relevant evidence is a matter ordinarily within the discretion of the trial court and, unless such discretion is abused, it will not be considered error on appeal. Blount County v. Hollingsworth, 45 Ala.App. 401, 231 So.2d 324. However, evidence which is relevant to the issue is admissible and should be admitted by the trial court. 9 Ala.Dig., Evidence, ^=143.
+To this court, evidence as to the habitability of location B, whether caused by appellant’s action or not, is clearly relevant and the trial judge abused his discretion in not allowing appellant to attempt to show that appellee was without electricity as well as water. Appellee's cause of action is based on the inhabitability of location B as a result of action by the appellant, and appellant should be allowed to show that there may have been other reasons, outside of appellant’s action, which rendered location B inhabitable.
+Any matter of proof which tends materially to establish or disprove the existence of an injury for which the law will give compensation under the name of damages, or the amount of such damages, unless rendered incompetent by reason of some established rule of evidence, i. e., hearsay, is admissible. 22 Am.Jur.2d, Damages, § 304. To this court, the possibility that the lack of water was not the only reason appellee may have had to move is clearly relevant of the issue of damages to be charged against appellant. Damages which are clearly attributable to causes other than defendant’s act cannot be allowed. 25A C.J.S. Damages § 162(1). As the Court of Civil Appeals of Texas held in Great Atlantic & Pacific Tea Co. v. Athens Lodge No. 165, 207 S.W.2d 217, 226:
+“It is well settled that where it appears that only part of the damage suffered by the plaintiff was the result of the acts charged against the defendant, and a part thereof was caused by some other agency or person (an act by Truck Lines for which A. & P. was not responsible), a judgment against the defendant cannot be sustained unless the evidence is sufficient to show what part of the damage is attributable to the acts of the defendant.”
+To this court, the prohibition by the court of a line of questioning which would indicate another cause for moving in this instance constitutes reversible error.
+While the above is dispositive of the case and requires reversal, this court makes the following observations for use as may be appropriate.
+The appellate courts of Alabama have long recognized the right of a water company to discontinue its service in order to coerce out of unwilling or laggard debtors the payment of its just demands. See Sims v. Ala. Water Co., 205 Ala. 378, 87 So. 688; Birmingham Waterworks Co. v. Davis, 16 Ala.App. 333, 77 So. 927. This principle is generally the accepted view in the majority of jurisdictions. See annotation at 28 A.L.R. 472. This right, however, is not without some qualification, which appears to be that such action by the water works may not be arbitrary, unjust, or without legal right. Put another way, the service (supply of water) may not be discontinued arbitrarily, unjustly, inequitably, or without legal right. See 94 C.J.S. Waters § 305. And this question would be for the trier of facts. See Birmingham Waterworks Co. v. Davis, supra.
+As appellant concedes in brief, there appears to be no Alabama cases holding whether the water works can cut off the water from a consumer at one place to which it was supplied, under contract, for refusal of such consumer to pay a bill for water furnished him at another time and place under another contract. However, we can see no reason why such action could not be maintained and other jurisdictions so hold. See 28 A.L.R. 472, § e. the determination in such an action would still appear to be whether or not the water works acted arbitrarily, unjustly, inequitably, or without legal right. In the instance now before us it would appear that the learned trial judge found the water works did, in fact, act arbitrarily, unjustly, inequitably, or without legal right.
+The above observations by this court are in no way contrary to our supreme court’s decision in Coosa Valley Telephone Co. v. Martin, 272 Ala. 383, 133 So.2d 505, as that case recognizes and clarifies the general proposition earlier recognized, to wit, the right of the utility to terminate service upon nonpayment of that service. Coosa Valley Telephone Co. v. Martin, supra, clearly does not deal with the question presented herein.
+For the above stated reason, this case is due to be and is reversed and remanded.
+Reversed and remanded.
+WRIGHT, P. J., and BRADLEY, J., concur.
