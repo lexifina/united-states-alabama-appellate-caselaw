@@ -1,0 +1,52 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 494"
+decided: "1939-10-03"
+citations: ["29 Ala. App. 174", "194 So. 406"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHNSON v. PRUITT."]
+source_url: "https://static.case.law/ala-app/29/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1677635
+cites_cases: ["103 Ala. 545", "120 Ala. 59", "15 So. 863", "211 Ala. 358", "219 Ala. 263", "239 Ala. 44", "24 So. 1", "69 Ala. 390", "7 So. 234", "89 Ala. 590"]
+---
+
+# Johnson v. Pruitt
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+The suit as originally filed contained four counts, to which was filed on November 28, 1936, pleas of the general issue.
+The suit originally was filed against Walter'P. Johnson and Anderson Clayton and Company, a Corporation, bui on motion Anderson Clayton and Company was eliminated as a defendant, and the suit proceeded to judgment against Johnson alone.
+On the 15th day of February, 1937, counts 1, 2, 3, and 4 of the complaint were withdrawn, and an amendment to the complaint numbered “Count 5’’ was allowed. Said count being in the following words and figures, towit:
+Count Five: “The plaintiff claims of the defendant, jointly and severally, the sum of Five Hundred Dollars damages for wrongfully removing and disposing of four bales -of cotton grown in Calhoun County, Alabama, during the year 1936, upon which plaintiff had a lien by virtue of a mortgage executed by L. H. Sisson and B. J. Sisson on the' 7th day of May, 1936, for $350.66, payable to the plaintiff on October 15th, 1936, and which said mortgage was recorded in the office of the Probate Judge of Calhoun County, Alabama, on the 6th day of August, 1936. And plaintiff avers that said cotton was sold and removed by the defendants, or caused to be removed beyond the plaintiff’s reach on, to-wit, September 24th, 1936, by said defendants, by reason of which said unlawful acts of the defendants plaintiff was and is prevented from enforcing his said lien thereon under said mortgage.”
+The evidence for plaintiff tended to prove that plaintiff was the mortgagee of L. H. Sisson, and his brother, B. J. Sisson, as' was shown by a mortgage for $350.66 executed on the 7th day of May 1936, and due October 15, 1936, covering, among other things, .“Also the entire crops of cotton, corn, cotton seed, oats, wheat, hay, produce and all other crops that we raise or cause to be raised this year and in the years-on any lands in Calhoun County or in any other county in the State where we own or cultivate land of any kind or character.” This mortgage was duly recorded in the office of the Probate Judge of Calhoun County on August 4, 1936.
+This mortgage was introduced in evidence and the evidence tended to prove that the cotton in question upon which a lien is claimed was raised by the mortgagor and subject to the mortgage.
+The evidence tended further to prove that on September 24, 1936, the defendant bought from L. H. Sisson four bales of cotton weighing 2,047 pounds for which Sisson was paid by defendant $252.30. The defendant further testified that he had resold the cotton covered by the mortgage.
+The defendant advanced three defenses : One that the signature of L. H. Sisson to the mortgage, held by -plaintiff, was obtained by fraud. Under the evidence', this became a question for the jury, and under proper instruction from the court the jury decided against the contention of the defendant.
+Defense Two ; It was contended that the note secured by the mortgage hereinabove referred to had been paid. This, too, was a question for the jury under proper instructions of the court.
+Defense Three: The real insistence of the defense was that the mortgagor, Sis-son, was a tenant of Mrs. Myrtle Poe; and that Mrs. Poe, as the landlord holding a paramount lien for rent-and advances, had instructed the tenant to sell the crop raised on her place and to pay an indebtedness owing by the tenant to the First National Bank of Anniston. The plaintiff on his part contended, and offered evidence to. prove, that the indebtedness due to the First National Bank of Anniston was not a lien upon the crop of 1936; that Mrs. Poe was in no way obligated to pay said debt, and that her authority to her tenant to sell the crop when it was gathered to pay her rent and to pay other indebtedness owing by the tenant to other parties was a mere waiver of her landlord’s lien, which did not have the effect of interfering with the lien ere-. ated by the mortgage to plaintiff.
+The foregoing constitutes the contentions of the parties, and the evidence was in conflict upon each of the points involved.
+The general charge of the .court covered the entire range of the contentions of both parties instructing the jury as to the law regarding the rights of the plaintiff under his mortgage and the law of waiver of the landlord’s lien as it affected the defendant in this case.
+As we view the entire record, the question turns specifically upon the determination of whether or not the evidence on the trial of the case showed that the landlord’s lien of Mrs. Poe had been waived.
+The testimony for the plaintiff tended to prove that the tenant Sisson was given permission to sell the cotton raised during the year 1936, and that he was told to clear all indebtedness owed by him; no particular debt being specified. The testimony of plaintiff further tended to prove that the conversation between Mrs. Poe, the landlord, and Sisson, the tenant, about selling, the cotton took place when the tenant rented the place'in the “first part of the year”' and that other conversations with him about it were along in April, June and July, before the cotton was gathered; that no cotton was ever turned over to the landlord,, and that it was gathered and sold and one-quarter of the proceeds was made out in a separate check payable to the landlord and' the remaining three-quarters was used by tenant in paying a debt owed by him and.' in no way guaranteed by the landlord. It was shown, however, that after the payment of rent there was still due the landlord $316 for advances.
+Under the evidence the testimony for the-plaintiff tended to prove that there was no. delivery of the four bales of cotton to Mrs. Poe, the landlord, either actual or constructive ; that it was not set apart in such manner as to give to Mrs. Poe any rights other than a general lien which she had as. landlord. The authority given to Sisson, the tenant, by Mrs. Poe, the' landlord, was-to gather the crop, send her rent and to pay unspecified debts owing by Sisson.
+The plaintiff in this case had a lien, on the crop subject to that of the landlord,, and as was said in Belser v. Youngblood & Sons, 103 Ala. 545-548, 15 So. 863, 865: “ * * * it would sanction a dangerous, precedent, to allow the tenant to sell, at his discretion, a part of the crop on which the rent lien attached, before its delivery to the-landlord, and hold that the purchaser acquired a good title by such sale, as against the mortgagee who did not consent thereto.” Belser v. Youngblood & Sons, 103 Ala. 545, 15 So. 863; Keith & Son v. Ham, 89 Ala. 590, 7 So. 234; Bird v. Womack, 69 Ala. 390, 392; Higgins v. Whitney, 24 Wend.,N.Y., 379, 380; Gay & Bruce v. W. B. Smith & Sons, 211 Ala. 358, 100 So. 633, 634.
+In the latter case, above cited, it was said by Bouldin, Judge: “Mere consent of the landlord to a sale by the tenant, without more, is a mere waiver of the landlord’s lien. It is simply released, and the tenant proceeds in his own right to sell it.” Foxworth v. Brown Bros., 120 Ala. 59, 24 So. 1; Gay & Bruce v. W. B. Smith & Sons, 211 Ala. 358, 100 So. 633.
+Such a sale cannot affect the rights of the mortgagee, and if, as the testimony of plaintiff tends to prove, the conversations between Mrs. Poe and Sisson amounted to a release of her paramount lien as landlord, such release could not affect the rights of this plaintiff, unless the proceeds of the cotton had been paid to the landlord or paid upon a debt for which the landlord was liable. In such event there might be some sort of subrogation, as is indicated in the case of Keith & Son v. Ham, 89 Ala. 590, 7 So. 234.
+If the testimony of the plaintiff is to be believed, the defendant in this case has failed to connect himself in any manner with the lien of Mrs. Poe, the landlord; and hence in this case it can avail him nothing.
+The specific objections raised by the appellant are set out in 26 assignments of error, which we deem it unnecessary to deal with specifically, other than to say that, after reading this entire record and considering the oral charge of the court, we are of the opinion that the appellant had the advantage of a full, fair statement of the law, and that each principle of the law set- out in written charges, requested by the appellant, had been fairly and substantial-, ly given by the court in its oral charge.
+We are, further, of the opinion that none of the substantial rights of the appellant have been affected-by the rulings of the court, and if there was technical error it was without injury.
+We call attention to the fact that charges “A”, “B”, and “C” marked “given” by the trial judge, appear from the record to have been requested by the appellant; and hence, he cannot complain of them.
+Defendant’s written charge 7 was covered specifically by the court’s oral charge.
+Defendant’s written charge 9 was abstract, in that count 2 of the complaint was withdrawn.
+The same is true as to defendant’s refused charge 10. Count One of the complaint having been withdrawn.
+The same is also true as to refused charge 12 as applicable to Count Three of the complaint.
+Appellant could hardly insist upon assignment of error No. 23.
+At the conclusion of the oral charge, in the presence of the jury and before the jury retired, counsel for defendant duly requested that the court read to the jury from the opinion of the Supreme Court in the case of Bellingrath v. Samuel, 219 Ala. 263, 122 So. 27. The court declined to read said opinion to the jury, to which action of the court the defendant duly reserved an exception.
+After considering.this entire record, we are of the opinion that there is no prejudicial error, and the judgment is therefore affirmed.
+Affirmed.
+PER CURIAM.
+Reversed and remanded on authority of Johnson v. Pruitt, 239 Ala. 44, 194 So. 409.
