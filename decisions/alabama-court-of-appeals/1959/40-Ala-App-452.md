@@ -1,0 +1,32 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 638"
+decided: "1959-10-13"
+citations: ["40 Ala. App. 452", "115 So. 2d 42"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES FIDELITY AND GUARANTY COMPANY v. INTERNATIONAL BROTHERHOOD OF TEAMSTERS, CHAUFFEURS, WAREHOUSEMEN & HELPERS OF AMERICA, LOCAL NO. 612."]
+source_url: "https://static.case.law/ala-app/40/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1703724
+cites_cases: ["134 Ala. 302", "16 Ala.App. 575", "170 Ala. 651", "201 Ala. 447", "257 Ala. 594", "260 Ala. 419", "27 Ala.App. 1", "32 So. 678", "6 So. 610", "60 So.2d 353", "85 Ala. 438"]
+---
+
+# United States Fidelity & Guaranty Co. v. International Brotherhood of Teamsters, Local No. 612
+
+## Majority (PRICE, Judge.)
+
+PRICE, Judge.
+Plaintiff sued to recover damages for the breach of the condition of an injunction bond, made by the defendant, conditioned as required by statute, “to pay all damages and costs which any person may sustain by the suing out of such injunction, if the same is dissolved.” The complaint alleges that the injunction was dissolved.
+The defendant pleaded the general issue, in short by consent, etc. The cause was tried by the court, without the intervention of a jury. Judgment for $1,000 was rendered in favor of plaintiff. Defendant appeals.
+The law is well settled in this state that “a temporary injunction is granted pending a hearing on the merits, and only upon complainant’s entering into bond with surety conditioned and payable as required by law. The statute prescribes the condition, and that condition is to ‘pay all damages and costs which any person may sustain by the suing out of such injunction, if the same is dissolved.’ Title 7, § 1043, Code of 1940. The writ is obtained upon an ex parte hearing, and the bond is required as a protection against the abuse of this extraordinary process and to prevent oppression by its use. The bond is the contract of the parties executing it, the statute prescribes its terms and conditions, and the right of action arises immediately upon its breach. If a bond is conditioned to pay such damages as may be sustained if the injunction is dissolved, no right of action accrues until the dissolution of the injunction. Jesse French Piano & Organ Co. v. Porter, 134 Ala. 302, 32 So. 678. See also Tyson v. Norwood, 170 Ala. 651, 54 So. 176.” Miller v. Wood, 257 Ala. 594, 60 So.2d 353, 354.
+In an action on an injunction bond the burden is on the plaintiff to show “the injunction was dissolved, and, of consequence, a breach of the bond.” May v. Walter, 85 Ala. 438, 6 So. 610, 611. See also 43 C.J.S. Injunctions § 300, pp. 1085-1087.
+The only evidence introduced was as to the work done by counsel employed by plaintiffs in and about obtaining a dissolution of the injunction, the amount paid for such services, and the reasonableness of the fees. There was no evidence tending to show the actual dissolution of the injunction by decree of the court or otherwise. The plaintiffs having failed to show the dissolution of the injunction and breach of the bond, the court erred in rendering judgment in favor of plaintiffs. The judgment must be reversed and the cause remanded.
+Appellees have filed a suggestion of diminution of the record and a motion for certiorari to bring up a certified copy of the decree of the chancery court dissolving the injunction. Attached to said petition is an affidavit of the trial judge. Affiant states that he heard the evidence in this cause on September 9, 1957, and further deposes as follows:
+“Your affiant knew during the trial of the said case that a decree had been issued in the Chancery Court, Tenth Judicial Circuit of Alabama, dismissing a bill of complaint filed by Walter M. Chambers, d/b/a W. M. Chambers Truck Line, vs. International 'Brotherhood of Teamsters, Chauffers, Ware-housemen & Helpers of America, Local 612, and dissolving the temporary injunction which had been previously issued in that cause. Your Affiant does not recall whether he read the decree dissolving the injunction during the course of the trial or whether that decree was read to him, or whether the attorneys stated such fact to him, but, as stated before, your Affiant knew that such a decree had been entered and that the decree dissolving the injunction and that the dissolution of that injunction was the basis upon which the plaintiff in the case before your Affiant claimed damages on the injunction bond. The Court Reporter, Mr. Ralph Baker, on June 13, 1958, called to your Affiant’s attention that in the closing argument of Mr. Douglas Corretti, one of the attorneys for the plaintiff, the entire decree of the late Judge Harold M. Cook was read to your Affiant, which decree, as stated before, dissolved the temporary injunction in the Chancery Court case.”
+Nowhere in the record does it appear that the record and proceedings in the injunction suit, with the decree of the court dissolving the injunction, were ever introduced in evidence.
+On appeal we must look to the record for the evidence on the trial, and cannot consider evidence aliunde or matters dehors the record. Lindsey v. Barton, 260 Ala. 419, 70 So.2d 633; Byrd v. Aetna Life Ins. Co., 27 Ala.App. 1, 165 So. 109.
+The general rule is that: “The record on appeal cannot be varied, added to, or explained by, a statement or certificate of the judge before whom the case was tried, the stenographer who took the evidence on the trial, or the clerk who made the record.” 4A C.J.S. Appeal and Error § 779, p. 648. The holding of our courts on this question seem to be in accordance with the general rule, that “ * * * the appellate court will not ordinarily consider matters contained in such a statement or certificate which is not a part of the record.” 4A C. J.S. Appeal and Error § 1213, p. 1347. Montgomery Bank & Trust Company v. State, 201 Ala. 447, 78 So. 825; Wright v. McCullough, 16 Ala.App. 575, 80 So. 149.
+Since, as an appellate court, our review is limited to the record of the case as made in the trial court, evidence not filed in the trial court or made a part of the record in the trial court can not be considered. It would serve no useful purpose to issue certiorari to bring up the decree of the chancery court. The motion for certiorari is overruled.
+Reversed and remanded.
