@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "1 Div. 506"
+decided: "1945-04-10"
+citations: ["32 Ala. App. 695", "21 So. 2d 857"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Archie TATE v. STATE."]
+source_url: "https://static.case.law/ala-app/32/cases/0695-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685697
+---
+
+# Tate v. State
+
+## Majority (CARR, Judge.)
+
+CARR, Judge.
+Affirmed.
