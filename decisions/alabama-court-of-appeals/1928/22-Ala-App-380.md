@@ -1,0 +1,34 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1928-03-20"
+citations: ["22 Ala. App. 380", "115 So. 853", "7 Div. 421", "22 Ala. App. 383", "115 So. 855", "8 Div. 655"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SCOTT v. STATE."]
+source_url: "https://static.case.law/ala-app/22/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1653761
+cites_cases: ["106 So. 682", "115 Ala. 42", "140 Ala. 66", "143 Ala. 78", "21 Ala. App. 201", "22 So. 551", "37 So. 233", "39 So. 370", "68 Ala. 539", "68 Ala. 96"]
+---
+
+# Scott v. State
+
+## Majority (BRICKBN, P. J.)
+
+BRICKBN, P. J.
+Before a conviction can be had and sustained for the offense of burglary, there must be evidence (1) to establish the corpus delicti (that is to say, in the instant case, in order to establish the corpus delicti of the crime charged, the evidence must show, under the required measure of proof, that some one with intent to steal, l>rohe into and entered the dwelling house of Mrs. Homer Lanford); (2) the evidence must show beyond a reasonable doubt and to a moral certainty that the accused was the identical person who committed the act complained of.
+As to the first proposition (1), but one witness was examined; the only witness who testified relative to the breaking into and entering the house in question was Jack Lanford, son of the alleged injured party. This witness testified that “he was asleep in bed when some one was discovered in the house; that there were two doors leading into the house from the outside, and one of those doors was locked, and the other was open when I retired.” , And further on, he testified, “There were doors and windows in the house open at the time I went to bed.” And in several other instances he testified that he did not examine the doors and windows to the house before he retired that night to see if they were closed or open, and he said, “For aught I know they might have been open when I went to bed.” There was no evidence of any violence to the doors or windows by breaking locks or otherwise. In this case it was the theory of the state that the would-be burglar entered by merely opening a closed door which was not locked. It is needless to state that a theory only will not suffice, and that the unlawful act complained of must be established by legal evidence. The insistence of -appellant, that there was no evidence to establish the material question of an unlawful breaking and entering into as the law contemplates, and that here, under the evidence in this case, this question rested upon conjecture only, seems to be borne out and sustained by the undisputed evidence. This will not suffice. A breaking and entering into, for the felonious purpose charged, must be shown by the evidence, and resort to suspicion, conjecture, or surmise only may not be had or permitted to establish this fact. Here, by the state’s evidence, it was disclosed that doors and windows of the house in question were left opened. If the marauder entered the house (without reference to his intent), through the medium of an open door, or open window, the offense is not burglary, and, in the absence of satisfying evidence that the entry complained of was made by ¿ “breaking into,” the charge must fall. In this event the defendant is not called upon to proceed further than his plea of not guilty, which plea casts upon the prosecution the burden of establishing by the evidence, under the required rules, every material allegation, or averment in the indictment. In Carter v. State, 68 Ala. 96, the court said:
+“If the entrance be effected through an opening previously there, without forcible enlargement of it, this cannot be a burglarious entrance, unless it is effected through an open chimney. This rules applies to a door or window left open, or any other opening in the house, through which the ingress is effected.”
+In Green v. State, 68 Ala. 539, the court said:
+“If the doors of a mansion house, or of a storehouse, are suffered to stand open, the man who enters without permission of the owner may be a trespasser, and become a thief, but he is not a burglar. So, if a window is left open and unfastened, an entry through it without force or violence, is not burglarious.”
+Under the authority of Mancil v. State, 21 Ala. App. 201, 106 So. 682, the court erred in permitting state witness Dill to testify as to his conclusion relative to knee prints' on the ground. In the Mancil Case this court said:
+“Under the well-settled rules of evidence, the testimony of these witnesses should have been limited to what they actually saw in the nature of signs, tracks, etc., and from such evidence it was for the jury, and not for the witness, to draw conclusions.”
+Charge 1, refused to defendant, is a literal copy of charge 16 in the case of Sanford v. State, 143 Ala. 78, 39 So. 370. . This charge was given full approval in that case; also in the cases of Bowen v. State, 140 Ala. 66, 37 So. 233, and Pickens v. State, 115 Ala. 42, 50, 22 So. 551. The charge should have been given.
+Refused charge 3 was properly refused in this case as being abstract.
+Prom what has been hereinabove stated, charge 8, refuáed to defendant, should have been given.
+The defendant availed himself of his constitutional right, and did not testify as a witness in his own behalf. The law provides on the trial of all criminal prosecutions the person on trial shall, at his own request, but not otherwise, be a competent witness; and his failure to make such request shall not create any presumption-against him, nor be the subject of comment by counsel. Exception was reserved, in this connection, to the oral charge wherein the court stated:
+“The defendant has not testified in his own behalf; he doesn’t have to do that; there is no way to force him to testify in his own behalf.”
+We cannot impute to the court, in these utterances, an attempt to be unfair to defendant, or to lay stress upon the fact of his not having testified in his own behalf. When this excerpt is taken in connection with all that the court said, it is clearly evident to us that the purpose of the court was to instruct the jury that his failure to testify should not be taken as an inference against him and that in considering the case that fact should not be regarded by the jury adversely. In view, however, of the strict inhibition against commenting upon the failure of a defendant to testify, the’ better practice is to go no further than to state “the fact that a defendant does not testify cannot be used or considered adversely to him or in his favor.” We’ do not sustain the exception here reserved.
+Por the errors indicated, the judgment of conviction is reversed, and the cause remanded.
+Reversed and remanded.
