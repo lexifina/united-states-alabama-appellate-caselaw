@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 186"
+decided: "1936-01-21"
+citations: ["27 Ala. App. 606", "165 So. 912"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gaston ADAMS v. STATE."]
+source_url: "https://static.case.law/ala-app/27/cases/0606-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1672140
+---
+
+# Adams v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+Affirmed.
