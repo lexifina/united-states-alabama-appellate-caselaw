@@ -1,0 +1,33 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 924"
+decided: "1922-06-13"
+citations: ["18 Ala. App. 585", "93 So. 279"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANDERSON v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645042
+cites_cases: ["13 Ala.' App. 488", "172 Ala. 47", "172 Ala. 470", "203 Ala. 633", "55 South. 242", "55 South. 423", "8 South. 83", "89 Ala. 28"]
+---
+
+# Anderson v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+This cause was originally submitted on briefs in this court on February 2, 1922. For reasons then apparent on the record the app'eal was dismissed (with opinion) by this court on April 11, 1922. However, it having been shown by mere clerical misprisions serious injury to the substantial rights of this defendant had resulted, this court on April 28, 1922, withdrew the opinion, set aside the order of dismissal of the appeal, restored the case to the docket, and granted a certiorari to complete the record. Return to certiorari was made,,and the qause resubmitted in this court on May 18, 1922.
+The defendant was indicted on a charge of misdemeanor. Over his objection he was put to trial on the indictment in the Morgan county court at Decatur, notwithstanding it was agreed that the offense, if committed at all, was committed in the territory embraced in Falkville precinct (5) in Morgan county. The contention of the defendant being that the Decatur division or branch of the Morgan county court was without jurisdiction to try the case, and that the Hartsells division or branch of said court had sole jurisdiction thereof. This question was properly raised by defendant’s plea in abatement, and on this appeal is the principal question presented for decision; the concrete question here being, Did the defendant have the right to require his trial to be held at the Hartsells branch or division of the Morgan county court? This question necessarily involves a construe-’ tion of the local act of the Legislature approved September 24,1919. Local Acts 1919, p. 194. “To establish a county court for Morgan county.” The construction here necessary relates to section 34 to section 40, inclusive. Section 35 of said act is as follows:
+“Said branch [Hartsells] court shall have jurisdiction of all criminal cases committed witMn the territory hereinafter named, and all civil cases arising therein, and where the defendant resides, therein, to wit, The territory embraced in the following precincts: Dan-ville (3), Gibson (4), Hartsells (10), Falkville • (5), Lacón (21), Eva (17), Oak Ridge (22), Florette (14), Lawrence Cove (6), Gum Pond (24), Shady Grove (16), voting box-number 2, Somerville (9), Center Grove (7), Wolfs (15). That said branch court sh'all be open at all times for the transaction of business therein. The same provisions for the fixing of the terms of the court by the Judge at Decatur shall also apply to ' the branch court at Hartsells. This applies to ail cases civil, criminal, jury and nonjury.”
+As before stated, it is admitted that the offense with which the defendant was charged and for which he was being tried was committed, if at all, in Falkville (No. 5) precinct, in Morgan county, Ala., Which is a part of the territory embraced in the Hartsells division of said court, as defined and described ip said section 35 of said act; and it is further admitted that all things had been done necessary for the holding of said court at Hartsells, as provided for in said act, and for the establishment of said branch of said court, as provided for in said act, and that terms of said court had been held in Hart-sells prior to this time.
+We are of the opinion that the act in question, including sections 34 to 40, inclusive, is a valid enactment of the Legislature. Huntsville Grocery Co. v. Johnson, 13 Ala. App. 488, 69 South. 967, Mer. Nat. Bank v. McNaron, 172 Ala. 470, 55 South. 242. And it is evident that said sections 34 to 40, inclusive, were enacted for the convenience of the people in the territory described in section 35 thereof and designated as the Hartsells branch of said court. The Morgan county court at Decatur provided for in said act is not affected except as to venue. By the terms Of the statute creating this court it is merely required to meet at two different places in the county, and, as before stated, this provision was doubtless enacted for the convenience of the people affected.
+To sustain the lower court in its rulings on the plea and demurrer would result, in our opinion, in rendering meaningless section .35 of said act, and would emasculate the express terms of the statute so far as it relates to the Hartsells branch of the Morgan county court. We are of the opinion that the defendant’s plea should have been sustained, and that the court erred in its ruling in this connection.
+As to the merits of the case we are of the opinion’ that the affirmative charge requested by defendant was properly refused. There was some evidence to sustain the accusation, and the rule is that the general charge should never be given, when there is any evidence, however weak and inconclusive it may he, tending to make a case against the party who asks it. Pellum v. State, 89 Ala. 28, 8 South. 83.
+There was no error in refusing the one other special charge requested in writing, but not numbered. The charge singles out and gives undue prominence to a certain portion of the testimony. Moreover, it was a question for the jury, after a consideration of all the evidence, as to whether or not the defendant had the prohibited liquors in his possession as charged in the indictment.
+We are not prepared to say that from the unusual conduct of the arresting officer toward the defendant attempted to be shown upon the trial of this case, that bias or prejudice might have been inferred; but it is elementary that on cross-examination of an adverse witness this is a legitimate inquiry, and any fact may be elicited which tends to show bias or partiality, in order that the jury may weigh and consider the testimony of such witness in the light of such bias, interest, partiality, or prejudice.
+The judgment of the Morgan county court appealed from is reversed, and the cause remanded.
+Reversed and remanded.
+tg^oFor other cases see same topic and KEY-NUMBER, in all Key-Numbered Digests and Indexes
+<g^>Por other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
