@@ -1,0 +1,43 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 394"
+decided: "1924-06-17"
+citations: ["20 Ala. App. 76", "101 So. 86"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOLLADAY v. STATE."]
+source_url: "https://static.case.law/ala-app/20/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1648208
+cites_cases: ["13 South. 65", "16 Ala. App. 418", "19 Ala. App. 113", "98 Ala. 159"]
+---
+
+# Holladay v. State
+
+## Majority (BRIOKEN, P. J.)
+
+BRIOKEN, P. J.
+From a judgment of conviction for the offense of assault with intent to murder, carrying therewith an indeterminate sentence of imprisonment in the penitentiary of from four to seven years; the defendant appealed.
+There were numerous exceptions to the rulings of the court upon the admission of testimony. In the main these exceptions were reserved upon the theory of two separate and distinct transactions or difficulties between defendant and Osborne, the alleged injured party. The position of appellant in this connection is not sustained by the evidence, for from a careful reading thereof it appears conclusively that the difficulty complained of was one continuous transaction, there appearing no cessation of hostilities from the time the first shot was fired until the defendant had emptied his pistol after pursuing Osborne, the alleged injured party, for some considerable distance in the town of Hamilton, on the Sunday afternoon of the difficulty. The matters inquired about therefore related to the main transaction and were of the res gestae of the offense, and the court properly so held in each of these rulings. The rulings of the court upon the testimony as a whole are so clearly free from any prejudicial error to defendant we will not discuss them in de-, tail.
+It does not appear that the defendant requested the court to give any special written charges. The exceptions to the oral charge are without merit as the court in a fair and impartial manner instructed the jury fully as to the several phases of the law governing, or applicable to, this case. The oral charge of the court must be taken as a whole, and in this case, when the oral charge is so taken and considered, no error of a prejudicial nature appears to injuriously affect the substantial rights of the defendant.
+The motion for new trial was based upon several grounds, all of which, except grounds 3 and 4, appear without merit. But as to grounds 3 and 4 a serious question is presented. By the motion and the evidence introduced thereon, it is shown that this ■case was given to the jury at about 5:30 p. m. and that they had been out considering same until about 11 o’clock that night. Ground 3 of said motion sets up that at about 11 o’clock p. m. the jury, while deliberating on this case, were informed by the sheriff that he had no place for them to sleep, and the jury knew they would have to sit up all night unless they rendered a verdict, and it is insisted that this fact probably influenced the jury in returning the verdict in a short time after the alleged ■statement had been made.
+Under ground 4 of the motion for new trial it is alleged that after the jury had deliberated in said cause from about 5:30 p. m., until about 11:30 p. m. the same day, and realizing that they would have to remain in the jury room or court room all night, without a place to sleep, unless a verdict was rendered, the court told the jury in substance "that it was their duty to reach a verdict in said cause, and that they ought to do so, and defendant alleged that the foregoing facts did, or probably did, influence the said verdict of the jury.
+In support of ground 3 of the motion, hereinabove set out, defendant offered the affidavit of Will Holladay, sworn to before the clerk of said court. The affidavit is as follows :
+'“The State of Alabama, Marion County.
+“Before me the undersigned authority in and •for said county and state, personally appeared Will Holladay, who being duly sworn deposes and says, that on the night of Oct. 16, 1923, about 11 o’clock he was near the door of the jury room where the jury in his case was deliberating, and saw Mr. Luther Loyd, sheriff of said county, come from said room, and as he was coming out, affiant heard him say to the jury that they would probably have to stay in the room all night; and when said Loyd sat down in the Court Room, he said to parties present that he had made that statement to the jury to make them get together. About 11:30 o’clock, the same night, said jury asked further instructions from the Court, which the ■Court gave, after which the Court stated to the jury something about their agreeing, or its being their duty to agree, upon a verdict. About fifteen minutes thereafter the jury rendered •their verdict in said cause. Will Holladay.
+“Sworn to and subscribed before me, this 16th day of Oct., 1923.
+“Roy Sanderson, Clerk Circuit Court.”
+To rebut this affidavit and to refute the facts set out in ground 3 of the motion the sheriff, Luther Loyd, was offered as a witness by the state, and he testified on direct examination:
+“I did not make any statement to that jury or to any one of that jury at any time that they had to agree before I would let them out of the jury room. I did not say anything in substance to that effect in their presence or in the presence of any one else outside of the jury room.”
+But in response to questions propounded by the court, this witness stated:
+“I did make some statement to the jury about providing accommodations for them in the night. My recollection is I asked them — as I came out of the room some of them asked me how long would they be kept together. I think I remarked 48 hours the judge would keep them together. I remember some one asked me the question how long would they keep them together and I remarked the judge would keep them together 48 hours.”
+To sustain ground 4 of the motion for new trial defendant relies upon the following remarks made by the court to the jury, to which an exception was reserved at the time the remarks were made:
+“Gentlemen, I hope that after further deliberation you may be able to agree upon a verdict, and the court would give you this cautionary instruction that it is the duty of the jury, if they can, to come to a common conclusion with reference to the1 case — to agree upon a verdict. That’s what we try cases for, to try to dispose of them and to reach a common conclusion, if they can do so, consistent with the consciences of the individual members of the jury, and the court would suggest to you in deliberating, you each recognize that you are not infallible. AVe are all apt to make mistakes, and in deliberating you must yourself recognize that fact; none of us is infallible; hear the opinion of the other fellow; do it conscientiously with a view to reaching a common conclusion, if you can.”
+Without imputing improper motive upon the part of the sheriff and the trial judge in this connection, we are forced to the conclusion that the facts above stated show a clear infraction of the highly important rule that the deliberations of a jury are not to be interfered with while they are considering the law and the evidence which must alone control their verdict. ■ The test under this rule is not that the-improper conduct complained of did actually influence the jury in arriving at a verdict, but, might it have done so. Driver v. Pate, 16 Ala. App. 418, 78 South. 412; Kansas City, M. & B. R. R. Co. v. Phillips, 98 Ala. 159, 175, 13 South. 65, 70. In the latter case, the Supreme Court said:
+' “An inquiry, how long the court would compel the jury to be kept together, unless they agreed upon a verdict, had a direct bearing upon the discharge of their duties as jurors,” and “the misconduct in this case consisted in holding any interview at all on the subject.”
+See, also, Gidley v. State, 19 Ala. App. 113, 95 South. 330.
+Applying the above-stated test here it is evident that the conduct complained of might have influenced the jury in their verdict, though manifestly not intended so to do. The jury had been deliberating on the case for several hours without having been able to reach a verdict; but, after the occurrences complained of had taken place, a verdict, was returned in a few minutes.
+We' are of the ■ opinion that defendant’s motion for new trial should have been granted and that the court committed reversible error in overruling same.
+Reversed and remanded.
+®=For other eases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
