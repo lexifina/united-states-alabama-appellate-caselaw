@@ -1,0 +1,24 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1911-05-09"
+citations: ["1 Ala. App. 553", "55 So. 442"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Engelbert v. Taylor, et al."]
+source_url: "https://static.case.law/ala-app/1/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1611688
+cites_cases: ["102 Ala. 468", "103 Ala. 563", "121 Ala. 505", "15 South. 846", "84 Ala. 502", "9 South. 738", "92 Ala. 630"]
+---
+
+# Engelbert v. Taylor
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+This is a suit on one of several notes executed by the defendants to the plaintiff, all bearing the same date, but falling due at different times. The defendants pleaded the general issue, want and failure of consideration, and payment. The note sued on having been put in evidence, and the pleas of the general issue and want and failure of consideration not being supported by the evidence, the trial court, at the request of the plaintiff, gave the affirmative charges in his favor as to those pleas, but refused to give such charge requested by him as to the plea of payment, and the jury rendered a verdict in favor of the defendants The plaintiff moved the court to grant a new trial, on the grounds, among others, that the evidence was insufficient to support the verdict, and that there was no evidence to support the plea of payment. The plaintiff appeals, and assigns as error the action of the trial court in overruling his motion for a new trial.
+'The only evidence offered to support the plea of payment was brought out in the course of the examination as a witness of Addie Taylor, one of the defendants. She admitted the execution of the note sued on, and of the other notes which were made at the same time. She testified that the plaintiff had told her that she had paid all she owed him, and she thereupon offered certain written receipts, neither of which contained an acknowledgment of payment on the note in suit, and she closed her, direct examination with the statement that she had paid to plaintiff all she owed him. On the cross-examination of this witness, she was shown the mortgage executed by herself and the other defendants to secure the several notes above referrd to, and was also shown one of those notes which was payable before the one sued on, and upon which were indorsed payments corresponding in amounts and dates with the receipts which had been offered in evidence; and the witness testified that those credits and receipts were for the identical sums paid, that she had paid the plaintiff nothing more than was shown by those receipts and credits on the note exhibited to her, that she had paid nothing on the note sued on, “but that she did not owe the plaintiff anything.” The plaintiff, as a witness in his own behalf, testified that he had received no payment whatever on the note in suit, and that he had never told the defendant Addie Taylor that she had paid him all she owed him.
+There seems to be no escape from the conclusion that the evidence above summarized furnished no support for the plea of payment, the burden to prove which was upon the defendants. From the facts in evidence touching the question of payment, the only possible legitimate inference to be drawn was that there had been no payment on the note in suit. The fact that no such payment had been made being clearly disclosed by the uncontradicted evidence, the mere assertions by one of the defendants that she had paid plaintiff all she owed him and that the plaintiff had told her that she had paid, all she owed him could not have contituted a legitimate obstacle in the way of reaching a conclusion that the plea of payment had not been sustained. In the light of the evidence showing plainly what the facts were, such assertions could not have expressed anything more than mere surmises or suppositions, wholly unsupported fact, and. not reconcilable with the facts as disclosed by undisputed evidence. Such a surmise or supposition, so mistakenly entertained by a party or a witness, properly could have no more bearing upon the finding of a jury than a like surmise or supposition indulged in by the jury itself in the teeth of the evidence submitted.
+If the correctness of the above-indicated conclusion could be regarded as questionable, yet the state of the evidence was such as to warrant the further conclusion that, allowing all reasonable presumptions in favor of the verdict, the preponderance of the evidence against it was so decided as to convince the court that it was wrong and unjust.—Cobb v. Malone, 92 Ala. 630, 9 South. 738; Shepperd v. Dowling, 103 Ala. 563, 15 South. 846. The motion for a new trial should have been granted.
+Reversed and remanded.
