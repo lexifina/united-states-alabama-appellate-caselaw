@@ -1,0 +1,28 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 138"
+decided: "1941-06-30"
+citations: ["30 Ala. App. 229", "3 So. 2d 420"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RODEN & SON v. STATE."]
+source_url: "https://static.case.law/ala-app/30/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1680341
+cites_cases: ["15 Ala.App. 255", "150 So. 491", "202 Ala. 463", "216 Ala. 193", "219 Ala. 27", "226 Ala. 226", "227 Ala. 400", "231 Ala. 680", "303 U.S. 391"]
+---
+
+# Roden v. State
+
+## Majority (SIMPSON, Judge.)
+
+SIMPSON, Judge.
+Appellee sued appellants below for recovery of the privilege license due under Schedule 33, Section '348, Article XIII, Chapter 1, of the State Revenue Act— General Acts, Regular Session 1935, p. 451, Code 1940, Tit. 51, § 485. The schedule stipulates: “Schedule 33. Each wholesale dealer in cigars, cheroots, stogies, cigarettes, smoking tobacco, chewing tobacco, snuff or any substitute therefor, either or all, shall pay one privilege to the State of One Hundred Dollars ($100.00), and Five Dollars ($5.00) to each county in which such wholesale dealer does business. The phrase ‘wholesale dealer’ as used in this Schedule shall include persons, firms, corporations, clubs, or associations who shall sell and/or store, or offer to sell any one or more of the articles enumerated herein to retail dealers for the purpose of resale only. The privilege license herein levied shall be in addition to the sales tax as provided in Schedule 159.” (Our italics.)
+Trial without a jury resulted in judgment against the appellants, hence the appeal.
+We interpret the brief and argument supporting this appeal as mainly insisting that the evidence was not sufficient to justify rendition of the judgment below. This court entertains a contrary view.
+The evidence is without substantial controversy that appellants sold or offered for sale at wholesale to retail dealers (who sold at retail), some or all of the tobacco products listed in the schedule, without having procured the license required in the schedule. The tendencies of the evidence and the reasonable inferences thereof support the conclusion of the trial judge that appellants’ firm was a “wholesale dealer” within the meaning of the schedule, and this irrespective of whether certain of its customers purchased some of the articles for individual consumption. The proven facts fully support the right of recovery under the schedule. The italicized phrase therein “for the purpose of resale only” evinces no legislative intent to relieve such wholesale dealer from liability for the license because, perhap?, as an incident to his business he might sell certain of the articles listed in the schedule to customers who might use some of them individually. Such a hypercritical construction, though ingenious, is unwarranted. If appellants sold the articles at wholesale to dealers who retailed them to the public (as was here proved), the license is due, notwithstanding the retail dealer might have consumed some of the articles personally, and despite the fact that others might have bought from the wholesale! for individual consumption. Liability under the statute attaches when the wholesaler shall (quoting the statute) “sell and/or * * * offer to sell” the enumerated articles to retailers who purpose to and do resell them to their customers.
+Appellants insist that the special findings of fact by the court (duly requested) are lacking in form and substance. Under the rule now prevailing, the question seems unimportant, since previous holdings have pointed out that a special finding serves little or no useful purpose, the duty now devolving upon the appellate court to review the trial court on the facts, notwithstanding a special finding. Green v. Marlin, 219 Ala. 27, 121 So. 19; Shepherd v. Scott’s Chapel, 216 Ala. 193, 112 So. 905. And where, as here, the undisputed evidence discloses the plaintiff’s right to recover, such error — if it be — was harmless. Edwards v. Louisville & N. R. Co., 202 Ala. 463, 80 So. 847.
+The appellants had been previously tried and acquitted upon the criminal charge of violating the above schedule of the license act, for failing to procure the proper wholesale dealer’s license- In the present case, a plea of res adjudicata was .interposed to the complaint asserting this fact as a defense to the present action. Appropriate demurrers to this plea were properly sustained. While the assignment of error in this regard is not sufficiently argued to invite a review, — Supreme Court Rule 10, Code 1940, T.it. 7, Appendix; 2 Alabama Digest, Appeal & Error, 1079; Powell v. Pate, ante, p. 10, 1 So.2d pages 36, 38, — the question is easily disposed of adversely to the contention of the appellants by application of the general principle (subject to recognized exceptions not here applicable) that a judgment in a civil case is not conclusive as res judicata in a criminal case, or vice versa, there being no mutuality of parties and a different degree of proof,' respectively, being required. Jay v. State, 15 Ala.App. 255, 73 So. 137; Fidelity-Phenix Fire Ins. Co. v. Murphy, 226 Ala. 226, 146 So. 387; Sovereign Camp, W. O. W. v. Gunn, 227 Ala. 400, 150 So. 491; Fidelity-Phenix, etc., Co. v. Murphy, 231 Ala. 680, 166 So. 604; Helvering, Com’r of Int. Rev. v. Mitchell, 303 U.S. 391, 58 S.Ct. 630, 82 L.Ed. 917.
+We ascertain no error substantially argued as will authorize a reversal of the judgment. Affirmance thereof is accordingly due. So ordered.
+Affirmed.
