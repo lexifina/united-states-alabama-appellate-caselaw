@@ -1,0 +1,38 @@
+---
+court: "Alabama Court of Appeals"
+docket: "2 Div. 357"
+decided: "1926-05-11"
+citations: ["21 Ala. App. 375", "108 So. 639"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARDS v. STATE."]
+source_url: "https://static.case.law/ala-app/21/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651084
+cites_cases: ["102 So. 58", "102 So. 61", "134 Ala. 74", "140 Ala. 103", "141 Ala. 45", "15 Ala. App. 267", "153 Ala. 25", "161 Ala. 114", "161 Ala. 461", "17 Ala. 587", "172 Ala. 374", "183 Ala. 43", "19 Ala. App. 340", "19 Ala. App. 510", "20 Ala. App. 188", "203 Ala. 162", "212 Ala. 187", "32 So. 654", "37 So. 330", "37 So. 352", "6 So. 755", "8 Ala. App. 56", "8 Ala. App. 7", "88 Ala. 11", "98 So. 483"]
+---
+
+# Edwards v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The appellate courts of this state have in many instances questioned the propriety of the state requesting special written charges in the trial of criminal cases, and have doubted the wisdom of the giving of such charges by the trial courts. This case presents the contemplated status inferred by the appellate court’s position in this connection, for no question of import is involved upon this appeal except the giving of two special written charges requested by the state. It is practically conceded by counsel representing appellant that the court’s rulings otherwise were without error.
+This appellant was charged by indictment, and convicted, of the offense of assault with intent to murder, and the court sentenced him to serve an indeterminate term of imprisonment of not less than 15 years or more than 20 years in the penitentiary.
+As stated, two special charges in writing requested by the state were given, and this action of the court is the basis upon which this appeal is rested.
+Charge 1, as taken from the record, is as follows:
+“If you are satisfied beyond a reasonable doubt that, at the time the defendant fired any shot, on January 15, 1925, at Heyward Curb, he was not in imminent danger of death or great bodily harm from Heyward Curb, or did not honestly and reasonably believe himself to be in such danger, or could have retreated without increasing his danger, you cannot acquit him on the ground of self-defense.”
+This charge is not correctly transcribed in brief of counsel.
+Charge 2, given at the request of the state, is as follows:
+“If you believe beyond a reasonable doubt that the defendant fought willingly, you cannot acquit him on the ground of self-defense.”
+Charge 1 states correct propositions of law so far as it goes. This charge, however, pretermits the right of defendant to stand his ground and to use such force as was reasonably necessary to repel the assault, even though his only mode of escape was reasonably apparent to a prudent man that by so doing be would thereby increase his peril. This, however, was cured by the court in its oral charge uxion the question of retreat, wherein the court said:
+“The law says that a man who is entirely free from fault in bringing on the difficulty may, if in the second place he is in eminent danger of death or grievous bodily harm, real or apparent —that is, if a reasonably prudent man situated as he was would have honestly believed himself to be in danger of death or grievous bodily harm— then he would be considered as being in eminent danger of death or grievous bodily harm, whether really so or not; it means either real danger, or that a reasonably prudent man so situated would have honestly believed that he was in eminent danger of death or grievous bodily harm, then if he was entirely free from fault in bringing on the difficulty, and was in such eminent danger of death or grievous bodily harm, and had'no reasonable mode of eseape, could not retreat without increasing his danger, or if it was reasonably so apparent to a reasonable, prudent mam, then he could have exercised and put forth just so much force as was reasonably necessary to repel the assault then being made upon him, if any there was being made upon him. That is the law of self-defense generally.”
+The statute (Code 1923, § 9509) provides, in effect, that written instructions giv.en by the court are part of the law in the case, and must be taken and considered as such in connection with the oral charge and also other given charges. The charge here given (charge 1) was not positively erroneous, but it was, as stated, inconrplete, in that certain qualifications of the law of self-defense relating to retreat were not stated, but the I>roper qualifications were stated in the oral charge, and in other requested written charges, and the charge, oral and written, as a whole, correctly stated the law on the questions involved. Thus it affirmatively appears from this record that the law governing every phase of this case was fully and fairly stated by the court to the jury; and this 'is all that the law guarantees, and all that the appellant has the right to expect or demand.
+Charge 2 has reference to the defendant having .fought wilíingl,y. The expression “willingly” has been defined to mean “freely; voluntarily, readily; without reluctance; in the manner of being ready to do an act; of free choice; with one’s free choice or consent, as if a man inclines or is favorably dis]josed to do an act.” 40 Cyc. 950. In the case of Orr v. State, 20 Ala. App. 188, 102 So. 58, this court said, in passing upon the charge quoted below (charge 7), given at the instance of the state, “this charge is so clearly the law as not to need discussion.” The charge is as follows:
+“The court charges the jury that, even though they should find from the evidence that, at the time the defendant struck Woodall, he (John Orr) was in imminent danger of his life, or of suffering great bodily harm, or that the circumstances attending the difficulty were such as to-impress the mind of a reasonable man that the defendant was in actual danger, yet, if they also-believe from the evidence beyond a reasonable-doubt that the defendant entered into the difficulty willingly, and was not without fault in bringing on the difficulty, then his plea of self-defense must fail.”
+Under the Orr Case, supra, as well as-the following authorities, we hold there was-no error in giving charge 2. Ex parte John Orr, 212 Ala. 187, 102 So. 61; Harbour v. State, 140 Ala. 103, 37 So. 330; Lewis v. State, 88 Ala. 11 (second headnote), 6 So. 755; Sanders v. State, 134 Ala. 74 (eighth, headnote), 32 So. 654; Perry v. State, 8 Ala. App. 7, 62 So. 392.
+The insistence of counsel for appellant that there was a conflict in the evidence-as to the date of the alleged difficulty between the principals in this ease is not borne out by the record. It is true that Curb, the alleged injured party, at the beginning of' his testimony, stated: “On the 15th day of April, 1925, the defendant and I met on Washington street,” etc. But later on, upon his direct examination, he corrected himself as to the date upon which the alleged difficulty occurred, and stated: “That occurred on the 15th day of January, 1925.” All the witnesses who gave evidence in this ease, including the defendant, testified that the occurrence complained of happened on the afternoon of January 15, 1925.
+We find no reversible error in any of the rulings of the court. The record proper is without error. It follows that the judgment of conviction, from which this appeal was. taken, must be affirmed.
+Affirmed.
+<§=>For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
