@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 214"
+decided: "1937-12-07"
+citations: ["28 Ala. App. 668", "177 So. 925"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack RAINES v. STATE."]
+source_url: "https://static.case.law/ala-app/28/cases/0668-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674847
+---
+
+# Raines v. State
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+Affirmed.
