@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "7 Div. 10"
+decided: "1970-05-13"
+citations: ["45 Ala. App. 634", "235 So. 2d 885"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McGUFFEY’S NURSING HOME, INC., a Corporation v. Henry F. TAYLOR and Provident Life & Accident Insurance Company, a Corporation."]
+source_url: "https://static.case.law/ala-app/45/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716049
+cites_cases: ["105 Ala. 358", "148 So. 148", "16 So. 889", "167 So. 274", "213 Ala. 516", "226 Ala. 654", "232 Ala. 127", "270 Ala. 149"]
+---
+
+# McGuffey's Nursing Home, Inc. v. Taylor
+
+## Majority (THAGARD, Presiding Judge.)
+
+THAGARD, Presiding Judge.
+This is a suit filed by McGuffey’s Nursing Plome, Inc., a corporation, against Plenry F. Taylor and Provident Life and Accident Insurance Company, seeking to recover damages for breach of contract.
+The plaintiff was in the process of expanding the nursing home and was seeking financial backing to accomplish this expansion. One of the administrative assistants 'of the nursing Home contacted Taylor in an effort to induce him to arrange the financing through Provident. Taylor agreed to use his influence with Provident and try to arrange the financing. Taylor told McGuffey’s officers that a standby fee of $7,-500.00 was required and that if the loan was approved and McGuffey went through with it, then the standby fee would be returned. Taylor also stated that if the loan was not approved by Provident then McGuffey’s standby fee would be refunded. The nursing home did not get the loan from Provident and the $7,500.00 standby fee was not returned to McGuffey.
+The evidence showed that the check in the amount of $7,500.00, as a standby fee, was made payable to Taylor and was deposited in his account. Testimony received during the course of the trial showed that other than one phone call from Taylor to Provident inquiring about the loan possibilities, Provident knew nothing about the loan or the standby fee. No proof was made that Provident received any part of the $7,500.00 and there was no showing that Taylor ever contacted Provident about the loan again. The damages for which McGuffey sued was for the failure of Taylor and Provident to refund the standby fee.
+At the conclusion of the evidence the court gave the requested affirmative charge with hypothesis in favor of Provident and against Taylor, and the case was submitted to the jury. The jury returned a verdict in favor of the plaintiff and against the defendant Taylor in the amount of $8,175.00.
+The plaintiff then filed a general motion for a new trial seeking to set aside the verdict of the jury and the judgment of the court. The motion for a new trial was overruled and the plaintiff appeals.
+There are two assignments of error on this appeal. The first assignment is based upon the trial court giving to the jury the affirmative charge, with hypothesis, in favor of Provident. Assignment No. 2 is based upon the action of the trial court in overruling and denying plaintiff’s motion for a new trial. We consider these two assignments together as one argument.
+The evidence presented by the plaintiff during the trial of the case consisted of testimony of plaintiff’s witnesses, photographs of Taylor’s office, a written agreement entered into by McGuffey and Taylor and the canceled check in the amount of $7,500.00 made payable to Taylor.
+We have thoroughly examined the testimony and exhibits contained in the transcript and we do not find a scintilla of evidence tending to prove the apparent authority of Henry Taylor as agent for Provident. The photographs of Taylor’s office show Provident’s name with Taylor’s name under it. The testimony does not show that Provident provided this sign or even knew of its existence. Therefore, being confined to the record as we are, we do not think .these photographs offer any proof of the agency relation which would render Provident liable to McGuffey for Taylor’s actions and promises.
+The written agreement entered into by McGuffey and Taylor established Taylor as the agent for McGuffey and not as the agent for Provident. All prior negotiations are merged into the written contract purporting to cover the entire transaction. W. T. Rawleigh Co. v. Cone, 232 Ala. 127, 167 So. 274. The written agreement was the best evidence of the arrangement between McGuffey and Taylor and parol evidence could not be received to explain, contradict, vary, add to, or subtract from its terms. Hartford Fire Ins. Co. v. Shapiro, 270 Ala. 149, 117 So.2d 348.
+It is undisputed that McGuffey contracted with Taylor for the latter to lend his assistance in obtaining for McGuffey financial help from Provident in order to expand the nursing home. McGuffey sought out Taylor and solicited his help. The employment contract, which is in evidence, between Provident and Taylor limited Taylor’s authority to matters involving life insurance and the procuring of soliciting agents. Even though Taylor was Provident’s agent as to some matters, Taylor was McGuffey’s agent in its effort to procure a loan from Provident. This case is analogous to the case of Thigpen v. Arant, 213 Ala. 516, 518, 105 So. 644, 646, wherein the court stated as follows:
+“Crumpton was Thigpen’s general agent to collect his mortgage dues, but in the matter of obtaining a loan for Moye from Peagler, which Moye intended should be applied in satisfaction of Thigpen’s mortgage, it is clear that he was the agent of Moye. American Mortgage Co. v. King, 105 Ala. 358, 16 So. 889; * * * Assuming that the ‘money was left with Crumpton to pay Thigpen,’ as Moye testifies, in the matter of transmitting the money to Thigpen he was still the agent of Moye. When the agent of one party is appointed the agent of another in adverse interest for a certain purpose, each party stands in the relation of principal as to the matters intrusted by him to the agent. * * * In the matter of getting the loan from Peagler and transmitting the money to Thigpen it would seem that Crumpton’s first duty was to Moye, for that was the purpose of his special appointment by Moye, and that the consequences of his dereliction in the performance of that duty, by reason of which the money failed to reach its destination, should not be visited upon Thigpen, who knew nothing of the matter.”
+Also, in Florence v. Carr, 226 Ala. 654, 656, 148 So. 148, 149, the Supreme Court said:
+“The cases in this jurisdiction — on agency — -and applicable here are to the effect that where one desiring a loan makes known that desire to another who applies to the lender and consummates the loan, the intermediary is prima facie the agent of the borrower and not of the lender, * * * »
+Therefore, for the reasons hereinabove stated, we hold that the trial judge was correct in giving the affirmative charge with hypothesis at the request of Provident and was also correct in overruling plaintiff’s motion for a new trial.
+Affirmed.
