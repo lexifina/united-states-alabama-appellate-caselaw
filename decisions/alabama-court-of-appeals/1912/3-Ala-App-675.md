@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-01-16"
+citations: ["3 Ala. App. 675"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHELLEY V. THE STATE."]
+source_url: "https://static.case.law/ala-app/3/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1615478
+cites_cases: ["57 South. 413"]
+---
+
+# Shelley v. State
+
+## Majority (Per curiam.)
+
+Per curiam.
+Affirmed on the authority of Scott v. The State, 3 Ala. App.____; 57 South. 413.
