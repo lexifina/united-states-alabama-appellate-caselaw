@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1924-04-08"
+citations: ["19 Ala. App. 610", "99 So. 750", "3 Div. 474"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DEVOE & RAYNOLDS CO. v. FUTCH-FLOWERS MOTOR CO."]
+source_url: "https://static.case.law/ala-app/19/cases/0610-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8828250
+cites_cases: ["179 Ala. 505", "59 Ala. 503", "98 South. 40"]
+---
+
+# Devoe & Raynolds Co. v. Futch-Flowers Motor Co.
+
+## Majority (SAMEÜRD, J.)
+
+SAMEÜRD, J.
+Action in assumpsit. From a judgment for plaintiff, defendant appeals. This case was tried by the court, without the intervention of a jury, resulting in a judgment for plaintiff. The evidence was in some conflict with reference to certain details, but of sufficient probative force to sustain the judgment of the court on the facts. It will, therefore, in stating the facts as basis for the court’s ruling on the law, not be necessary to consider the conflicting testimony of defendant.
+Briefly stated, the facts are as follows:
+On November 8, 1922, H. T. Fitzpatrick as sales manager of the Futeh-Flowers Motor Company sold to the Devoe & Raynolds Company a Ford automobile. The sale was made to C. H. Cox, a salesman of the appellant, and to F. I. Weed, the general manager of the appellant, Weed being located at the office of the company in Atlanta, Ga. The testimony of Fitzpatrick showed that Cox agreed to buy a Ford car and wanted shock absorbers and a wheel placed on the car. Fitzpatrick then asked Cox, if he had authority to purchase the car. Cox replied, “Yes,” and suggested to Fitzpatrick that he call up Weed, the general manager, in Atlanta, to secure a confii-mation of the sale and in order to give the Atlanta office the motor number of the car in order that the car might be insured. Fitzpatrick on the same day, Wednesday, November 28, 1922, called up Weed over long distance, and secured from Weed a confirmation of the sale, and also gave Weed the motor number of the car, Weed in this conversation stating that he would wire to New York that evening for insurance. Weed also instructed Fitzpatrick to send him a bill for the car, and further stated that he would send a check right back in payment of the ear. Fitzpatrick then niade out a bill and sent it to Devoe & Raynolds Company in Atlanta, Ga., on the same day, Wednesday, November 8, 1922, and put all the accessories on the car that he had been instructed to put thereon; that is, Ihe shock absorbers and extra wheel. These accessories were placed on the car on the same day, Wednesday the 8th of November, 1922. It was agreed between Cox and Fitzpatrick that Cox was to call back for the car on the following Saturday. The record in this connection also shows the following :
+“Q. Now you, in the conversation between you and Cox, did you or did you not agree to keep that car and not deliver that car to him until the 10th? A. Yes, we agreed to keep’ it for him until the ,10th.”
+On the night of November 9,1922, the place of business of the Futeh-Flowers Motor Company in Cloverd|ile, Montgomery County, Ala., was destroyed by fire, and in that fire this particular. car was also destroyed. On the following Friday morning after the fire, Fitzpatrick was standing out in front of his place of business and received through the mails a cheek from the Devoe & Raynolds Company in payment of the car. Upon receipt of the check, Fitzpatrick called up Weed over long distance and told him that the ear had been destroyed by fire, saying further, “Mr. Cox was anxious for a car the other day. Can we sell him another one?” 'to which Weed replied, “All right, sell him one when he comes in.” In this same conversation over long distance, Fitzpatrick asked Weed if' he had wired for the insurance on Wednesday, and Weed told Fitzpatrick that he had wired for insurance on the car on Wednesday and that the car was covered by insurance on Wednesday.
+On Saturday when Cox called for the ear and learned that it had been destroyed, Fitzpatrick delivered another car to Cox and immediately called the Atlanta office of Devoe & Raynoldgf, explaining over long distance to the cashier, Mr. Morgan, that he was delivering this car to Cox and -would wait a reasonable time for payment in order for Devoe & Raynolds to collect the insurance on the first car, which had been destroyed. This arrangement was agreed to by Devoe & Raynolds.
+The second car is the car for the purchase price of which this suit has been brought, and in connection with the sale of this second car Fitzpatrick wrote a letter to Weed dated November 13th. This letter confirmed the conversation over long distance with the home office of Devoe & Raynolds Company relative to the sale of the second car. An invoice was contained in the letter, and the letter stated that it .would be satisfactory for the Futeh-Flowers Motor Company to wait a reasonable time for settlement of the inclosed bill in order that Devoe & Raynolds might collect their insurance on the first ear. Devoe & Raynolds Company have never paid for the second car. The price at which it was sold was $506.78.
+The only question of merit is: Was tlie transaction involving the first- car a completed sale at the time of its destruction by fire? and we think the general issue presents this issue t.o the court. Tile plaintiff claims that defendant bought two cars, and the defendant claims to have purchased only one. Upon sales of specific personal property in the possession of the vendor, the contract is complete when the parties agree; the title to the chattel then passes to the buyer and in him is the right to possession. A sale may be valid between the parties without a delivery. Jones v. Ballard (Ala. App.) 98 South. 40. If the transaction between the plaintiff and defendant 'was as testified to by plaintiff’s witnesses, there were two sales. The first ear was paid for, and the second was not.
+We find no error in the record, and the judgment is affirmed.
+Affirmed.
+Ante, p. 460.
