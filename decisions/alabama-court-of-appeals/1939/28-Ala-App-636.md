@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 756"
+decided: "1939-01-24"
+citations: ["28 Ala. App. 636", "186 So. 919"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter HEREFORD v. STATE."]
+source_url: "https://static.case.law/ala-app/28/cases/0636-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674413
+---
+
+# Hereford v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+Appeal dismissed.
