@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1922-12-19"
-citations: ["19 Ala. App. 689", "94 So. 926", "5 Div. 417", "5 Div. 418"]
+citations: ["19 Ala. App. 689", "94 So. 926", "5 Div. 417"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
