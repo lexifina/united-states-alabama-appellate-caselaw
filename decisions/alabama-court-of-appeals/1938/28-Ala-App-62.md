@@ -1,0 +1,33 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 381"
+decided: "1938-01-18"
+citations: ["28 Ala. App. 62", "178 So. 464"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WOODHAM v. STATE."]
+source_url: "https://static.case.law/ala-app/28/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674934
+cites_cases: ["117 So. 157", "172 So. 288", "22 Ala.App. 431", "22 Ala.App. 646", "233 Ala. 448", "233 Ala. 616"]
+---
+
+# Woodham v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The law imposes upon this court, in criminal cases on appeal, the duty to consider all questions apparent on the record, or reserved by bill of exceptions. This statute provides that in such cases no assignment of errors, or joinder in errors, is necessary. Section 3258, Code 1923.
+From the record in this case, we ascertain the appeal was taken from a purported judgment of conviction, pronounced and entered against appellant for a violation of the state prohibition law by having in his possession prohibited liquors.
+We designate the judgment as “purported judgment” for the reason it does not affirmatively appear from the record that the trial court properly acquired jurisdiction to try and determine this case; and unless this fact affirmatively appears from the record, the trial court was without authority to render judgment, and if judgment is rendei-ed, in the absence of jurisdiction, the pronouncement of the court would be coram non judice and therefore without force and effect.
+In cases of .this character the statute provides: “All prosecutions for a violation of any provision of this chapter [Chapter 167, Art. 2 of the Code 1923], or of any other law, for the suppression of the evils of intemperance, may be begun by affidavit as well as by indictment,” etc. Code 1923, § 4646.
+In the instant case there appears to have been no affidavit, or indictment, upon which this prosecution was begun. To the contrary, it affirmatively appears that the purported process upon which this prosecution was based is what is termed in the record “Information,” which reads as follows : “State of Alabama, Henry County. The State of Alabama, by its solicitor, complains of Arthur Woodham, that within twelve months before the commencement of this prosecution did have in his possession prohibited liquors or beverages contrary to law against the peace and dignity of the State of Alabama. J. Hubert Farmer, Solicitor. Filed in office this April 20, 1937. E. H. Hall, Clerk of the Circuit Court, Henry County.”
+The Constitution of this state, § 6, provides that no person shall be deprived of life, liberty, or property except by due process of law. The manifest purpose of this provision is to accord to every citizen security against the arbitrary action of those in authority, and to place him under the protection of the “law of the land,” which is synonymous with the expression, “due process of law.”
+In the absence of an indictment, or an affidavit upon which this prosecution was begun, the trial court was without jurisdiction to try and determine this case. As stated, the circuit court, in the absence of express statutory authority, has no authority to try criminal cases, except upon indictment found, and returned, by a grand jury, or, upon appeal from a lower court after conviction in said court. Kyser v. State, 22 Ala.App. 431, 117 So. 157; Hutchins v. State, 22 Ala.App. 646, 119 So. 250.
+The solicitor in this case had no authority to file the “Information”; nor did the trial court have authority to assume jurisdiction of the subject-matter involved. This rendered the judgment, from which this appeal was taken, null and void and of no force and effect.' Such judgment will not support an appeal. It is hereby dismissed, and appellant ordered discharged from further custody in this proceeding; it affirmatively appearing from the record that the statute of limitation, as to this case, has intervened, and therefore further action may not be had.
+Other questions are presented upon this appeal, and probably should not be discussed, except for future guidance in dealing with similar questions should' they ever arise in any case,' which appears to the writer as being very doubtful. The first of these questions relates to the action of the court in giving the State the so-called affirmative charge. The record in this connection shows the following: Record: “This was all of the testimony in the case. The cpurt said: ‘Write out the affirmative charge, if that is all, for the State.’ Whereupon, the Solicitor requested in writing the following charge. ‘The court charges the jury that if you believe the evidence in this case you will find the defendant guilty as charged in the information.’ ” The court signed his name as judge to said charge, but made no indorsement thereon as the law requires. Section 9509 of Code 1923, provides, among other things, it is the duty of the judge to write “given” or “refused” upon special written charges requested. This character of indorsement is essential in order that such charges may be part of the record, and to be considered upon appeal. However, the charge as given was erroneous and a nullity, in that the proper measure of proof in a criminal case was not stated. The measure of proof is “beyond a reasonable doubt,” and in cases where the court is authorized to direct a verdict, in favor of the State, the charge should be in writing, and predicated upon the belief of the evidence beyond a reasonable doubt. The credibility of the evidence is for the jury to decide.
+The record contains the following : “Whereupon, after the oral charge of the court, the jury retired to its room for deliberation; and returned the following verdict: ‘From the evidence furnished, we the jury find the defendant Arthur Woodham, not guilty.’ ” Notwithstanding this verdict, the court required the jury to bring in another verdict finding the defendant guilty. The court had no such authority. “Under our administration of the criminal law, the jury is the final arbiter of the facts. Courts may instruct the jury as to the law of the case, but they may not instruct a jury as to what verdict they shall render in a criminal case on a given statement of facts.” Kiker v. State, 233 Ala. 448, 172 So. 288, 290. Templeton & Son v. David, 233 Ala. 616, 173 So. 231.
+For the reasons hereinabove stated, the appeal, in this case is dismissed, and the defendant discharged from further custody in this proceeding.
+Appeal dismissed.
+Defendant discharged.
