@@ -1,0 +1,82 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 560"
+decided: "1948-03-16"
+citations: ["33 Ala. App. 586", "35 So.2d 568"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHRIST v. SPIZMAN."]
+source_url: "https://static.case.law/ala-app/33/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1687670
+cites_cases: ["10 Ala.App. 439", "136 So. 842", "14 Ala. App. 247", "140 Ala. 545", "165 Ala. 407", "187 Ala. 480", "206 Ala. 163", "228 Ala. 70", "24 Ala.App. 409", "241 Ala. 37", "26 Ala.App. 6", "29 Ala.App. 411", "33 So. 2d 371", "37 So. 402"]
+---
+
+# Christ v. Spizman
+
+## Majority (HARWOOD, Judge.)
+
+HARWOOD, Judge.
+The suit below grew out of an automobile collision. Plaintiff below, who is the appellee here, filed her suit against the defendant, appellant here, on a- complaint containing one count in simple negligence. To this complaint the defendant pleaded the general issue, and two pleas of set-off and recoupment charging wanton negligence and simple negligence respectively.
+The jury verdict was in favor of the plaintiff, her damages being assessed at $500.00. Judgment was entered by the court pursuant to said verdict.
+Defendant’s motion for a new trial being duly filed and overruled appeal was perfected to this court.
+The evidence presented was in many aspects undisputed, but conflicting in other material points.
+The brief filed by counsel for appellant is in our opinion inadequate on which to base a review of this case.
+It consists of a “Statement of Facts” under which is included a statement of the “Undisputed Facts; Propositions of Law,” under which 11 propositions are set forth.
+The first three “Propositions” are supported by citation of cases from this State, the fourth by citation of two Louisiana cases. The remaining seven “Propositions” are unsupported.
+These propositions are followed by an “Argument.” The first paragraph of this argument consists largely of inferences drawn from the facts by appellant’s counsel. We conclude from its verdict that the jury drew other inferences from the evidence.
+The remaining portion of the argument is as follows:
+“Propositions 1, 2, 3, 4, 5, 6 and 7 deals with negligence both simple and wanton. Assignments of error 2, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 and 17 deal or are founded upon negligence either simple or wanton.
+“Under assignment of error 2 we think it clearly admissible that the appellant should have been permitted by the court to give her experience in driving an automobile. As we think this was error where the question of. negligence arose.
+“In our opinion the giving of the charge as set out in assignment of error 7 at the request of the plaintiff was clearly error. The court gave this general charge for the plaintiff as to the wanton plea of the defendant. Under the admitted evidence of the plaintiff herself and her husband who was driving the car, if there were no wantonness in that action I do not see where there could be unless the party admitted that he intentionally did it. This is not required in wanton negligence.
+“We insist that each charge that was requested by the defendant and refused should have been given and that it was error for the court to refuse same.
+“As to assignment of error 18, the main grounds in the motion for a new trial which was overruled by the court is the same as has been mentioned above, except as to assignments of error 1, 2, 3, 4, 5 and 6. I do not like to criticize the court but the things that took place under assignment of error 1 was very prejudicial to appellant’s rights in the matter and the motion for a new trial included this action of the court, which, in our opinion, the court should have granted on that particular motion.
+“Assignments of error 3, 4, 5 and 6 are assignments on exceptions to the Court’s oral charge which were set out in the motion and which as, we think, was clearly an error. Under the laws of the State of Alabama there is no such thing as a dog-fall as the Court charged the Jury. Further, under the laws of the State of Alabama, there could have been no moral victory without the assessment of damage under any verdict for either the plaintiff or the defendant in the Court below.
+“We respectfully insist that this cause should be reversed and remanded on the many errors hereinabove set out in this cause.”
+In criminal appeals it is the duty of this court to consider all errors apparent on the record, whether assigned or not. Section 389, Title 15, Code of Alabama 1940. In civil appeals only errors assigned will be considered and where the brief of counsel for appellant does not direct the attention of the court to what is deemed error, the appellate court is not required to search the record and cast about for errors not specified in the brief. Morton et al. v. Clark, 10 Ala.App. 439, 65 So. 408.
+As to the essential form and elements of an appellant’s brief Supreme Court Rule 10, Code 1940, Tit. 7 Appendix, provides as follows:
+“Appellant’s brief shall contain a concise statement of so much of the record as fully presents every error and exception relied on, referring to the pages of the transcript. If the insufficiency of the evidence to sustain the verdict or finding, in fact or law, is assigned, the statement, shall contain a condensed recital of the evidence in narrative form so as to present the substance clearly and concisely. The statement will be taken to be accurate and sufficient for decision, unless the opposite party in his brief shall make the necessary corrections or additions. Following this statement, the brief shall contain, under a separate heading of each error relied on, separately numbered propositions or points, stated concisely, and without argument or elaboration, together with the authorities relied on in support of them and in citing cases, the names of parties must be given, with the book and page where reported.”
+The statement under a separate heading of each error relied on mentioned in the above rule pertains to what is generally called the “Specifications of Error” in a brief. In many cases our courts have apparently used the term “Assignments” as synonymous with “Specifications of Error” when referring to the briefs of counsel rather than to the assignments of error in the record proper.
+As stated by this court in J. F. Snellings v. Malvin Jones, Jr., etc., 33 So. 2d 371, 372 ;
+“The suing out of an appeal is analogous to the institution of a new suit. The assignment of errors take the place of the declaration or bill. The office of assignments of error is to inform the appellate court and the appellee of the precise errors relied on. Kinnon v. Louisville & N. R. Co., 187 Ala. 480, 65 So. 397; Life & Casualty Ins. Co. of Tennessee v. Womack, 26 Ala.App. 6, 151 So. 881, certiorari denied 228 Ala. 70, 151 So. 880. An assignment of error which does not succinctly point out the error complained of with sufficient clearness and precision will not be considered on appeal. Harden, Inc. v. Harden, 29 Ala.App. 411, 197 So. 94. Errors not assigned will not be reviewed. 2 Ala.Dig., Appeal and Error, @=»719 (1).
+“In the hurry of perfecting an appeal it is the usual practice of lawyers to assign as error all matters that might be even faintly meritorious. Upon further study while preparing his brief he may conclude that, in his anxiety to fully cover all possible errors in his assignments, he has included some that are untenable. These he is free to abandon simply by not carrying them forward in his brief and argument, for as a corollary to the rule that errors not assigned will not be considered on appeal is the proposition that assignments not specified in the brief are considered as abandoned.”
+The office of a brief in a civil appeal is to aid the appellate court to understand quickly the issues involved and give such court an adequate basis for such understanding. A progressive sifting of the contents of the record proper, discarding those portions not necessary to proper conclusion, and highlighting the acts of the lower court of which the appellant feels he has cause to complain should be the ultimate aim of every brief. An adequate specification of the errors relied on is a necessary step in such refining process.
+Actually, no errors are specified in appellant’s brief. The eleven propositions set forth cannot be properly so considered.
+Since a mere repetition of the assignments of error in an appellant’s brief is not a sufficient compliance with Rule 10 as to a statement of the errors relied on, see W. S. Wiles & Son v. Wright, 24 Ala.App. 409, 136 So. 842, certainly the general reference in bulk to such assignments as is done in that portion of the brief labeled “Argument,” and set out above cannot be so considered.
+We think that the following rules governing the contents and form of an appellant’s brief may also appropriately be mentioned as pertaining to the defects present in the appellant’s brief in this case.
+A brief merely complaining in broad terms of rulings made the basis of assignments of error in effect works abandonment of such assignments. Western Union Tel. Co. v. Emerson et al., 14 Ala. App. 247, 69 So. 335.
+A mere statement in the argument in the brief that rulings were erroneous amounts to no more than the reservation of exceptions thereto. Mitchell v. Gambill, 140 Ala. 545, 37 So. 402.
+It is further well settled that a joint argument of properly specified errors is unavailing if any one of such specified errors is without merit.
+The result of the grouping and overlapping grouping of the assignments of error mentioned in the argument, supra, is a combination of all of the assignments of error into one group. Clearly several of such assignments are without merit.
+In view of the above discussion it is our opinion that this cause is due to be affirmed and it is so ordered.
+Affirmed.
+Ante, p. 301.
+
+## Rehearing
+
+On Rehearing
+In his brief in support of his application for rehearing appellant’s counsel states : “In our opinion the statement of facts in appellant’s brief on submission of this cause technically complied with the following portion of Supreme Court Rule 10, Code 1940, Tit. 7 Appendix:
+“ ‘If the insufficiency of the evidence to sustain the verdict or finding, in fact or law, is assigned, the statement shall contain a condensed recital of the evidence in narrative form so as to present the substance clearly and concisely.’ ”
+“In our opinion the court overruled this phase of the case. The motion for a rehearing in the court below assigned, separately and severally, the overruling of that motion as to fact and law, which were made assignment of errors to this court.” We are still firmly of the opinion that the brief filed by the appellant in this cause was defective and failed to present to this court any matters for review. We will however condone this defective presentation to the extent of reviewing the sufficiency of evidence in fact and in law to sustain the verdict.
+The appellant sets out the facts in this case as follows:
+“Undisputed Evidence: This alleged accident happened in Blount County, Alabama, about 7 miles north of Warrior, Alabama, on Highway 31. This is a paved highway with asphalt top, 22 feet wide on each side of the bridge where the accident occurred. The bridge was a narrow bridge, 17x/i feet wide and 90 feet long. There were signs on the bridge and back on the highway from each end of the bridge giving notice of the narrow bridge. The defendant’s car was traveling on the Highway from Birmingham north and entered plaintiff’s car was traveling from Cullman toward Birmingham along said Highway and entered the bridge from the North end. The plaintiff’s car was pulling a trailer 7 feet wide. The plaintiff’s car was a regular car, so was the defendant’s car, each being approximately 6 feet wide. On each side of the bridge there was bases around the post of the bridge at each end thereof which extended out some 4 to 6 inches.
+“The appellant was driving on her right of the road at a speed of some 40 to 50 miles per hour and entered said bridge and the car and trailer of the plaintiff was some distance from the bridge. Under the admitted testimony of the plaintiff and her husband, the plaintiff’s car was traveling at a speed of 30 miles an hour and over close to his right side of the pavement in approaching said bridge and never slowed down any before the accident, although the driver of the car and the plaintiff herself saw the appellant’s car coming and knew that it was a narrow bridge and had'known it for some distance before reaching the bridge and the driver admitted that it would have taken him 1% lengths of the Courthouse room to have stopped his car at the speed it was traveling.
+“The appellant’s car on entering the bridge, under her testimony, saw the other car coming and became very frightened that the car and trailer approaching the end of the bridge before she cleared it, swerved her car around the corner of the bridge which was between 1 aild 2 feet narrower on each side than the paved road and after striking the other car turned around with the rear end on a post on the side of the paved road and the front end turned toward, the center of the road. Appellant’s car was struck by the left front of appellee’s car between the door and the rear fender on the left side of her car.”
+To these facts it should be added that the accident occurred in the early part of the afternoon. The preponderance of the evidence also tends to show that the defendant’s car had emerged from the bridge some 20 feet or more at the time she swerved into the plaintiff’s vehicle.
+We think the following excerpts from the testimony of the defendant highly illuminating :
+“Q. State just what was said between you there when she came back about this wreck? A. The first thing I can remember Mrs. Spizman asked me, do you always drive that fast? My answer was, Lady, I don’t know how this thing happened, I am terribly sorry that the accident happened.
+“Mr. Rogers: That you didn’t know how it happened and you were terribly sorry it happened ?
+“The Witness: That is exactly what I said.”
+On cross examination:
+“Q. You don’t tell the Jury that Mr. and Mrs. Spizman told the highway patrolman that you hit the middle of the bridge before you got across, do you? A. It was discussed, I am sorry I do not remember who brought it up.
+“Q. Did you hit the middle of the bridge? A. No, I did not.
+“Q. Well, did you tell them on that occasion that you did? A. I may have. * * * * * *
+“Q. And I believe you told us while ago that you told Mr. and Mrs. Spizman there on that bridge or near the bridge that you just didn’t know how the thing happened, isn’t that right? A. That is exactly what I said.
+“Q. And that is the truth about the whole thing, that you don’t know how it happened, isn’t that right? A. No, I don’t think that is exactly right.
+“Q. Well, is that true— A. I will say —May I say this, that I think the whole thing happened so quickly that none of us really could tell you the one, two and three, that it happened just that way.”
+The picture drawn from the evidence is clear that the defendant became panicky over the approach of the plaintiff’s automobile. She had entered the bridge at a speed of between 40 and 50 miles per hour. Application of the brakes caused her car to swerve into the plaintiff’s.
+So far as disclosed by the evidence there is no basis for an inference of willful or wanton conduct on the part of the plaintiff.
+We fail to find evidence in this case justifying a reasonable inference that the plaintiff on this occasion, with reckless indifference to consequences consciously and intentionally, did a wrongful act or omitted some known duty which produced the injury. No error therefore resulted in the court’s action in giving at the request of the plaintiff the general affirmative charge with hypothesis on defendant’s plea of recoupment charging wanton conduct to plaintiff or her agent. Law v. Saks, 241 Ala. 37, 1 So.2d 28; Salter v. Carlisle, 206 Ala. 163, 90 So. 283; Smith v. Central of Georgia Ry. Co., 165 Ala. 407, 51 So. 792.
+The conclusion is clear that under the evidence a jury question was presented as to the question of fault and negligence causing this collision and injury. The jury’s determination of this question is amply supported by the evidence presented.
+Application overruled.
