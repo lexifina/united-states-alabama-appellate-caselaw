@@ -1,0 +1,25 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-05-16"
+citations: ["4 Ala. App. 72", "59 So. 222"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carter v. The State."]
+source_url: "https://static.case.law/ala-app/4/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1617736
+cites_cases: ["111 Ala. 68", "111 Ala. 92", "118 Ala. 120", "120 Ala. 670", "2 Ala. App. 132", "90 Ala. 589"]
+---
+
+# Carter v. State
+
+## Majority (de GRAFFENRIED, J.)
+
+de GRAFFENRIED, J.
+The general rule has ever been that, in a criminal case, evidence tending to show tbe bad character of tbe defendant mnst be confined to tbe time of and anterior to tbe alleged commission of tbe offense for which tbe defendant is being tried. In the present case, tbe solicitor ashed a witness tbe following question: “Do you think you know tbe general character of tbe defendant in tbe neighborhood in which he lives?” Tbe ‘witness did not answer tbe question, either in tbe affirmative or in tbe negative, but in reply said: “From wbat I bad beard, it was bad.” There was no motion to exclude this answer of tbe witness at tbe time that it was made, upon tbe ground that it was not responsive to the question, or that the'witness bad not stated that be knew, or thought be knew, tbe defendant’s character, before stating that from wbat be bad beard it was bad; and tbe defendant then took tbe witness on cross-examination and developed tbe fact that tbe above,answer of .the. witness was based upon certain evil reports which, be bad beard about tbe defendant,. Loth, before and after tbe come mission of tbe alleged offense for which tbe defendant was being tried. While tbe defendant was cross-examining this'witness, he asked him the following question: “And you state, to the court and jury, in your opinion, he has a bad character?” And to this .question the witness answered, “From what I heard.” The defendant therefore, before making any motion to exclude the above answer of the witness to the above question propounded by the solicitor, voluntarily elicited from the witness identically the same evidence which the solicitor had already drawn from the witness. The defendant, after he had thus drawn this statement from the witness, moved the court to exclude the above answer of the witness to the above question propounded by the solicitor. The court refused to grant the motion, and the defendant excepted.
+When the defendant voluntarily asked the witness the above question, he had thoroughly cross-examined him, and had been placed on notice, by the previous testimony of the witness, as to what the answer of the witness would be. If the court, had granted the above motion of the defendant, the same testimony of the witness Avould still have remained before the jury; and we cannot see that the appellant has any just ground of complaint against the trial court for refusing to grant his motion, if it be conceded that the testimony, the subject of the motion to exclude, was illegal.
+During the progress of the trial, certain photographs were introduced in evidence. Dr. Stough, who attended the prosecutor while suffering- from his wounds, testifying with reference to the photographs, said “that they were photographs of Clarence Walls [the prosecutor], and that the wounds appeared upon the photographs as they were upon the body of Clarence Walls at the time he examined him.” The photographs were introduced in evidence for the purpose of informing the jury as to the places on the prosecutor’s body which had been perforated or struck by the shot fired from the defendant’s gun; and we think that the above evidence of the attending physician shows, with sufficient clearness, the accuracy of the photographs for the purposes for which they were introduced.
+The photographs which were introduced in evidence show certain marks on the prosecutor’s body. It appears from the evidence that these marks shown by the photographs were the wounds which had been inflicted on Walls by the defendant. If a man has. a. seal-on his body, and is asked how the scar was produced and knows how it was produced, we can see no reason why he may not tell it. If a man has a photograph taken of himself, and this photograph shows certain marks not usually found upon a man’s body,, and he knows what those marks are, we can see no reason why, if the photograph is admitted in evidence on the trial of a case, he cannot tell what produced those marks. If the marks were caused by bullets, and the witness knows it, then the cause of those marks is a fact resting peculiarly within the knowledge of the witness, and he may tell that fact. There is nothing in the exception of the defendant to the action of the trial court in permitting the witness Walls to testify that certain marks on certain of the photographs .admitted in evidence indicated the places where the. shot from the defendant’s gun struck him.
+There is no error in the record. The judgment of the court below is affirmed.
+Affirmed.
