@@ -1,0 +1,32 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 892"
+decided: "1922-01-17"
+citations: ["18 Ala. App. 361", "92 So. 79"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HODGE v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645784
+cites_cases: ["107 Ala. 35", "134 Ala. 152", "16 Ala. App. 545", "18 South. 142", "3 Ala. App. 189", "3 Am. St. Rep. 691", "3 South. 814", "32 South. 273", "83 Ala. 81", "90 South. 70", "90 South. 72"]
+---
+
+# Hodge v. State
+
+## Majority (MERRITT, J.)
+
+MERRITT, J.
+The defendant was convicted under count 2 of an indictment found and returned against him, which count charged him with receiving, buying, or concealing an automobile, the personal property of D. G. Johnson, Jr. The verdict of the jury assessed the value of the property at $150. Count 1 charged the larceny of an automobile, the personal property of D. O. Johnson, Jr. Count 3 charged the larceny of an automobile, the personal property of Spiro Antos, and count 4 charged the defendant, with receiving, buying, or concealing an automobile, the personal property of Spiro Antos.
+The testimony was without conflict that Spiro Antos was the owner of the automobile, but that Johnson was in possession of it at the time it was stolen.
+By demurrers to the indictment the defendant questioned its sufficiency in that it charged two distinct '.offenses in different counts, that the ownership of the property was laid in two different persons in the same indictment, and by motion sought to require an election on the part of the state as to under which count it would proceed to try the defendant. The action of the court in overruling the demurrers and motion was free from error. Orr v. State, 107 Ala. 35, 18 South. 142; Shirey v. State (Ala. App.) 90 South. 72; Crittenden v. State, 134 Ala. 152, 32 South. 273.
+The testimony of Douglass Carroll, a witness for the defendant, tended to corroborate the statement of Lena Webster, also -a witness for the defendant, that the defendant was with Lena Webster from about 6 to 11:30 on the evening of the day when the automobile was stolen. On cross-examination of Carroll he was asked by the solicitor, “Has she (Lena Webster) been writing to him (defendant) since that time?” The defendant objected, but interposed no grounds of objection. The court overruled the objection, and the witness answered, “Yes; she has wrote to him.” There was no reversible error in this ruling of the court. As has often been stated before, wide latitude is allowed on the cross-examination of a witness, and many questions must of necessity rest in the sound discretion of the trial court.
+The witness Gomperts for the defendant had testified on direct examination that on the evening of the day that the automobile had been stolen he had seen the defend-, ant and Ms brother at a certain café in the city of Birmingham, and that at that time a party had offered to sell certain automobile parts to the defendant’s brother. There was testimony tending to show that the defendant and Ms brother were acting together in the theft of the automobile. As tending to fix the time of this conversation, witness stated that it was the following evening that he read in the paper that the defendant had been arrested, and that fixed it on his mind where he saw them on the night of the conversation. It was therefore permissible for the state to ask on cross-examination, “Have you ever read about him ever being arrested on any other occasion for automobile stealing?” If in the affirmative, the testimony would have tended to discredit the statement, that it was on the particular night testified to that witness heard such conversation.
+We have very carefully considered the portions of the solicitor’s argument objected to, and find no error in the court’s ruling thereon.
+The affirmative charge was properly refused to the defendant as to count 2. The evidence was undisputed that Johnson was the owner of the automobile at the time it was stolen, and tMs ownership, though possession was in another, was sufficient upon which to predicate a verdict of guilty, if the evidence was otherwise sufficient, its sufficiency being a jury question. There was no error in those-parts of the court’s oral charge excepted to by the defendant. The court properly charged the jury that under the evidence the defendant could be convicted under one count only of the indictment if they believed him guilty, and even though it did appear from the undisputed evidence that Johnson was the owner of the ear, and Antos merely in possession, at the time of the theft, under the indictment and this evidence the question of the defendant’s guilt vel non was properly submitted to the jury under all of the counts of the indictment, and if the evidence otherwise warranted it, it was open to the jury to convict the defendant under either the count which charged ownership in Johnson or possession in Antos. Black v. State, 83 Ala. 81, 3 South. 814, 3 Am. St. Rep. 691.
+The motion for a new trial cannot be reviewed here for the reason that it nowhere shows what, if any, evidence was offered in support of the motion. Roberson v. State (Ala. App.) 90 South. 70; Crawley v. State, 16 Ala. App. 545, 79 South. 804. Most of the questions, however, raised in the motion have been dealt with above, and we may state, in reference to the question raised for the first time in the motion for a new trial, that there was a variance between the proof and the allegation, in that the allegation was that the defendant did buy, receive, or conceal an automobile, when the proof only tended to show that he received parts of an automobile, is without merit. The proof tended to show that these parts were parts taken from the stolen automobile. The automobile and the parts were identified by the owner of the car. The possession of these parts, where they came from, whose they were, and all the facts and circumstances connected therewith, made them evidence of the commission of a crime, the weight of which was for the jury.
+We find no error in the record, and the judgment appealed ‘ from is affirmed. Affirmed.
+Ante, p. 109.
+Ante, p. 143.
+@=oFor other oases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
