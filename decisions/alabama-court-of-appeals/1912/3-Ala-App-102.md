@@ -1,0 +1,23 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-01-16"
+citations: ["3 Ala. App. 102", "57 So. 383"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hadnot, et al. v. The State."]
+source_url: "https://static.case.law/ala-app/3/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1615604
+cites_cases: ["103 Ky. 41", "111 Ala. 6", "129 N. C. 497", "145 Ala. 46", "159 Ala. 23", "2 Ala. App. 574", "20 South. 572", "97 N. W. 598", "98 Ala. 10"]
+---
+
+# Hadnot v. State
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+When evidence of the trailing of the defendant in a criminal case by dogs trained to track human beings has been admitted against him, he should have the fullest opportunity by cross examination to inquire into the breeding and testing of the dogs, and into any facts or circumstances tending to show that, by reason of their unreliability, or of their lack of proper training, the incriminating value of the evidence was impaired.—Richardson v. State, 145 Ala. 46, 41 South. 82. But the facts or circumstances so sought to be brought out must be such as would have a proximate tendency to shed light upon the conduct of the dogs on the occasion which is the subject of investigation.—Simpson v. State, 111 Ala. 6, 20 South. 572.
+In the present case a witness for the state, who had testified as to the circumstances of dogs trailing the defendants, was, on his cross-examination, asked two questions : (1) If he remembered that he had a man- charged with resisting arrest, a negro boy; and (2) if these dogs were ever known to quit the trail and hunt rabbits. An exception was reserved to the action of the court in sustaining an objection to each of these questions. Neither of the questions necessarily suggested that the answer to it might have a logical tendency to prove that at the time of the occurrence under investigation the dogs had not been properly trained to trail human beings, or that at that time they were unreliable for that purpose. The purpose of the questions may have been to elicit evidence of the behavior of the dogs when they were immature and before they had been trained or tested. The fact that on some occasion long before the date of the one in question, and before the dogs had had any training, they quit the trail of a man or hoy and. hunted rabbits, could not reasonably tend to rebut evidence tending to prove that at the time they trailed the-defendants they had been properly trained and tested and could be relied upon persistently to trail a person upon whose track they had been put. Conceding that it is permissible in such a case for the conduct of the-dogs on other occasions to be inquired about for the purpose of showing their capacity or lack of capacity to-furnish evidence tending to connect a, certain person, with the commisison of the offense charged, yet certainly the court may so limit the investigation as to exclude evidence of the behavior of the dogs before their-capacity in this respect had been developed, and to confine it to instances of their behavior having a tendency to illustrate to what extent, if any, they could be expected to keep on the trail of a human being a.t or about the time in question. When, in the prosecution of such an inquiry, a question is asked which on its face indicates that it may elicit an answer referring to the details of the behavior of the dogs on an occasion so separated in time from the one under investigation, or under-such dissimilar conditions and surroundings, as not fairly to illustrate their traits or capacity as trailers-at the time they were used to furnish evidence against the defendant, the court is not to' be put in error for-sustaining an objection to it. Unless it is permitted in this way to limit the scope of the inquiry, the time of the court might- uselessly be consumed by recitals of instances of the behavior of the dogs on occasions so remote in time from the one that has been deposed about,, or under conditions so substantially dissimilar, that they could have but a remote tendency to shed light-up on the quqestion of the probative value of the evidence so sought to be assailed.
+Evidence may be excluded when it is such as to furnish a basis for nothing more than mere conjectures or remote inferences in reference to the transaction under investigation.—Wells Amusement Co. v. Means, 2 Ala. App. 574, 56 South. 594. We are of opinion that it was not made to appear that the questions objected to called only for evidence legally relevant to- the issue, and that the court cannot be charged with error for sustaining the objections to them.
+Affirmed.
