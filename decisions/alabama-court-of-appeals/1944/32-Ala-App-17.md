@@ -1,0 +1,52 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 859"
+decided: "1944-11-28"
+citations: ["32 Ala. App. 17", "21 So. 2d 286"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HANF v. STATE."]
+source_url: "https://static.case.law/ala-app/32/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1686150
+cites_cases: ["109 So. 888", "109 So. 889", "19 So.2d 11", "19 So.2d 16", "207 Ala. 444", "21 Ala.App. 482", "215 Ala. 107", "26 Ala.App. 122"]
+---
+
+# Hanf v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+The Attorney General — fairly, we think, to appellant — states the case in his brief filed here, as follows, to-wit:
+“This appeal was brought by Bill J. Hanf, one of two joint defendants indicted, tried, convicted, and sentenced in the Circuit Court of Houston County on the charge that he fraudulently brought into the State a 1940 Ford automobile knowing that the same had been, stolen in the State of Florida. (Code 1940, Title 14, § 337, we interpolate). Judgment of conviction on the verdict of the jury was entered March 27, 1944, and appellant’s motion for a new trial filed April 27, thereafter, was denied by the Court on May 6, 1944. The appellant insists upon reversible error in the Court’s rulings on the admission of certain evidence; the denial of his motion for a new trial based mainly upon the com tention that various questions put to the defendants on the trial by the solicitor were calculated to create an ineradicable prejudice and bias against the appellant and deprived him of a fair and impartial trial; and the refusal of the court to give certain written charges requested.
+“The evidence for the State tended to prove that a 1940 Ford automobile, the property of Jason J. Miles, was stolen from Cottondale, Florida, on the night of January 16, 1944, and found the next morning wrecked in a ‘fill’ in Houston County, Alabama, about thirty miles from the place where the car was stolen; that at the time the car was left by its owner four ration books and a man’s straw hat were in it, and when it was found the hat and two of the ration books were still in the car — the other two books were missing ; that the two missing ration books were recovered by Highway Patrolman Henley on the morning of January 17 from the person of the appellant; that appellant and his companion and joint defendant Ernest Joseph King, Jr., spent a part of the night of January 16 in the home of the state’s witness Harrell, who resided about one-half mile north of the place where the car was found; that appellant and his companion had a conversation on that occasion with Harrell in which appellant said that they had wrecked their car and wanted to spend the rest of the night.
+“The testimony on behalf of the appellant tended to show that the appellant and his companion were together at Marianna, Florida, on the night the car was stolen; that they were hitch-hiking their way to Texas and caught a ride some time after midnight with an unidentified man who put them out of his car when he turned off the highway at a point south of the place where the wrecked car was found; that the appellant discovered the wrecked car, investigated it, and appellant took therefrom the two ration books which were later recovered from him; that the two of them had not been in Cottondale, Florida, on the night that the car was stolen; that they had stopped for the night at Harrell’s house, but the appellant had not had a conversation with the state’s witness Harrell in which he stated that they had wrecked their car, nor did his companion have such conversation; that the car had been severely damaged in the wreck, but no marks of any kind were on the person or the clothing of the appellant or his companion; that the appellant and his companion left Harrell’s house about nine thirty on the morning of the 17th and were apprehended a short distance from the gate of Napier Field and carried to jail in Dothan.”
+We think the testimony of the witness Harrell as to the appellant stating to Harrell that “they (referring to appellant and his joint defendant — not appealing) had wrecked their car and wanted to spend the rest of the night” (with Harrell, who resided one-half mile from where the wrecked car was found), was properly admitted.
+In the first place, the testimony above was not, we believe, of a “confession,” but was rather of an “inculpatory admission of collateral fact,” requiring no predicate of voluntariness to be admissible. Jordan v. State, 26 Ala.App. 122, 156 So. 642, 643. But in the second place, there was sufficient testimony of the corpus delicti already before the jury to render the authority cited by appellant’s counsel inapt. For it is the well-understood law of our State “that inconclusive facts and circumstances tending prima facie to show the corpus delicti may be aided by the admissions or confession of the accused so as to satisfy the' jury beyond a reasonable doubt, and so to support a conviction, although such facts and circumstances, standing alone, would not thus satisfy the jury of the existence of the corpus delicti.” Hill v. State, 207 Ala. 444, 93 So. 460, 462, and authorities cited in the opinion.
+Appellant’s able counsel has filed a very helpful brief on this appeal. We feel it unnecessary to notice any ruling other than the ones treated by him; and believe that when we have answered his contentions a satisfactory disposition will have been made of the case.
+As he states: “The main contention of the appellant for the reversal of this case (judgment) is that there were various incidents in the trial of the cause which created such an ineradicable prejudice and bias against him as to deprive him of a fair and impartial trial.” Industrious counsel then list them, as follows, to-wit:
+1. The Solicitor, in the presence of the jury, asked the defendant (appellant), on cross-examination, the following question: “You stole an automobile in Galveston, Texas, in October, 1942, didn’t you?”
+2. After Ernest J. King, Jr., who was tried jointly with appellant, testified on his cross-examination that “we were frisked at the time he (referring to the highway patrolman who arrested him) put us in the car,” the Solicitor asked King this question: “This ‘frisk’ is a term that is ordinarily used by people that have been arrested before, isn’t it?”
+3. Ernest J. King, Jr., tried, as noted, jointly with appellant, was asked on his cross-examination this question: “You -were a deserter from the United States Navy when this arrest was made and when that happened, weren’t you ?”
+4. Likewise, this question was asked King: “Don’t you know that you were on leave from the United States Navy in Philadelphia and that that leave expired on Christmas Day, 1943, which was three weeks or more before you were arrested about this automobile?”
+Appellant’s objections were sustained to each of the above questions; and the Court was asked to take no further or other action. And took none.
+We are cited, confidently, to the opinion of our Supreme Court in the recent case of Blue v. State, 19 So.2d 11, as authority requiring us to reverse the judgment of conviction, here, because of the matters listed just next hereinabove.
+Regardless of what we might think of the conclusion reached by our Supreme Court, based upon the matters set out in its opinion in the Blue case, such conclusion is of course for us. the law. Code 1940, Title 13, Section 95. And if the situation here were comparable, we would track that conclusion without question.
+But we have no such situation in this case.
+While appellant and his co-indictee Ernest Joseph King, Jr., were tried jointly, they were also tried severally. And the learned trial judge made it very clear to the jury that they might convict one and not the other.
+It will be observed that all the objectionable questions listed above herein, save the first, applied solely to King, who is not appealing.
+So our question comes down to whether or not we will enter a reversal of the judgment of conviction of this appellant — on the authority of Blue v. State, supra—on the ground that the State asked the appellant the single question: “You stole an automobile in Galveston, Texas, in October 1942, didn’t you?” And this because the asking of that question “created an atmosphere of bias and prejudice which no remarks by the court could eradicate.” Blue v. State, supra [19 So.2d 16].
+.We will not. We think the law applicable is as stated by this court in the opinion in the case of Riggan v. State, 21 Ala.App. 482, 109 So. 888, certiorari denied Id. by our Supreme Court, 215 Ala. 107, 109 So. 889, viz.:
+“This question was improper and unfair, and had no place upon the trial * * *. The court took this view of the question and promptly sustained the objection interposed by defendant. Having ruled with the defendant, he cannot here complain of such ruling.
+“No other ruling of the court was invoked in this connection. No motion was made to withdraw the case from the jury and declare a mistrial and continue same. In other words, the only ruling here invoked was favorable to appellant. This being true, it is elementary the court cannot be put in error in this connection.”
+This brings us to the refusal of certain written charges requested by appellant.
+Written charges 2 and 7 were at first marked “refused” by the court; but were, later, endorsed “given,” and read to the jury. Of course this cured any error there might have been in the first action with reference to these charges.
+Appellant’s counsel admits — as well he should- — that written, requested charge 11 was covered by and included in the trial court’s excellent oral charge to the jury.
+Written, requested, and refused charge 13 was, as the Attorney General points out, abstract.
+We have given that careful consideration to the case which its importance demands. And have carefully considered the brief filed on appellant’s behalf by his able and aggressive counsel. But we can find nowhere an erroneous ruling or action to have been made or taken by the learned trial court.
+The evidence was ample to support the verdict returned by the jury.
+The motion to set same aside and grant appellant a new trial was refused without error.
+The judgment appealed from must be affirmed. And it is so ordered.
+Affirmed.
+246 Ala. 73.
