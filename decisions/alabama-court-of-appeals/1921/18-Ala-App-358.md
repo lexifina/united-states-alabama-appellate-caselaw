@@ -1,0 +1,54 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 698"
+decided: "1921-12-20"
+citations: ["18 Ala. App. 358", "92 So. 206"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KNOX v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0358-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645149
+cites_cases: ["103 Ala. 30", "11 Ala. App. 125", "15 Ala. App. 91", "15 South. 892", "155 Ala. 78", "17 Ala. App. 301", "207 Ala. 712", "3 Ala. App. 352", "39 South. 569", "57 South. 98", "71 Ala. 481", "76 Ala. 8", "80 South. 370", "92 South. 920"]
+---
+
+# Knox v. State
+
+## Majority (BBICKEN, P. J.)
+
+BBICKEN, P. J.
+This defendant was indicted by the grand jury of Jefferson county for the offense of assault and battery upon one Pbil Painter. From a judgment of conviction he appeals.
+It appears without dispute that the alleged assault complained of was in fact committed by defendant, and further that, upon the trial of this cause in the court below, no element of self-defense was involved, and that the only issue presented and relied upon by this appellant was the defense, provided for under section 6308, Code 1907, the provision under this statute being that, on 'the trial of any person for an assault or an assault and battery, he may give in evidence any opprobrious words or abusive language used by the person assaulted or beaten at or near the time of the assault; and such evidence shall be good in extenuation or justification, as the jury may determine. It was not contended, nor was there any proof to show, that Painter, the person assaulted, used any opprobrious words or abusive language at'or near the .time of the alleged assault; to the contrary, the defendant himself testified that “the only thing Painter did 'at the time of the assault was to smile or grin.” And thereupon the assault complained of was committed.
+It appears that the alleged assault was committed on Sunday, January 2,1921. Many of the exceptions reserved to the court’s rulings upon the testimony relate to the effort of appellant to introduce in evidence an anonymous letter addressed to “Thomas Kilby, in the Governor’s office” and dated at Birmingham, Ala., on December 18, 1920. The court committed no error in its rulings on these questions. The letter which is marked Exhibit B and set out in tbe record, was inadmissible and irrelevant, and tbe court properly so held. Moreover, there was nothing to show, nor was it made known to the court, that defendant would undertake to show or offer to prove, that any opprobrious words or abusive language, either written, printed, or verbal, in which this defendant was concerned, had been used by Painter, the person assaulted at or near .the time of the assault, and, unless this is shown, and the burden of so showing, to the reasonable satisfaction of tbe jury> was upon the defendant, the provisions of section 6308 of the Code 1907, were not available to defendant, and his defense based upon this statute must fall.
+An effort was also made by defendant to introduce in evidence a copy of “tbe Advance” a newspaper published by Painter in tbe city of Birmingham. Tbe issue offered was dated December 4, 1920. Tbe record recites :
+“This paper contained language insulting, abusive and derogatory of Conrad Austin and the men working under him, of whom defendant was one.”
+Pretermitting the character of language alleged to have been used, the court properly sustained the objection to the introduction of this newspaper in evidence, as from its date it was too remote as to time of the difficulty to be admissible, and there was nothing to show that the paper or the objectionable language alleged to have been contained therein had come to the knowledge of the defendant so recently as to be “at or near the time of the assault.” Brooke v. State, 155 Ala. 78, 84, 46 South. 491, 493.
+Witness Sid Cowan was examined by the state as a state witness. It was therefore permissible for the defendant to undertake to show bias, ill feelings, prejudice or animosity, of this witness toward the defendant at the time of the trial in which he testified, in order to enable the jury to estimate his credibility. And it is the custom or general practice to first interrogate the witness on cross-examination as to his feelings in this respect, and the general rule is that, on crossTexamination of a witness, any fact may be elicited which tends to show such bias or partiality, and, if the witness denies the facts showing the bias, the cross-examining party may call other witnesses to contradict him. Byrd v. State, 17 Ala. App. 301, 84 South. 777. While this is the general rule, we see no reason why the fact indicating bias may not be as well proved in any other legal way, because it is the fact, and not its mode of proof, which goes to the credibility of the witness. Jones v. State, 76 Ala. 8. Underhill on Evidence (2d Ed.) p. 452.
+On cross-examination of witness Co-wan, no effort was made to show his feelings towards the defendant. The defendant did propound several questions, touching this matter, to his (defendant’s) witness N. C. Smith. We are of the opinion that these questions were in the main objectionable a^ being too general and in not confining the state of feelings of witness Cowan towards defendant to the time he testified as an adverse witness against him. These questions as framed may have related to witness’ state of feelings at a time too remote to make the testimony material here. But whether this is true or not, error, if any, committed by the court in this connection was cured by witness Cowan being recalled, and, on recross-examination admitted that he did not like the defendant, and that his feelings toward him were unfriendly.
+Other exceptions reserved to the court’s rulings upon the testimony are without merit. These rulings have each been examined, and no error of a prejudicial nature appears. It does appear that, in these rulings, the court confined the testimony to the res gestae and to the other issues involved upon this trial.
+The exceptions to the portions of the oral charge of the court are also without merit. This charge, when taken as a whole, is free from error, and the substantial rights of the defendant have not been thus injuriously affected.
+The general charge was properly refused to defendant.
+The other refused charges are not numbered, but each of them was properly refused, as the propositions of law involved in these charges were fairly and substantially covered by the oral charge of the court, as well as by the special charges given at request of defendant. These- charges were also properly refused as abstract, there being no evidence adduced upon this trial to show or tending to show that, if any opprobrious words or abusive language were used by Painter, the- assaulted party, directed to or in connection with defendant, that they were so used at or near the time of the assault, in contemplation of the law on this subject; and, if not so used, they were incompetent for any purpose as not coming within the terms of the statute.
+No error appears, therefore the judgment of the circuit court is affirmed.
+Affirmed.
+(gzsaFor other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
+
+## Concurrence (SAMFORD, J.)
+
+SAMFORD, J.
+I concur in the judgment of affirmance in this case, for the reason that the testimony of the defendant himself admits the assault and battery and the contents of the letter or paper, although perhaps a-part of the res gestae, in no way would have justified or mitigated the offense with^which the defendant was charged.
+
+## Rehearing (BRIOKEN, P. J.)
+
+On Rehearing.
+BRIOKEN, P. J.
+The insistence of counsel for appellant, in their application for rehearing, that “the defendant sought to show when the letter, the abusive letter, came to his attention, but this offer was refused”; is not borne out by the record, and it affirmatively appears that no such effort was made at any time during the trial of this case. The same is true as to the further insistence in the application for rehearing, to wit:
+“The defendant sought to show the circumstances and the time when the same came to the attention of the defendant.”
+This statement is also unfounded and is not sustained by the record. To the contrary, the" trial judge intimated to counsel for defendant that this would be necessary, and admonished defendant’s counsel that—
+“in order to get the benefit of the contents of the letter in question, it would be necessary to introduce proof enough to show that this difficulty occurred over or about that letter, before you can ever undertake to introduce the contents of the letter. Xou will have to introduce evidence enough to show that the fight occurred because of Painter’s conduct.”
+Other statements of similar import were addressed- to defendant’s counsel by the court, but, notwithstanding this, the defendant made no effort whatever to show that the letter and paper in question had been written or published so recently or had only come to the. knowledge of the defendant so recently, as to be “at or near the time of .the assault,” under the rule announced in Brooke v. State, 155 Ala. 78, 84, 46 South. 491, 493. The following questions only were propounded to defendant touching this matter:
+“Mr. Knox, you have heard of a good many things Phil Painter has been saying about you and Mr. Austin and the Law Enforcement crowd prior to this time? Had you been told by anybody that Phil Painter, as the editor of ‘the Advance,’ had been publishing things derogatory to your character, and circulating it among the striking miners? Had you or not read in ‘the Advance’ published by Phil Painter, articles advising the striking miners to march on the miners that were at work and run them away as scabs? Had you or not, before that time, learned that this letter had emanated from his office? Had you been told by anybody who had investigated as to the stationery, or, typewriter or anything of that sort, that everything pointed to the fact that he had written that letter? Do you know whether or not the newspaper, ‘the Advance,’ published by Mr. Painter, had been circulated among the striking miners free of charge, and containing a lot of stuff against Austin and his gang?”
+Thus it is clearly shown that the statements contained in the application for rehearing are not sustained by the record, and, as stated in the original opinion, there -was no offer to show or attempt made to prove that the alleged objectionable letter or paper had so recently been published or brought to the knowledge of the defendant to render either the letter or paper admissible as evidence.
+We adhere to the original opinion, as formerly announced by this court.
+The application for rehearing is overruled.
