@@ -1,0 +1,24 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 468"
+decided: "1932-06-21"
+citations: ["25 Ala. App. 181", "142 So. 777"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALLEN v. STATE."]
+source_url: "https://static.case.law/ala-app/25/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1664667
+---
+
+# Allen v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+In proper form and substance the indictment charged this appellant with distilling, etc., alcoholic, spirituous, malted, or mixed liquors, a part of which was alcohol; and, in the second count, with the offense of having in possession, etc., a still to be used for that purpose. This indictment therefore charged two offenses which could properly-be joined in separate counts in the same indictment; they -being of the same character and subject to the same punishment. There was a general verdict by the jury finding the defendant guilty as charged, and judgment of conviction was accordingly pronounced and entered; the court imposed an indeterminate term of imprisonment at hard labor in the penitentiary as the law provides. Prom the judgment of conviction, this appeal was taken.
+Numerous exceptions were reserved to the court’s rulings upon the admission of evidence. These in the main had reference to matters of the res gestre and description of the locus in quo, and. this character of proof being admissible, renders the exceptions inapt and without merit. We refrain from a discussion of the court’s rulings, in this connection, in detail, as no good purpose could be subserved in so doing.
+We are without authority to adjudge that state witness Norwood swore falsely. The jury alone can pass upon the credibility of witnesses and the weight or probative force to be accorded the testimony. Appellant’s urgent insistence that we so hold cannot be sustained.
+Under the first count of the indictment the burden rested upon the state to offer evidence sufficient to establish the material allegations to the satisfaction of the jury beyond a reasonable doubt. It is earnestly insisted that the state, failed in this, as there is no evidence that any of the designated prohibited liquors or beverages were distilled, made or manufactured upon the occasion in question and no contention upon the part of the state that the officers found any such liquors at or near the still. A perusal of the evidence sustains this insistence. No whisky was found at or near the still and no evidence tending to show that the beer found there in the barrels contained alcohol. The cursory evidence of witness Smith as to the state of fermentation was insufficient to imply that it contained alcohol in any quantity. We gather from the record, in the absence of n>ore proof to sustain the first count, that the principal insistence of the state was under the second count, which charged possession of a still, etc. In this connection the evidence without conflict disclosed that the alleged still was incomplete, and that the worm, and probably other component parts, were missing, and that, in the absence of a worm and such other missing parts, it was, as stated, not a complete still, and was incapable of distilling, making, or manufacturing prohibited liquors in that condition. A jpile of evidence is provided by section 4657 of the Code 1923 to the effect that the unexplained possession of any part or. parts of any still, etc., commonly or generally used for, or that is suitable to be used in, the manufacture of prohibited liquors and beverages, shall be prima facie evidence of a violation of the offense denounced in section 4656 of the Code 1923. However, this is a matter of proof, and the courts may not take judicial knowledge that the alleged parts of a still came within the purview of the statute, supra. There was no attempt to show that the incomplete still or the parts thereof testified about was or were commonly or generally used for, or that such part or parts were suitable to be used in, the manufacture of prohibited liquors or beverages. In the absence of such proof, a prima facie case, as contemplated by the statute, supra, was not established and the defendant was entitled to the affirmative charge requested by him and refused by the court as to count 2. For like reasons the affirmative charge as to count 1 should have been given as requested. The error of the court in refusing said charges is conclusive of this appeal ; hence other points of decision need not be discussed. Innumerable authorities in accord with.the foregoing may be found cited in Shepard’s Alabama Citations, vol. 3, p. 442, and on page 158, Shepard’s Alabama Citations, vol. XVII (May, 1932, Sup.).
+Reversed and remanded.
