@@ -1,0 +1,24 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1911-11-30"
+citations: ["3 Ala. App. 322", "57 So. 58"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Higdon, et al. v. Fields."]
+source_url: "https://static.case.law/ala-app/3/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1615512
+cites_cases: ["106 Ala. 303", "12 N. J. Law, 114", "156 Ala. 253", "168 Ala. 612", "17 Ala. 566", "171 Ala. 25", "21 Am. Dec. 62", "53 Ind. 108", "55 South. 170", "55 South. 611", "57 Ala. 145", "58 Ind. 108", "6 Ala. 148", "6 South. 750", "88 Ala. 355", "89 Ala. 305", "95 Ala. 105"]
+---
+
+# Higdon v. Fields
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+In view of the emphatic declarations accompanying the announcement of recent rulings on the subject, it is not believed that anything more than a reference to some of the controlling authorities is called for in stating the propositions, that, when the gravamen of the action is the alleged nonfeasance or misfeasance of another, the complaint must show the existence of a relation between the parties out of which arises a duty owing from the defendant to the plaintiff, and that the modern practice- of recognizing that a breach of the duty so shown may sufficiently be averred by the use of general and informal allegations of negligence, constituting the default complained of, amounting to little, if any, more than statements of the pleader’s conclusions on the subject, has not been so extended as to have application in the matter of pleading the existence of the duty claimed to have been breached, but that in this matter of alleging that the defendant owed the plaintiff a duty appropriate- averments of the facts or circumstances out of which the duty springs are required, leaving it for the court to determine from the facts set out what, if any, duty is shown by the averments to have been owing by the defendant to the plaintiff, a statement of the pleader’s conclusion on this subject not being regarded as sufficient.—Tennessee Coal, Iron & R. Co. v. Smith, 171 Ala. 25, 55 South. 170; Republic Iron & Steel Co. v. Williams, 168 Ala. 612, 53 South. 76; Alabama Consolidated C. & I. Co. v. Hammond, 156 Ala. 253, 47 South. 248; Leach v. Bush, 57 Ala. 145.
+The demurrers to the complaint in this case raised the question of the sufficiency of a duty owing by the sheriff to the plaintiff to make a levy under the writ of attachment mentioned.
+To put a sheriff under a duty to make a levy under such a writ, something more must be shown than the mere fact that it came to his hands. He was under no duty to make a levy under it unless the defendant in the writ owned, or at least was in possession of, the property legally subject to be levied on, and which the sheriff would have found if he had been duly diligent. Unless there was property subject to levy within reach of the sheriff, and which, by the exercise of reasonable diligence, he could have found, he could have been guilty of no neglect of duty in not levying.—Governor v. Campbell, 17 Ala. 566. Smith, Stewart Co. v. Castelow, 88 Ala. 355, 6 South. 750, was an action against ■the sheriff and the sureties on his official bond for his failing to make the money on an execution. The expressions contained in the opinion delivered in that case indicate that the court recognized the necessity of the complaint in such an action specifically averring that the execution debtor had property subject to execution ; but it was held that the complaint in that case was not subject to demurrer on that ground, because it alleged the actual levy of the execution on a house and lot as the property of the defendant; the court regarding that .his act .in making such levy involved an admission by the sheriff of the fact of ownership by the debtor of the property levied on and that it was subject to levy.
+The complaint in the present case shows that no levy of the writ of attachment was made, and does not show that the defendant in the writ had any property subject to levy. Its averment to the effect that the sheriff could have levied the writ on the property of the defendant in Jefferson county does not amount to an averment that the defendant had property in that county subject to levy under the writ. In the absence of any averments in the complaint showing that' the defendant in the attachment had property which could have been found and levied on by the sheriff, we are of opinion that it fails to show that the sheriff was under the duty to the plaintiff to- make a levy, and that the demurrer raising this objection to the complaint should have been sustained.—State v. Roberts, 12 N. J. Law, 114, 21 Am. Dec. 62; Montgomery v. State, 58 Ind. 108; 35 Cyc. 1978.
+Reversed and remanded.
