@@ -1,0 +1,28 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1913-04-08"
+citations: ["7 Ala. App. 163", "62 So. 292"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cooley v. The State."]
+source_url: "https://static.case.law/ala-app/7/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820260
+cites_cases: ["10 South. 665", "105 Ala. 109", "105 Ala. 5", "105 Ala. 60", "105 Ala. 72", "113 Ala. 620", "114 Ala. 3", "116 Ala. 468", "122 Ala. 97", "125 Ala. 593", "126 Ala. 593", "128 Ala. 283", "130 Ala. 66", "135 Ala. 9", "19 Ala. 51", "2 Ala. App. 242", "28 South. 510", "29 South. 771", "33 South. 266", "42 Am. Rep. 95", "46 Ala. 30", "46 Ala. 80", "57 South. 68", "58 Ala. 215", "58 Ala. 74", "67 Ala. 55", "7 South. 104", "7 South. 315", "71 Ala. 1", "71 Ala. 321", "81 Ala. 288", "84 Ala. 417", "84 Ala. 421", "87 Ala. 107", "88 Ala. 31", "88 Ala. 81", "88 Ala. 91", "9 South. 279", "90 Ala. 631", "91 Ala. 83", "94 Ala. 14", "96 Ala. 6", "97 Ala. 37", "98 Ala. 45"]
+---
+
+# Cooley v. State
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+The defendant was convicted of the offense of arson for burning a house occupied by one James Owen, who was a tenant of one Jeff Bullington, the OAvner of the house. It Avas the theory of the state’s case that the defendant burned the dwelling through a spirit of revenge entertained against Owen & Bulling-ton, due to their participation in and the activity displayed by them in bringing about the accusation, trial, and conviction of the defendant for stealing a cow about two years before the burning. This spirit of revenge sought to he shown as entertained by the defendant was relied upon as showing a motive for the act.
+That part of the testimony of the witness Owen objected to by the defendant was relevant and competent for the purpose of showing his participation in the accusation against the defendant for the theft of the cow. These matters were shown to have been communicated or made known to the defendant, and the evidence was properly admitted as having a tendency to show a motive upon the part of the defendant for burning the house occupied by the witness. When it is shown that a crime has been committed, evidence having a tendency to show motive to commit the offense, though weak and inconclusive, is nevertheless admissible. — Overstreet v. State, 46 Ala. 80; Marler v. State, 67 Ala. 55, 42 Am. Rep. 95; Duncan v. State, 88 Ala. 81, 7 South. 104; Pate v. State, 94 Ala. 14, 10 South. 665.
+The statements made to the witness Owen by the defendant were admissible for the same purpose. A proper predicate was not laid in asking this witness, on cross-examination, about contradictory statements made by him, and the court properly sustained the solicitor’s objection to the question. The court, however, was in error in not”permitting the defendant, on cross-examination, to show by this state’s witness, if he could, that he was endeavoring to earn or “was after” a reward that had been offered by Bullington for the arrest and conviction of the party guilty of having burned the house. This evidence would have had a tendency to show bias, feeling, or interest of the witness, which the defendant had a right to have the jury consider in determining what weight or credibility they would give to the testimony of the witness. — A. G. S. R. Co. v. Johnston, 128 Ala. 283, 29 South. 771; Fincher v. State, 58 Ala. 215; Shepherd v. State, 135 Ala. 9, 33 South. 266; Wheat v. State, 2 Ala. App. 242, 57 South. 68; L. & N. R. R. Co. v. Tegner, 125 Ala. 593, 28 South. 510.
+It was not shown that the defendant had any knowledge of the fact that Bullington had refused to sign an application for the defendant’s pardon while serving a sentence in the penitentiary for grand larceny, and proof of this fact to show motive was not admissible, and the court was in error in not sustaining the defendant’s objection to the question eliciting this testimony from the witness Bullington. Unless this fact had been in some way communicated to the defendant, it could form no basis for influencing his actions.
+"We think the court was also in error in refusing to allow the defendant to testify with respect to “how long” he remained at a certain place, in accounting for his whereabouts between the time of the commission of the offense and his arrest, and whether or not he had remained in the neighborhood. There was no evidence of flight introduced, but the state had been permitted to show where the defendant had been during this period, and the defendant was entitled to rebut this part of the state’s evidence. It is permissible on the trial of a criminal prosecution to show the whereabouts of the defendant, both prior and subsequent to the commission of the offense, to the time of arrest, and the defendant’s objections to the questions eliciting this testimony from two of the state’s witnesses were properly overruled (Rains v. State, 88 Ala. 91, 7 South. 315; Perry v. State, 91 Ala. 83, 9 South. 279); but the defendant would have the right to rebut testimony of this nature, just as he would have the right to rebut any other competent evidence introduced against him on the trial.
+The rulings of tbe court in allowing the witness Swift to testify to statements made by the-defendant to the witness relative to burning the barn were free from error.
+The refused charges stating correct rules of law seem to be fully covered by the numerous given charges, and contain no proposition requiring discussion.
+For the errors in the rulings on the evidence that we have pointed out, the judgment of the lower court must be reversed.
+Reversed and remanded.
