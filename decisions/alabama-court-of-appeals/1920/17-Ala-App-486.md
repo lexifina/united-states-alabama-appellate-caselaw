@@ -1,0 +1,33 @@
+---
+court: "Alabama Court of Appeals"
+docket: "2 Div. 208"
+decided: "1920-06-08"
+citations: ["17 Ala. App. 486", "86 So. 173"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRAZIER v. STATE."]
+source_url: "https://static.case.law/ala-app/17/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1641195
+cites_cases: ["107 Ala. 27", "11 Ala. App. 299", "11 South. 435", "120 Ala. 293", "123 Ala. 48", "13 Ala. App. 206", "148 Ala. 628", "151 Ala. 10", "152 Ala. 89", "16 Ala. App. 534", "16 Ala. App. 68", "18 South. 238", "183 Ala. 30", "2 South. 451", "25 South. 6", "26 South. 512", "44 South. 46", "44 South. 537", "52 Ala. 400", "59 Ala. 52", "62 South. 1027", "66 South. 896", "69 Ala. 320", "8 Ala. App. 164", "8 Ala. App. 391", "82 Ala. 38", "82 South. 785", "83 South. 359", "86 South. 172", "96 Ala. 60"]
+---
+
+# Frazier v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+Omitting the formal parts of the indictment, the offense charged therein was that “John Frazier did, after the 25th day of January, 1919, distill, make, or manufacture alcoholic or spirituous liquors or beverages contrary to law.” This indictment was drawn under section 15 of the act known as the “Bone Dry Law,” approved January 25, 1919 (Acts 1919, pp. 6, 16). The indictment as drawn is a strict compliance with the provisions of this act. Miller v. State, 16 Ala. App. 534, 79 South. 314; Burrell Howard v. State, ante, p. 464, 86 South. 172.
+The defendant was convicted as charged, and given an indeterminate sentence of imprisonment in the penitentiary Within the terms of the' punishment prescribed in the statute, .the term of imprisonment imposed being not less than the minimum and not greater than the maximum punishment provided for in said statute. The insistence that the court erred in thus sentencing the prisoner is without merit. Acts 1919, pp. 6, 16; Acts 1919, p. 148, §§ 1, 2; Ex parte Rogers, 82 South. 785; Rogers v. State, 83 South. 359. However, the judgment of the court does not recite that the defendant was asked by the court whether he had anything to say why the sentence of the law should not be pronounced against him. The conviction of this defendant, under the statute, was for a felony, and the failure to propound this question when passing sentence in cases of felony is erroneous. Bryant v. State, 13 Ala. App. 206, 211, 68 South. 704; Cranford v. State, 16 Ala. App. 68, 75 South. 274. This error, however, relates to the sentence only, and not to the judgment of conviction, and in cases of this character, if no other error appears, the sentence only will be reversed, and the cause remanded to the lower court for proper sentence. Ex parte Robinson, 183 Ala. 30, 63 South. 177.
+There was no error in the refusal of the court to exclude the testimony as to what Clifford Frazier did, as testified to by witness Smith; this testimony was relevant as being a part of the res gestae. Moreover, no objection was interposed to the question, and in the absence of timely objection to a. question calling for improper testimony^ a motion to exclude such testimony cannot be made.
+There was no error in the ruling of the court in permitting the witness Huey Wood to testify that he, with other officers, had found the still in question the night before, and that at that time no person or persons were about the still, as there was nothing in' this testimony, without more, to affect the defendant or to prejudice his case. The testimony was competent to go to the jury in explanation as to how and when the still was located or found. The fact that the still, one of l¡).rge capacity, was there, as testified to by state’s witnesses, was not in dispute, nor was the presence of the defendant at or around the still on the night and morning of the arrest of the defendant and others in question. The evidence, without dispute, showed that he was there, and that at the appearance of the officers he, with all the others, ran and tried to get away; that this particular defendant was caught near the still while so running by Deputy Sheriff Griffin, and was then and there arrested by him, and at that time he (defendant) was clothed in overalls, which were soiled and dirty, and that defendant’s shoes had beer on them, and that defendant, after his arrest, sent a boV up on the hill target defendant’s pants, and that the boy brought them to defendant, etc. Other evidence, without dispute, amply and fully showed the corpus delicti, as large quantities of whisky and many full sized barrels of mash and beer were discovered at and around the still.
+The only controverted question on the trial of this case was whether the defendant participated in the distilling, making, or manufacturing of the illicit liquors made, and being made, on the occasion in question. There was direct and positive testimony to the effect that defendant was so engaged,- and other evidence from which this inference could easily be drawn, while, on the other hand, the witnesses for defendant testified that the defendant, though present at the time, had nothing whatever' to do with the distilling, making, or manufacturing of the whisky. This, therefore, was clearly a question for the jury to determine. We have carefully examined each ruling of the court upon the evidence, and are of the opinion that the court committed no error of a prejudicial nature in any of these rulings.
+The following written charge was given at the request of the state:
+“The court charges the jury that if, after considering all the evidence in this case, you have an abiding conviction of the truth of the charge, then you are convinced beyond a reasonable doubt, and it would be your duty to convict the defendant.”
+There was no error in giving this charge. McKee v. State, 82 Ala. 38, 2 South. 451; Davis v. State, 8 Ala. App. 164, 62 South. 1027; Coleman v. State, 59 Ala. 52; Owens v. State, 52 Ala. 400; Prater v. State, 107 Ala. 27, 18 South. 238. In Prater v. State, supra, the Supreme Court, in passing upon two charges, practically identical with the charge above quoted, said:
+“The instructions given at the instance of the state are so manifestly correct as not to require discussion.”
+Charges 1 and C, requested by the defendant, were properly refused.
+It follows that the judgment of conviction appealed from is affirmed, except as to the part of the judgment imposing sentence. As to such part, the judgment is reversed, and the cause remanded that the defendant may be sentenced in conformity to the requirements of law.
+Affirmed in part, reversed in part, and remanded.
+Ante, p. 175.
