@@ -1,0 +1,32 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 769"
+decided: "1930-06-17"
+citations: ["23 Ala. App. 555", "129 So. 306"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JACKSON v. STATE."]
+source_url: "https://static.case.law/ala-app/23/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1658082
+cites_cases: ["20 Ala. App. 496"]
+---
+
+# Jackson v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+This appellant, alleged to be a negro or a descendant of a negro, and one Alexander Markos, a Greek woman, alleged to be a white person, were jointly indicted for the offense of miscegenation, the specific- charge being that they “did intermarry or live in adultery, or fornication with each other,” etc.
+We ascertain from the record, which in'its entirety has been read and considered by this court en banc, that upon arraignment this appellant demanded a severance which was granted, and the woman, codefendant, has never been tried.
+“Miscegenation,” under the law of this state, is the mixture of races in marriage, or living together in a state of adultery or fornication, by a white person and a negro, or descendant of a negro; and the offense is made a felony by statute; it is usually termed and designated as “felonious adultery.” This offense is denounced by section 5001 of the Code 1923; it is necessarily the act of two persons, and, on the trial of both, a verdict of guilty as to one only cannot be sustained, as the provisions of section 8698 of the 1923 Code do not apply to an offense of this character, for from the very nature of the offense charged both defendants are equally guilty or equally innocent. Reed v. State, 20 Ala. App. 496, 103 So. 97.
+Where a severance is granted and one defendant only is put to trial, and the other defendant gives testimony against the one so on trial, as here, the rule of evidence provided by section 5635, Code 1923, as to testimony of accomplices, applies; and, the offense being a felony, no conviction can be had on such testimony unless corroborated by other evidence tending to connect the defendant on trial with the commission of the offense.
+Eliminating the racial feature, the constituent elements of the offense are the same as in ordinary cases of adultery and fornication. The voluntary sexual intercourse by the man and woman with each other is not the offense, but an element or constituent of the offense the statute renders indictable. The statute is directed against a state or condition of cohabitation the parties intend to continue, that is to say, a living together in adultery or fornication as distinguished from a single or occasional act of illicit intercourse. In this connection the trial court in this case said: “The only difference between miscegenation and adultery is the fact that miscegenation is committed between white and black, and adultery is between the same race. * * * There must be some living together in a state of adultery or fornication. Just one act, or the occasional act, without the intention to live together in a state of adultery or fornication, would not make out the offense. It is a question of intention. One act would be sufficient if they intended to live together, but there must be some evidence to show that.”
+There was no insistence that the two defendants intermarried. The state relied upon the evidence of the woman in question for a conviction, and her testimony was to the effect that she met the defendant on the streets of Birmingham and by mutual agreement went with him to a negro house, engaged a room, and had sexual intercourse with him one time only, after which she never saw him again. In this connection she testified: “I just happened to meet him on the street. When I went up to him I said nothing. I had never been to this negro woman’s house-before. I. stayed in there about ten minutes.. This is the first time I ever had anything to do with him, and when I got through I went my way and he went his, and since that time I have not seen him or spoken to him.”
+There is no semblance of testimony in this case showing or tending to show any intention upon the part of these two defendants to continue their illicit relations or to live together in a state of adultery or fornication; nor is there any evidence to support an inference that such was their intention. We think the contrary clearly appears, and that this evidence in its worst phase discloses merely a single act by mutual volition, and, as the trial court charged, this is not sufficient to make out the offense.
+The testimony of the woman in question, who was the only witness as to the main facts relied upon for a conviction, was filled with discrepancies and contradictions, and, so far as we have been able to ascertain, her testimony was wholly without corroboration ■from any source. As has been stated, this is necessary under the provisions of the statute, supra.
+We are- of the opinion also that the following incident shown by the record was misleading and its tendencies highly damaging. The record shows: “The Solicitor made this statement to the Court: ‘This woman, if the court please, as far as this defendant is concerned, her age hasn’t anything under the sun to do with it. As far as this defendant is concerned, this woman’s age does not have anything in the world to do with the case. He is inquiring about how old she was when she left Cincinnati, (this man is charged with miscegenation, if the court please. The only issue is -whether or not he had intercourse with this woman and whether or not she is a white woman and he is a negro.’ The court replied: T think so.’” No discussion is necessary to point out wherein the foregoing is erroneous. That it was injurious cannot be questioned, and, so far as the court can know, the jury may have predicated its verdict upon this erroneous statement of the issues involved; the statement pretermits all question of intent to continue the illicit re-' lation, and a living together thus, which of course is a necessary and essential ingredient of the offense.
+The court erred in overruling the motion for a new trial, several grounds of which appear to be well taken.
+For the errors indicated the judgment of conviction from which this appeal was taken is reversed, and the cause remanded.
+Reversed and remanded.
