@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 547"
+decided: "1919-06-03"
+citations: ["17 Ala. App. 158", "82 So. 648"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUISVILLE & N. R. CO. v. CAMODY."]
+source_url: "https://static.case.law/ala-app/17/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1641292
+cites_cases: ["10 How. 242", "10 Pet. 137", "103 Ala. 181", "12 South. 568", "121 Ala. 621", "14 Ala. 263", "148 Ala. 279", "15 Ala. 166", "15 South. 612", "16 S. E. 376", "161 Ala. 278", "19 L. R. A. 701", "2 South. 457", "20 Ala. 433", "20 Am. St. Rep. 566", "24 L. R. A. 100", "25 South. 579", "34 Ala. 408", "34 Am. St. Rep. 734", "37 S. C. 1", "42 Am. St. Rep. 38", "44 Minn. 224", "46 N. W. 342", "49 Am. Dec. 596", "51 Am. Rep. 435", "64 Ala. 299", "75 Ala. 168", "76 Ala. 425", "8 Ala. 81", "8 Port. 333", "80 Ala. 102", "82 Ala. 557", "9 L. R. A. 263", "99 Ala. 130"]
+---
+
+# Louisville & N. R. v. Camody
+
+## Majority (BROWN, P. J.)
+
+BROWN, P. J.
+The plaintiff’s theory of the ease is that defendant extorted the payment of the amount claimed as demur-rage, as a condition precedent to the delivery of the two carloads of lumber to plaintiff’s consignee, George C. Brown & Co., that the consignee paid the demurrage under protest, deducted the amount so paid from the price due plaintiff, and in consideration thereof assigned the claim to plaintiff. Therefore, if the plaintiff was entitled to recover at all, he was entitled to recover under the first count of the complaint as for money had and received. Gulf City Construction Co. v. L. & N. R. R. Co., 121 Ala. 621, 25 South. 579; Steiner v. Clisby, 103 Ala. 181, 15 South. 612; Barnett v. Warren, 82 Ala. 557; Houston v. Frazier, 8 Ala. 81; Thompson v. Merriman, 15 Ala. 166; Hitchcock v. Lukens, 8 Port. 333; Huckabee v. May, 14 Ala. 263; Town Council of Cahaba v. .Burnett, 34 Ala. 408; Maxwell v. Griswald, 10 How. 242, 256, 13 L. Ed. 405; Elliott v. Swartwout, 10 Pet. 137, 156, 9 L. Ed. 373; Aslion v. Durant, 2 Strob. (S. C.) 257, 49 Am. Dec. 596.
+The action for money had and received is denominated “a liberal and equitable action, and lies whenever the defendant has money which ex sequo et bono belongs to the plaintiff.” And privity of contract “except that which arises by implication of law from the fact that the defendant has money belonging to the plaintiff which he 'has no right to retain” is not essential to the plaintiff’s right to maintain the action. Houston v. Frazier, supra; Branch Bank of Montgomery v. Parish, 20 Ala. 433; Steiner v. Clisby, supra.
+The action is subject to equitable defenses, and the defendant may show that “he is in equity and good conscience entitled to retain” the money. 2 Mayf. Dig. p. 250, § 206, and authorities there cited.
+The defendant on the trial by its course, of the cross-examination of the plaintiff’s witnesses, and by the offer of affirmative testimony offered to show that the plaintiff’s possession of the lumber when delivered to the defendant for transportation to George C. Brown & Co. was tortious, and- that plaintiff had no title thereto, that it was' accepted by defendant without knowledge of these facts, and while in transit defendant was given notie^ by the owners, Stout & Irwin, of these facts before the lumber could be delivered to plaintiff’s consignee, and soon thereafter Stout & Irwin filed suit against the defendant for a conversion of the lumber; that pending an investigation of the title the defendant offered to deliver the lumber to plaintiff’s consignee, if indemnified, and plaintiff failed to furnish indemnity; that thereafter, by negotiations between the plaintiffs and Stout & Irwin, plaintiff acquired the title to the lumber from them, and the suit against the defendant brought by Stout & Irwin was dismissed, and plaintiff paid the costs therein. Pending the controversy between Stout & Irwin and plaintiff oyer the title to the lumber, the lumber remained on the defendant’s cars, and the charges for demurrage here involved, which defendant offered to show was reasonable and just, accrued. By the rulings of the court the defendant was denied the right to make this proof, and in this the court committed error.
+If the plaintiff’s possession of the lumber was tortious, and he had no title thereto, after notice by the true owner, the defendant could not deliver the lumber to plaintiff’s consignee without liability, and so far as the plaintiff was concerned, the defendant was within its legal rights in refusing to make such delivery until the plaintiff acquired the title, and in the meantime to make reasonable charges for the use of the cars, unavoidably withheld from use as a result of the plaintiff’s wrong. Merchants’ Bank v. Bales, 148 Ala. 279; Powell v. Robinson, 76 Ala. 425; Young v. East Ala. Ry. Co., 80 Ala. 102; Kohn v. Richmond, etc., R. R. Co., 37 S. C. 1, 16 S. E. 376, 24 L. R. A. 100, 34 Am. St. Rep. 734, 735; Commercial Bank of Selma v. Hurt, 99 Ala. 130, 12 South. 568, 19 L. R. A. 701, 42 Am. St. Rep. 38; Nat. Bank of Commerce v. R. R. Co., 44 Minn. 224, 46 N. W. 342, 9 L. R. A. 263, 20 Am. St. Rep. 566.
+While it was incumbent on the defendant to use reasonable and convenient care to minimize the damages that resulted from plaintiff’s wrong (Strauss v. Merteif, 64 Ala. 299; Daughtery v. Amer. U. T. Co., 75 Ala. 168, 51 Am. Rep. 435; Sloss-Sheffield S. & I. Co. v. Mitchell, 161 Ala. 278, 49 South. 851; 7 Mayf. Dig. p. 231; 8 R. C. L. p. 442, §§ 14 21), yet it was under no duty or obligation to deliver the lumber to plaintiff’s consignee upon its offer to pay freight without satisfactory indemnity. ■
+On the other hand, if Stout & Irwin were not the owners of the lumber when it was delivered to the defendant, or if the plaintiff’s possession thereto was rightful and he had a right to ship it to his consignee, the mere fact that Stout & Irwin made claim thereto and sued the defendant therefor would not justify the demurrage charges.
+For the error pointed out, the judgment is reversed, and the cause remanded.
+Reversed and remanded.
+2 South. 457.
+41 South. 516.
