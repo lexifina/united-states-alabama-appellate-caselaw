@@ -1,0 +1,22 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1913-11-11"
+citations: ["9 Ala. App. 561", "63 So. 769"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fox v. Sampey."]
+source_url: "https://static.case.law/ala-app/9/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623658
+cites_cases: ["104 Ala. 669", "11 South. 200", "12 Ala. 643", "121 Ala. 626", "124 Ala. 199", "127 Ala. 254", "142 Ala. 419", "145 Ala. 312", "146 Ala. 471", "147 Ala. 592", "16 Ala. 13", "173 Ala. 389", "36 Am. St. Rep. 241", "50 Ala. 13", "60 South. 821", "61 South. 431", "64 Ala. 310", "66 Ala. 99", "70 Ala. 183", "71 Ala. 179", "72 Ala. 371", "77 Ala. 157", "80 Ala. 459", "84 Ala. 508", "90 Ala. 215", "95 Ala. 514"]
+---
+
+# Fox v. Sampey
+
+## Majority (WALKER, P. J. —)
+
+WALKER, P. J. —
+This was an action for damages for the conversion by the defendant of two bales of cotton; alleged to be the property of the plaintiff. The defendant’s special plea 4 averred in effect that the cotton in controversy was raised by one Mollie Harkins on plaintiff’s land under a contract with him and was by her sold to the defendant; that, in a previous suit brought by the plaintiff against said Mollie Harkins, the plaintiff claimed under said contract, by virtue of which also the claim asserted by him in this suit is sought to be supported, as a rental contract, and recovered judgment therein, after a trial on the merits, for a designated sum as rent and advances, which judgment was paid by the defendant therein, and said payment was accepted by the plaintiff, and no appeal was taken by him from said judgnient, which was set up as an adjudication precluding the plaintiff from maintaining the claim asserted by him in this suit. We are not of opinion that this plea was subject to the demurrer interposed to it. Its averments showed that the defendant, as to the cotton in question, was, as the purchaser from the defendant in the judgment mentioned, in privity with her, and that the plaintiff recovered that judgment for rent and advances by representing his contract with Mollie Harkins to be for the rent of his land, while in the present suit he was claiming that under the same' contract he was entitled to the cotton grown by Mollie Harkins on his land. A party who obtains a judgment by pleading or representing anything in one aspect is thereby estopped from giving the same thing another aspect in the same or a subsequent suit founded upon the same subject-matter. —Caldwell v. Smith, 77 Ala. 157; Hodges v. Winston, 95 Ala. 514, 11 South. 200, 36 Am. St. Rep. 241; Hill’s Adm’r v. Huckabee’s Adm’r, 70 Ala. 183. “A fact or question which was actually and directly in issue in a former suit, and was there judicially passed upon and determined by a domestic court of competent jurisdiction, is conclusively settled by the judgment therein, so far as concerns the parties to that action and persons in privity with them, and cannot be again litigated in any future action between such parties or privies, in the same court or in any other court of concurrent jurisdiction, upon the same or a different cause of action.” — 23 Cyc. 1215.
+In the trial of the case the plaintiff sought to sustain the claim made in his complaint by proving that the contract under which Mollie Harkins made the crop on his land was one of hire, under our statute on the subject (Code, § 4743), with the result that the plaintiff was the owner of the crop produced except the portion of it to which the laborer was entitled. This claim was utterly inconsistent Avith the one which • the evidence showed Avas successfully asserted by the plaintiff in the former suit in which he recovered judgment on the same contract as one for the rent of the' land; the claim there asserted and recovered on being specifically for rent and advances. Under the pleadings and evidence in the case the former adjudication, to the effect that the contract under Avhich the cotton in question was raised was one for the rent of the land by Mollie Harkins, barred or estopped the plaintiff from claiming in this suit that that contract was one of hire, under Avhich he became entitled to the cotton alleged to have been converted by the defendant. The court properly found and adjudged in favor of the defendant, and the record discloses no error which could entitle the appellant to a reversal.
+Affirmed.
