@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 529"
+decided: "1939-11-14"
+citations: ["29 Ala. App. 688", "192 So. 924"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry TARVER v. STATE."]
+source_url: "https://static.case.law/ala-app/29/cases/0688-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1677184
+---
+
+# Tarver v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+Affirmed.
