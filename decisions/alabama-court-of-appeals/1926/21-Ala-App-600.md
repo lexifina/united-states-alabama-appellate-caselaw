@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "1 Div. 693"
+decided: "1926-11-23"
+citations: ["21 Ala. App. 600", "110 So. 595"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STREANGER v. STATE."]
+source_url: "https://static.case.law/ala-app/21/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1650976
+cites_cases: ["105 So. 397", "105 So. 912", "110 So. 600", "124 Ala. 85", "130 Ala. 129", "149 Ala. 63", "15 Ala. App. 120", "16 Ala. App. 531", "160 Ala. 121", "165 Ala. 122", "170 Ala. 178", "20 Ala. App. 285", "210 Ala. 458", "27 So. 251", "30 So. 473", "43 So. 28", "46 Ala. 307", "49 So. 753", "5 Port. 484", "72 So. 596", "79 So. 312"]
+---
+
+# Streanger v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+The question is solely as to whether defendant has been tried by due process of law. Acts of the General Assembly 1898-99, page 1164, establishes an inferior criminal court in Mobile county, with jurisdiction similar, though somewhat enlarged, to that of the justice of the peace courts. This Act of 1900-01, p. 2575, amends the prior act, adding certain jurisdiction and powers 'therein enumerated, and further providing :
+“The general laws of the state regulating the practice, proceedings, and process of the courts of ju'stices of the peace of Mobile county shall be applicable to said court.”
+This proceeding was begun by affidavit before the clerk of the inferior court charging the offense, upon which was issued a warrant of arrest, returnable to said court. When the case was called for trial, the defendant declined to be tried in the inferior eourt, but demanded a jury trial. Thereupon the defendant entered into bond conditioned for his appearance at the next session of the circuit court of Mobile county, as is required by section 3854 of the Code of 1923. This bond, together with the proceedings in the inferior court, was certified to the circuit court, and upon this process defendant- was tried and convicted. There was no objection raised to the process in the trial court.
+The bond, executed by defendant on his demand for a jury trial, transferring the cause to the circuit court, is authorized by 'section 3854 of the Code. Jurisdiction of the offense is given circuit courts by section 3799 of the Code of 1923, and the execution of the bond, specified in section 3854, supra, is the “due process” necessary to a transfer of the case from the justice court to the circuit court. The filing of the bond in the circuit court effectually transferred this cause from the inferior court of Mobile county to the circuit court. State ex rel. Attorney General, Ex parte (McLasky v. State) 210 Ala. 458, 98 So. 708. I-Iow then can the court proceed to a trial of this defendant without violating constitutional right, safeguarded under section 7 of the Constitution of 1901, which provides:
+“No person shall be accused or arrested, or detained, except in cases ascertained by law, and according to the form which the same has prescribed.”
+The charge here is an indictable offense, within the meaning of section 8 of the Bill of Bights, and, unless express authority has been conferred upon the circuit court by the Legislature to try this cause without an indictment by a grand jury, section 8 of the Constitution forbids the circuit court to proceed, until the cause had been investigated by its grand jury and indictment returned into open court. No such authority appears to us to have been given. Section 3854, supra, transfers the case, but does that section authorize a trial involving defendant’s liberty on such process? Is it an accusation according to the form which has been prescribed? The cases of Alfred v. State, 170 Ala. 178, 54 So. 213, Ann. Cas. 1912C, 1093, Witt v. State, 130 Ala. 129, 30 So. 473, Frost v. State, 124 Ala. 85, 27 So. 251, and State v. Middleton, 5 Port. 484, do not decide tbe question here involved. The Alfred Case related to the right of the Legislature to pass statutes regulating the bringing of prosecutions in misdemeanor eases. So, also, the other cases above referred to, as well as Gaines v. State (Ala. App.) 110 So. 600, and cases there cited are rested upon the power of the Legislature to confer jurisdiction. The question here is not the power of the Legislature to do so, but has it by specific enactment given to the circuit court the power to try eases transferred to it, under section 3854 of the Code, without the formality of an indictment? In the Code of 1865, a section entirely similar to section 3854 of the Code of 1923, applying to proceedings on demand for trial by jury in county courts, was construed by the Supreme Court to mean that where a defendant, charged with a misdemeanor before a county court, demands a trial by jury, he is entitled to have the trial of the case transferred to the circuit court and can then only be tried by indictment. Clark v. State, 46 Ala. 307. The opinion in this case uses these emphatic words:
+“Indictment, then, is the.'only legal mode of proceeding, in such a case as this, in the circuit court. That court cannot proceed to apply the law in any other manner.”
+With this construction placed upon it, this statute was brought forward in all subsequent Codes, until the Code of 1923, which, for obvious reasons, omits it. In passing upon a similar proceeding from a justice of the peace' court, the Supreme Court draws no distinction, but holds the circuit court without authority to try without indictment. Jones v. State, 149 Ala. 63, 43 So. 28. The Clark Case is cited with approval in Lewis v. State, 160 Ala. 121, 49 So. 753, and Smith v. State, 165 Ala. 122, 51 So. 602, and followed in Russau v. State, 15 Ala. App. 120, 72 So. 596, and Smith v. State, ante, p. 70, 105 So. 397.
+Such has been the practice in the courts of this state for more than 50 years.' Originally, the statute was designed to transfer, to the general inquisitorial body of the county, such misdemeanor cases as were begun by malice, prejudice, or other improper motives, or were of such frivolous character as not to warrant prosecution and while, as has been seen, there are some instances where the Legislature by specific act has changed the procedure, the general policy of the state remains the same in prosecutions begun before justice of the peace court, and we are not willing to read into a statute an inferential power overturning this general policy, unless it plainly appears.
+There is no such process appearing in this record as will support the judgment of conviction. Hawkins v. State, 20 Ala. App. 285, 101 So. 514; Smith v. State (Ala. App.) 105 So. 397. The cases of Sanders v. State, 16 Ala. App. 531, 79 So. 312, and Booth v. State (Ala. App.) 105 So. 912, and decisions of like tenor are based upon violations of the prohibition laws of the state and have no application to the case at bar.
+For the reasons hereinabove set forth, this judgment is reversed and the cause is remanded.
+Reversed and remanded.
+Ante, p. 579.
+Ante, p. 70.
+Ante, p. 160.
+(gz^>Por other oases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
