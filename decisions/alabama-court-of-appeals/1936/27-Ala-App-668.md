@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 137"
+decided: "1936-01-04"
+citations: ["27 Ala. App. 668", "165 So. 921"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MUTUAL BENEFIT HEALTH & ACCIDENT ASS’N v. Carl L. BRADLEY."]
+source_url: "https://static.case.law/ala-app/27/cases/0668-06.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1671243
+---
+
+# Mutual Benefit Health & Accident Ass'n v. Bradley
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+Appeal dismissed by appellant.
