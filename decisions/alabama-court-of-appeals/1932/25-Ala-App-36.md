@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 860"
+decided: "1932-03-01"
+citations: ["25 Ala. App. 36", "140 So. 185"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McNEEL et al. v. STATE."]
+source_url: "https://static.case.law/ala-app/25/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1664203
+cites_cases: ["117 So. 156", "17 Ala. App. 12", "18 Ala. App. 494", "19 Ala. App. 176", "19 Ala. App. 82", "22 Ala. App. 409", "22 Ala. App. 422", "95 So. 202"]
+---
+
+# McNeel v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+The three defendants, one a negro and the other two white men, were indicted jointly. The first count charged the unlawful manufacture of whisky, and, the second, the unlawful possession of a still, etc.. There was a third count, but the conviction was had on the first and second, and hence we do not consider the third.
+The facts as disclosed by the record tend to prove a whisky still located on the side of a mountain in St. Clair county, remote from any habitation and in a wood near the foot of the mountain. This still had -been recently operated when the officers found it. It was still warm and there were some live coals in the furnace, and there was warm mash in the still. There was an old mountain road on top of the mountain opposite where the still was found, and between this road and the still there was found a Eord truck and at this truck were the three defendants loading it with whisky in cans. The whisky in the cans was warm, indicating its recent manufacture. Between the truck and the still there was a five-gallon can of whisky sitting near the path on which was lying the coat of defendant James Brown. The truck was off the road in the woods and about fifty yards from the still. The still was complete and suitable to be used in the manufacture of prohibited liquors, except it lacked a worm, without which it could not be used. After the parties had been arrested at the truck the defendant James Brown, in answer to a question by one of the officers as to how much liquor they made, said “that was the first run, we didn’t get a good turn out on it, only got. fifteen or twenty gallons.” Upon being asked by one of the officers where the worm was, defendant Robert Brown said “that the worm was down below the- still her-hind a log and pointed in the direction when he made the statement.” There was no evidence from which the jury could legally infer that the incriminatory statements above set out were heard by the other defendants. The truck was first seen at the place where the arrest was made, early in the morning, and the arrest was made about 3:30 p. m. When examined the truck was found to contain, in addition to the whisky, bedclothing and some rations. The statements of the de-, fendants James and Robert Brown were shown to have been voluntary.
+This court has consistently held that, to support a conviction for the possession of a still, the evidence must show a complete still. Jackson v. State, 22 Ala. App. 409, 117 So. 156. However, we have just as consistently held that the possession of any part of a still commonly or generally used for or that is suitable to be used in the manufacture of prohibited liquors, is prima facie evidence of a possession of a complete still, and would justify a conviction. Code 1923, § 4657; Maisel v. State, 17 Ala. App. 12, 81 So. 348; Lindsey v. State, 18 Ala. App. 494, 93 So. 331; Gamble v. State, 19 Ala. App. 82, 95 So. 202.
+It is the law as contended by appellant that no conviction can be had on the confession of defendant, unless the corpus delicti is proven by independent evidence. In this case' the corpus delicti is amply proven.
+A general objection is all that is required to raise the question of the admission, of an incriminatory statement or confession by defendant, but in this case the court ascertained that the statements were voluntary.
+Mere presence at a still is insufficient to convict a defendant of either manufacturing whisky or possessing the still. Hill v. State, 22 Ala. App. 422, 116 So. 411. Even the added fact that a defendant carried some of the manufactured whisky away from the still will not suffice. Moon v. State, 19 Ala. App. 176, 95 So. 830. But in a case where, as here, there is evidence tending to prove the presence of defendant at the still from the beginning of the “run” until its completion, a handling of the entire product, thb isolation of the still, coupled with the admission of James and Robert, the ease re-comes one of fact for the jury. Without the admission, the proof would have been sufficient to support a conviction for unlawfully possessing whisky, or transporting whisky -in quantities of five gallons or more, hut with the admissions the ease proceeds further and tends to connect these two defendants with the manufacture of whisky and the unlawful possession of a still.
+As to the defendant Isaiah McNeel, there is no evidence tending to connect him with the possession of the still or the manufacture of the whisky. So far as this evidence discloses, Isaiah was never at the still, did nothing towards the possession manifesting no interest in or control over the still, nor did he do anything to aid or abet in the manufacture of the whisky. He might have and doubtless was guilty of possessing whisky, and there was some evidence tending to prove him guilty of transporting, but this defendant is not so charged, and cannot here be so convicted.
+The defendant Isaiah McNeel was entitled to the general charge as requested, and for the error in refusing this charge the judgment as to Isaiah McNeel is reversed, and the cause is remanded. The judgment as to the defendants James Brown and Robert Brown is affirmed.
+Affirmed in part, and reversed and remanded in part.
