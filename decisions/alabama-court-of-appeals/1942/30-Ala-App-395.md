@@ -1,0 +1,37 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 573"
+decided: "1942-02-17"
+citations: ["30 Ala. App. 395", "6 So. 2d 525"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAMS v. STATE."]
+source_url: "https://static.case.law/ala-app/30/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1680182
+cites_cases: ["200 So. 627", "23 Ala.App. 431"]
+---
+
+# Williams v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The indictment charged the defendant with the offense of violating the prohibition laws of this State, Code 1940, Tit. 29, § 92 et seq. It contained three counts, all of the same import, with the usual stereotyped alternative averments. Upon the trial, however, the State sought a conviction solely upon testimony of its two witnesses which tended to show possession, in that, during his (defendant’s) absence from his home, the said witnesses found in the garage, near defendant’s home, a barrel and another container, in which there was, as described by the witness, some “stuff of peach mobley, or whatever you call it.” The principal State witness, one W. W. Thomas, a deputy sheriff, testified, that “Mr. Williams (defendant) told him it was hog feed, and it was his, and that he fed his hogs on it.” And on cross-examination, witness Thomas testified:
+“That Mr. Williams told him that ‘it was hog feed’ but that he didn’t remember where he was when they had the conversation, but that he and Mr. Williams had talked about it. Whereupon he, Mr. Thomas was asked, ‘What did he say he did about it; that he dipped it out of the barrels and carried it and fed it to the hogs ?’ In answer thereto Mr. Thomas said ‘He didn’t say what he did. He said it was old peaches he had left over. He was selling peaches.’ The following question was asked Mr. Thomas, ‘In other words, what you meant when you were talking about hog feed was the contents of those barrels that had peaches and a mixture in them?’ Mr. Thomas answered, T imagine that was true.’ ”
+John D. Stewart, Sheriff of Coffee County, testified that said jug and contents were delivered to him by Mr. Thomas and Parker, and that he sent a specimen therefrom to the State Toxicologist by prepaid express, addressed to Dr. Nixon at Auburn. He said the specimen was in a bottle about the size of an RC Cola bottle.
+Dr. H. W. Nixon testified that he made analysis of certain bottle sent him by Sheriff of Coffee County; that he received said bottle on 8th of July, by express; that it contained five and eight tenths per cent alcohol. Solicitor asked the following question:- “Is it fit for human consumption— human beverage?” Whereupon defendant interposed objection. Dr. Nixon answered “I don’t know, anyway.”
+Character witnesses Joe Barley, John Hughes, Henry Redd, John A. Sessions, Albert Bean, and Will Parrish, then testified that they each had known Mr. Williams, the defendant, for a long time, ranging anywhere from ten to thirty years, and that they knew his general reputation in the community where he lived and that it was good.
+Alma Williams, the defendant, testified that the officers came out to his house on July 6th, 1939; that he wasn’t at home at the time; that said officers came up to town where he was selling peaches from his truck and told him he would have to make bond; that he had some peaches out in his workshop at home, in barrels. He further testified that he used them to feed his hogs on. He further stated that all the peaches he put into the barrels were rotten peaches, and that he didn’t put anything else in there ■but peaches, and no liquid of any kind; and that the barrels of peaches were at his workshop not far from his house, and which was right by a public road; and that he knew the peaches were out there.
+In this case, as in all criminal prosecutions, the State, in order to secure and sustain a conviction, was under the burden to offer evidence, in accordance with the required measure of proof, sufficient to prove every material allegation of the indictment upon which the defendant was being tried. Hence in this case, it was incumbent upon the State to offer proof to the effect that the “stuff of peach mobley or whatever you may call it,” not only contained alcohol, but also, that it was suitable to be used for a beverage purpose; for the law is, “The possession of a liquid which is not suitable to be used as a beverage is not a violation of the law.” Moody v. State, 23 Ala.App. 431, 126 So. 495, 496.
+It appears from the record, that the State made no effort of any sort to prove this material and essential ingredient of the offense charged. The only testimony offered upon this trial as to the character or nature of the liquid in question, was that given by the defendant to the effect that said liquid and rotten peaches were used only to feed his hogs. This testimony was without dispute or conflict. There was nothing to show that anyone, or any person ever even tasted the “stuff of peach mobley or whatever you call it.”
+The earnest counsel for appellant knowing that the'burden rested upon the State in line with the foregoing, brought the matter to the attention of the court in every conceivable way, and specially by requesting in writing the following special charges:
+“4. If you believe from all the evidence tha-t the liquid or mixture, which is alleged to have been found on the defendant’s premises, was not suitable to be used as a beverage, it is your duty to find for the defendant.
+“5. If you believe from the evidence that the contents .of the containers testified about was not a liquid suitable to be used as a beverage, and that it was to be used, and was being used as a feed for hogs, then you must not find the defendant guilty as charged in the indictment.
+“6. The burden of proof is upon the state to convince the jury beyond a reasonable doubt that the contents of the containers testified about, that was found on the defendant’s premises, if it were in fact there found, contained alcohol, and that it was suitable to be used for a- beverage purpose. It is not enough to show that the containers contained peaches and the juice therefrom which contained alcohol. • The State must go further and show that it was suitable to be used for a beverage purpose.
+“14. If the jury believe that the contents of the containers testified about bore no relation to the morals, health, or well, being of any person, ‘but was merely a food for swine, then the jury should find the defendant not guilty.”
+The court refused each of said charges and refused in any manner to instruct the jury as to the law on this question.
+The conviction and sentence of the defendant (appellant) was erroneous, and without the authority of law. It was wrong and unjust. In our opinion the ends of justice demand and require (1) the reversal of the judgment from which this appeal was taken, and (2) that an order be here entered discharging appellant from further custody in this proceeding. Robison v. State, ante, p. 12, 200 So. 627, on rehearing. Code 1923, Sections 3258, 3259, Code 1940, Tit. 15, §§ 389, 390. It is so ordered.
+There were other rulings of the court infected with error, but from what has been said there is no necessity to extend this opinion by a detailed discussion thereof.
+Reversed and rendered.
