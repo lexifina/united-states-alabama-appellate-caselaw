@@ -1,0 +1,37 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 161"
+decided: "1973-11-14"
+citations: ["51 Ala. App. 373", "286 So. 2d 49"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["The HOME INSURANCE COMPANY v. Marjorie W. PUGH and James D. Pugh."]
+source_url: "https://static.case.law/ala-app/51/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1733725
+cites_cases: ["108 S.W. 325", "110 A.L.R. 1060", "128 Ky. 389", "13 N.E.2d 423", "15 N.W. 27", "178 Wis. 349", "189 N.W. 1028", "224 Ala. 605", "24 A.L.R.3d 450", "240 Ala. 499", "250 Ala. 417", "266 Ala. 465", "299 Mass. 601", "34 So.2d 580", "54 A.2d 149", "57 Wis. 56", "73 Ala. 42", "8 Wis.2d 565", "94 N.H. 342", "97 So.2d 574", "99 N.W.2d 865"]
+---
+
+# Home Insurance v. Pugh
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+A.ppellee-wife originally filed suit individually for $4,500 against appellant-insurer on a homeowner’s insurance policy. As a result of defensive pleadings by appellant, the complaint was amended to include appellee-husband as a party-plaintiff.
+The trial court, without the intervention of a jury, found for the appellee-wife, individually, and entered a judgment in her favor for $3,715. Appeal by appellant-insurer is taken from this judgment.
+The evidence tends to reveal that appellees were insured under a homeowner’s policy issued by appellant-insurer; that the property destroyed by fire was owned by the parties; that the appellee-husband intentionally started the fire which destroyed the property; and that the appellee-wife took no part whatsoever in her husband’s activities in regard to starting the fire.
+Appellant, by his assignments of error, contends that the trial court erred to reversal in its finding for the appellee in that the law does not allow an innocent owner to recover on a policy of insurance where his co-owner has wilfully set the jointly owned property on fire. Appellant asserts that there is a joint obligation on the part of the owners to save and preserve the property. The appellant further contends that the trial court erred to reversal in that in a joint action at law, all party plaintiffs must be entitled to recover, or none can recover.
+As to appellant’s first contention, we agree with the general principle of law stated by appellant as it applies in the cases cited. See Klemens v. Badger Mutual Ins. Co, 8 Wis.2d 565, 99 N.W.2d 865; Kosior v. Continental Ins. Co., 299 Mass. 601, 13 N.E.2d 423; Bellman v. Home Ins. Co, 178 Wis. 349, 189 N.W. 1028; Anno. 24 A.L.R.3d 450.
+In this instance, however, we do not believe the general principle stated is controlling. A well recognized exception to the general rule is that if the insured was insane at the time he wilfully or intentionally caused the fire, the insurer remains liable on the policy. In other words, the burning of the property by an insane insured does not release the insurer from liability in the absence of any policy provision to the contrary. This is because the insane party is deemed to be incapable of entertaining a fraudulent intent or of having a conscious design to destroy the property. Couch on Insurance 2d, § 74:662; 44 Am.Jur.2d, Insurance, § 1365; Bean v. Mercantile Ins. Co. of America, 94 N.H. 342, 54 A.2d 149; Bindell v. Kenton County Assessment Fire Ins. Co., 128 Ky. 389, 108 S.W. 325; Karow v. Continental Ins. Co., 57 Wis. 56, 15 N.W. 27; Anno. 110 A.L.R. 1060.
+We can discern no policy provision here which would remove the case from the exception to the general rule stated above. We express no opinion as to the effect of such a provision if present.
+There was ample evidence presented from which the trial court could have determined that the husband-insured was insane at the time of the fire. The following tendencies of the evidence are noted. The husband had a history of problems with abuse of alcohol and pills. He had hallucinations, D. T.’s, had seen visions, and had heard voices talking to him. He would have “spells” during which he would go “all to pieces” and tear the house up, and could not later recall what happened. He had been treated on several occasions at various mental institutions. The evidence tended to show that on one occasion he picked up a knife and said he was going to kill someone. He then went around the neighborhood indiscriminately beating on doors. Also, the husband does not remember burning down the house. The appellee-wife, after fourteen years of marriage, in answer to the question whether she believed her husband was insane on the night of the fire, answered in the affirmative. It also appears that the evidence presented as to evaluation of the husband by the hospital staff at Bryce’s is uncertain. It is stated that the prognosis on him is guarded and his predictability uncertain. There was testimony that the husband had trouble expressing his anger, he was easily upset, and had exhibited characteristics of not being able to distinguish right from wrong.
+Such evidence was sufficient for the trial court to have found the appellee-husband to be insane. If the arsonist was determined insane, the innocent co-insured would be entitled to recover, as would the insane, co-insured. However, the judgment entered by the court makes no finding. It is simply a judgment for one of the co-plaintiffs.
+Appellant’s assignments of error two and four charge that the judgment of the trial court was erroneous in that it ignores the general legal principle of law that all the plaintiffs in a joint action at law must be entitled to recover, or none can recover. Therefore, the judgment cannot stand. See Gore v. Gore, 250 Ala. 417, 34 So.2d 580; Gafford v. Tittle, 224 Ala. 605, 141 So. 653; McLeod v. McLeod, 73 Ala. 42. The above has no application in equity in view of Equity Rule 67. Nor is the principle applicable under the new Alabama Rules of Civil Procedure. See Rule 20.
+The above principle of law is perhaps best stated by Mr. Justice Somerville in McLeod v. McLeod, supra, 73 Ala. at page 45, as follows:
+“Where stveral parties sue jointly as plaintiffs, it is a plain principle that all must be entitled to recover in the action, or none can be permitted to do so. If any one of the several plaintiffs is incompetent to sue, or the evidence sustains the action only as to one or more, and not as to the others, the whole action must fail. The only remedy of the parties plaintiff in such case is to amend the complaint by striking out the names of such as have no cause of action.
+See also Gafford v. Tittle, supra; Odem v. McCormack, 266 Ala. 465, 97 So.2d 574; Sharpe v. McCloud, 240 Ala. 499, 199 So. 848; Gore v. Gore, supra; McLeod v. McLeod, supra.
+Here, the suit was ultimately brought by co-plaintiffs and the trial court found for only one plaintiff. This court cannot speculate as to the trial court’s reason for so finding and, while the appellee contends that the contract is severable and, therefore, the wife alone can recover, such reasoning has no application here, as seen from the above, as the suit was brought by co-plaintiffs. We, therefore, cannot disregard the principle of law as stated in McLeod v. McLeod, supra. We, therefore, must reverse as the judgment is erroneous.
+Reversed and remanded.
+WRIGHT, P. J., and BRADLEY, J., concur.
