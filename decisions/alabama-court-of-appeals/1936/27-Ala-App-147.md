@@ -1,0 +1,32 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 145"
+decided: "1936-02-25"
+citations: ["27 Ala. App. 147", "168 So. 698"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HANSON v. STATE."]
+source_url: "https://static.case.law/ala-app/27/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1671565
+cites_cases: ["103 So. 707", "138 Ala. 17", "20 Ala.App. 426", "34 So. 1025", "9 So. 189", "91 Ala. 100", "99 So. 734"]
+---
+
+# Hanson v. State
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+The defendant was indicted on a charge of unlawfully manufacturing whisky. To this indictment he interposed a plea of former jeopardy, as follows: “He ought not to be required to answer this indictment and that the State ought not to prosecute the same against him, because at the Spring Term of 1932 of the Circuit Court of Etowah County, Alabama, on, to-wit, the 4th day of April 1932, he was charged and put upon trial under an indictment, a copy of which is attached hereto and made a part hereof with leave of reference and marked Exhibit ‘A’; that at the trial, hearing, and consideration as to said 'offense, the defendant was acquitted and discharged; and the defendant says that he is now charged in this indictment of this offense, which is based upon the same matter and transactions and the same act or acts as that for which he was tried and acquitted as aforesaid in the first indictment. All of which the defendant is ready to verify and prays that he be discharged in the present indictment.”
+Exhibit A, which was made a part of the plea, is as follows: “The Grand Jury of said County charges that before the finding of this indictment John Hanson, whose name is unknown to the Grand Jury otherwise than as- stated, unlawfully and with malice aforethought, killed Oscar Johnson by shooting him with a gun or pistol, contrary to law and against the peace and dignity of the State of Alabama.” The court properly sustained the state’s demurrer to this plea. There is no such relation between the crime here charged and the charge of murder set out in the plea as would sustain a plea of former jeopardy. The two are separate and distinct offenses.
+After the venire had been qualified by the court as competent jurors, the solicitor was permitted, over objection by defendant, to ask of the panel: “How many of them (the jury) were present and tried this defendant, John Hanson, on the 4th day of April, 1932, in which he was charged and put upon trial under an indictment for murder?” This was a matter, within the sound discretion of the court, and in the absence of abuse, which does not here appear, will not be reviewed on appeal. Jarvis v. State, 138 Ala. 17, 34 So. 1025; Lundy v. State, 91 Ala. 100, 9 So. 189.
+At an isolated spot, and in a wood, this defendant and others were at a still where whisky was being manufactured. At the time and place, one of the officers engaged in the raid was killed by a gunshot wound fired by some one of the parties there at the still. The defendant, armed with a shotgun, was standing guard and on watch some yards away. On the approach of the officers -this defendant gave the alarm and ran towards the still. After the alarm-was given by defendant and the officer who had gone on towards the still was m the bushes, where the still was located, a shot was fired, and when the other officer came up he found Johnson, the officer who had gone ahead, lying near the still fatally wounded and dying. All this was objected to by defendant, and exceptions reserved. There were no erroneous rulings of the court in the admission of this testimony. The whole of it was part of the res gesta:. The locus in quo of a crime is always admissible and everything said and done at the time, in anywise tending to connect' the defendant with the crime, is of the res gestae.
+It is contended that because defendant was not immediately present at the still that he was not himself actually engaged in the manufacture of the whisky being made and did not fire the shot that killed Johnson, the officer making the raid, that evidence of what happened at the still was not relevant. It is true, generally speaking that the proof of one crime is not ordinarily admissible to establish another or a different crime, but where the two are connected, tending to prove guilt, the fact that the act proven is itself a crime will not exclude it as evidence. Aplin v. State, 19. Ala.App. 604, 99 So. 734.
+Furthermore, where, as here, there is evidence tending to prove that defendant and his associates entered into a conspiracy to manufacture whisky, which under our statutes is a felony, armed themselves with guns to protect their illegal enterprise, some of them to watch, while others did the actual work, the act of one is the act of all, and this conspiracy to a common purpose may be inferred -from all of the facts and. circumstances surrounding the trans■action. Cleveland v. State, 20 Ala.App. 426, 103 So. 707.
+In view of the confession of the defendant as to his participation in the crime charged and the verdict of the jury acquitting defendant of the charge of the unlawful possession of a still, etc., it is unnecessary to pass upon the many objections and exceptions relating to the possession. of the land on which the still was located and the path leading tq and from the still to a well and from the well to defendant’s house. If, as he admits, he was aiding and abetting in the whisky there being manufactured, if there was error in the above testimony, it would not have injuriously affected defendant’s cause.
+Serious objection is made to a written statement, subscribed and sworn to by defendant and used in a prosecution of .this defendant in a case where he was charged with the murder of the officer, Johnson, at the still, where defendant is now charged with making whisky.
+There were some erasures and interlineations in the writing, but these, as testified to by the solicitor who wrote the statement, were made before it was signed by defendant. A proper predicate was laid for the introduction of the statement. The admission of this evidence was without error.
+The oral charge of the court was a full and fair statement of the law, and when taken and considered as a whole, was free from error.
+We find no error, and the judgment is affirmed.
+Affirmed.
