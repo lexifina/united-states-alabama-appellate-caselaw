@@ -1,0 +1,24 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1928-01-10"
+citations: ["22 Ala. App. 286", "115 So. 65", "5 Div. 672"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROWN v. STATE."]
+source_url: "https://static.case.law/ala-app/22/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1654478
+---
+
+# Brown v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The charge, by indictment, against this appellant was assault and battery alleged to have been committed by him upon his wife, Nettie Brown.
+Upon the trial the wife testified that the appellant kicked her out of bed twice, and in addition thereto he choked and beat her. The defendant, testifying in his own behalf, admitted that on the occasion in question he was angry and that he did kick- his wife out of the bed twice; he denied, however, that he beat and choked her. This conflict in the evidence was for the jury. The defendant was convicted as charged, and the jury assessed a fine against him of $50.
+To the fine assessed by the jury, the court in its wisdom, and in the exercise of the prerogative conferred by law, added three months’ hard labor for the county. It is therefore deducible that the learned trial judge took the view that if the defendant was guilty of the unusual conduct complained of, the fine assessed by the jury was inadequate and not commensurate with the crime. The court no doubt looked to the fact that the connubial couch was unfitted for, and was no place for,' a scene of combat, and that the conduct of the husband in twice kicking therefrom the wife of his bosom deserved greater censure and a severer punishment than that fixed by the jury. In this we are in accord, for we find nothing in this record to justify, extenuate, mitigate, or excuse the admitted unseemly conduct of-the accused. In this case the injured wife testified, and her evidence on this point appears to be without dispute, that all she said to her husband (defendant) 'upon his return home about 2 o’clock at night was to ask him “if he had brought anything for breakfast,” and he said, “no, and that he was not going to bring anything.” She further testified, “We did not have anything to eat.” It was the duty of this husband to nourish and protect his wife. It appears that instead of doing so he became angered at this natural, proper, and modest inquiry and proceeded forthwith to “kick her out of bed.” In the Book of Proverbs we find it said: “It is better to dwell in the wilderness, than with a contentious and an angry woman.” Also, “It is better to dwell in the corner of a housetop, than with a brawling woman, and in a wide house.” But here, these manifest truisms are unavailing to this appellant, for there is nothing in this record which tends to show that this man’s consort was the kind of woman that the all wise Solomon, or whoever was the author of the above-quoted proverbs, had in mind.
+No doubt a continually nagging, contentious, and brawling woman is accursed. Certainly such a creature is calculated to curse and forever damn the existence of any man into whose life she may permanently come; and while the law does not authorize the husband to chastise the wife with rudeness and blows in order to coerce her obedience to his domestic commands, as was allowed, it seems, during the reign of Charles the Second, among certain classes of the people, yet the law of this day permits a man charged with the offense of assault and battery, even though committed upon his own wife, to give in evidence any opprobrious words or abusive language used by the person assaulted or beaten at or near the time of the assault or affray; and such evidence shall be good in extenuation or justification, as the jury may determine. In other words, if. a husband commit a battery upon the wife, he may give in evidence the circumstances of provocation attending it, which her bad behavior and misconduct afforded, and such evidence may be considered by the jury for the purposes above indicated; for the law so far regards the frailty of human nature as to distinguish between him who upon sudden provocation commits an unlawful act, and one who does it wantonly and deliberately. The same measure of punishment is not, and ought not to be, applied indiscriminately to both.
+In the case at bar, no special charges were requested, nor was there a motion for a new trial. Several exceptions were reserved to the court’s rulings upon the admission of evidence. These have been examined, and no error of a reversible nature appears in any of the rulings complained of. Under the defendant’s . own testimony he was guilty of the offense charged. The judgment of conviction, from which this appeal was taken, will therefore stand affirmed.
+Affirmed.
