@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1913-04-08"
+citations: ["8 Ala. App. 370", "62 So. 331"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shaneyfelt v. The State."]
+source_url: "https://static.case.law/ala-app/8/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821162
+cites_cases: ["111 Ala. 23", "117 Ala. 144", "148 Ala. 612", "158 Ala. 5", "20 Ala. 54", "48 South. 373", "55 Ala. 355", "8 South. 679", "86 Ala. 59", "91 Ala. 45"]
+---
+
+# Shaneyfelt v. State
+
+## Majority (THOMAS, J.)
+
+THOMAS, J.
+— The defendant was indicted and tried for a violation of the prohibition law. The indictment was returned by the grand jury and filed in open court on October 26, 1911. At the trial, there was hut one witness introduced for the state, who testified on direct examination that he bought two pints of whisky from defendant on the same day and paid him 75 cents for it, and that this ivas in December, 1911. This put the sale proved after the finding of the indictment. Here the solicitor asked the witness: “Do you not remember being before the grand jury in October, 1911, and is it not a fact that you bought said whisky before you wrent before the grand jury and before the indictment in this case was found against the defendant?” To this question the defendant objected on the ground that it was leading and also called for illegal, incompetent, and immaterial evidence, which objection was overruled by the court, to which action exception 'was then taken.
+While the question is objectionable as being leading, yet the testimony it calls for is clearly competent, material, and relevant. It is often true that a person cannot remember the date, or near the -date, wlien a certain event happened, but does remember' clearly that it happened before a certain other event, and after ascertaining the date of the latter event can more proximately fix that of the first. It is within the discretion of the trial court to permit a leading question, and it will not be put in error in so doing unless it appears that its discretion was abused. — Code, § 4018; Pitman v. State, 148 Ala. 612, 42 South. 993; Reaves v. State, 158 Ala. 5, 48 South. 373; Brassell v. State, 91 Ala. 45, 8 South. 679; We find here no abuse of that discretion.
+The witness answered that he bought the whisky before he went before the grand jury, but did not remember when it was that the grand jury convened. He stated further, upon interrogation by the solicitor, that he bought the whisky two or three or four months before the grand jury convened. On cross-examination he stated that he bought the whisky December 1, 1910, and then further qualified it by saying: “I would not say for certain whether it was on Monday, but it was about the first of December, 1910, or about the first of December, 1911; I couldn’t say which.”
+Upon conclusion of the testimony of this witness, which was all that Avas introduced by the state, the defendant’s counsel moved to exclude his testimony on substantially the following grounds: (1) Because the evidence shoAved that the alleged sale testified to was made in December, 1911, and after the date when the indictment was found and filed. (2) Because the evidence is not sufficient to sustain the indictment. (3) Because the evidence varies from the allegations of the indictment. (4) Because the evidence is incompetent, irrelevant, and immaterial.
+There was evidence tending to show a sale of the liquor by the defendant to the witness within 12 months before the finding of the indictment, its weight was exclusively for the jury, and the court properly overruled the motion. That the jury understood that the burden Avas on them of determining from the evidence and believing beyond a reasonable doubt all the essential facts is clear from the following written charge given them by the court at defendant’s request, to wit: “Gentlemen of the jury, unless you believe from the evidence beyond all reasonable doubt that the defendant is guilty as charged in the indictment of selling whisky to the witness (Darris Johnson) at the time and place relied on by the state * * * .within 12 months prior to October 26, 1911 [the date of the finding of the indictment] , you must find the defendant not guilty.”
+Although, on cross-examination, the state’s witness testified that he did not know how much alcohol the whisky he bought from defendant contained, whether one-half of one per cent, of alcohol or not; yet he did testify that it was whisky. The ordinary man knows what whisky is from its taste, appearance, and effect upon his system; but a great many who thus know what it is do not even know that alcohol is one of its ingredients, much less the percentage of it that it contains. The statute prohibits the sale of spirituous liquors, whisky is a spirituous liquor, and witness swore that it was whisky that- he bought from defendant. His cross-examination did not reveal that it was not whis-ky, but only revealed that witness did not know the ingredients of whisky. This is not a sufficient test of witness’ knowledge of whisky to show that he did not know that what he bought was whisky. Hence the trial court properly submitted the matter to the jury.
+We find no error in the record, and the judgment of conviction is affirmed.
+Affirmed.
