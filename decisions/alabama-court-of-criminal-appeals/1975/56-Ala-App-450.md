@@ -1,0 +1,50 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "6 Div. 894"
+decided: "1975-11-18"
+citations: ["56 Ala. App. 450", "322 So. 2d 741"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur."]
+parties: ["Oliver CARTER, Jr. v. STATE."]
+source_url: "https://static.case.law/ala-app/56/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1747063
+cites_cases: ["106 Ala. 41", "140 So.2d 315", "17 So. 679", "178 So.2d 565", "243 Ala. 605", "267 Ala. 588", "268 So.2d 877", "274 So.2d 360", "275 Ala. 115", "278 Ala. 708", "280 So.2d 177", "280 So.2d 182", "290 Ala. 364", "290 So.2d 241", "291 Ala. 224", "291 Ala. 774", "4 So. 775", "43 Ala.App. 6", "49 Ala.App. 587", "49 Ala.App. 97", "50 Ala.App. 471", "52 Ala.App. 174", "84 Ala. 435"]
+---
+
+# Carter v. State
+
+## Majority (LEIGH M. CLARK, Supernumerary Circuit Judge.)
+
+LEIGH M. CLARK, Supernumerary Circuit Judge.
+This is an appeal from a conviction of rape and a sentence to the penitentiary for ten years.
+According to the testimony of the alleged victim, she was awakened by an intruder in her apartment about 3:00 A.M., March 1, 1975. She was sleeping alone in a bed. The only other occupants of the apartment at the time were her two children of the ages of six and three years, who were sleeping in an adjoining room. She had been recently divorced. She went to bed the evening before at about nine or ten o’clock after she had put the children to bed. She left the window of their bedroom slightly cracked; she went to bed in the nude as was her custom; she was awakened by being poked with a sharp object, which she did not identify at the time but testified that it had the appearance of a letter opener. When she turned over and saw the intruder she observed that he had a handkerchief across the lower part of his face. There was conversation between them as to who else was in the apartment. The man climbed in bed with her and had intercourse with her; she did not resist. She was positive in her identification of defendant; she had never seen him before. Promptly after he left through a door, she locked the doors and closed and locked the windows and checked the children, whom she found asleep. She then went into the bathroom, took a hot bath and went through a feminine cleansing process. She put on her clothes, bundled up her children, got in her car and went to a pay phone booth and called her ex-husband. There was no phone in her apartment. When her ex-husband arrived they took the children to her mother’s home; then she and her ex-husband went to the police station and reported the incident to the police.
+Defendant did not testify, but members of his family testified to the effect that on the night of the alleged crime he went to bed at a place some four miles from the scene of the crime, approximately an hour prior to its commission, and that he had no means of transportation sufficient to place him there at the time the crime was committed.
+Appellant does not contend that the failure of the woman to physically resist precluded a conviction. The rule has been stated time and again to the contrary. We apply here what was said in Rudolph v. State, 275 Ala. 115, 152 So.2d 662:
+“The offense of rape is complete when the woman is made to yield through fear. Hooper v. State, 106 Ala. 41, 17 So. 679. The evidence in this case clearly supports a finding that the prosecutrix yielded to her assailant because of fear that her life was in danger. The evidence was not only sufficient to take the case to the jury on the charge of rape, but was amply sufficient to support the verdict of the jury.”
+Appellant’s counsel, who was appointed to defend him on the trial and to represent him on appeal, in view of his indigency, has ably argued here as he contended there that “the circumstances of her divorce and . . . relationship with her former husband, which appeared to be close in view of her calling upon him immediately following the claimed rape” justified his efforts to explore and bring before the jury “the possible bad actual character for chastity of the prosecuting witness.” The only cases relied upon by appellant are McQuirk v. State, 84 Ala. 435, 4 So. 775 (1888); Stone v. State, 243 Ala. 605, 11 So.2d 386 (1943); Brown v. State, 50 Ala.App. 471, 280 So.2d 177, cert. denied 291 Ala. 774, 280 So.2d 182 (1973). No support for the position of counsel for defendant-appellant is to be found in the cases cited, singly or collectively. All three recognize the principle that the general reputation of the prosecutrix for unchastity can be shown by defendant in a rape case. Such was not sought to be shown here. What was held in McQuirk and Stone is stated in McElroy, Law of Evidence in Alabama, § 32.-01:
+“Evidence of specific acts of unchastity by the prosecutrix with third person is not admissible as tending to prove her bad character for chastity. McQuirk v. State, 84 Ala. 435, 4 So. 775; Stone v. State, 243 Ala. 605, 11 So.2d 386.”
+In Brown v. State, supra, it was held that the trial court should have allowed testimony shpwing the general reputation of the prosecutrix for unchastity, but it was not held that defendant could inquire into the question of specific acts of intercourse with third persons. One reason for refusal to allow such an inquiry is stated in Stone v. State, supra, [2, 3] as follows:
+“ . . . The basis of such rule, we take it, is the same as in other cases, the unwisdom of opening the door to collateral issues tending rather to hinder than promote justice. . . . ”
+We can think of no type of case in which the reason for the rule could be more persuasive than in this case, in which commendable fidelity on the part of the prosecutrix to her ex-husband and on the part of him to her and on the part of both to their children was displayed.
+In the closing argument of the State the following occurred:
+“MR. TUCKER: She testified she did not willingly submit to this but that everything done there was because she was afraid for her own safety and the safety of her children.
+“MR. MOSES: We object to that. There is no evidence of that in the testimony.
+“THE COURT: Ladies-and gentlemen, either lawyer can argue any inference of what they draw from the evidence. What they say in the case is not evidence. Ladies and gentlemen, you have listened to it, make up your own minds what the evidence is; so I will overrule the objection with that admonition.”
+Appellant urges that the action of the trial court in this particular respect was erroneous. We do not agree. There was not involved any effort upon the part of counsel for the State to assert a fact not shown by the evidence. He had the right to argue “proper inferences from the evidence” and “to draw conclusions from the evidence based on his own reasoning.” Adams v. State, 291 Ala. 224, 279 So.2d 488; McLaney v. Turner, 267 Ala. 588, 140 So.2d 315. The same principle, in essence, has been applied to numerous criminal cases, as well as civil cases, a few of which are: Braden v. State, 49 Ala.App. 97, 268 So.2d 877; Davis v. State, 49 Ala.App. 587, 274 So.2d 360, cert. denied 290 Ala. 364, 274 So.2d 363; Cazalas v. State, 43 Ala.App. 6, 178 So.2d 562, cert. denied 278 Ala. 708, 178 So.2d 565; Mitchell v. State, 52 Ala.App. 174, 290 So.2d 241. The statement we think, was so clearly an argumentative conclusion that was fully justified by testimony of the prosecutrix that the trial judge could well have overruled defendant’s objection without admonition, but it was better for him to qualify his ruling as he did and admonish the jury accordingly. In this circumstance, justice was well served without the possibility of any prejudice to defendant.
+In closing argument of the State, the record contains the following:
+“MR. TUCKER: . . . but I think he has totally failed to prove to you she was a willing participant in the alleged rape — ”
+The record does not contain any of the preceding context. To the quoted statement, defendant’s counsel objected, stating:
+“The burden of proof — .”
+Whereupon the court stated:
+“Sustained. Ladies and gentlemen, the burden of proof is not on the defendant. The burden of proof is on the State in this case, which I am going to get to in a few minutes.”
+Appellant’s counsel here argues that the above quoted comment of State’s counsel “had the effect of raising in the jury’s mind the question of the failure of the defendant to take the stand in his own defense.”
+We do not know who was the antecedent of the pronoun “he,” but we are not inclined to think that counsel for the State was personalizing defendant. In general such argument — closing argument — should be largely, if not exclusively, a reply to argument of counsel for defendant. We see little, if any, basis for the contention that it amounted to a comment on the failure of defendant to take the stand. Counsel for defendant evidently did not so consider it at the time the argument was made, and we cannot believe the jury was more discerning than he. The court sustained objection on the ground assigned by counsel, upholding counsel for defendant as to the particular position, and we fail to see that any injury to defendant resulted.
+We have gone beyond the contentions made by appellant by searching the record for any unasserted error prejudicial to him and have found none.
+The judgment of the trial court should be affirmed.
+The foregoing opinion was prepared by Supernumerary Circuit Judge LEIGH M. CLARK, serving as a judge of this Court under Section 2 of Act No. 288 of July 7, 1945, as amended; his opinion is hereby adopted by the Court. The judgment below is hereby
+Affirmed.
+All the Judges concur.
+. No light was on in the bedroom, but, according to the steadfast testimony of the victim, the light from the bathroom was sufficient for her to observe clearly distinguishing features of the intruder and to identify him as the defendant.
