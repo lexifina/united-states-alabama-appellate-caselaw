@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 490"
+decided: "1925-08-11"
+citations: ["21 Ala. App. 109", "105 So. 399"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FINDERSON v. STATE."]
+source_url: "https://static.case.law/ala-app/21/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651344
+cites_cases: ["100 So. 457", "103 So. 91", "104 Ala. 35", "104 So. 674", "16 So. 85", "17 Ala. App. 253", "17 Ala. App. 401", "18 Ala. App. 217", "18 Ala. App. 435", "18 Ala. App. 470", "18 Ala. App. 614", "19 Ala. App. 238", "19 Ala. App. 563", "20 Ala. App. 16", "20 Ala. App. 483", "20 Ala. App. 627", "210 Ala. 667", "53 Am. St. Rep. 17", "84 So. 393", "92 So. 910", "96 So. 646", "99 So. 101", "99 So. 59"]
+---
+
+# Finderson v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+Appellant was charged by indictment, containing one count, with the offense of unlawfully possessing a still, etc., to be used for the purpose of manufacturing or distilling prohibited liquors or beverages. The jury returned a verdict of guilty as charged in the indictment, and the court sentenced defendant to serve an indeterminate term of imprisonment in the penitentiary of not less than 2 years, nor more than 3 years. From the judgment of conviction he appealed.
+By brief of .counsel for appellant it is insisted that the evidence adduced upon tlie trial of this case was insufficient to support the verdict and sustain 'the judgment rendered. This question is not presented for the consideration of this court, as no ruling of the court below was invoked upon the sufficiency or weight of the testimony. The general or affirmative charge was not requested in behalf of defendant, nor was there a motion for a new trial. Where the trial court, as here, had jurisdiction of the subject-matter and of the person, and the judgment is grounded upon a verdict accurately responding to the indictment, the adjudication of guilt being regular and the defendant properly sentenced, the judgment cannot be void. The jurisdiction of this court, in respect of cases in the category to which this case belongs, is appellate only, and review here, in such cases, is limited to those matters upon which action or ruling at nisi prius was invoked or had. In cases where the evidence is deemed insufficient to warrant a conviction or to sustain a judgment, a ruling of the trial court on that proposition must be properly invited in order to invoke or justify a review of .the question by this court. Shepard v. State (Ala. App.) 104 So. 674. For these reasons this insistence of counsel'for appellant, in brief, cannot be sustained or considered.
+We find the record proper, regular and without error. Pending the trial certain exceptions! were reserved to rulings of the court upon the. admission of testimony.
+One R. E. Savage testified that he was a deputy sheriff of Autauga county. The solicitor asked him: “As such deputy did you raid the premises of the defendant here?” To which the defendant objected, and reserved an exception to -the court’s overruling said objection. Witness answered: “I went to his home with a search warrant, and I raided his premises and his house.” A motion was made to exclude this answer, but no ruling of the court or exception appears in this connection. In this ruling there was no error. The question and answer were preliminary in their nature, and it 'is manifest that error prejudicial to the substantial lights of appellant does not appear.
+Upon examination of state witness X C. Rawlinson, who, without objection, testified as to the finding of a still, cap, and a bai-rel used for a flakestand, and that all of it made a complete still, and that is an apparatus suitable or commonly used for manufacturing whisky, or could be, he stated, “We found about 30 gallons of beer buried under the east end of the back porch, in the ground with some planks over it, about 200 yards from his house where he lived — the beer was under the house, east of the back porch, buried in the ground.” The question was then asked this witness: “How much beer was there?” To which questioix the defendant objected, but assigned no grounds of objection. An exception was resex-ved when the court overruled the objection. That there was no error in this ruling is so clear it need not be discussed.
+If, as insisted by appellant, the testimony of this and the other state witness was in. effect mere conclusions upon their part as to alcohol being in the beer, etc., we can only say that these witnesses were allowed to so testify without objection, and as hereinabove stated this question is not presented for our consideration.
+Defendant introduced as a witness in his behalf a Mr. Stewart, who testified, among other things, that he had known the defendant for 8 or 10 years, and stated, “I think I know his general character in the community in which he lives; it is good.” Upon cross-examination the solicitor asked this witness this question: “You say this negro has a good reputation down there — he has been convicted several times for selling liquor-, hasn’t he?” The court overruled defendant’s objection to this question, and an exception was. reserved. This inquiry, and the manner with which it was made, was improper — had no place in this trial. Shields v. State, 104 Ala. 35, 16 So. 85, 53 Am. St. Rep. 17, and numerous cases therein cited. If the purpose of this examination was to test the estimate as to good character entertained by the witness, it should have been conducted in a different manner; the rule applicable, thereto being plain and- simple. Here the manner of cross-examination was highly prejudicial, and was calculated to seriously, erroneously, and injuriously affect the substantial rights of the defendant. Its tendency was to defeat the fair and impartial trial, free from prejudice, accorded to defendant under the Constitution and law of this state.
+For the error committed on the cross-examination of defendant’s witness Stewart the judgment of the lower court is reversed and the cause remanded.
+Reversed and remanded.
+20 Ala. App. 627.
+<&wkey;For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
