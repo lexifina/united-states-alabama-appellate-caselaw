@@ -1,0 +1,40 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "2 Div. 72"
+decided: "1973-03-13"
+citations: ["49 Ala. App. 601", "274 So. 2d 626"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CATES, P. J., and ALMON, TYSON, HARRIS and DeCARLO, JJ., concur."]
+parties: ["John Henry WADE v. STATE."]
+source_url: "https://static.case.law/ala-app/49/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1727956
+cites_cases: ["123 So.2d 186", "16 So.2d 183", "174 So.2d 687", "245 Ala. 163", "278 Ala. 10", "40 Ala.App. 600", "41 Ala.App. 46", "43 Ala.App. 249", "44 Ala.App. 414", "44 Ala.App. 682", "46 Ala.App. 175"]
+---
+
+# Wade v. State
+
+## Majority (PIARALSON, Supernumerary Circuit Judge.)
+
+PIARALSON, Supernumerary Circuit Judge.
+The appellant was tried and convicted for burglary in the second degree, Title 14, § 86, and sentenced by the court to imprisonment in the penitentiary for 7 years.
+It appears from the record that on July 17, 1970, a warrant was sworn out before Hon. G. H. Stacy, Judge of the County Court of Bibb County, by J. B. Burson charging the appellant with burglary and that he was arrested and placed in jail on August 4, 1970. On August 5, 1970, he was taken before Judge Stacy at which time he requested a preliminary hearing and counsel to represent him, but he was advised that no lawyer was available at the time by the court; however, bond was set and immediately made by the appellant and he was released from custody pending the action of the grand jury. On September 21, 1970, he was indicted by the grand jury and arraigned on February 5, 1971. At this time an attorney was appointed to represent him and trial was had on February 15, 1971.
+The appellant contends that he was denied his constitutional rights under due process of law by being denied a preliminary hearing. Our courts have dealt with this question and held that the constitutional rights of a defendant are not violated by not giving him a preliminary hearing. In the case of Queor v. State, 278 Ala. 10, 174 So.2d 687, the Supreme Court stated:
+“Point is made that appellant had no preliminary hearing. As to this, the record is silent. But even if there was no preliminary hearing, such fact would have no bearing on the validity of the indictment and subsequent proceedings incident thereto, i. e., the arraignment and trial.” See authorities cited in that case and Grace v. State, 44 Ala.App. 682, 220 So.2d 259.
+Therefore, appellant’s motion to quash the indictment based upon that ground was overruled by the court without error.
+On the day of the trial the appellant moved for a continuance on the ground that he had not had an opportunity to confer with his court appointed attorney and to subpoena witnesses for the trial. From a careful reading of the record, the court is of the opinion that the case was fully developed both from the viewpoint of appellant and the State by the witnesses who appeared and testified. No references were made to the fact that the appellant needed further witnesses to properly present his defense, with the exception of some mention of two doctors who had not been subpoenaed, but who apparently would have been subject to the process of the court had the appellant insisted upon it during the trial. Further, it is not clear to what the doctors would have testified. At any rate it does not appear that the appellant exhausted his efforts to secure their testimony by compulsory process if necessary after the trial began.
+It is familiar law that the continuance of a case rests in the sound discretion of the court, subject to review only for gross abuse of discretion. Henry v. State, 46 Ala.App. 175, 239 So.2d 318; Burton v. State, 43 Ala.App. 249, 187 So.2d 808.
+From a consideration of the record we think counsel for appellant had sufficient time (ten days) to prepare his defense, and under the circumstances that the appellant’s constitutional rights were not violated.
+In brief appellant urges that his rights were prejudiced by a remark by the prosecuting attorney in his argument to the jury and by certain comments of the court with regard to a ruling on an objection. No objection or motion was made by appellant to any of the matters complained of. Matters not objected to in the trial court cannot be considered for the first time on appeal, since a review on appeal applies only to rulings invoked at nisi prius. Smith v. State, 40 Ala.App. 600, 119 So.2d 202; Thompson v. State, 44 Ala.App. 414, 211 So.2d 505.
+On the night of the alleged burglary, witness James Lawrence, Chief of Police of Centreville, testified that he, along with Police Officer J. B. Burson, went to the office building of the Belcher Lumber Company; that Lawrence went around one side of the building where he saw and recognized the appellant come from within the building through an open window and run away; that he was within approximately 30 or 40 feet of the window when the appellant came through and that there was a street light within about 50 feet; Officer Burson testified that he came around the other side of the building and while looking through a glass door saw a man coming down the stairs with a pistol in his hand; that he called to the man to stop, but instead of stopping he came up with a pistol and that he, the officer, drew his pistol and fired; that he recognized the man as the appellant, John I-Ienry Wade; that the man went to the other side of the building and out of the window and while he was running away that witness Burson fired at him and the appellant fired back; that immediately afterward he and Chief Lawrence entered the building and found two other men hiding upstairs and found two pistols in a wastebasket in the office. Furniture and effects in the office appeared to have been moved around when the search was made; that there were some burglary tools found on the floor in front of the safe. There was other testimony that earlier in the night an employee of the Belcher Lumber Company had closed all windows and locked the doors when leaving for the day and that he knew of no other person who left later.
+At the trial the State introduced the two pistols found in the wastebasket over the objection of appellant.
+We think this testimony tended to shed some light on the issues in the case. In Lackey v. State, 41 Ala.App. 46, 123 So.2d 186, this court stated, “As a general rule, articles, including those found at the scene of the crime, which are properly identified and which tend to show the commission of the crime or the manner in which it was committed, or to elucidate some matter in issue, are admissible in evidence for inspection and observation by the jury.” We see no error in the admission of this evidence.
+On motion for a new trial which was overruled by the court, the appellant contends that the verdict was contrary to the great weight or preponderance of the testimony.
+As a defense to the testimony adduced by the State, the central part of which is herein set out, the appellant offered evidence tending to prove an alibi, which was supported in varying degree by several witnesses. We think that from a consideration of all the testimony that the court properly submitted this case to the jury and that the verdict of the jury was not against the great weight or preponderance of the testimony, and that this court would not be justified “in pronouncing the verdict palpably wrong and unjust.” DeSilvey v. State, 245 Ala. 163, 16 So.2d 183.
+We have responded to the questions raised by appellant in brief and in addition thereto, we have searched the record for error. Finding none this cause is due to be affirmed.
+The foregoing opinion was prepared by Honorable W. J. HARALSON, Supernumerary Circuit Judge serving as a Judge of this Court under Section 2 Act. No. 288, Acts of Alabama, July 7, 1945, as amended; his opinion is hereby adopted as that of the Court.
+The judgment below is hereby
+Affirmed.
+CATES, P. J., and ALMON, TYSON, HARRIS and DeCARLO, JJ., concur.
