@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 406"
+decided: "1922-10-24"
+citations: ["18 Ala. App. 652", "94 So. 239"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LUDDEN & BATES v. WATT."]
+source_url: "https://static.case.law/ala-app/18/cases/0652-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645463
+cites_cases: ["1 Ala. App. 668", "1 N. D. 434", "11 South. 293", "12 L. R A. 781", "127 Ala. 137", "127 Ala. 504", "168 Ala. 469", "17 Ala. App. 26", "196 Ala. 403", "196 Ala. 422", "199 Ala. 589", "2 South. 300", "200 Ala. 271", "201 Ala. 647", "203 Ala. 488", "203 Ala. 631", "204 Ala. 2", "26 Am. St. Rep. 639", "28 South. 679", "29 South. 31", "37 Ala. 480", "48 N. W. 347", "80 Ala. 436", "81 South. 364", "83 South. 479", "87 South. 85", "94 Ala. 335", "97 Ala. 649"]
+---
+
+# Ludden & Bates v. Watt
+
+## Majority (MERRITT, J.)
+
+MERRITT, J.
+A stockholder is one who appears on the books of a corporation as owner of shares, and is therefore entitled to a voice in the management of its affairs, and is burdened with liabilities incident to that relation, which can only be thrown off by transferring the stock. In re Argus Printing Co., 1 N. D. 434, 48 N. W. 347, 12 L. R A. 781, 26 Am. St. Rep. 639.
+The witness Clower admitted that he was a stockholder in defendant corporation, but sought to place himself outside of the rule laid down in section 4007 of the Code, by declaring that he had no pecuniary interest in the suit, that the share of stock which he held was transferred to him in order that he might be an officer in the corporation; that defendant corporation was not paying any dividends because business is not good enough. In other words, as stated in brief and argument of counsel for appellant, the witness is simply a “dummy” stockholder. Being a stockholder, however, he is obviously interested in the result of the suit, and to say that he has no pecuniary interest in the same is to deny an obvious fact. In the case •of Buye v. Ala. Marble Quarries, 199 Ala. 589, 75 South. 9, the Supreme Court held that a stockholder in a corporation is pecuniarily interested in the result of the suit. Speaking of the “pecuniary interest” that would disqualify one from serving as a juror, the Supreme Court, in the case of Burdine v. Grand Lodge of Alabama, 37 Ala. 480, says:
+“It is certainly a good and wholesome rule; which should be strictly regarded, that any pecuniary interest, even the smallest, in the event of the suit, will disqualify a person from serving on the jury charged with its trial.”
+There was no error in the ruling of the court in refusing to permit the witness Clow- or to testify, as to any transaction he may have had with deceased, relative to the terms of the contract in litigation.
+The suit is on the common counts to recover for work and labor done. The right to declare on common counts and under the terms of a contract is stated in Martin v. Massie, 127 Ala. 504, 29 South. 31, as follows:
+“The general rule is, that where there is an express contract, the plaintiff cannot resort to an implied one, but must recover, if at all, on the express agreement. ‘An exception to the rule, however, is that he may recover on the common counts, although the evidence discloses a special agreement, when such an agreement has been executed and fully performed, and no duty remains but the payment of the price in money by the defendant. But so long as the contract continues executory, the plaintiff must declare specially,’ and prove performance.” McCormick v. Badham, 204 Ala. 2, 85 South. 401; Moundville Lumber Co. v. Warren, 203 Ala. 488, 83 South. 479; Graydon v. Buford, 1 Ala. App. 668, 56 South. 77.
+The amount claimed was for five months’ salary, at $50 per month, which the appellee contends is due for work* and labor done by deceased, under the terms of a contract that deceased had with the appellant corporation. The only knowledge that the witness, Miss Edna Watt, daughter of the deceased, had as to a contract or the terms thereof, as she testified, was acquired by certain correspondence, which was introduced in evidence. This correspondence, which consists of four letters written by appellant corporation to deceased, merely mentions the inclosure of a $50 check for a week’s advance, one saying on salary, but in none of these letters is there the slightest reference to any contract, the terms or duration thereof, or that one in fact ever existed. As this was the only testimony for the appellee bearing on the question of the existence vel non of a contract, and the statement that a contract existed, being predicated on the fact that knowledge of this fact was acquired by and through correspondence, which correspondence in no wise discloses a contract, it is patent that the appellee failed to make out her case, and that the court trying the case without a jury should have rendered a judgment in favor of the appellant. As the case may be tried again, it is well to state that, had the matter been brought to the attention of the trial court, the appellee could not have recovered under the pleading in this cause.
+The suit is brought in the name of Mrs. Lucy Watt as administratrix of the estate of C. T. Watt, deceased, but during the progress of the trial the appellee introduced in evidence her claim of exemptions as widow, to the amount of the money in controversy in this litigation, which claim of exemptions had been duly filed in the probate office of Lowndes county. With this claim of exemptions on file, uncontested, and apparently stating facts which under the law exempts this money to the widow free from the payment of debts and administration, the money in litigation belongs personally to the widow, and she cannot, if seasonable objection be 'made, recover it in her representative capacity.
+Reversed and remanded.
+®=3For other oases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
