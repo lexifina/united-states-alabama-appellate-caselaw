@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 246"
+decided: "1936-11-24"
+citations: ["27 Ala. App. 304", "171 So. 755"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BIVENS v. STATE."]
+source_url: "https://static.case.law/ala-app/27/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1671375
+cites_cases: ["103 So. 91", "104 So. 352", "106 So. 206", "125 So. 202", "129 So. 323", "20 Ala.App. 283", "20 Ala.App. 412", "20 Ala.App. 486", "20 Ala.App. 598", "21 Ala.App. 174", "23 Ala.App. 333", "23 Ala.App. 559", "24 Ala.App. 231"]
+---
+
+# Bivens v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The prosecution in this case was upon an indictment which charged this appellant (defendant-below) with the offense of violating the prohibition laws of the State by having possession of prohibited liquors. The indictment was in the usual form and charged, in the alternative, that he “did sell, possess, or have in his possession illegally, prohibited liquors, or beverages,' contrary to law.”
+As stated by the trial judg'e in the oral charge, there was no insistence by the State that the defendant “sold” prohibited liquor, therefore the inquiry was confined to the averment in the indictment as to “possession.” In this connection the court stated to the jury: “You may omit any consideration of whether he sold any, because there is no evidence here that he did sell any. The only consideration you make here" is as to whether or not he possessed, had in his possession a liquid, or beverages containing alcohol to a greater extent than one-half of one per cent.”
+The evidence for the State consisted of the testimony of two witnesses who stated, in substance, that they entered a house where this man lived, and found a pint bottle of whisky in a sack of peanuts in one of the back rooms of the house. The bottle had never been opened. The defendant was not present at the time, nor was there any one else there. They afterwards saw and arrested appellant, who was at that time some three-fourths of a mile from the house in question. Without dispute the evidence disclosed that two other men lived in the same house. The defendant strenuously denied all knowledge of, or connection with, the pint bottle of whisky. * ■
+On this appeal there are several insistences of error as to the rulings of the court upon the admission of the evidence. The principal insistence, however, is to the action of the trial court in refusing to defendant the affirmative charge.
+There are innumerable opinions of the appellate courts of this State, published in the reports, where the facts of this case are almost, if not, actually identical with the facts contained in these published decisions.- In each instance it has been held that the mere finding of prohibited liquors in or upon the premises of a defendant, who was not present, and no evidence whatever to connect him therewith, is insufficient upon which to predicate a verdict of guilty; and that such evidence will not sustain a judgment of conviction.
+We again so hold here. The defendant in this case under the undisputed facts was entitled to his discharge, and the court erred in refusing the affirmative charge requested in writing.
+In support of the foregoing we need cite only thé case of Perkins v. State, 24 Ala.App. 231, 133 So. 307, and cases therein cited; afiiong which is the case of Talbot v. State, 23 Ala.App. 559, 129 So. 323, 324, from which the following is quoted: “We are of the opinion that the state failed to meet the necessary burden of proof and that there was no evidence tending to connect the accused with the crime charged. In numerous decisions it has been h'eld the mere finding of prohibited liquors on the premises of the defendant when he was not present, and no evidence whatever to connect him therewith, is insufficient upon which to predicate a verdict of guilty, and that such evidence will not sustain a judgment of conviction. Huckabaa v. State, 23 Ala.App. 333, 125 So. 202; Talbot v. State, 23 Ala.App. 559, 129 So. 323, 324; Hutcheson v. State, 21 Ala.App. 174, 106 So. 206; Johnson v. State, 20 Ala.App. 598, 104 So. 352; Bush v. State, 20 Ala.App. 486, 103 So. 91; Ammons v. State, 20 Ala.App. 283, 101 So. 511; Spelce v. State, 20 Ala.App. 412, 103 So. 694.”
+In the Talbot Case, supra, this court said: “To permit a conviction of this character to stand upon such testimony would be unconscionable. .It would be an exceedingly dangerous precedent to hold that the mere finding of prohibited liquor in the home of a citizen, with nothing to connect the accused therewith, and nothing to indicate or to impute any knowledge of the fact to him, is sufficient to deprive him of his liberty and brand him as a criminal before the world. If such were the law, every citizen would be at the mercy of an enemy who by merely surreptitiously placing the inhibited article in the home of his enemy could wreak his vengeance through the aid of the law in this dastardly manner. The law contemplates no such condition, nor will the courts countenance such a thing. The law in its wisdom provides that every person charged with crime is presumed to be innocent, and this presumption is not an empty or meaningless provision; to the contrary, it is regarded as evidence in behalf-of the accused, and attends him as such throughout the trial, or until the presumption is overcome by legal evidence which shows his guilt beyond all reasonable doubt and to a moral certainty. Conjectures, suspicions, hatred, prejudices, conclusions, and guesswork have no place in the proper administration of the law; and to willfully hold otherwise would do violence to the conscience and integrity of the person so doing, be he judge, juror; officer, or witness.”
+For the error indicated, the judgment of conviction from which this appeal was taken is reversed, and the cause remanded.
+Reversed and remanded.
