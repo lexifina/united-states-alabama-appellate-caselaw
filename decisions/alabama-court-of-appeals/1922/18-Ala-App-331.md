@@ -1,0 +1,21 @@
+---
+court: "Alabama Court of Appeals"
+docket: "5 Div. 369"
+decided: "1922-01-10"
+citations: ["18 Ala. App. 331", "92 So. 213"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THORNTON v. TOWN OF ECLECTIC."]
+source_url: "https://static.case.law/ala-app/18/cases/0331-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645128
+cites_cases: ["92 South. 212"]
+---
+
+# Thornton v. Town of Eclectic
+
+## Majority (MERRITT, J.)
+
+MERRITT, J.
+Reversed -and remanded on the authority of Glover Smith v. Town of Eclectic, ante, p. 329, 92 South. 212.
