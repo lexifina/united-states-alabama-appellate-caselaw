@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 980"
+decided: "1951-01-23"
+citations: ["36 Ala. App. 730", "52 So. 2d 891"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adell STEPP v. STATE."]
+source_url: "https://static.case.law/ala-app/36/cases/0730-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1695461
+---
+
+# Stepp v. State
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Affirmed.
