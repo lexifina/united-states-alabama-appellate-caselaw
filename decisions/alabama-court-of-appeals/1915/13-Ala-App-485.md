@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-06-03"
+citations: ["13 Ala. App. 485", "69 So. 225"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hedden v. Wefel."]
+source_url: "https://static.case.law/ala-app/13/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1628473
+cites_cases: ["110 Am. St. Rep. 17", "132 Ala. 235", "133 Ala. 128", "137 Ala. 83", "142 Ala. 94", "151 Ala. 131", "153 Ala. 573", "162 Ala. 367", "167 Ala. 117", "189 Ala. 427", "25 Ala. 139", "31 South. 512", "32 South. 227", "34 South. 828", "39 South. 14", "44 South. 403", "52 Ala. 224", "53 Ala. 5", "56 Ala. 547", "6 Ala. App. 518", "60 Am. Dec. 498", "69 South. 231"]
+---
+
+# Hedden v. Wefel
+
+## Majority (BROWN, J.)
+
+BROWN, J.
+The ruling of the court on the demurrers to the complaint resulted in eliminating all counts except count 11, claiming a sum of money due- by account from the defendant to the Realty Company of Mobile, alleging that the plaintiff was the owner of the account declared on. To this complaint the defendant pleaded the general issue, the statue of frauds, the statute of limitations of three years, and accord and satisfaction. With the issues thus formed, the case proceeded to trial, and after plaintiff had offered what we assume to be substantially all his proof, showing that through a transaction with reference to the sale of certain real estate the defendant became indebted to the Realty Company of Mobile, a partnership composed of the plaintiff and others, on account of commissions in assisting to effect the sale, and that this claim had, before suit brought, become and was the property of the plaintiff, and tending to show that this indebtedness had been adjusted between the defendant and the plaintiff as the representative of the Realty Company by the payment of a certain sum of money and the assignment of two promissory notes given by E. W. Gates Lumber Company, for whom the lands were sold, to the defendant, to cover the commission for effecting the sale, one for $215, and the other for $700. And the evidence further shows that the first-mentioned note had been paid, but that the $700 note had not been paid, and it is conceded by both parties that E. W. Gates Lumber Company have a complete defense to this note. It further appears without dispute that in the transaction in which the defendant paid the Realty Company the sum of money and transferred these two notes the Realty Company, through the plaintiff, as one of the members of the firm, executed an instrument in writing, referred to by Hedden in his testimony as a receipt. This written instrument was offered in evidence, but is not set out in the record.
+At this stage of the. trial the plaintiff’s counsel stated to the court that he expected to show by the witness that by an indorsement of the note made subsequent to the alleged settlement the defendant guaranteed the payment of the $700 note, and asked the witness several questions eliciting testimony of this nature, and also as to what was said between the parties at the time of the alleged settlement. The court, on the objection of the defendant, ruled that the writing entered into between the parties could not be varied by parol, and that the fact of any subsequent guaranty was wholly immaterial to the issues in the case. On account of this adverse ruling, the plaintiff took a voluntary nonsuit with bill of exceptions, as authorized by section 3017 of the Code of 1907.
+Under the repeated rulings of this court and the Supreme Court, the rulings of the lower court presented for review are only those that caused the plaintiff to take a nonsuit — in this case the ruling as to' the admission of evidence above adverted to.—Engle v. Patterson, 167 Ala. 117, 52 South. 397; Stewart Bros. v. Harris Cortner & Co., 6 Ala. App. 518, 60 South. 445; Priebe v. Southern Ry. Co., 189 Ala. 427, 66 South. 573; Davis v. L. & N. R. R. Co., infra, 69 South. 231. And in accordance with these authorities we hold that the rulings of the court on the demurrers to the complaint and pleas assigned as error cannot be reviewed.
+In the absence of the instrument in writing referred to by the witness as a receipt, we cannot affirm that the court committed error in sustaining the objection to the question eliciting testimony as to the oral agreement of the parties contemporaneously made with the writing.—Harris v. Basden, 162 Ala. 367, 50 South. 321.
+This court will on appeal indulge all necessary presumptions in favor of the ruling of the trial court, and to this end the bill of exceptions will be construed most strongly against the party complaining of the ruling.—Henderson v. State, 137 Ala. 83, 34 South. 828; Crosby v. Hutchinson, 53 Ala. 5; Kelly v. Burke, 132 Ala. 235, 31 South. 512; Cawley v. State, 133 Ala. 128, 32 South. 227; Dickens v. State, 142 Ala. 94, 39 South. 14, 110 Am. St. Rep. 17; McGehee v. State, 52 Ala. 224; Dowling v. State, 151 Ala. 131, 44 South. 403.3
+On the issues formed by the pleading, proof of the special contract and its breach, such as the guaranty of payment of the note, Avas not admissible.—Walker v. T. & G. Forbes, 25 Ala. 139, 60 Am. Dec. 498; Burkham Bros. v. Speirs, 56 Ala. 547; Carbon Hill Coal Co. v. Cunningham, 153 Ala. 573, 44 South. 1016.
+We find no reversible error in the record, and the judgment is affirmed.
+Affirmed.
