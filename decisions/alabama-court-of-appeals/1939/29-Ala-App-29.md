@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 441"
+decided: "1939-06-20"
+citations: ["29 Ala. App. 29", "191 So. 405"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CULLIGAN v. STATE."]
+source_url: "https://static.case.law/ala-app/29/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1677651
+cites_cases: ["109 So. 125", "21 Ala.App. 423"]
+---
+
+# Culligan v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The indictment, upon which the prosecution in this case is based, contained two counts. In the first count it was charged that this appellant and one James Bowman (not on trial) feloniously took and carried away numerous articles of merchandise, designating them the personal property of E. L. Green, the aggregate value of the alleged stolen goods amounting to $180, thus making the charge in the first count grand larceny.
+The second count charged the same parties with the offense of buying, receiving, concealing or aiding in concealing the same articles of merchandise described in the first count of the indictment (setting them out in detail), knowing that said goods were stolen, or having reasonable grounds to believe they were stolen, and not having the intent to restore said property /to the owner, etc.
+As stated, this appellant was tried alone upon said indictment in the Circuit Court of Calhoun County where the indictment was found and returned into court. This trial resulted in the conviction of the appellant under the second count of the indictment. The jury returned the following verdict: “We the jury find the defendant guilty as charged in the second count of the indictment, and find the value of the stolen property to be $180.00.”
+The foregoing verdict of the jury operated as an acquittal of this appellant of the grand larceny offense charged in the first count of the indictment. Glover v. State, 21 Ala.App. 423, 109 So. 125. See also innumerable decisions, on this point, cited in Vol. 6, Alabama Digest, Criminal Law, ®=>878 (3).
+The paramount and controlling question in this case, therefore, was the conviction of this appellant under the second count of the indictment had without error prejudicial to the substantial rights of the accused.
+The question of venue is of major importance in this case. It affirmatively appears that the larceny complained of was committed in Calho.un County, in which county, as stated, this indictment was found and trial was had. The evidence discloses that a day or two after the enumerated articles were stolen, some of the goods were found in the dwelling house and barn of this appellant in Clay County where defendant had continuously lived for several years. The undisputed testimony is, that the defendant (appellant) had never been in Calhoun County, Alabama, until he was arrested and carried to Anniston on this charge. As a part of the oral charge, the learned trial court stated: “There is no evidence in the case introduced by the State which proves or tends to prove that the defendant iras actually at the place where the property was stolen or participated in the stealing of the property. There is no evidence — I mean by that of any actual participation in the stealing of the property.”
+The trial court also properly charged the law as to recent possession of stolen goods. It has been consistently held in this State that the recent possession of stolen property casts on the defendant the onus of explaining his possession, and if he fails to make a reasonable explanation a presumption of guilt arises which will support a conviction. In the instant case in order to meet this required burden of proof, the defendant testified, and stated, the goods found in his dwelling were never received or concealed by him. That one Bowman and Bowman’s wife were boarding at his house, and had been for a period of two months. That the Bowmans brought the articles of merchandise to his house and that they (the Bowmans) placed the goods where they were afterwards found. That he, the defendant, did not know, nor did he have reason to believe that said goods were stolen, the Bowmans having informed him that he had obtained all of said goods from his, Bowman’s, brother, who was the keeper of a store or commissary in another county, in settlement of a debt of $47.50 due to him by his brother for saw mill work in a saw mill which his brother was running in connection with his store or commissary. There was other evidence of like character, not only testified to by defendant, but also by numerous other witnesses, all tending to show that this appellant had no connection with the stolen articles in any manner, and no reason to know that said goods brought to his home by the Bowmans were stolen, etc. All this, of course, was for the jury to decide and determine as to whether or not (1) appellant was in recent possession of the stolen goods; (2) whether or not he bought, received, concealed or aided in concealing said goods knowing that the goods were stolen, or having reasonable grounds to believe the goods were stolen, etc. However, it affirmatively appearing from this whole evidence that whatever knowledge of, or connection this appellant had with the stolen property was in Clay County, Alabama, and not in Calhoun County as charged in the indictment, the State failed to meet the necessary burden of proof as to the venue; and, this point having been brought directly to the attention of the court, in every conceivable manner, the court fell into error by its adverse rulings in this connection.
+’ Proof of venue is jurisdictional and without such proof, where, as here, the question is properly raised, a conviction cannot be sustained. Section 4891, Code 1923, provides: “The local jurisdiction of all public offenses, unless it is otherwise provided by law, is in the county in which the offense was committed.”
+The bill of exceptions, in this case, recites, “This was all the testimony in the case and all that the testimony tended to show.” We find that the bill of exceptions does not contain any evidence that the offense complained of in the second count, upon which the conviction of appellant was rested, was committed in Calhoun County. There was no semblance of testimony of a conspiracy in this case, from which such fact could be inferred. The defendant was therefore entitled to a directed verdict, and the court erred in refusing the affirmative charge requested by him; and, also erred in overruling defendant’s motion for a new trial.
+There are other insistences of error, some of which appear to be well taken, but from what has been said, there is no necessity to discuss these points of decision in detail.
+The judgment of conviction from which this appeal was taken is reversed. And, as admittedly, no conviction of this appellant can be had on the indictment in this case, an order is entered discharging the defendant from further custody in this proceeding.
+Reversed and rendered.
+On Rehearing.
+PER CURIAM.
+Application for rehearing stricken upon motion of appellant on the undisputed grounds of non-compliance with provisions of Supreme Court Rule 38.
+Application stricken.
