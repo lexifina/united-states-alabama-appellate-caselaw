@@ -1,0 +1,60 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 232"
+decided: "1969-04-29"
+citations: ["45 Ala. App. 40", "222 So. 2d 370"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Leland JOHNSON v. STATE."]
+source_url: "https://static.case.law/ala-app/45/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716025
+cites_cases: ["10 N.Y.Supp. 28", "106 Mass. 223", "13 N.J.Super. 306", "130 S.W. 174", "136 La. 852", "165 Wash. 92", "201 Pac. 944", "22 So. 3", "243 P.2d 494", "257 Ala. 3", "267 S.W. 490", "36 Atl. 830", "36 L.R.A. 486", "37 Ala.App. 305", "4 P.2d 866", "40 Wash.2d 419", "42 Ala.App. 240", "42 Ala.App. 653", "43 Ala.App. 119", "43 Ala.App. 660", "54 Cal.App. 423", "60 Tex.Crim.Rep. 8", "68 Conn. 441", "7 N.Y.Crim.Rep. 406", "74 Miss. 715", "78 A.L.R. 412", "80 A. 90", "80 A.2d 371", "84 Conn. 370", "98 Tex.Crim.Rep. 609"]
+---
+
+# Johnson v. State
+
+## Majority (ALMON, Judge.)
+
+ALMON, Judge.
+Appellant was in the custody of the Sheriff of Madison County, Alabama, by virtue of an arrest under two Governor’s rendition warrants issued by the Governor of Alabama at the requests of the Governors of Georgia and South Carolina.
+Appellant filed a petition for a writ of habeas corpus in the Circuit Court of Madison County and, from an adverse ruling, he brings this appeal.
+The Sheriff did not make a return; however, at the hearing the State introduced in evidence, over appellant’s objections, the rendition warrants issued by the Governor of Alabama with allied documents. There was no testimony offered by either side.
+A prima facie case for the detention of appellant is established by the introduction of a rendition warrant if it contains all the necessary jurisdictional recitals. Aldio v. State, 42 Ala.App. 653, 177 So.2d 107; State v. Freeman, 42 Ala.App. 240, 160 So.2d 12.
+The recitals in the rendition warrants are not conclusive and when the allied or accompanying documents are put in evidence, as in this case, it is our duty to examine them to determine their legal sufficiency to justify the issuance of the warrants. State v. Freeman, supra; Harris v. State, 257 Ala. 3, 60 So.2d 266; Pierce v. Holcombe, 37 Ala.App. 305, 67 So.2d 278.
+The request for extradition by the Governor of Georgia reads in pertinent part as follows:
+“WHEREAS, It appears by the annexed documents, which are hereby certified to be authentic, that James Leland Johnson stands convicted of the crime of forgery; misdemeanor (simple larceny) committed in the County of Hall in this State, and it has been represented to me that the accused was present in this State at the time of the commission of said crime and thereafter, said Fugitive from Justice escaped from confinement and has fled from the justice of this State, and has taken refuge in the State aforesaid;
+“NOW, THEREFORE, pursuant to the provision of the Constitution of Laws of the United States, in such cases made and provided, I do hereby request that the said Fugitive from -Justice be apprehended and delivered to James McNeal and/or agent who is hereby authorized to' receive and convey the said Fugitive from Justice to the State of Georgia, there to be dealt with according to law.”
+There is also included with the request for extradition properly certified copies of (1) two indictments, one charging forgery and the qther charging simple assault; (2) qrders of the court sentencing appellant to the penitentiary in both cases; and (3) a certificate directed to the Governor of Georgia by Wallace Lambert, Assistant Director of the State Board of Corrections of Georgia, sworn to before a Notary Public certifying that the appellant was received in the penitentiary in Georgia and while confined in said penitentiary escaped. There is also a certificate by Robert J. Carter, Director of the State Board of Corrections, certifying that Wallace Lambert is .his Assistant Director and also a certificáte by Ben W. Fortson, Jr., Secretary of State of the State of Georgia, certifying that Robert J. Carter is the Director of the State Board of Corrections of Georgia.
+Appellant contends in brief that he should not be detained under the Governor’s rendition warrant because he was not charged with the offense of escape.
+Tit. 15, Sec. 52, Code of Alabama, 1940, as amended, reads as follows:
+“A warrant of extradition must not be issued unless the documents presented by the . executive authority making the demand show that the accused was present in the demanding state at the time of the commission of the alleged crime, and that he thereafter fled from that state, and is now in this state, and that he is lawfully charged by indictment or by an information filed by a prosecuting officer and supported by affidavit to the facts, • or- by ' affidavit made before a 'magistrate in that state, with having comtnitted a crime under the laws of that state, or that he has been convicted of crime in that state and has escaped from confinement or broken his par ole.” (Emphasis supplied.)
+On the question of whether appellant should be charged with a new offense of escape in the demanding state to comply with extradition requisites, we quote from 78 A.L.R., p. 420:
+“The general rule seems to be well settled that either a convict who escapes, or one who is released from prison on parole and violates the terms of his 'parole, may be extradited from another state in which he is found, as a fugitive from justice, on the ground that he is a convict whose time has not expired, and who, therefore, is ‘charged with crime’ under the United States Constitution.
+»]» 4- 4» 4*
+, “Cases supporting the general rule above stated, and holding that escaped convicts are properly the subject of extradition, are the following: Re Jones (1921) 54 Cal.App. 423, 201 Pac. 944; Drinkall v. Spiegel (1896) 68 Conn. 441, 36 L.R.A. 486, 36 Atl. 830; Re Hope (1889) 7 N.Y.Crim.Rep. 406, 10 N.Y.Supp. 28; Ex parte Bergman (1910) 60 Tex.Crim.Rep. 8, 130 S.W. 174; Ex parte Haynes (1924) 98 Tex.Crim.Rep. 609, 267 S.W. 490 * * * ”
+In the case of State ex rel. Treseder v. Remann, 165 Wash. 92, 4 P.2d 866, 78 A.L.R. 412, the Washington Supreme Court stated:
+“A person is ‘charged’ with crime after his conviction as well as before.”
+In the case of Re Hope, 7 Cr.R. 406, 10 N.Y.S. 28, the court stated:
+“No narrow or strained construction should be placed upon the word ‘charged,’ as used in the constitution in the federal statute. It is broad enough to include all classes of persons duly accused of crime. A person can be said to be ‘charged’ with crime as well after his conviction as before. * * * ”
+We feel that our statute hereinbefore quoted is broad enough to extradite fugitives from justice when they have been convicted of a crime in the demanding state and have escaped from confinement, without having to rely on the rationale of the Treseder and Hope cases, supra.
+Appellant further contends in brief that there is some conflict between the Governor’s rendition warrant and the request for extradition by the Governor of Georgia and allied papers.
+We have reviewed very carefully the request of the Governor of Georgia for extradition and allied papers and find that the Governor of Alabama had before him necessary jurisdictional matters to issue his rendition warrant in conformity with the rule in Harris v. State, 257 Ala. 3, 60 So.2d 266, where the Supreme Court of Alabama said:
+“We think, then, the rule in Alabama should be consonant with the weight of authority to the effect that if the rendition warrant is defective but is accompanied by allied papers, either on the return to the writ of habeas corpus or introduced on the trial, which when taken together with the warrant, show that the executive of the asylum state did in fact have before him the necessary jurisdictional matters, viz., the documents required for the issuance of the warrant, then the prisoner is not illegally restrained. 89 A.L.R., supra. This annotation reveals that many jurisdictions have adopted an even more liberal rule than is here urged. See Ross v. Crofutt, 84 Conn. 370, 80 A. 90; Kingsbury’s Case, 106 Mass. 223; State ex rel. Burnett v. Flournoy, 136 La. 852, 67 So. 929; Ex parte Devine, 74 Miss. 715, 22 So. 3.”
+The request for extradition by the Governor of South Carolina reads in pertinent part as follows:
+“IT APPEARS from the attached documents, which are hereby certified to be authentic, that James Leland Johnson stands convicted of or stands charged with the crime of Forgery committed in Spartanburg County, State of South Carolina, on or about the 26th day of October, 1963, and it has been represented to me that such Fugitive was present in this State at the time of the commission of such crime.
+“It has been represented to me further that such Fugitive has broken the terms of his probation and has fled from the justice of this State and taken refuge in the State of Alabama.
+“THEREFORE, pursuant to the Constitution and Laws of the United States in such cases, I request that you cause James Leland Johnson to be apprehended and delivered to H. C. Giles and/ór T. Jerome Norton and/or Leonard Olin Watkins who is hereby authorized to receive him and convey him to the State of South Carolina, there to be dealt with according to law.”
+Along with the above request for extradition were properly certified copies of (1) an indictment for forgery, (2) an order of the court sentencing appellant, (3) a warrant of arrest charging appellant with violating the conditions of his probationary sentence issued by A. J. Grygo, Deputy Administrator, Interstate Compact, an officer of the South Carolina Probation, Parole and Pardon Board, and (4) an affidavit executed by John H. Nolen, Solicitor of the 7th Judicial Circuit of South Carolina, stating that he has evidence to prove that the appellant has violated the terms and conditions of his probation.
+Appellant contends in brief that no offense is charged and, therefore, he should not be extradited under the Governor’s rendition warrant.
+This court, in Morris v. State, 43 Ala.App. 660, 199 So.2d 675, stated as follows:
+“An alleged probation or parole violator is a fugitive from justice from the state granting him parole; even if he leaves the state by consent of the paroling authority. Ex parte Trignani, 13 N.J.Super. 306, 80 A.2d 371; Ex parte Summers (1952), 40 Wash.2d 419, 243 P.2d 494. In Summers the Supreme Court of Washington said:
+“ ‘The state in which he is found cannot inquire into the propriety of the decision by the demanding state that he is a parole violator. That question, like the question of the guilt or innocence of an accused, is one for the decision in the demanding state.’
+“See also Boothe v. State, 43 Ala.App. 119, 180 So.2d 450, and cases cited.
+:|: * * * * *
+“We find no merit in petitioner’s insistence that the extradition papers must include an order of the court revoking petitioner's probation.”
+We feel that the Morris case, supra, answers all of the appellant’s objections to the Governor of Alabama’s rendition warrant granted at the request of the Governor of South Carolina.
+There is no merit in the appellant’s contention that his probationary period has expired. The record indicates that he was sentenced on April 22, 1965, to be confined at hard labor upon the Public Works of Spartanburg County, South Carolina, for a term of five years or for a like term in the State penitentiary; provided that upon the service of eighteen months the balance of the aforesaid sentence was suspended and he was placed on probation for a period of three years under the supervision of the South Carolina Probation and Parole Board. According to our calculations, his probationary period has not expired to date.
+For the reasons above stated we feel that the judgment of the Circuit Court of Madison County in denying appellant’s petition for writ of habeas corpus was correct and the judgment in this cause is due to be and the same is hereby
+Affirmed.
