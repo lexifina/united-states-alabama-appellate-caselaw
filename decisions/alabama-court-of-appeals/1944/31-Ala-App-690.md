@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 384"
+decided: "1944-02-08"
+citations: ["31 Ala. App. 690", "18 So.2d 120"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ganum TAYLOR v. STATE."]
+source_url: "https://static.case.law/ala-app/31/cases/0690-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1683058
+---
+
+# Taylor v. State
+
+## Majority (SIMPSON, Judge.)
+
+SIMPSON, Judge.
+Affirmed.
