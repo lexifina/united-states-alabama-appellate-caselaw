@@ -1,0 +1,37 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 169"
+decided: "1944-12-12"
+citations: ["32 Ala. App. 1", "21 So. 2d 274"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COTTON v. CITY OF BIRMINGHAM."]
+source_url: "https://static.case.law/ala-app/32/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685731
+cites_cases: ["10 Ala.App. 191", "10 So.2d 36", "100 So. 304", "109 So. 571", "12 So. 472", "149 Ala. 307", "15 Ala.App. 367", "155 Ala. 78", "165 Ala. 374", "17 Ala.App. 665", "172 Ala. 344", "197 Ala. 286", "197 Ala. 589", "20 Ala.App. 14", "20 So.2d 113", "21 So.2d 268", "210 Ala. 458", "215 Ala. 4", "246 Ala. 147", "26 Ala.App. 372", "30 Ala.App. 559", "360 So. 272", "4 Ala.App. 264", "65 Ala. 236", "67 Ala. 338", "72 So. 540", "88 So. 192", "99 Ala. 521"]
+---
+
+# Cotton v. City of Birmingham
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The appeal in this case is based upon the record proper and the assignment of errors, six in number, presents two propositions for our consideration. (1) The action of the court in overruling defendant’s demurrers to the complaint filed by counsel for appellee, and (2) similar action of the court in refusing to defendant the general affirmative charge duly requested in writing.
+Both of these enumerated propositions must of necessity be decided adversely to the insistences of appellant’s counsel.
+As to proposition (1) supra, our recent case of Jim Chaney v. State, 21 So.2d 268, is conclusive as result of the Supreme Court’s response to a certified question promulgated in the opinion of this court in said case. As to this proposition (1) the Supreme Court in said response to the certified question said, 246 Ala. 147, 21 So.2d 263:
+“On appeal from a prosecution in a recorder’s court for violation of a municipal ordinance, the record need not disclose the affidavit upon which accused was tried in the inferior court. A written complaint, duly filed by the city attorney, suffices to apprise the accused of the nature and character of the action against him.
+“While one on trial in a recorder’s court for the violation of a municipal ordinance is entitled to be apprised of the nature and cause of the prosecution against him by a written complaint (Birmingham v. O’Hearn, 149 Ala. 307, 42 So. 836, 13 Ann.Cas. 1131; McKinstry v. City of Tuscaloosa, 172 Ala. 344, 347, 54 So. 629), that an accused was arrested and tried in such court without a written complaint (affidavit) does not render the judgment there entered void for want of jurisdiction.—Brooke v. State, 155 Ala. 78, 46 So. 491; Sherrod v. State, 197 Ala. 286, 72 So. 540. This for the reason that he may waive the right.—43 C.J. 459.
+“If the defendant proceed to trial in such court without demanding such complaint he is held to have waived the right and, later on appeal, he cannot for the first time avail of it.—Aderhold v. City of Anniston, 99 Ala. 521, 12 So. 472; McKinstry case, supra; Sherrod case, supra; Clark v. City of Uniontown, 4 Ala.App. 264, 58 So. 725; Wofford Oil Co. v. Russellville, 20 Ala.App. 14, 100 So. 304; Worthington v. Jasper, 197 Ala. 589, 73 So. 116; Arzumanian v. Birmingham, 165 Ala. 374, 51 So. 645.
+order to abate the proceedings in the appellate court because of the. lack of an affidavit before the recorder the transcript must affirmatively show that objection to trial without one was seasonably interposed when accused was .arraigned and tried in the recorder’s court. No defect in the proceedings, other than want of jurisdiction apparent on the face of them, will subject the cause to dismissal on appeal. To authorize dismissal of the proceedings in the appellate court it must affirmatively appear that the judgment of the lower court was void for lack of jurisdiction.—City of Selma v. Stewart, 67 Ala. 338, 340; Casteel v. City of Decatur, 215 Ala. 4, 109 So. 571; 43 C.J. pp. 481, 484, §§ 711, 721.
+- “Therefore, unless the transcript on appeal does show a violation of this right to be tried on a proper written complaint it is regarded as having been waived and the objection is unavailing in the court to which the appeal proceeded.—Oldham v. Town of Rogersville, 26 Ala.App. 372, 360 So. 272; McKinstry and Stewart cases, supra.
+“Trial on appeal from a recorder’s court is de novo and the entire transcript from the lower court need not .be sent up.—Bouyer v. City of Bessemer, 17 Ala.App. 665, 88 So. 192. It is held that the jurisdictional recitals of the appeal bond suffice to give the court to which the appeal is taken jurisdiction of the cause (Ex parte McLosky, 210 Ala. 458, 98 So. 708; Lee v. State, 10 Ala.App. 191, 64 So. 637), and on appeal the complaint signed by the city prosecuting attorney is regarded as sufficient to satisfy the requisites, that the accused is entitled to be apprised of the nature and character of the accusation, although the record does not disclose an affidavit before the recorder. Fealy v. City of Birmingham, 15 Ala.App. 367(9), 73 So. 296.
+“Such appeal cases, where the trials are de novo in the higher court, are distinguishable from the case of Camden v. Bloch, 65 Ala. 236, where the trial was not de novo, but the proceeding there was a common law writ of certiorari issued by the appellate-city court to inquire into questions only ‘touching the jurisdiction of the subordinate tribunal and the regularity of its proceedings.’ (At page 239 of 65 Ala.) The office of the writ there issued was to correct errors apparent on the face of the record and compliance with the writ by the inferior court necessitated a showing by the transcript submitted of a sufficient affidavit upon which the prosecution was sought to be predicated.”
+Under the provisions of Code of Alabama 1940, Title 13, Section 95, it is provided : “Decisions of supreme court to control. — -The decisions of the supreme court shall govern the holdings and decisions of the court of appeals, and the decisions and proceedings of such court of appeals shall be subject to the general superintendence and control of the supreme court as provided by section 140 of the constitution of the state.”
+As to the second proposition, supra, we quote the two following ordinances of the City of Birmingham, of which this court takes judicial notice:
+“Section 4915. When the doing of any act, or the omission to do any act, or to perform any duty, is declared to be unlawful by any ordinance of the Corporation, and there is no fine or other penalty prescribed, any person convicted of such act or omission shall, on conviction thereof, be punished as provided in this Code.
+“Section 4906. Any person ‘shall upon conviction be punished by a fine not exceeding one hundred dollars and/or by imprisonment at hard labor upon the streets or public works, or in the workhouse or house of correction of the City, not exceeding six months, one or both; and in the event any fine and costs are not presently paid, the Recorder of the City shall sentence the offender, or person, thus in default to work out the fine and costs at hard labor upon the street or public works, or in the workhouse or house of correction of the City, and the persons so sentenced to hard labor shall be allowed one dollar for each day’s services so performed, etc.’ ”
+See also the cases of Payne v. City of Birmingham, 30 Ala.App. 559, 10 So.2d 36; Stinson v City of Birmingham, Ala.App., 20 So.2d 113.
+Affirmed.
+Post, p. 4.
