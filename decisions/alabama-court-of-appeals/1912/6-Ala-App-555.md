@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-11-19"
+citations: ["6 Ala. App. 555", "60 So. 454"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mann v. Darden, et al."]
+source_url: "https://static.case.law/ala-app/6/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1621881
+cites_cases: ["1 Ala. App. 456", "11 Am. Dec. 632", "113 Ala. 562", "116 Ala. 142", "144 Ala. 524", "151 Ala. 335", "152 Ala. 251", "163 Ala. 297", "170 Ala. 469", "171 Ala. 142", "41 South. 612", "50 Am. Dec. 476", "54 South. 493", "54 South. 504", "55 South. 432"]
+---
+
+# Mann v. Darden
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+This is the third appeal in this case. The other two appeals were considered by the Supreme Court before this court was established. — Darden et al. v. Mann, 163 Ala. 297, 50 South. 1033; Mann v. Darden, et al., 171 Ala. 142, 54 South. 504. The record in the case shows no change from the cases presented on the former appeals so far as the issues in the trial court are concerned. The suit is at the instance of the appellant against the appellees, is in trespass and trover, and proceeds upon the theory that the defendants fraudulently procured a stallion from the plaintiff by leading the plaintiff to believe that certain notes received in trade for the animal were valuable when in fact they were not; that by this fraud and deception, in which the defendants conspired against plaintiff, he was induced to part with his property for worthless notes given for patent “washing machine contracts.”
+As the case must be again reversed for errors presently discussed, we will not treat in detail the several assignments of error based on the court’s rulings on the evidence. But, for the benefit of the trial court on another trial, we call attention to the rule referred to by the Supreme Court, Avhen the case Avas last before that court on appeal, of allowing great latitude to a party in the introduction of evidence when an issue of fraud is involved and a conspiracy relied upon. Some of the rulings on the evidence presented on this appeal approach very close, if they do not overreach, the line of showing reversible error because of a failure to observe this rule.
+Charge Z, requested by the defendants, should not have been given. The Supreme Court in a number of cases has held that the weight and «’edibility to be given the testimony of a witness when testifying ore tenus is necessarily different from that given to it when in the form of written testimony. — See Thompson v. Collier, 170 Ala. 469, 54 South. 493, citing several- of these cases and reaffirming this rule. The data afforded the trial court or jury as triors of the facts by an observance of the witness, when delivering his ■ testimony ore tenus, gives an advantage in weighing the credibility o'f the statements of the witness not imparted by the paper writing, when reduced to that form of testimony, and the jury should not be instructed by the court to give the same weight and credibility to this testimony in making their verdict, for they did not have the opportunities afforded for doing so. The effect of the charge is an instruction that the jury cannot consider matters which it is proper for them to consider in arriving at the weight and credibility to be given the testimony of a Avitness.
+Charge No. 1, given at the instance of the defendants, differs in the Avording of the last sentence as set out in the record and as set out in the bill of exceptions. As a general rule, the statements of the record govern when they conflict with the bill of exceptions. This charge, as set out in the record, requires too high a degree of proof. The last sentence of the charge as set out in the record is, “If the plaintiff fails to prove the conspiracy, your verdict will be for the defendants.” (Italics ours.) The proof is not required to be absolute, but only that it shall be to the reasonable satisfaction of the jury. — Du Bose v. Conner, 1 Ala. App. 456, 55 South. 432; Lawrence v. Land Co., 144 Ala. 524, 41 South. 612; So. Ry. Co. v. Hobbs, 151 Ala. 335, 43 South. 844; McEntyre v. Hairston, 152 Ala. 251, 44 South. 417.
+This charge, as well as others, predicates a verdict for the defendants alone on the failure to show a conspiracy, while on one phase of the case plaintiff might recover, of one of the defendants because of fraud practiced without showing a conspiracy on the part of the-other defendants, or a participation by them in practicing the fraud. The charge, in other words, ignores one of the issues in the case and predicates a finding for all of the defendants on the issue alone of conspiracy, without regard to the effect of the tendency of the evidence in affording inferences from which the jury might find for the plaintiff on another issue.
+The insistence made by counsel for defendants in brief that on the evidence each of the defendants was entitled to the general charge, and that if there is error it is without injury, is untenable. The case was properly submitted to the jury, certainly as to two of the defendants.
+Reversed and remanded.
