@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Appeals"
+docket: "5 Div. 621"
+decided: "1963-05-07"
+citations: ["42 Ala. App. 114", "154 So. 2d 682"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Aubrey PATE v. STATE."]
+source_url: "https://static.case.law/ala-app/42/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1707614
+---
+
+# Pate v. State
+
+## Majority (JOHNSON, Judge.)
+
+JOHNSON, Judge.
+Aubrey Pate, the appellant, was charged by indictment at the September, 1950, term of the Tallapoosa County, Alabama, Grand Jury of the offenses of grand larceny and burglary. Pate, represented by a capable attorney of his own employment, the Honorable Jesse Willard Pienezza, was arraigned in October, 1950. Following arraignment, he was tried by a jury and found guilty of the offense of burglary and sentenced to a term of ten years in the penitentiary. From this conviction, no direct appeal was taken.
+After completion of the service of other sentences and the beginning of the service of the ten year burglary sentence, Pate filed a petition for a Writ of Error Coram Nobis which was dated May 3, 1962, in the Circuit Court of Tallapoosa County, Alabama, and it appears that his petition was based on four grounds, namely:
+1. That he was convicted after trial in October, 1950, for the crime of second degree burglary upon the uncorroborated testimony of Willard Ward and Earl Ott, both of whom were accomplices to the crime for which he was convicted.
+2. That a bailiff or deputy sheriff or other court official served as a member of the jury panel which heard the case and rendered the verdict.
+3. That the Circuit Solicitor of the Fifth Judicial Circuit of Alabama, and presently a Circuit Judge of the Fifth Judicial Circuit of Alabama; the Honorable Horace C. Akin, former Chief Deputy Sheriff of Tallapoosa County, now retired; and the Honorable Ralph Segrest, formerly County Solicitor, now deceased, had offered his co-defendants, Willard Ward and Earl Ott, dope or other inducement to get these witnesses to change their story and testify in behalf of the State at the original trial.
+4. That his attorney at the original trial, Honorable Jesse Willard Pienezza, was prevented from taking an appeal in the case by virtue of being called into the armed forces of the United States in the Korean conflict.
+The trial court, upon learning that the petitioner was without counsel to represent him in his petition for Coram Nobis, appointed the Honorable Ruth S. Sullivan and the Honorable John P. Oliver, both of whom were experienced trial lawyers of the Tallapoosa County, Alabama, Bar, and requested them to familiarize themselves with the petitioner’s case. The court further ordered that the petitioner be brought to the Tallapoosa County Jail on September 24, 1962, to give his appointed counsel a full opportunity to discuss the allegations of the petition with him. A careful examination of the record before us reveals that, upon this hearing, both the attorneys for the petitioner and the State acquitted themselves with diligence.
+We feel that to here quote from a portion of the judgment of the 'learned trial judge, which we feel was supported by the evidence, will suffice to present an accurate and comprehensive resume of that which occurred at this hearing:
+“After considering all of the competent, legal, material and relevant evidence in the case, the Court concludes and finds as follows:
+“1. That the State had placed ample corroborating testimony before the jury trying the case, and the contention of the Petitioner in regard to the lack of corroboration by the State is hereby rejected.
+“2. The Court is of the opinion that the party who Mr. Pate thought was a juror, was the Honorable Jeff Jinks, now deceased, who was a bailiff of the Court at the time of the trial and the Court finds that Mr. Jinks was not a member of the jury panel which heard the evidence and tried the case. The contention of the Petitioner that an official of the Court or law enforcement officer served as a member of the jury panel is hereby rejected as being wholly unsubstantiated.
+“3. The Court further finds that while the co-defendants did identify the Petitioner, Aubrey Pate, as being present and participating in the burglary in question at the original trial, that there was no inducement, no offer of reward, no promise of lesser punishment or any improper influence whatsoever used by the Honorable Dan Boyd, the Honorable Horace C. Akin or the late Honorable Ralph Segrest in an attempt to obtain evidence in behalf of the State or to get the two co-defendants, Willard Ward and Earl Ott, to change their testimony and identify the Petitioner in the original trial. This contention of the Petitioner regarding any improper influence or inducement is hereby rejected as being wholly unsubstantiated.
+“4. The Court further finds that while the Petitioner’s case was not appealed, that this was due to the failure of the Petitioner to employ counsel to perfect an appeal in his behalf; that the Petitioner had ample opportunity to employ either the counsel who represented him at the preliminai-y hearing and his original trial, the Honorable Jesse Willard Pienezza or others to perfect an appeal; and that Mr. Pate was in no way prevented in the exercise of his legal rights to perfect an appeal of his original conviction. Any contention regarding the adequacy of his counsel at his original trial or lack of opportunity to employ counsel to perfect an appeal is hereby rejected as not being substantiated.
+“5. The Court further finds that there are conflicts, contradictions and inconsistencies in Petitioner’s testimony and where such conflicts, contradictions and inconsistencies arise, such testimony of the Petitioner is hereby rejected as being impeached testimony.
+“6. The Court further concludes that the Petitioner’s Court appointed counsel at the hearing for a Writ of Error Coram Nobis rendered a thorough and complete service to the Petitioner and that he was most adequately represented; and the Court hereby commends the Honorable Ruth S. Sullivan and Honorable John P. Oliver for their services, these services being rendered without remuneration from any source whatsoever.
+“7. The Court further finds that because of the death of the Court Reporter, Mr. Mixon, the State is unable to furnish a transcript of the Petitioner’s original trial as his notes thereof are unavailable. For such reason, the Petitioner’s request for a transcript of the evidence of his original trial is hereby denied. The State of Alabama is ordered to have a transcript of all the evidence on the hearing for a Writ of Error Coram Nobis written up by the Court Reporter at its expense, and a copy thereof furnished to the Petitioner without cost to him.
+"This cause was taken under advisement on September 28, 1962 after the evidence was presented at the hearing for a Writ of Error Coram Nobis and the Petitioner was ordered remanded to the custody of M. J. Wiman, Warden of Kilby Prison, Montgomery, Alabama pending the consideration of the petition
+“It is, therefore, CONSIDERED, ORDERED and ADJUDGED by the Court that the Petition of Aubrey Pate for a Writ of Error Coram Nobis be, and the same is hereby denied and overruled ; and the Motion to Dismiss such Petition, of the State of Alabama, filed through its Circuit Solicitor of the Fifth Judicial Circuit, Honorable Tom F. Young, its County Solicitor of Tallapoosa County, Alabama, Honorable Charles R. Adair, Jr., and its Attorney General of the State of Alabama, Honorable MacDonald Gallion, by Assistant Attorney General, John C. Tyson, III, is hereby granted.
+“It is further CONSIDERED, ORDERED and ADJUDGED by the Court that the Petitioner, Aubrey Pate, be remanded to the custody of M. J. Wiman, Warden, Kilby Prison, Montgomery, Alabama, and there to complete serving his sentence until discharged by due process of law.”
+We observe the judgment of the trial court in overruling petitioner’s application for rehearing, “The court finds that there are no matters averred in the petition for rehearing which were not fully inquired into on the original hearing on September 28, 1962.”
+The judgment and order of the Circuit Court are hereby
+Affirmed.
