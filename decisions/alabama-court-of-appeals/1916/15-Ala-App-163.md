@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1916-08-01"
-citations: ["15 Ala. App. 163", "72 So. 688", "15 Ala. App. 146", "72 So. 686"]
+citations: ["15 Ala. App. 163", "72 So. 688"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Thomas v. The State."]
 source_url: "https://static.case.law/ala-app/15/cases/0163-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1632837
-cites_cases: ["104 Ala. 71", "105 Ala. 18", "11 Ala. App. 333", "116 Ala. 437", "16 South. 795", "16 South. 82", "167 Ala. 77", "20 Ohio St. 508", "22 South. 918", "58 Am. St. Rep. 97", "71 Ala. 14"]
+cites_cases: ["104 Ala. 71", "16 South. 82", "167 Ala. 77"]
 ---
 
 # Thomas v. State
