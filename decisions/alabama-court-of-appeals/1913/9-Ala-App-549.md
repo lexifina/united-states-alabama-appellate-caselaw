@@ -1,0 +1,25 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1913-11-18"
+citations: ["9 Ala. App. 549", "63 So. 774"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Taxicab Touring Car Co. v. Cabaniss."]
+source_url: "https://static.case.law/ala-app/9/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623649
+cites_cases: ["103 Ala. 160", "108 Ala. 236", "109 Ala. 589", "117 Ala. 367", "121 Ala. 489", "131 Ala. 422", "136 Ala. 472", "149 Ala. 545", "153 Ala. 171", "23 South. 231", "26 South. 35", "37 South. 355", "56 South. 578", "9 South. 738", "92 Ala. 630", "97 Ala. 180"]
+---
+
+# Taxicab Touring Car Co. v. Cabaniss
+
+## Majority (PELHAM, J. —)
+
+PELHAM, J. —
+We consider the errors insisted upon in the order of their assignment and treatment in brief of counsel for appellant.
+The insistence made through assignments 1 and 2 is that the court erred in overruling the motion of appellant, Avho was the defendant in the court below, to set aside the verdict and grant the defendant a new trial because the verdict was contrary to the evidence or the weight or preponderance thereof. The evidence set out in the bill of exceptions as it appears to us upon a careful reading, is in serions conflict; but there is evidence to support the verdict and no such weight or preponderance in favor of the defendant’s contention as would justify this court in exercising the authority of an appellate court to put the trial court in error for overruling the motion and sustaining the verdict, without doing violence to a proper observance of the presumption of correctness attaching to the verdict and holding of the trial court under the rule of law announced in Cobb v. Malone, 92 Ala. 630, 9 South. 738, and followed in all of the later decisions.
+The third, fourth, fifth, and sixth assignments of error all relate to the action of the court in sustaining the demurrers interposed by appellee to the second, third, and fourth pleas of appellant as an answer to the third count of the complaint. All of the pleas referred to were pleas setting up contributory negligence on the part of the plaintiff:'. In view of the Avell-established rule under the decisions in this state that Avillfulness or wantonness may be averred in very general terms, amounting to little if at all more than the mere conclusion of the pleader, and that it is not necessary to particularize in AAdiat the AAumtonness or Avillfulness consisted, the ascription of the injury, in terms, to the ‘hvanton negligence” of the defendant’s servants or agents in the third count of the complaint, is a sufficient charge of willfulness or Avantonness, and the pleas of contributory negligence to which demurrers Avere sustained Avould be no answer to this count of the complaint, counting upon wanton negligence and attributing the injury to such conduct on the part of defendant’s employees. — L. & N. R. R. Co. v. Orr, Adm’r, 121 Ala. 489, 498, 26 South. 35; Bradley v. L. & N. R. R. Co., 149 Ala. 545, 42 South. 818; So. Ry. Co. v. Weatherlow, 153 Ala. 171, 44 South. 1019; M. & C. R. R. Co. v. Martin, Adm'r. 117 Ala. 367, 23 South. 231.
+The seventh assignment of error is based on the action of the court in not excluding the statement of the witness Smithson to the effect that it was his “opinion” that the plaintiff had his back turned to the automobile when it struck his bicycle, and giving the direction in which the parties were going at the time as an opinion. This statement that it was the opinion of the witness was immediately followed and qualified by the Avitness’ statement that it was his best judgment of the Matter, and reversible error cannot be predicated on such ruling.
+The only other error assigned (the eighth) goes to the refusal of the court to give the general charge for the defendant on the second count of the complaint. This count of the complaint sets up an ordinance of the city of Bessemer regulating the operation of automobiles and providing, among other requirements, that the speed at Avhich they shall be run shall not exceed 10 miles an hour. The injuries suffered by plaintiff are alleged in this count to have been the proximate consequence of the negligent running of the automobile in violation of said ordinance. There Avas no conflict in the evidence that the injury occurred in the corporate limits of the city of Bessemer. The ordinance was introduced in evidence without objection, and there was testimony given by some of the Avitnesses that the automobile was being driven at the rate of 25 to 30 miles an hour at the time of the collision between it and the bicycle on Avhich the plaintiff Avas riding. Under this state of the proof, it was a question for the jury as to whether or not the negligent operation of the automobile in violation of the ordinance as testified to by some of the witnesses was the proximate cause of the injury, and the court properly refused the general charge requested by the defendant as to this count of the complaint. ■
+Affirmed.
