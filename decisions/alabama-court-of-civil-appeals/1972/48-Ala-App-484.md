@@ -1,0 +1,37 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "7 Div. 49"
+decided: "1972-08-30"
+citations: ["48 Ala. App. 484", "266 So. 2d 150"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concurring."]
+parties: ["Odis CHAMPION d/b/a Odis Champion Diesel Service v. E. T. GAINES."]
+source_url: "https://static.case.law/ala-app/48/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1724830
+cites_cases: ["16 Ala.App. 295", "282 Ala. 41", "282 Ala. 93", "283 Ala. 251", "284 Ala. 442", "285 Ala. 371", "31 Ala.App. 534", "4 Ala.App. 612", "47 Ala.App. 227"]
+---
+
+# Champion v. Gaines
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+Appellee filed suit for breach of contract against appellant in the Circuit Court of Calhoun County, Alabama. The suit contained two counts. Count I is couched in terms alleging the breach of an agreement wherein appellant guaranteed certain work performed by him, and refused to comply with this guarantee. Count II is for breach of an agreement to properly repair appellee’s truck.
+The case was submitted to the jury under both counts and the jury returned a, general verdict for. the plaintiff and assessed his damages at $1,085.22.
+The evidence reveals that appellee took his 1962 Model “H” Mack truck to appellant for .certain repairs; that work was. performed on the truck by appellant; that appellee paid for said work; ■ that shortly thereafter the truck broke down between Munford and Talladega, Alabama, and appellant came to the scene of the breakdown and made other repairs; that on this same occasion the vehicle again broke down in Theodore, Alabama, approximately 350 miles away, and would not run under its own power. Note is made also that witness for appellee, who was familiar with the mechanics of a diesel truck, testified that he had inspected the engine of appellee’s vehicle after it had broken down the second time and decided the sleeves had been installed too tightly in the block and galled the pistons. Plaintiff’s exhibit No. 1, introduced into evidence without objection, which is a bill for repair work performed by appellant on appellee’s vehicle, shows work performed on sleeve assembly among other things.
+There are nine assignments of error, but as we view appellant’s argument in his brief he only insists upon two. One, being that appellee did not prove any connection between the work done by appellant and appellee’s damages and, two, appellee did not prove any damages.
+The record presents to this court evidence from which a jury could conclude that the repairs performed by appellant were not properly performed. Appellee paid to appellant over $1,000 for this work and shortly thereafter the truck was inoperable and appellant made other repairs. Again, shortly thereafter, the vehicle was inoperable. The question in this matter of whether or not the vehicle was repaired properly was a question of fact to be determined by the jury and unless their finding is plainly and palpably wrong this court must abide by the jury’s decision. It is the duty of the trial court to submit to the jury all material issues in the case which have any support from the evidence. Selman v. Moore, 31 Ala.App. 534, 19 So.2d 548; Ala. Digest, Trial, 139(l)g.
+The record discloses as evidence of appellee’s damages for the alleged breach of an agreement to properly repair the vehicle, a repair bill for $1,085.22 for work allegedly performed on the vehicle by appellant, introduced by appellee without objection. Furthermore, the record shows appellant testified that he received $1,085.-22 from appellee for work performed on the vehicle. Other testimony by appellee states that appellant stated it would cost $1,800 to fix the vehicle after the second breakdown in Theodore, Alabama. Since Count II of the complaint is for breach of an agreement to properly repair, the bill (paid by appellee) for such alleged improper repairs would be admissible as evidence and could be considered by the jury in determining damages under the facts of this case.
+The Supreme Court of Alabama, in United Bonding Ins. Co. v. W. S. Newell, Inc., 285 Ala. 371, 232 So.2d 616, has stated that damages for breach of a contract need not be measured with mathematical precision. The court, in the Newell case, quoted from 22 Am.Jur.2d 44, Damages, § 25:
+“ * * it is now generally held that the uncertainty which prevents a recovery is uncertainty as to the fact of the damage and not as to its amount and that where it is reasonably certain that damage has resulted, mere uncertainty as to the amount will not preclude the right of recovery or prevent a jury decision awarding damages. This view has been sustained where, from the nature of the case, the extent of the injury and the amount of damage are not capable of exact and accurate proof. Under such circumstances, all that can be required is that evidence — with such certainty as the nature of the particular case may permit — lay a foundation which will enable the trier of the facts to make a fair and reasonable estimate of the amount of damage. The plaintiff will not be denied a substantial recovery if he has produced the best evidence available and it is sufficient to afford a reasonable basis for estimating his loss.’ ” (285 Ala. at 380, 232 So.2d at 624)
+As this court said, in Tidwell v. Badgett, 47 Ala.App. 227, 252 So.2d 649, the purpose of awarding damages for the breach of a contract is to put the injured party in the position he would have been in had the contract been fully performed.
+In the case at bar the jury determined that repairs to appellee’s truck were not properly made and assessed appellee’s damages, apparently using as a measure the repair bill paid by appellee to appellant. This, we cannot say was error or was there a failure on the part of the appellee to prove any damages from the improper repairs in view of his testimony regarding the estimate to repair after the final breakdown of the truck.
+Where there is a general verdict on the complaint, as in this case, and there is at least one good count upon which a verdict could be based, the verdict is good. Lang v. Leith, 16 Ala.App. 295, 77 So. 445; Turnipseed v. Burton, 4 Ala.App. 612, 58 So. 959.
+This court is mindful in this case that appellant made motion to the trial judge to grant a new trial, and this motion was denied. It is a principle long approved by the Supreme Court of Alabama and followed by this court that the correctness of the jury’s verdict is strengthened when the trial judge refuses to grant a new trial. Ala. Electric Co-op., Inc. v. Partridge, 283 Ala. 251, 215 So.2d 580; Water Works and Sanitary Sewer Bd. of City of Montgomery v. Norman, 282 Ala. 41, 208 So.2d 788; Decker v. Hays, 282 Ala. 93, 209 So.2d 378.
+This court has thoroughly searched the record in this case and considered all assignments of error properly presented by appellant’s brief, all assignments of error not argued or properly argued are waived. Supreme Court Rule 9. See specifically Alabama Elec. Co-op., Inc. v. Partridge, 284 Ala. 442, 225 So.2d 848.
+There being no reversible error presented to this court, the jury verdict and the judgment of the trial court should not be disturbed. This case is due to be affirmed.
+Affirmed.
+WRIGHT, P. J., and BRADLEY, J., concurring.
