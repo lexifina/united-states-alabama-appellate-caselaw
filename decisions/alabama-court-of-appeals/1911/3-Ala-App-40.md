@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1911-12-21"
-citations: ["3 Ala. App. 40", "58 So. 60", "2 Ala. App. 131", "57 So. 51"]
+citations: ["3 Ala. App. 40", "58 So. 60"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["McGuire v. The State."]
 source_url: "https://static.case.law/ala-app/3/cases/0040-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1615558
-cites_cases: ["10 South. 518", "105 Ala. 31", "105 Ala. 43", "105 Ala. 96", "105 Ala. 97", "11 South. 399", "114 Ala. 20", "118 Ala. 137", "121 Ala. 16", "123 Ala. 64", "125 Ala. 64", "133 Ala. 81", "134 Ala. 63", "139 Ala. 114", "139 Ala. 144", "148 Ala. 618", "16 South. 716", "16 South. 758", "162 Ala. 14", "166 Ala. 1", "17 South. 86", "21 South. 947", "23 South. 719", "25 Am. Rep. 627", "25 South. 726", "26 Ala. 90", "28 Ala. 53", "28 South. 92", "32 Ala. 73", "32 South. 760", "36 South. 718", "39 South. 608", "4 South. 275", "42 Ala. 529", "42 South. 1014", "46 Ala. 175", "53 Ala. 402", "54 Ala. 221", "6 Ala. 735", "63 Ala. 199", "65 Ala. 456", "68 Ala. 486", "7 Ala. 652", "73 Ala. 17", "77 Ala. 1", "77 Ala. 33", "84 Ala. 13", "85 Ala. 323", "90 Ala. 275", "90 Ala. 523", "90 Ala. 583", "90 Ala. 811", "92 Am. St. Rep. 17", "93 Ala. 45", "94 Ala. 68", "96 Ala. 102", "96 Ala. 24", "97 Ala. 14", "98 Ala. 40"]
+cites_cases: ["10 South. 518", "105 Ala. 31", "105 Ala. 43", "105 Ala. 96", "105 Ala. 97", "11 South. 399", "114 Ala. 20", "118 Ala. 137", "121 Ala. 16", "123 Ala. 64", "125 Ala. 64", "133 Ala. 81", "134 Ala. 63", "139 Ala. 144", "148 Ala. 618", "16 South. 716", "16 South. 758", "162 Ala. 14", "166 Ala. 1", "17 South. 86", "21 South. 947", "23 South. 719", "25 Am. Rep. 627", "25 South. 726", "26 Ala. 90", "28 Ala. 53", "28 South. 92", "32 Ala. 73", "32 South. 760", "36 South. 718", "39 South. 608", "4 South. 275", "42 Ala. 529", "42 South. 1014", "53 Ala. 402", "54 Ala. 221", "6 Ala. 735", "63 Ala. 199", "65 Ala. 456", "68 Ala. 486", "7 Ala. 652", "73 Ala. 17", "77 Ala. 1", "77 Ala. 33", "84 Ala. 13", "90 Ala. 275", "90 Ala. 523", "90 Ala. 811", "92 Am. St. Rep. 17", "94 Ala. 68", "96 Ala. 102", "96 Ala. 24", "97 Ala. 14", "98 Ala. 40"]
 ---
 
 # McGuire v. State
