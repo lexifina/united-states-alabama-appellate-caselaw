@@ -1,0 +1,47 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 244"
+decided: "1974-05-29"
+citations: ["54 Ala. App. 39", "304 So. 2d 591"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, ]., concur."]
+parties: ["In the Matter of Debra Jean JOHNSON and Richard Johnson, minors. Edna BRILL v. Julian H. JOHNSON and Gladys Johnson."]
+source_url: "https://static.case.law/ala-app/54/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741133
+cites_cases: ["268 Ala. 619", "272 Ala. 517", "276 Ala. 675", "291 Ala. 569", "48 Ala.App. 363", "49 Ala.App. 662", "50 Ala.App. 682"]
+---
+
+# Brill v. Johnson
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+This is an appeal from a decree rendered by the Circuit Court of DeKalb County wherein primary custody of two minor children was awarded to the appellees, who are the paternal grandparents, with certain specific responsibilities to the children being reposed in the DeKalb County Department of Pensions and Security. Additionally, the appellant, who is the children’s natural mother, was awarded certain specific visitation rights which the trial court states in its decree to be “custody” during those specific times.
+The appellant appeals from this decree assigning as error by appropriate assignments of error the trial court’s action in not awarding primary custody to the appellant.
+The record reveals that in March of 1968, when the children were approximately six and two years of age respectively, on petition filed by appellees and the DeKalb County Department of Pensions and Security, the children were determined by the Juvenile Court of DeKalb County to be neglected and made wards of the state. The custody of the children was granted to the appellees, subject to the supervision of the County Department of Pensions and Security. This decree was entered after a hearing was had on the aforementioned petition.
+Thereafter, in July of 1968, the Harrison County Family Court of the State of Mississippi (where the children were first found to have been neglected), after a hearing, confirmed the March order of the Juvenile Court of DeKalb County.
+In July of 1971, the appellant petitioned the Juvenile Court of DeKalb County to place custody of the children with her. Again, apparently by agreement of the parties, primary custody remained with the appellees with appellant being granted certain specific periods of visitation.
+Again, in November 1972, after due consideration, the Juvenile Court of DeKalb County specifically reaffirmed that primary custody of the minor children should remain with the appellees. From this decision the appellant took a de -novo appeal to the Circuit Court of DeKalb County wherein the order from which this appeal is taken was entered. This order in pertinent part is as follows:
+“IT IS, THEREFORE, ORDERED AND DECREED by the court as follows :
+“1. That subject to the further order of this court and subject to the terms and conditions of this decree as hereinafter set forth, the primary responsibility for the care, education, control and maintenance of Debra Jean Johnson and Richard Johnson, minors, be, and the same hereby is, reposed in the appellees, Julian H. Johnson and Gladys Johnson.
+“2. That limited and special custody of said minors be, and the same hereby is, vested in the director of the DeKalb County Department of Pensions and Security for the purpose of affording said minors with counselling and treatment by the DeKalb Department of Mental Health, or a similarly qualified agency.
+“3. That in order to afford such counselling and treatment the said director, or her authorized representative, be, and hereby is, authorized and empowered to take said children, unaccompanied by anyone else, for an interview and thereafter, from time to time, as may be prescribed or recommended by the Department of Mental Health or other similarly qualified agency, to take possession of said minors and conduct them to and from such counselling and treatment sessions.
+“4. That the appellees be, and they hereby are, ordered and directed to deliver up custody of said director at such times as she shall determine necessary to affect the purposes herein and above set forth.
+“5. That the appellant, Edna Brill, be, and she hereby is, awarded the right to take custody of said minors, one day each week, either on Saturday or on Sunday, from one o’clock p. m. to six o’clock p. m. She shall, at her expense, call for and deliver said children and she shall notify the appellees at least fourtyeight [sic] hours in advance of the time when she shall call for said children. In the event said children shall be in the actual custody of the Department of Pensions and Security under the provisions of paragraph 3 above, then the appelland [sic] shall not be entitled to custody of said minors during such periods.
+“6. That the aforesaid minors, Debra Jean Johnson and Richard Johnson, be, and they hereby are, remanded to the jurisdiction of the juvenile court of DeKalb County, Alabama for supervision and care under the terms of this decree except that the said juvenile court is expressly authorized and empowered to modify this decree insofar as it pertains to the visitation rights to be afforded the appellant as changed circumstances may justify.”
+While it is unnecessary to set out all of the facts, as no useful purpose would thereby be served, from a close scrutiny of the entire record, the following is gleaned therefrom.
+The appellant married at an early age and this marriage was, to say the least, turbulent. The appellant and her former husband apparently became heavily involved with illegal drugs, coupled with the intemperate use of alcohol, resulting in the appellant’s mental state becoming impaired, even to the point of attempting to take her own life. The children born of this union, who are the subject of this appeal, were neglected and abused, if not physically, then psychologically.
+The appellant thereafter obtained a divorce from her husband (there being no provision for custody in the decree of divorce), and after the divorce has attempted to rehabilitate herself. Since the divorce, appellant has remarried; has a hard working, loving husband; has taken a few junior college courses; and has become somewhat active in the church, all for which she is to be complimented. She and her present husband live in a three-bedroom modern, well kept home.
+The appellees, the paternal grandparents, are obviously, from the record, church going, hard working, loving grandparents. They also have a three-bedroom home and have adequate finances to provide for themselves and the two children involved. They are in their sixties. Most importantly, the two minor ■ children, at the time of trial, had been in the home of appellees for five years (six years as of this time).
+As the Supreme Court of Alabama and this court have stated, cases involving family tragedies are among the hardest to deal with and the court is seldom fully satisfied with the result reached. Evans v. Wilkes, 48 Ala.App. 363, 265 So.2d 145.
+The law in Alabama is clear that the overwhelming consideration in cases of this nature is the welfare of the children. Evans v. Wilkes, supra; McBride v. McBride, 268 Ala. 619, 109 So.2d 718; Linderman v. Linderman, 49 Ala.App. 662, 275 So.2d 342; Stuckey v. Stuckey, 50 Ala.App. 682, 282 So.2d 283.
+The trial court, in this instance, heard the evidence, observed the witnesses, and based its decision on these factors in arriving at its determination that the welfare of the children would best be served, at this time, by allowing them to remain primarily in their present environment. There is a strong presumption favoring the trial court’s findings in cases of this class. See Evans v. Wilkes, supra; Statham v. Statham, 276 Ala. 675, 166 So.2d 403; 2A Ala.Dig., Appeal and Error, ^931. Additionally, it is well established that where evidence is heard orally by the trial court, the finding of the court has the effect of a jury’s verdict and will not be disturbed on appeal unless plainly erroneous, whether in law or equity. And we must affirm the trial court’s decree if fairly supported by credible evidence under any reasonable aspect. Jackson v. Rodda, 291 Ala. 569, 285 So.2d 77.
+This court is impressed with the diligence evidenced by both the Juvenile Court of DeKalb County and the circuit court in attempting to arrive at the proper determination as to what would be in the best interest of the children.
+The trial court had the children interviewed by persons trained in psychology and psychiatry. The trial judge interviewed the children by consent of the parties, the interview was transcribed and is a part of the record, and it is clear from the trial court’s order that he made his determination based on what is in the best interest of the children at this time.
+As this court pointed out in Evans v. Wilkes, supra, this court’s ruling and the trial court’s order is never res judicata and under different circumstances the court may later well reach a different conclusion. See also Danford v. Dupree, 272 Ala. 517, 132 So.2d 734.
+In view of the aforementioned presumptions favoring the trial court’s findings and the primary consideration being the welfare of the children, this court cannot find the trial judge committed reversible error.
+Affirmed.
+WRIGHT, P. J., and BRADLEY, ]., concur.
