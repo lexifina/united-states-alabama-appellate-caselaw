@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "4 Div. 334"
+decided: "1976-02-17"
+citations: ["57 Ala. App. 265", "327 So.2d 760", "327 So. 2d 760"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CATES, P. J., and HARRIS and DeCARLO, JJ., concur."]
+parties: ["Johnny PAGE v. STATE."]
+source_url: "https://static.case.law/ala-app/57/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 428060
+cites_cases: ["130 So.2d 227", "2 L.Ed.2d 414", "263 Ala. 618", "266 Ala. 694", "269 Ala. 312", "273 Ala. 5", "299 So.2d 333", "355 U. S. 930", "38 Ala.App. 287", "39 Ala.App. 29", "40 Ala.App. 393", "53 Ala.App, 287", "53 Ala.App. 287", "78 S.Ct. 412", "96 So.2d 178"]
+---
+
+# Page v. State
+
+## Majority (LEIGH M. CLARK, Supernumerary Circuit Judge.)
+
+LEIGH M. CLARK, Supernumerary Circuit Judge.
+Appellant was convicted of possession of heroin. The court fixed his punishment at five years imprisonment in the penitentiary and sentenced him accordingly. By Code of Alabama 1940 Recompiled, 1973 Cumulative Supplement, Tit. 22, § 258(29) (c), heroin is a controlled substance, the possession of which is proscribed and made punishable by imprisonment for not less than two and not more than fifteen years imprisonment, by Section 258(47) of said Title 22.
+Appellant does not contend, and we see no basis for a contention, that the evidence was insufficient to support the verdict of the jury and the resultant judgment. We see no necessity, therefore, to narrate the evidence, and we limit our discussion of the testimony to portions thereof pertinent to the questions under consideration herein.
+Three officers of the Alabama ABC Board and one officer of the Dothan Police Department, acting on an informer’s tip, spotted appellant in Dothan and identified themselves to appellant, who gave his consent to a search of his motor vehicle and his person. No contraband was found in his vehicle, but two “hits” of heroin were found in an inside pocket of his coat. At the time, he denied knowledge of the presence of the heroin in his coat. He did not testify as a witness in the case. However, several witnesses, including his wife, testified in his behalf to the effect that they had never known of appellant’s pushing or using prohibited drugs and that some time before he was arrested his coat or jacket in which the heroin was found had been borrowed by a mysterious person who went by the name of “Clarence.” In general, the testimony of most of them was to the effect that Clarence was a “pusher” and user of prohibited drugs, including “hard stuff.”
+Defendant filed a motion for new trial which included grounds that since the conviction “new evidence has been discovered concerning one Clarence Parker, who is working in Dothan, Alabama, in an undercover capacity under the direction of agents for the Drug Information Administration . . .”
+After several continuances of the motion, there was a hearing thereon in which there was testimony, including that of defendant’s appointed attorney on the trial of the case, to the effect that the two Clarences were the same, and that defendant and his attorney did not have knowledge of the fact that Clarence was an undercover agent until he “cross-examined him in a Federal trial.” He said he “cross-examined him in Johnny Page’s Federal trial” and that Clarence admitted in the federal court that he used the jacket for several days and had borrowed it from Johnny.
+Appellant insisted (1) that the trial court should have granted the motion for a new trial on the ground of newly discovered evidence and (2) that the trial court should have granted defendant’s motion for a mistrial that was made on the ground that a state witness had made some statements to other witnesses sequestered in the witness room, who afterwards testified for the State.
+The evidence on the motion for new trial was presented ore tenus. We would prefer less mystery as to Clarence Parker that exists even to the present time, which probably could have been clarified to some extent at least by testimony or affidavit from him on the hearing of the motion, but this is a matter beyond our control. To be weighed against whatever evidence there was that tended to support the contention of the defense, though not supported by any evidence from any testimony of defendant himself, that he had no knowledge of any heroin in an inside pocket of his jacket, is to some extent offset by evidence that Clarence had been in possession of “hard stuff,” even pushing it, while he was on an extraordinarily close friendly relationship with appellant. This, together with all the other circumstances, prevents us from being able to say that the trial judge was clearly wrong in overruling defendant’s motion for a new trial. A motion for new trial on the ground of newly discovered evidence rests in the sound discretion of the trial court, and its action will not be disturbed on appeal except where abuse of discretion is clearly shown. Page v. State, 273 Ala. 5, 130 So.2d 227; Fuller v. State, 269 Ala. 312, 113 So.2d 153; Smith v. State, 40 Ala.App. 393, 114 So.2d 295; Lassiter v. State, 38 Ala.App. 287, 83 So.2d 365, cert. denied 263 Ala. 618, 83 So.2d 369.
+Appellant argues that as the record shows a witness was talked to by two witnesses who had previously testified, the motion for a mistrial should have been granted. In appellant’s brief it is correctly stated that the record shows that the conversation was “concerning questions being asked on the witness stand.” The record also shows that upon being asked by State’s counsel whether there was any discussion ot responses given to the questions he asked, the witness replied :
+“No, sir, not when I was in there. I wasn’t in there but just a minute. I stepped out to the D.A.'s office during recess.”
+The witnesses should strictly comply with the order of the court in sequestering them, putting them under the rule, but there is no showing of any injury to appellant in any way resulting from any infraction by the witnesses. The court was not in error in overruling defendant’s motion for a mistrial. Beddow v. State, 39 Ala.App. 29, 96 So.2d 175, cert. denied 266 Ala. 694, 96 So.2d 178, cert. denied 355 U. S. 930, 78 S.Ct. 412, 2 L.Ed.2d 414; Otinger v. State, 53 Ala.App, 287, 299 So.2d 333.
+We find that the trial court was not in error in either of the particulars urged by appellant. In addition, our search of the record convinces us that no error prejudicial to defendant occurred in the trial or proceedings in the trial court, and that the judgment appealed from should be affirmed.
+The foregoing opinion was prepared by Supernumerary Circuit Judge LEIGH M. CLARK, serving as a judge of this Court under Section 2 of Act No. 288 of July 7, 1945, as amended; his opinion is hereby-adopted as that of the Court. The judgment below is hereby
+Affirmed.
+CATES, P. J., and HARRIS and DeCARLO, JJ., concur.
