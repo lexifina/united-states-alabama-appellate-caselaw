@@ -1,0 +1,28 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-06-30"
+citations: ["14 Ala. App. 228", "69 So. 308"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Northern Ala. Ry. Co. v. White."]
+source_url: "https://static.case.law/ala-app/14/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1630653
+cites_cases: ["1 Ala. App. 302", "109 Ala. 128", "11 Ala. App. 182", "11 South. 259", "11 South. 453", "12 Ala. App. 324", "125 Ala. 237", "128 Ala. 296", "14 L. R. A. (N. S.) 261", "145 Ala. 432", "153 Ala. 156", "177 Ala. 71", "184 Ala. 474", "19 South. 519", "25 Ala. 57", "28 South. 438", "29 South. 771", "38 Am. St. Rep. 75", "43 Ala. 45", "44 South. 962", "50 L. R. A. 620", "52 Ala. 330", "55 South. 260", "58 South. 438", "6 Ala. App. 461", "7 South. 97", "8 South. 57", "80 Ala. 73", "88 Ala. 9", "9 Ala. App. 530", "9 South. 238", "90 Ala. 46", "92 Ala. 279", "96 Ala. 11", "96 Ala. 436"]
+---
+
+# Northern Ala. Ry. Co. v. White
+
+## Majority (THOMAS, J.)
+
+THOMAS, J.
+The action was by appellee against appellant railroad company for negligently running over and killing a mule. The case was tried on the plea of the general issue, and the defendant complains of the action of the trial court in refusing the general affirmative charge requested by it.
+Section 5476 of the Code of 1907 provides, among other things, that: “When any person or stock is killed or injured * * * by the locomotive or cars of any railroad, the burden of proof, in any suit brought therefor, is on the railroad company to show * * * that there was no negligence on the part of the company or its agents.”
+Hence it has been held that by virtue of this section the plaintiff makes out a prima facie case by proving, either positively or circumstantially, that the stock was killed or injured while on the track of the defendant company.—O’Rear v. Manchester Lumber Co., 6 Ala. App. 461, 60 South. 462; Ill. Cen. R. Co. v. Bottoms, 1 Ala. App. 302, 55 South. 260; Birmingham Ry. Co. v. Morris, 9 Ala. App. 530, 63 South. 768.
+The burden is then shifted to the defendant to acquit itself of negligence; and if the evidence, as offered by it, is sufficient, if believed by the jury, to show as a matter of law that the defendant was not negligent, and such evidence is undisputed, and not in conflict, then a trial court will be put in error for refusing the affirmative charge when requested by defendant.—A. G. S. R. R. Co. v. McAlpine, 80 Ala. 73; A. G. S. R. R. Co. v. Moody, 90 Ala. 46, 8 South. 57; L. & N. R. R. Co. v. Marbury Lumber Co., 125 Ala. 237, 28 South. 438, 50 L. R. A. 620; Harris v. N. C. & St. L. R. R. Co., 153 Ala. 156, 44 South. 962, 14 L. R. A. (N. S.) 261; Anderson v. Birmingham Min. R. Co., 109 Ala. 128, 19 South. 519; L. & N. R. R. Co. v. Barker, 96 Ala. 436, 11 South. 453. As of interest in this connection, see, however, Roman v. Lentz, 177 Ala. 71, 58 South. 438; Wynn v. State, 11 Ala. App. 182, 65 South. 687; Patterson v. Millican, 12 Ala. App. 324, 66 South. 914.
+While the evidence offered by the defendant was undisputed and tended to show that the engineer, who was operating the train that killed the mule, was keeping a proper lookout at the time of the accident, and that the mule came suddenly upon the track from out of the darkness and so close in front of the train that the engineer could not stop the train in time to avoid the accident, and that such engineer discovered the mule as soon as it could have been discovered, yet the defendant offered no evidence which showed that the train was properly equipped; hence the trial court did not err in refusing the general affirmative charge requested by defendant. —Central of Ga. Ry. Co. v. Brister, 145 Ala. 432, 40 South. 512; A. G. S. R. R. Co. v. Johnston, 128 Ala. 296, 29 South. 771; Coffman v. L. & N. R. R. Co., 184 Ala. 474, 63 South. 527.
+The only other assignment of error relates to exceptions taken by defendant to the remarks of the court made to the jury with reference to the special charges given at defendant’s request, and which remarks were as follows: “I am requested by defendant to give you these charges, which I do, to be taken by you in connection with the oral charge of the court, not to vary, contradict, or explain it, but to be taken in connection with it. These charges, together with the oral charge of the court, are the law of the case to govern you in your decision.”
+The rule is that it is proper for the court to explain to the jury the meaning of written charges given at the request of a party, but not to qualify, limit, or modify such charges.—Lewis v. State, 96 Ala. 11, 11 South. 259, 38 Am. St. Rep. 75; Lowe v. State, 88 Ala. 9, 7 South. 97; Morris v. State, 25 Ala. 57; A. G. S. R. R. Co. v. Moody, 92 Ala. 279, 9 South. 238; Eiland v. State, 52 Ala. 330; Edgar v. State, 43 Ala. 45.
+However, since there are not set out in the record here either the special charges with reference to which the remarks of the court were made, or the oral charge to which special charges were compared in said remarks, we are unable to say that such remarks amounted to either a qualification, limitation, or modification of the special charges. For aught appearing to the contrary from the record, the special charges did not, as stated by the court, either vary, contradict, or explain the oral charge, but were in absolute harmony with it. If so, and we must so presume, it cannot be said that the remarks of the court either qualified, limited, or modified the special charges. It is incumbent on appellant to affirmatively show error, which, as seen, has not been done.
+Affirmed.
