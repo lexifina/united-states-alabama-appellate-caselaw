@@ -1,0 +1,44 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 691"
+decided: "1976-05-05"
+citations: ["57 Ala. App. 718", "331 So.2d 727"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["Joetta LESTER v. PROTECTIVE LIFE INSURANCE COMPANY, a corporation and Alabama Motorists Association, Inc. a corporation."]
+source_url: "https://static.case.law/ala-app/57/cases/0718-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 428068
+cites_cases: ["283 Ala. 493", "54 So.2d 860"]
+---
+
+# Lester v. Protective Life Insurance
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+This appeal is from the Circuit Court of Lauderdale County. Plaintiff-appellant, Mrs. Joetta Lester, brought an action against the defendant-appellees, Protective Life Insurance Company and Alabama Motorists Association, Inc. The action sought recovery of accidental death benefits payable under an accident insurance policy issued by defendant Protective Life Insurance Company. The policy insured Theo Lester, husband of plaintiff-appellant. The trial court, sitting without a jury, found in favor of defendant-appellees, and plaintiff appeals.
+The issue for our determination, as presented by able counsel for appellant, is the construction to be accorded certain terms of the accident insurance policy which is the subject of this lawsuit.
+The facts which gave rise to this litigation are not in dispute, and were stipulated by the parties.
+On October 13, 1973, a tractor-trailer truck ran off the paved portion of Alabama Highway 20 and turned on its side. Wreckers dispatched to the scene pulled the unit into an upright position. One wrecker was then hooked onto the front of the tractor and began to pull the unit off, when the tractor and trailer separated. The trailer turned over on the deceased, Theo Lester, and crushed him to death.
+The only witness to testify at trial was the District Engineer of the Alabama State Highway Department, who described the layout of Highway 20 at the location of the accident.
+Alabama Highway 20 is a public highway in Lauderdale County. The right of way for Highway 20 is 200 feet wide. The paved portion of the highway is a strip 24 feet wide running down the center of the right of way. This center strip is bordered on each side by a 10 foot wide shoulder. At the point where the shoulder terminates, a 10 foot wide strip known as the “front-slope” angles down into a ditch. The back of the ditch rises up to form a 7j/¿ foot high embankment which is called the “back-slope” of the highway. The right of way itself then extends back for some 50 feet beyond the back slope.
+Described more generally, the highway plan consists of a cutout or channel containing the paved portion and running down the center of the right of way.
+The witness also testified that the entire right of way is maintained and mowed by the highway department, where physically possible, rather than just the cutout portion.
+The exact point where the deceased was killed was also stipulated by the parties. When the trailer turned over on him, the deceased was standing or squatting on the above described embankment or back-slope.
+The applicable provisions of the insurance policy upon which this lawsuit is based provide that death benefits shall be payable if the insured dies due to injury accidentally caused in the following manner:
+“As a result of a motor-driven vehicle striking the insured while he is standing, walking, or riding a bicycle on a public highway, as defined below except while on the job as a flagman or otherwise directing traffic; . . .
+“PUBLIC HIGHWAY DEFINED— Public Highway as used herein shall mean the traveled and improved portion of the highway open to the public generally for vehicular traffic, and shall not be construed to include any private road or driveway, nor any portion of the driveway or grounds of a gasoline station or railroad yards, station grounds or right of way, nor any river, stream or waterway.”
+This policy was written by defendant Protective Life Insurance Company, and was issued to the deceased by virtue of his membership in the Alabama Motorists Association, also a defendant herein.
+As noted initially, the trial court rendered judgment for the defendants, and plaintiff appeals. Plaintiff-appellant contends that the deceased, when killed, was on a public highway as defined by the policy. We disagree.
+While we have found no Alabama cases exactly on point, the Louisiana case, of Davis v. Union National Life Ins. Co., La. App., 54 So.2d 860, is instructive. There the deceased was insured against being struck by a vehicle while on a public highway. The policy defined “public highway” exactly as does the policy here in question.
+The deceased was struck and killed while standing on a 4 foot-wide strip of ground between the curb of the street and a sidewalk. The Louisiana Court of Appeals held that under such facts there was no liability under the policy. See also Couch on Insurance 2d § 41:316, wherein it is said:
+“The policy of insurance, however, may exclude the shoulder or adjacent area by defining public highway as the traveled and improved portion of the highway open to the public generally'for vehicular traffic.”
+Under the instant set of facts, within the meaning of this particular policy of insurance, we hold that the deceased did not meet his death while on “the traveled and improved portion of the highway open to the public generally for vehicular traffic.” A steep embankment at least 20 feet from the paved portion of the highway, even though inside the right of way, is to this court not within the policy term quoted above.
+It is settled law that the language of an insurance policy where clear and unambiguous must be given effect as such. Southern Guaranty Ins. Co. v. Wales, 283 Ala. 493, 218 So.2d 822. The policy provision in question is dear as applied to the facts before us, and must be effectuated.
+In view of our disposition of the foregoing, it is unnecessary to discuss other matters raised by appellant’s brief.
+The case is due to be affirmed.
+AFFIRMED.
+WRIGHT, P. J., and BRADLEY, J., concur.
