@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 490"
+decided: "1917-06-26"
+citations: ["16 Ala. App. 170", "76 So. 407"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MACHEN et al. v. STATE."]
+source_url: "https://static.case.law/ala-app/16/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1636280
+cites_cases: ["110 Ala. 5", "161 Ala. 60", "2 Ala. App. 1", "20 South. 415", "45 Ala. 66", "55 Ala. 95", "56 Ala. 242", "63 Ala. 234", "8 Ala. App. 435"]
+---
+
+# Machen v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+After the state’s witness Campbell had testified to certain facts as shown by a hook kept by the steamboat, showing what goods had been unloaded at a certain landing, the defendants’ counsel moved to exclude the testimony, which motion the court overruled. This action of the court was not error. The objection and motion were interposed too late. The defendants cannot speculate on what the witness will say, and, when his testimony proves unfavorable, object, and have it excluded on motion. Robinson v. State, 8 Ala. App. 435, 62 South. 372; Humphreys v. State, 2 Ala. App. 1, 56 South. 72; Phillips v. State, 161 Ala. 60, 49 South. 794.
+The state, over the objection of the defendant, was permitted to prove certain statements made by the defendant Will Machen in the nature of a confession. It appears that the statements were made under the following conditions: About four or five days after the goods had been stolen, and while a crowd of men were looking for the defendants, the crowd being armed with guns, and a report was abroad, which had come to the knowledge of the defendant, that, when arrested, the defendant would be placed in jail without bond, the defendant, who was hiding out in the river bottom, sent for the witness Jones, who was supposed to be his friend, and who was1 on a bond for him in another matter. When Jones got to where the defendant was, Jones told the defendant this:
+“That, if he would just tell the whole thing, it would be better for him, as it come up like it had; that is, they found the stuff at his place, and was pretty close to him, and I told him I believed I would just tell if.”
+Jones further testified that the defendant said he would not mind coming in, but knew they would send him to jail under the circumstances, and he did not want to go to jail, and in the conversation Jones promised to help defendant make his bond, or something like that. It was further shown, by the witness Jim Smith, that Machen said that if they would make his bond, and not make him go to jail, he would turn up all the guilty parties in that transaction. Further on in his testimony, Jim Smith testified that Machen again told him that he did not want to go to jail. The confession that was finally testified to by George Jones was as follows:
+“He said that Olin Wilbanks and Lige Mur-, phy had taken the stuff, and on Tuesday he moved it. He told me that he had helped to move it on Tuesday night, or a few nights after that, and placed it up at his mother’s barn.”
+It appears from the testimony that the one fear uppermost in the mind of the defendant Machen was that he would be placed in jail without bail, and his desire was, or seemed to be, to secure a bondsman or bondsmen before he would give himself up, or before he would consent to make any statement regarding the crime. The alleged confession was objected to by defendant’s counsel, and exception reserved. In passing upon this question, this court cannot do better than to quote from the decision in the case of Wilson v. State, 110 Ala. 5, 20 South. 415, where Mr. Chief Justice Brickell so aptly says:
+“The confession of guilt, or the admission of facts having a tendency to establish guilt, made by the accused after he is charged with, or is conscious of being suspected of, crime, is not a species of evidence the common law favors. ‘Nemo tenetur seipsum accusure' is its inflexible maxim, a shield of protection, so that, as Blackstone puts it, ‘his guilt be not run out of himself, but rather be discovered by other means and other men.’ 4 Blackstone Commentaries, 296.”
+Before they are receivable as evidence, it must be shown that they were made freely and voluntarily, without the application of hope or fear, without extraneous pressure in either direction from other persons. Made in the presence of certain circumstances, or under the pressure of calamity to friends, or ease or freedom, the man is so easily seduced, as different agitations may prevail, to speak falsehood or truth, the law presumes against their admissibility — presumes that they are not a basis upon which a jury can safely render a verdict. Whether confessions or admissions are freely and voluntarily made is a matter of law to be decided by the court; and if, after a consideration of the condition of the accused, and of the circumstances under which they were made, there is reasonable .doubt of their freedom and voluntariness, the doubt must be resolved against their admissibility. Porter v. State, 55 Ala. 95; Bonner v. State, 56 Ala. 242; Wilson v. State, 110 Ala. 5, 20 South. 415. Applying the principles above set out to the facts as above stated, we are of the opinion that the statements of the defendant Machen were not voluntary, and therefore the court erred in admitting them in evidence.
+We have also carefully examined the testimony in this case, which is almost entirely circumstantial, and it being the law that in cases of circumstantial evidence, to warrant a conviction, the evidence should exclude every other reasonable hypothesis than that of the defendant’s guilt, and that, no matter how strong the circumstances, if they can be reconciled with the theory that some other person may have done the act, the accused should not be convicted. Ex parte Acree, 63 Ala. 234; Chisolm v. State, 45 Ala. 66. We are of the opinion that there is not sufficient evidence upon which to base a verdict of guilty, as against the defendant Olin Wilbanks and the defendant Elijah Murphy, and therefore the motion for a’new trial should have been granted.
+For the errors above pointed out, the judgment of the trial court must be reversed, and the cause remanded.
+Reversed and remanded.
