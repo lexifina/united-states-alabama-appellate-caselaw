@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1912-02-08"
-citations: ["3 Ala. App. 193", "58 So. 74", "3 Ala. App. 199", "58 So. 72", "3 Ala. App. 202", "3 Ala. App. 204", "58 So. 73"]
+citations: ["3 Ala. App. 193", "58 So. 74"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Roden v. The State."]
 source_url: "https://static.case.law/ala-app/3/cases/0193-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1615612
-cites_cases: ["1 Ala. App. 206", "100 Ala. 119", "104 Ala. 471", "104 Ala. 72", "11 South. 124", "112 Ala. 1", "114 Ala. 1", "115 Ala. 108", "115 Ala. 115", "115 Ala. 69", "13 South. 575", "131 Ala. 48", "143 Ala. 174", "146 Ala. 133", "148 Ala. 637", "159 Ala. 51", "16 South, 538", "161 Ala. 94", "2 Ala. App. 281", "22 South. 479", "22 South. 541", "23 Ala. 44", "29 Ala. 558", "46 Am. Rep. 128", "48 South. 662", "52 Ala. 8", "53 Ala. 83", "55 Ala. 28", "68 Ala. 476", "72 Ala. 166", "74 Ala. 386", "75 Ala. 466", "8 South. 360", "86 Ala. 87", "87 Ala. 17", "9 South. 391", "91 Ala. 548", "93 Ala. 157", "96 Ala. 120", "99 Ala. 236"]
+cites_cases: ["1 Ala. App. 206", "11 South. 124", "115 Ala. 108", "115 Ala. 115", "146 Ala. 133", "148 Ala. 637", "22 South. 479", "23 Ala. 44", "96 Ala. 120"]
 ---
 
 # Roden v. State
