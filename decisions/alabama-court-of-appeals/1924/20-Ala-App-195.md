@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 194"
+decided: "1924-08-19"
+citations: ["20 Ala. App. 195", "101 So. 286"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOTES v. STATE."]
+source_url: "https://static.case.law/ala-app/20/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1647278
+cites_cases: ["118 Ala. 111", "15 Ala. App. 584", "17 Ala. App. 539", "23 South. 81", "49 Ala. 381", "76 Ala. 433"]
+---
+
+# Motes v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+There was a general verdict of guilty by the jury. The indictment against this appellant, defendant in the court below, contained three counts, charging separately the offenses of burglary, grand larceny, and receiving stolen property (felony).
+On the trial of this case it was shown without dispute that the store of R. L. Henderson, near Somerville, Morgan county, Ala., was broken into and entered on the Saturday night before the first Sunday in August in the year 1921, and that a large amount of goods or merchandise or clothing was on that occasion feloniously taken and carried away. The first witness introduced by the state was the alleged injured party, Henderson, who testified to the above-stated facts, and also that lie was away from home on tbe night in question, and did not know who it was that had burgarized his store. He further testified that, about three weeks thereafter, he secured search warrants and found large quantities of his goods, which had been stolen, from his store on that occasion, at Will Blankenship’s house, and at Hezie Blankenship’s house, each of whom live about four miles from his store. As to this defendant he testified that he could not say that he ever saw the defendant with any of the goods, and of his own knowledge he did not know that the defendant contracted with any one . to break into his store; that the defendant did not have any of the gun shells, to his knowledge ; and that he did not get any of the recovered stolen goods, enumerated by him, off of the defendant, nor did he get any of it from where the defendant was staying. In other words, by the evidence of this witness the corpus delicti was clearly shown, but there was nothing in any part of this witness’ testimony which even tended to connect this defendant with the commission of the offense.
+The only evidence adduced upon this entire trial which even tended to connect this defendant with the commission of the offense charged was that of the second state witness introduced, Mrs. Will Blankenship, at whose house the major portion of the stolen articles were found and recovered. So far as this defendant’s participation in the offense complained of, her testimony is wholly without corroboration from any source; and under her own evidence this witness was an accomplice in the commission of the offense. The facts testified to by her, under the law, clearly make her an accomplice.. She testified she was present at her home on the Saturday afternoon and night in question, and heard her husband (now deceased) and several others, including the defendant, plan to burglarize the store that night; that they left her house, and got back there not long before daylight; that they brought back with them lots of dry goods and suits of clothes, shirts and shoes, gun shells, blankets, etc.; that they told her how they went into' the window of the store, took out the window, and went in; that they divided the goods in her dining room between each other; and by her testimony she gave full details of the' planning of the burglary, and the division of the stolen articles, and the leaving of a large amount of the' stolen goods in her home, some of which were afterwards recovered by Mr. Henderson. Her testimony went into full details relative to all this, and she also testified that she made a few dresses from the goods gotten there. Thus'by her own testimony she was an accomplice as to the offense charged in the third count of the indictment, and, as stated, there was no evidence other than that of this witness showing or tending-to show this defendant’s participation in the offense, or connection therewith, and, there being nothing in the testimony to corroborate this witness, the defendant was entitled to the affirmative charge requested by him and refused by the eburt; for a conviction of felony cannot be had on the testimony of an accomplice, .unless corroborated by other evidence tending to connect the defendant with the commission of the offense, and the statute expressly provides that such corroborative evidence, if it merely shows the commission of the offense, or, the circumstances thereof, is not sufficient.
+The court also erred in allowing the state to prove an alleged confession of defendant to this witness Mrs. Will Blankenship, no predicate having been made, or attempted to be made, for the introduction thereof. Carr v. State, 17 Ala. App. 539, 85 South. 852.
+Refused charge 6 is an exact copy of charge 9 in the case of Brown v. State, 118 Ala. 111, 23 South. 81. The Supreme Court, speaking of this charge in that case, said the charge contained “sound expositions of law,” and “should have been given.” This charge was applicable to the case here, as presented, and its refusal was error.
+The defendant in this case offered proof of his good character by several witnesses, and as to the evidence of his good character there was no conflict.' By several witnesses the defendant also proved an alibi, and the testimony on this question was wholly without dispute or conflict, except the evidence given by the state witness Mrs. Will Blankenship, an accomplice.
+The motion for a new trial Is not presented. Acts 1915, p. 732; Britton v. State, 15 Ala. App. 584, 74 South. 721.
+For the error designated, the judgment of conviction appealed from is reversed, and the cause remanded.
+Reversed and remanded.
+<S=»Por other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
