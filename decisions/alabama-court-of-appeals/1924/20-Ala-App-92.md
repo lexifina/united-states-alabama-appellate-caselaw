@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 555"
+decided: "1924-06-24"
+citations: ["20 Ala. App. 92", "101 So. 63"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARK v. STATE."]
+source_url: "https://static.case.law/ala-app/20/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1647605
+cites_cases: ["1 Ala. App. 133", "10 Ala. App. 91", "3 South. 612", "35 Ala. 380", "5 Ala. App. 128", "8 Ala. App. 295", "80 Fla. 773", "83 Ala. 40", "87 South. 44"]
+---
+
+# Clark v. State
+
+## Majority (BRIOKEN, P. J.)
+
+BRIOKEN, P. J.
+The indictment charged this defendant with assault with intent to forcibly ravish Mary Bell Keene. The jury returned a verdict of guilty as charged in the indictment. Judgment of conviction was duly pronounced, and the defendant sentenced to imprisonment in the penitentiary for an indeterminate term of not less than 19 years and 6 months, and not more than 20 years. From the judgment of conviction this appeal was taken.’
+The facts as shown by this record disclose that this appellant, a man of about 30 years of age, with a family consisting of a wife and three living children, was, and had heen for 4 years, the manager of Kress’ store in the city of Tuscaloosa. In said store numerous persons of both sexes were employed.
+On Monday morning August 22, 1923, at about 8 o’clock, Mary Bell Keene, the alleged injured party, who was a young girl 16 years of age, went into said store seeking employment as a clerk. She was given an application blank to fill out, and was told by a woman employee, then in the office of the store, to go up to the cloakroom and fill it out, and that when the manager (defendant) came in she would send him in there. She testified: “I was in the cloakroom filling it out. I hadn’t finished when Mr. Clark, whom I had never seen before, came in.” After some conversation between them, he went out and sent two boys who were working on the same floor, down stairs, which left her alone on that floor with defendant. He returned to where she was filling out the blank, and said, “Come over to this room.” He then forced her into the men’s toilet on that floor, locked the door, and then and there, as stated by the girl, made the assault upon her, the basis of this prosecution.
+Numerous exceptions were reserved to the rulings of the court during the trial. It is apparent, however, that the principal insistence of error is based upon the refusal by the court to give special written charges F and G. These charges are as follows:
+“F. I charge you, gentlemen of the jury, that, if you believe the evidence in this case, you cannot convict the defendant of a greater offense than that of assault and battery.
+“Charge G. I charge you, gentlemen of the jury, that, if you believe the evidence in this case, you cannot convict the defendant of the offense of assault with intent to rape.”
+In this connection able counsel for appellant state:
+“We do not by any means wish to be understood as making excuses for appellant for what ’the evidence shows he in fact did, if the testimony of the prosecutrix is to be believed, but we do earnestly urge that, if every word of the testimony of the prosecutrix is to be believed, the most that the defendant could have been convicted of under said testimony was the offense of assault and battery.”
+In support of this earnest insistence we are cited the case of Dannelly v. State, 80 Fla. 773, 87 South. 44. A careful reading of the Dannelly Case by no means convinces us of the correctness of the conclusion reached by a majority of the court in that case. Two of the five judges dissented, and with profound respect for the decisions of the eminent Supreme Court of Florida, in this particular case, we are inclined to the opinion that the dissenting judges reached the proper conclusion, and that the facts disclosed the felonious assault complained of.
+But, pretermitting this, the facts of the instant ease are to our mind even more harrowing than those testified to by the prosecutrix in. the Dannelly Case. In that case we gather that the prosecutrix was more mature, and that she had known the defendant for a year; they were alone in an isolated place with no fear of interruption. The person of the woman was not bruised, nor was the attack upon her of the vicious nature described by the prosecutrix in the instant case. In this case the defendant, a man 30 years of age, with a wife and three living children, the manager of a store where numbers ,of people of both sexes were employed, a stranger to his intended victim, a child in years by comparison, in his unholy and unlawful effort he bruised her young person as testified to by the girl and Dr. Ward, and from this witness’ testimony the reasonable inference is apparent that in his repeated attempts to penetrate his victim he suffered an unnatural emission, as the doctor testified:
+“I examined her undergarments around her private parts. There was some stain on them. It was a stain that caused the garment to be more or less rough. It was stiff, looked like a starchy substance. I found that on her undergarments. There was no evidence that a discharge came from her, none at all; there was no evidence of leucorrhcea, none of that. I did find this substance on her undergarments near her private parts.”
+We think this testimony, indicating that the animal passion of the man, to this extent having been appeased, coupled with the environments then existing, that of the close proximity of many people and the consequent hazard of discovery, had more to do with the discontinuance of his efforts than the fact, as insisted upon by counsel, that he desisted because of his inability to secure the consent of the girl. In our opinion every element of the offense charged in the indictment is made out by the evidence of the girl Mary Bell Keene, if her testimony is to be believed, and that, of course, was for the jury to determine. Therefore the refusal of charges F and G was without error.
+The insistencies of error contained in propositions 3, 4, 5, and -6 relate to the rulings of the court upon the testimony of defendant’s witness Henry Baker. This witness’ testimony on his direct examination in effect contradicted and refuted practically the entire testimony of state witness Mary Bell Keene. The objections and exceptions referred to-related to the cross-examination of this witness, and under the elementary rules, of evidence, the wide scope allowed in cross-examination, the state kept wholly within the bounds, and no ruling of the court in this connection constituted error to the prejudice of the substantial rights of defendant. The cross-examination of this witness was legitimate and without error; being merely to test the bona tides of the statements made by him on his direct examina-' tion. ' ,
+The rulings of the court complained of relative to the testimony of state witness Olayton Abrams, on rebuttal, were so clearly free from error no discussion of these questions is necessary. The testimony thus adduced was strictly in rebuttal of evidence which had been offered by defendant’s witness Prucia Clark.
+Every ruling of the court upon the testimony, not hereinabove discussed, has also been examined, and no .error appears in this connection.
+Refused charges 3, 4, and 5, being affirmative charges for defendant in different phases, were properly refused. This was not a case for affirmative.instructions, but dearly a case of fact for the jury.
+Refused' charge 8 was wholly abstract, hence properly refused. There was no testimony showing or tending to show that the prosecutrix at the time this charge was preferred had in mind the filing of a claim for damages against the’ employers of' this defendant..
+Eor like reason refused charges 11, 12, 13, and 14 ..were properly refused; these charges' were abstract, and not based upon any testimony in this case.
+Ño 'error appears in any ruling of the court. The record proper is without error. The judgment of conviction appealed from will stand affirmed.
+• Affirmed.
+<@:3>For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes '
