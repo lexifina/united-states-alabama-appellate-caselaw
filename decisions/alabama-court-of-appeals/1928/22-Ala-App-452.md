@@ -1,0 +1,38 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1928-04-17"
+citations: ["22 Ala. App. 452", "116 So. 804", "6 Div. 171"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RICE, J., dissents."]
+parties: ["ASKIN & MARINE CO. v. KING."]
+source_url: "https://static.case.law/ala-app/22/cases/0452-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1653948
+cites_cases: ["139 Ala. 161", "201 Ala. 428", "211 Ala. 385", "212 Ala. 232", "212 Ala. 561", "34 So. 389"]
+---
+
+# Askin & Marine Co. v. King
+
+## Majority (RICE, J. BRICKEN, P. J.)
+
+RICE, J.
+Appellant was the defendant in the court below, and appellee the plaintiff. We adopt as the basis of what we shall have to say the statement of facts contained in appellant’s brief, filed on this appeal, viz.:
+“Defendant runs a ready-to-wear clothing business in the city of Birmingham, Ala. A woman who claimed to be the wife of the plaintiff went to the defendant’s place of business and purchased an article of merchandise and had it charged to the plaintiff, and the bill was never paid. In March, 1925, defendant brought suit and garnishment against the plaintiff for this debt, $20.95. Plaintiff then appeared at the defendant’s store and claimed that the woman was not his wife and had no authority to have the bill charged to him, and the defendant thereupon, immediately and without controversy, released the garnishment. Later, after the garnishment had been released and the plaintiff had collected bis wages, plaintiff brought suit against the defendant, claiming that the garnishment was wrongful, malicious, and without probable cause. The case was tried before a jury and resulted in a verdict in favor of the plaintiff for $300. Defendant made a motion for a new trial, and this, was overruled, and now defendant prosecutes this appeal.”
+Actions of this nature are actions on the case, and governed by the same principles as an action for malicious prosecution. Ala. Co. v. Norwood, 211 Ala. 385, 100 So. 479; McCarty v. Williams, 212 Ala. 232, 102 So. 133. Hence the case of City Delivery Co. v. Henry, 139 Ala. 161, 34 So. 389, and authorities consonant therewith are without application. Ala. Co. v. Norwood, supra. It follows that the objections taken to the single count of the complaint, by demurrer, are without merit, and the demurrer was properly overruled.
+Appellant complains aggressively at the action of the trial court in leaving to the jury the determination of the question of whether or not there was probable cause for believing the issuance of the writ of garnishment necessary. It would seem that technically its criticism is justified. Molton Realty Co. v. Murchison, 212 Ala. 561, 103 So. 651. But waiving, as immaterial, any dispute in the testimony, and assuming as true the version of the facts as given by appel.lant’s witnesses, we are persuaded that they fail to form a satisfactory basis for the existence of probable cause. Hence any error committed by the trial court in leaving this question to the jury could not have been other than beneficial to appellant.
+The testimony elicited, over appellant’s objection, from the appellee’s two witnesses Bryant and Cowart seems all to fall within the protection of the rule announced in the ease of Bell et al. v. Seals Piano & Organ Co., 201 Ala. 428, 78 So. 806, to wit:
+“Credit being a conclusion of fact, partly based on opinion founded more or less on reputation and partly on personal observation and knowledge of the collective fact, a witness having knowledge of the collective fact may testify to the inferential fact of damage to credit.”
+We therefore hold that the trial court committed no reversible error in overruling the appellant’s objections to any of the series of questions pnt to these two witnesses calling in a general way for information as to the damage to appellee’s credit or credit standing.
+What we have said above seems to dispose of those contentions of appellant which have been more strongly urged upon us in brief as being based upon matters constituting error to reverse. All the assignments argued have been carefully considered, and we do not find any of them to be based upon rulings which constituted prejudicial error. .The verdict of $300 we do not think so excessive as to warrant any revisory action at our hands.
+Note: The foregoing opinion expresses the views of RICE, J., of this court, to whom this case was assigned. The majority, however, are not in accord therewith, as shown by the following opinion:
+BRICKEN, P. J.
+The motion for a new trial should have been granted in this case, and the court committed error in overruling the motion.
+Without discussing all points of decision presented, this conclusion is clearly correct, in our opinion.
+The line of inquiry, permitted by the court, over objections and exceptions, relative to whether or not the service of this garnishment on the Alabama By-Products Com-: pany, had a good or bad effect on the reputation of Winfield King, should not have been allowed. The evidence given in this connection was patently conclusions of the witnesses Bryant, and Cowart and invasive of the province of the jury. Like admission of other evidence of similar import was also error.
+We think the amount of damages awarded was excessive, as insisted by appellant in his motion for a new trial. There appears no evidence in this case tending to show any actual or compensatory damages suffered by plaintiff, with the single exception of 25 cents paid by him to the clerk of the court for the written release of the garnishment. We find no evidence that the plaintiff lost any time from his work, nor that he was put to any expense other than above stated. The evidence does affirmatively disclose that all he, plaintiff, did was to go to the defendant and secure an order for the release and in this he experienced no trouble 'at all. There is no evidence that plaintiff had established any credit of any kind anywhere, nor that he lost his job or that as a result of the garnishment his credit was impaired. As stated above, the plaintiff was improperly permitted to ask the witnesses mentioned whether or not the plaintiff’s standing with his employer was in any way affected. There is nothing to show that his employer paid him any less after the garnishment was run than he.paid him before. There is no dispute that plaintiff continued to work at his same job. The evidence shows that he was not deprived of his wages, and also an immediate release of. the garnishment upon his disputation of the debt.
+As a rule, the awarding of punitive or other damages rests largely in the discretion of the jury; courts, however, will, of course, interfere with verdicts of the juries when it is manifest that they are the result of corruption, prejudice, or passion, and it is within the province of the court to set aside a.verdict where it clearly appears to be excessive, or where the jury in rendering it appear to have disregarded the' testimony. The amount awarded must bear some reasonable proportion to the injury sustained. We think the verdict in this case, under all the evidence, is excessive, and for this and numerous other reasons apparent on the hearing of the motion for a new trial, the court erred to a reversal in overruling the motion.
+The order denying the motion for a new trial is reversed and one here rendered granting the defendant’s motion for new trial, and the cause is accordingly remanded.
+Reversed, rendered, and remanded.
+RICE, J., dissents.
