@@ -1,0 +1,28 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-05-14"
+citations: ["10 Ala. App. 152", "65 So. 411"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jones v. The State."]
+source_url: "https://static.case.law/ala-app/10/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626621
+cites_cases: ["117 Ala. 348", "147 Ala. 121", "147 Ala. 122", "23 South. 193", "61 Ala. 213", "66 Ala. 493", "71 Ala. 594", "76 Ala. 591", "76 Ala. 592", "89 Ala. 50"]
+---
+
+# Jones v. State
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+The indictment upon which the defendant was tried is under section 6239 of the Code, and, omitting-formal stating and charging parts, is in the following language:
+“That, before the finding of this indictment, George Jones did knowingly sell or exchange a mule subject to the disease or affection known as ‘choking.’ ”
+It is not averred in the indictment that the offense charged was committed with the intent to defraud. The defendant demurred to the indictment on this ground, and sought to raise the same question on the trial by requesting a written charge to the effect that the jury could not find the defendant guilty, unless they believed from the evidence beyond a reasonable doubt that the sale or exchange was made with the intent to injure or defraud.
+It is conceded by the Attorney General that the case of Wester v. State, 147 Ala. 121, 41 South. 969, is controlling on the proposition that the indictment is defective in failing to aver an intent to defraud, and that, on the authority of that case, there must be a reversal, unless a different construction is to be given the statute under which the defendant was indicted because of its transposition in a different chapter of the Code since the decision in Westers Gase.
+It would not have the effect of making the offense complete without the intent to defraud as a constituent element simply because the statutory enactment creating the offense had been transposed by the Code Commissioner or Committee in the arrangement and codification of the statutory laws, and inserted in the' chapter of the Code of 1907 relating to offenses concerning domestic animals (chapter 161), instead of the chapter relating to frauds, as the statute appeared in the Code of 1896 as section 4762. If, as said in Wester v. State, supra, “the manifest purpose in the enactment of the law was the prevention of fraud,” then this purpose or intent of the statute could not be taken from it by a mere change in its location in compiling the laws, by transposing it from one chapter, article, or section to another. Nor does this act of transposition change the history of the statute or the mode and manner in which it was originally adopted into the Code that led to the conclusion quoted in Wester v. State, or show a clear intent to make a change in the construction, operation, or effect to be given the statute as originally adopted.
+Unless the intent to change the operation or construction of a statute is clear, a revision in phraseology, transposition in codification, or similar changes will not have that effect. — Landford v. Dunklin, 71 Ala. 594, 609; E. T., V. & G. R. Co. v. Hughes, 76 Ala. 592; Jackson Co. v. Derrick, 117 Ala. 348, 360, 23 South. 193.
+The statute, as it appears in the Code of 1907 as section 6239, was revised by the Code Committee, and that revision consisted in including “glanders” or other fatal or contagious disease in addition to “choking,” and in omitting the provision giving justices of the peace concurrent jurisdiction, as provided in the statute as it appeared in the Code of 1896 as section 4762. At the time of this rewriting or revision of the statute for the purpose of incorporation in the Code of 1907 it had received judicial construction in the case of Wester v. State, holding the intent to defraud to be a constituent element of the offense created by the statute, and, although the statute was revised and its provisions altered as above noted, no change in its phraseology was made showing an intention to make the offense therein created complete without the element of fraud or to change the intent and purpose of the statute as fixed by judicial construction, holding that the intent to defraud was an element of the offense that must be averred and proven. The transposition of this statute by tbe Code Committee or Code Commissioner in tbe arrangement of the Code from one chapter to another could very naturally have resulted entirely from an attempt to classify, “with respect to a practical or utilitarian arrangement,” as was the expressed object with reference to' the' classification attempted, as contained in the preface to the compilation, without any idea or intention of bringing about a change in the effect, purpose, or construction of the statute. Certainly it cannot be said that the contrary is made to clearly appear from the mere transposition.
+We are not to be understood as expressing an opinion as to the soundness of the holding in Wester -v. State, supra. The decisions of the Supreme Court are made to govern the holdings of this court by statute for the very proper purpose of bringing about a uniformity in the declared laiv of the state. We make this observation, however, that, even though it should be conceded that the holding in Wester v. State was urn sound, the statute has been subsequently readopted after that judicial construction had been given to it. and that construction is included in, and has become a part of, the statute by the subsequent adoption.
+Reversed and remanded.
