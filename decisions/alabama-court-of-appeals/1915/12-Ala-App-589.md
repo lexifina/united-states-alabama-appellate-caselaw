@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-04-06"
+citations: ["12 Ala. App. 589", "68 So. 542"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tallapoosa County Bank v. Salmon."]
+source_url: "https://static.case.law/ala-app/12/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8822167
+cites_cases: ["113 Ala. 131", "124 Am. St. Rep. 64", "132 Ala. 246", "134 Ala. 343", "150 Ala. 133", "155 Ala. 591", "166 Ala. 198", "179 Ala. 317", "179 Ala. 397", "182 Ala. 246", "2 South. 268", "27 Ala. 678", "29 Ala. 233", "31 South. 90", "32 South. 716", "43 South. 742", "48 Ala. 511", "51 South. 931", "54 Ala. 419", "54 Am. Rep. 50", "57 Ala. 457", "58 South. 799", "60 South. 887", "63 Ala. 527", "66 Mass. (12 Cush.) 431", "66 Me. 21", "67 South. 251", "68 Ala. 551", "77 Ala. 168", "77 Ala. 330", "8 South. 386", "80 Ala. 481", "85 Ala. 33", "88 Ala. 559", "90 Am. St. Rep. 902", "92 Ala. 124", "92 Am. St. Rep. 38", "93 Ala. 36"]
+---
+
+# Tallapoosa County Bank v. Salmon
+
+## Majority (BROWN, J.)
+
+BROWN, J.
+By a general deposit of money in bank the money becomes the property of the bank, and the relation of creditor and debtor between the depositor and the bank is created.—Clisby v. Mastin, 150 Ala. 133, 43 South. 742, 124 Am. St. Rep. 64; Alston v. State, 92 Ala. 124; Ex parte Jones, 77 Ala. 330; Henry v. North Bank of Alabama, 63 Ala. 527; Daniel on Negotiable Inst., §§ 1637-1641.
+The appellant in this case does not deny that it was indebted to “R. V. Salmon’s Son,” in whose name general deposits bad been made; but the only litigated question is whether appellee used “R. V. Salmon’s Son” as a trading name in the conduct of a drug business of which he was sole owner, and made deposits of his own money in that name, or whether R. Y. Salmon’s Son was a partnership composed of appellee and A. J. Salmon. If the first category is true, the plaintiff was entitled to recover; if the latter was true, he was not.
+If the indebtedness was due R. Y. Salmon’s Son, a partnership, although the plaintiff was a member of the firm, he could not maintain an action in his individual, name to recover on it.—Allen v. White, Minor, 365; Roberts v. Heim, 27 Ala. 678; Jones v. Blair, 57 Ala. 457; Drennen v. Gilmore, 132 Ala. 246, 31 South. 90, 90 Am. St. Rep. 902; Fancher Bros. v. Bibb Furniture Co., 80 Ala. 481, 2 South. 268; Cushing v. Marston, 66 Mass. (12 Cush.) 431; Hacker v. Johnston, 66 Me. 21; 30 Cyc. 556 (b). This defense, which is hut a denial of the defendant’s liability to the plaintiff in this action, can be .shown under the general issue.-Lunsford v. Walker, 93 Ala. 36, 8 South. 386; Roberts v. Heim, supra; Bessemer Savings Bank v. Anderson, 134 Ala. 343, 32 South. 716, 92 Am. St. Rep. 38. Therefore if there was error in the action of the court in sustaining the plaintiff’s demurrer to the defendant’s special pleas, it was without injury.-Bessierre v. A. G. S. R. R. Co., 179 Ala. 317, 60 South. 82; Black v. Smith, 179 Ala. 397, 60 South. 154.
+This suit is not on “an instrument in writing,” within the meaning of section 3697 of the Code, and that section lias no application to suits on open or running accounts. Neither does the defense relied on by the defendant involve a denial “of the capacity in which the plaintiff sues.” The plaintiff sues in his individual capacity, and the defense is that the defendant owes him nothing.
+The deposit in the name of R. V. Salmon’s Son was prima facie proof of the relation of creditor and debtor between the bank and the depositor. — Bessemer Savings Bank v. Anderson, supra,. The burden was upon plaintiff to show that he used that name ih his business and that the funds deposited in that name were his individual property. If in fact R. Y. Salmon’s Son ivas a partnership, although the plaintiff Avas a member of that firm, he could not create the relation of creditor and debtor between himself and the bank by drawing a check in the firm name payable to himself and presenting it for payment, unless the check was accepted by the bank or was certified to by it; nor would the drawing of such check and its presentation to the bank constitute an equitable assignment of the deposit.-National Commercial Bank v. Miller & Co., 77 Ala. 168, 54 Am. Rep. 50; 6 Mayf. Dig. 72, § 12. The result, is that the trial court erred in denying to the defendant the right to show that R. Y. Salmon’s Son was a partnership composed of the plaintiff and A. J. Salmon and in giving the affirmative charge in favor of the plaintiff. On another trial, the letters written by the plaintiff, containing admissions that A. J. Salmon had an interest in the drug business, and any other evidence pertinent to this question, should be received.
+The proceedings of the chancery court in the case of F. A. Salmon against A. J. Salmon are in personam, and cannot operate as an estoppel between the bank, which is not a party to them, and the plaintiff. A person who is not bound by a judgment cannot set it up against another as an estoppel.—Gwynn v. Hamilton, 29 Ala. 233; Holland v. Fairbanhs-Morse & Co., 166 Ala. 198, 51 South. 931; 16 Cyc. 684, 685; 3 Mayf. Dig. 412, § 5; Smith v. Irvington Land Co. ( Sup.) 67 South. 251.
+For the error above pointed-out, the judgment of the circuit court must be reversed.
+Reversed and remanded.
