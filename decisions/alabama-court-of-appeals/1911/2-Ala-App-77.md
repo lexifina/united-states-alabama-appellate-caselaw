@@ -1,0 +1,28 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1911-12-19"
+citations: ["2 Ala. App. 77", "57 So. 66"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Olive v. The State."]
+source_url: "https://static.case.law/ala-app/2/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1613687
+cites_cases: ["100 Ala. 52", "105 Ala. 96", "115 Ala. 10", "134 Ala. 63", "160 Ala. 58", "48 So. 689", "53 Ala. 486", "56 So. 62", "62 Ala.. 25", "71 Ala. 383", "71 Ala. 396", "79 Ala. 29"]
+---
+
+# Olive v. State
+
+## Majority (db GRAFFENRIED, J.)
+
+db GRAFFENRIED, J.
+In this case the evidence was such that the defendant had the right to introduce evidence of threats made by the deceased against his life. The court permitted the defendant to prove by two or three witnesses that they heard, on the day of the homicide, the deceased make threats against the life of the defendant. One of these witnesses testified that he saw the deceased a few hours before the homicide and heard him say “I want to find that damned son of a bitch Elmer Olive. I am going to kill the damned son of a bitch tonight.” Another of these witnesses testified that he saw the deceased on the night of the homicide (the homicide seems to have occurred about eight o’clock that night) and the deceased “asked me if I had seen anything of Elmer Olive. I told him that I had not. He said that he was looking for him and that he was going to kill him that night or get killed.” Thereupon the defendant offered to prove by a witness that on the night of the homicide and shortly before the fatal difficulty and near the place where it occurred, the deceased said, “I am a God-damned black snake. I killed one man over in Mississippi and I am going to kill another tonight or get killed”; that deceased did not say what man he intended to kill, but that in this same conversation the deceased asked the witness where the defendant was, saying that he was looking for him. The court refused to allow this evidence to go before the jury, the defendant excepted, and this action of the court is before us for review.
+The above testimony, which the court refused to allow to go before the jury, was not merely corroborative of other evidence which the court permitted to go to the jury, but was independent evidence of a distinct threat about which no witness had testified or was permitted by the court to testify. The court, as we understand the record, refused to allow the defendant to make the above proof because the deceased, if he made the threat as claimed, did not name the defendant as the party whom he intended to kill.
+In cases like the present, threats of the deceased, to> be admissible, must have direct .reference to the defendant or must be made under such circumstances as to-be reasonably capable of being construed as referring to the defendant. If they are mere general threats-made under such circumstances or at such a time that they cannot be reasonably construed as being made against the defendant, they are not admissible.—Knight v. State, 160 Ala. 58.
+“Threats to kill or injure some one not definitely designated, especially when made shortly before the commission of the offense to which they may be construed to refer, are unquestionably admissible in connection with other explanatory circumstances and on proof of the corpus delicti ”—Ford v. State, 71 Ala. 383.
+In the present case the evidence of the defendant, tended to show that on the afternoon and night of the homicide the deceased was drinking and that he was a dangerous and turb-ulent man when drinking; that he was, on that afternoon and night, shortly before the homicide, cursing the defendant and stating that he intended to kill him that night or get killed; and that,. on that night, he made an assault with a knife on the defendant and was killed while making such assault. In fact the evidence of the defendant tended strongly to show that, if the deceased made the threats which the court excluded from the jury because they were not specifically directed against the defendant, he meant the defendant and no other person. The excluded threats, if made, were accompanied by an inquiry made by the deceased as to the whereabouts of the defendant, with the statement that he was looking for him. Certainly, under such circumstances, it was a matter of inference for the jury to say whether the defendant came within the scope of the alleged threats. Their weight and probative force was a question for the jury, but they were admissible as evidence to go before the jury for their consideration, along with the other evidence in the case.
+In the case of Knight v. State, supra, the Supreme Court held that a remark of the defendant made a few days prior to the difficulty, “that he would get a damned man before he was 21 years old,” was inadmissible because it was made under such circumstances that no reasonable inference could be drawn from it that the defendant meant the deceased at the time he made it. In the present case the alleged threats of the deceased against the defendant were made under entirely different circumstances, and under such circumstances as, in our opinion, rendered them relevant, and the court, committed error in. refusing to allow them to go before the jury.
+There are certain other questions presented in this record for our consideration. Some of them cannot arise on the next trial of this case, and the others may not do so, and for this reason we do not consider them.
+For the error pointed out, the judgment of the court below must be reversed and the cause remanded.
+Reversed and remanded.
