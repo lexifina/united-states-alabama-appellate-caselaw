@@ -1,0 +1,48 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 861"
+decided: "1945-05-22"
+citations: ["32 Ala. App. 161", "22 So. 2d 917"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BRICKEN, P. J., concurs in conclusion only.."]
+parties: ["COWAN v. STATE."]
+source_url: "https://static.case.law/ala-app/32/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685864
+cites_cases: ["104 So. 351", "12 Ala.App. 216", "20 Ala.App. 600", "29 Ala.App. 278", "30 Ala.App. 334", "67 So. 632", "9 So.2d 437"]
+---
+
+# Cowan v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+Under the provisions of Local Act of the Legislature of Alabama approved July 9, 1927 — Local Acts Alabama 1927, No. 149, p. 64 — , this prosecution was begun by an affidavit made by Tom E. Head, Sheriff, before Solomon Tisdale, Clerk of the Circuit Court of Covington County.
+Said affidavit charged, in the regular way, that appellant was guilty “of the offense of violating Rule No. 64, adopted by the Alabama Alcoholic Beverage Control Board on July 11th 1941, pursuant to Section 1, Title 29, Code of 1940, which rule reads as follows: ‘It shall be unlawful for any person, firm, corporation, partnership or association of persons as such persons are defined in Code 1940, Title 29, Section 1, who has not been licensed so to do under the appropriate provisions of Code 1940, Title 29, to sell, offer for sale or have in possession for sale any liquor or malt or brewed beverages as those terms are defined in Code 1940, Title 29, Section 1, in that the said Zollie D. Cowan did sell, offer for sale or have in possession to sell alcoholic beverages, to-wit: Moonshine Whiskey contrary to law and against the peace and dignity of the State of Alabama.’ ”
+Upon the affidavit averring as above, the Clerk of the Circuit Court issued a warrant for the arrest of Zollie D. Cowan reading (omitting formal parts) as follows, viz.: “You are hereby commanded to. arrest Zollie D. Cowan and bring him before Judge bf Circuit Court, at the present term of said court, 1944 to answer the State of Alabama on a charge of V. P. L. preferred by Tom E. Head.’.’
+And, being arrested on this warrant, and not demanding a trial before a jury until his case was called for trial — more than thirty days after his arrest — appellant was, against his protest, tried before the court sitting without a jury, and “adjudged guilty as charged.”
+His several motions, with which we do not propose to here deal — some made before trial, and one — in arrest of judgment— after trial, being overruled, he was fined $100 and “sentenced to six months additional hard labor" etc.
+This appeal followed. .
+It seems to us there are several novel and intriguing questions of law implicit and involved in this proceeding. But it likewise seems unnecessary for us to undertake to decide any of same.
+It is true that by virtue of Code 1940, Title 29, Section 6 (not Section 1, as stated in the affidavit), the Alabama Alcoholic Beverage Control Board is authorized to make such regulations (not inconsistent with this Chapter — Title 29 — Intoxicating Liquors — Chapter 1) as it shall deem necessary for carrying out the provisions of said Chapter, and from time to dme alter, repeal or amend such regulations.
+And it is true that such reasonable rules and regulations made as above have the force and effect of law; and that we are required to take judicial knowledge of same. Code 1940, Title 29, Sections 6, 52; Lovett v. State 30 Ala.App. 334, 9 So.2d 437.
+It is likewise true that we have in our possession — delivered to us by the Attorney General here representing the State — an uncertified, typewritten, book or pamphlet denominated “Rules and Regulations Alabama Alcoholic Beverage Control Board, Montgomery, Alabama,” and that we find therein what purports to be a “Rule and regulation promulgated this the 11th day of July, 1941, by the Alabama Alcoholic Beverage Control Board, Montgomery, Alabama, amending Regulation 58”; and this is numbered “Regulation 64,” and is in the same words and figures as the rule set out in the affidavit upon which this prosecution was begun.
+But we omit every other question that may be apparent, and come at once to the merits of the charge ttpon which appellant was tried below.
+It will be noted that he is charged with violating the terms of said “Rule 64” in that he “did sell, offer for sale or have in possession to sell alcoholic beverages, to-wit: Moonshine Whiskey.” And the sole and entire evidence to support this horrendous charge was the testimony of the Sheriff of the County that he went one night and searched the home of appellant and found a gallon — in a gallon jug — of what he termed “moonshine rum,” in “an old drum on a scaffold just outside his kitchen window, covered up with sacks”; and that appellant, who was at home at the time, said “it was his, and he was hoping I wouldn’t find it.”
+We have often heard of “Moonshine Whiskey,” but, we believe this is our first experience with the expression “Moonshine rum.” Whether or not rum is made illegally “by moonshine” we confess we do not know.
+But however it may be; and whether or not the proof, as noted, constituted a variance between the averments of the affidavit and same, we will not bother to inquire.
+To our minds it is clear beyond a doubt, waiving every other question in the case, that the State simply failed to offer évidence supporting, in any degree, the charge upon which appellant was tried and convicted.
+It seems idle, to repeat that he was charged with selling, offering for sale or having ill possession to sell alcoholic beverages — whether “Moonshine Whiskey” or “Moonshine rum” doesn’t here matter.
+And the sole proof being that that we have noted above, he was entitled to his discharge. We are still of the opinion that we were when we handed down the decision in the case of Strickland v. State, 20 Ala.App. 600, 104 So. 351, viz.: that “under section 4685 of the Code of 1923 (now Code 1940, Title 29, section 155) the mere possession of prohibited liquors in a building used exclusively for a dwelling is not prima facie evidence that the whisky was kept for sale.”
+And as we said in the above-cited opinion, we repeat here: “The only evidence connecting this defendant with the whisky (rum) in question was (of) a bare possession * * * in his residence * * *. There was no evidence which would warrant an inference by the jury (court, here) that he had the whisky (rum) for sale.” See McPherson v. State, 29 Ala.App. 278, 196 So. 739.
+We are not unaware of what the Attorney General calls — without protest from us — “the wisdom of the holding in the case of Fletcher v. State, 12 Ala.App. 216, 67 So. 631, wherein Judge Brown (now an honored and distinguished Justice of our Supreme Court), speaking for the Court of Appeals, observed as follows: ‘In the absence of proof that the defendant is not a normal human being, or that he possesses an unusually abnormal capacity for consuming alcoholic beverages, it is safe to say that this evidence is sufficient to afford an inference that he was keeping these liquors for sale, and therefore it was sufficient to sustain a conviction.’ ”
+But assuming that the alcoholic beverages referred to by Judge, now Justice, Brown was being kept at defendant’s home, as here, we need only to take from the opinion the list of such liquors, or the amounts, to see how far-fetched is any comparison of the holding in that case to the one we have hereinabove announced.
+In Judge Brown’s case the opinion states that “Thigpen, who was the railroad and express agent * * * testified to delivering to the defendant from the depot * * * on the following dates, the quantities of liquor hereafter stated: On March 2d, five boxes and one package of whisky, weighing 304 pounds; on March 26th, two boxes and one package of whisky, weighing 200 pounds; on March 30th, two boxes of whisky, weighing 119 pounds; on April 4th, one cask of beer, weighing 230 pounds; on April 10th, one cask of beer, weighing 233 pounds; on May 15th, two casks of beer, weighing '470 pounds.” [12 Ala.App. 216, 67 So. 632.]
+Now assuming that Judge (now Justice) Brown’s remarks, quoted hereinabove, were ever so wise when made with reference to a man shown to have in his possession between the dates of March 2 and May 15 623 pounds of whiskey and 933 pounds of beer, -we do not think it follows that the learned Judge (now Justice) would say, either for himself or the Court represented by him, that he would consider the same remarks either wise or appropriate when applied to a man shown to be in his own home and owning a gallon — in a gallon jug — of “Moonshine rum”- — whatever it is— in “an old drum on a scaffold just outside his kitchen window, covered up with' sacks.”
+If a man could drink the stuff at all, it surely would not require proof that he “possesses an unusually abnormal capacity for consuming alcoholic beverages” to believe he could soon, unaided, make way with a gallon of it. Observation, certainly, leads us to the actual knowledge 'that men who. “drink” can, and do, perform such feats, often.
+We believe this appeal is governed by the terms of Code 1940, Title 15, Section 322; and, acting under the express provisions thereof that we “shall render such judgment in the cause as the court below should have rendered.”
+It is the order and judgment of this court that the appellant is acquitted; and that he be forthwith released and discharged from further custody.
+Reversed and rendered.
+BRICKEN, P. J., concurs in conclusion only..
