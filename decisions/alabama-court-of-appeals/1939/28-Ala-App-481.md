@@ -1,0 +1,62 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 335"
+decided: "1939-03-07"
+citations: ["28 Ala. App. 481", "189 So. 81"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAMS v. STATE."]
+source_url: "https://static.case.law/ala-app/28/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1675102
+---
+
+# Williams v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The alleged injured party, Laura Johnson, colored, was the first witness examined by the State, and her testimony tended to show that shortly before the finding of the indictment against appellant in this case, she was made the victim of the old stereotyped “flimflam” game, where a pocketbook containing a large sum of money is purported to be found in her presence by one of the two men involved in the alleged commission of the offense charged. Speaking of this appellant she testified:
+“I first saw him at the City National Bank which is at the eleven story building, in September. It was on a Saturday, and I spoke to him. I went in the bank about nine-thirty, and when I came out of the bank, he was standing behind the door, and he said: ‘Howdy lady.’ And I say ‘Howdy-do,’ and he said: T am a stranger here and I want to deposit some money in the bank, can you tell me how?’ I told him to go to the second window and the man would attend to it, and I told him that I had got a check cashed in there, and while we were talking a man came from between two cars, he came angling from over at Brown’s Dollar Store.
+“I did not know who he was. He picked up a pocket book, and that fat fellow called my attention to it, and he said, that man has found some money, and I said, ‘He sure have,’ and this other man come to where me and this one was standing at the bank, and this one says: ‘Wait a minute, fellow, did you find some money?’ and he said: ‘Since both of you saw me find it, I will have to divide it with you all’ and we walked up the street with the other man, and we got to where the old bank used to be and we stopped there. That was on the far corner of the block, and I stopped there for him to count the money, and he said, this is too close in town to count the money, people will suspicion something, and he went on to the post office, and when we got there, they did not have enough money to make change for the $225.00 he said he had in this pocket book. The man that said that was the one with this Defendant. I do not know who he was. That was in this man’s presence.
+“He said that he had $225.00 he wanted to split into equal parts. I had $25.00. We goes to the post office and we sat down and this man was going to his friend in the bank building where he worked to make change for us. Said the white man he worked for was a cotton broker whose office was in the bank building, and he said he was going to carry this money and ge.t it changed. He left me and the other fellow sitting on the post office steps. He came back with an envelope in his hand and said he did not want to show the money, and he said you will have to put the money in this envelope. He gives me. the envelope and I took my $25.00 out of my pocketboolc, and I started to put the envelope in there and he said no put it in your bosom. Both of them insisted that I put it in my bosom; and he said let me show you what I am talking about and he took the envelope and put it in his shirt, and we got up and started away. He gives it back and it was full of paper. He took the envelope with my money in it and gave me another. It was a plain white envelope with nothing on it, and that was the kind I had my money in. I put the envelope in my pocket book and me and him walked on the same side as the post office and the other man went across the street. I said I have got three blankets at Penny’s and I will get you to help me carry them, and I went to get the blankets.
+“The Solicitor then propounded to the Witness the following question:
+“ ‘Did he go with you ?’
+“The witness then answered as follows:
+“ ‘No, sir, I left them on the corner, and I went to Penny’s and got the blankets, and just before I got in the door I looked in my pocket to get the envelope to pay for my blankets and it was stuffed with paper.
+“ ‘And I went to hollering for them. I went to find them and they were gone.
+“ ‘That happened in Tuscaloosa County before I came down and testified before the Grand Jury that found this indictment. I am positive that this Defendant was the one that handed me the envelope. I am positive this is the Defendant I handed the money to. I saw him in the City Jail and looked at him there after this happened.’ ” The State on direct examination used only two witnesses; the other witness testified substantially as follows:
+“This is R. G. Shirley. I am a city detective in Birmingham, Alabama. I have known the defendant five or six years.
+“The Solicitor prosecuting for the Stafe then and there propounded to the witness the following question:
+“ ‘Did you see him some several months ago in the jail up there in Birmingham?’ “The witness then answered:
+“ ‘Yes, sir.’
+“Did you or anyone in your presence offer him any reward, hold out any hope of reward, make any threats or offer any inducements to him to get him to make a statement, — did he make a statement to you about this case?
+“The witness then answered:
+“‘Yes, sir, he did.’
+“Neither I, nor any'one in my presence, offered him any reward, held out any hope of reward, offered him any inducements, or made any threat to get him to make that statement.
+“The Solicitor prosecuting for the State then and there propounded to the witness the following question:
+“ ‘What was that statement ?’
+“I called him down from the jail, — I had him in jail, and I told him there had been a colored woman in Tuscaloosa had picked out his photograph as being the one who beat her out of $25.00.
+“He said he was with Samuel Moore at Tuscaloosa and beat a negro woman out of $25.00.
+“The Solicitor prosecuting for the State then and there propounded to the witness the following question:
+“ ‘Did he tell you where he was when he took the money from her?’
+“The witness then answered:
+■" ‘In front of the bank/
+“The witness then continued:
+“He told me she had a check for $25.00, and he got one-half of it, $12.50.
+“The Solicitor prosecuting for the State then and there propounded to the witness the following question:
+“ ‘Did he tell you how he got that money, what they called the way he got it or what it was? Did he tell you how he got it?’ “The witness then answered:
+“ ‘He did not tell me just how he got it/
+“The witness then continued:
+“He just told me that he got $25.00 from her in front of the bank, and that was all. That is ■ the negro, there. I know this negro, .have known him four or five years. T'had seen Laura Johnson before I arrested him. I went with Mr. Elliott and Mr. Elrod to see her and she picked out a photograph of him. The woman who picked out the photograph looked like the colored woman who just testified. I don’t know her.”
+At the conclusion of the foregoing, the State rested its case. Whereupon the defendant elected to testify in his own behalf and among other things testified:
+“I was arrested on November 3rd, and I have been in jail ever since. I was not in Tuscaloosa any time during the month of September. I did not meet Laura Johnson at the bank building and take her money. I had never seen her before I was arrested. I told Mr. Shirley about getting some money from a girl in Tuscaloosa.
+•“He said that I was wanted in Tuscaloosa for getting money from a woman. Last January I had got $23.85 from Kate Jordan to go up to Birmingham and get my car. She had a car, and I had a car and I needed some tires for my car and I got the money from her to get the tires, and I went to get my money, and while I was straightening up everything she got impatient and left, I guess, because when I came back, she was not here, and when Mr. Shirley asked me about the money I got in Tuscaloosa, that was the only money I could remember, and when he asked if I was willing to come back, I told him yes. I came to the police station myself, because I knew I got that money from that woman (but not Laura Johnson). I never admitted to Mr. Shirley I took the money from anybody. I borrowed the money from Kate, $23.85. I did not admit in the Solicitor’s Office that I took the money. I denied taking it. I denied getting that money to Mr. Foster King. The only money I ever admitted getting to anybody was from Kate Jordan last January. Kate does not live here, she has got a relation on the Birmingham Highway.
+Sufficient evidence to establish the corpus delicti having been adduced without dispute, or contradiction, the foregoing testimony of the defendant presents the controlling and conclusive question involved upon the trial of this case, i. e., the question of the identity of the defendant as being the person who committed the offense. This question of course was for the jury to consider and determine.
+The trial court ruled correctly in allowing the Solicitor, on cross-examination of defendant, to examine him touching his conviction for different crimes involving moral turpitude. The fact that these admitted convictions were had and obtained in other States does not militate against the rule provided in sections 7722, 7723 of the Code 1923. Under said sections, as announced in innumerable decisions of the appellate courts of this State, such evidence is permissible for the purpose of touching or affecting the credibility of the witness.
+The strenuous insistences of appellant that the court erred in allowing the Solicitor to examine defendant relative to his alleged commission of another different and distinct offense than the one for which he was being tried are untenable and cannot be sustained. This, for the reason this question was injected in the trial of this case by the defendant’s own testimony. Under the simplest rules of evidence the State had the lggal right to inquire fully into this question on cross-examination of the defendant. The following portion of the argument of the Attorney General, in this connection, is well stated and sustained, towit: “We submit that the lower court did not-err in permitting the solicitor who was prosecuting for the State to cross-examine the defendant concerning his transaction in obtaining $23.85 from the person of Kate Jordan. The defendant had injected this testimony on direct examination of his own motion and the Court properly permitted the solicitor who prosecutes for the State to cross-examine him in order that he might obtain all the facts relevant to the alibi.”
+Pending the trial of this case in the court below there appears what might properly be termed a superabundance of objections and exceptions to the ’ court’s rulings upon the admission of evidence. In addition thereto defendant’s motion for .a new trial is based upon 119 separate and distinct grounds. All of which evinces a laudable effort upon the part of appellant’s able counsel to protect his every interest. We have, as the l'aw requires, given strict, careful and attentive consideration to each and every one of these questions. We refrain, however, from a detailed discussion in this connection. No good purpose could be had in so doing. As hereinabove stated, the one single question of fact is involved in this case. Did this appellant commit the proven crime as charged in the indictment. Our deliberate conclusion is, that no ruling of the court appears showing error prejudicial to the substantial rights of the defendant. We are of the opinion he 'has been accorded a fair and impartial trial free from all such error.
+We, the appellate courts of this State, have consistently held that a judgment of conviction may not be reversed, nor new trial granted on the ground of improper admission or rejection of evidence, unless in the opinion of . the court, after a careful examination of the entire cause, it should appear that the errors complained of have probably injuriously affected the substantial rights of the accused.
+In the instant case, failing to discover any such error in any of the trial court’s rulings, coupled with the affirmative fact that the record proper is regular in all things, the judgment of conviction from which this appeal was taken must be, and is, affirmed.
+Affirmed.
