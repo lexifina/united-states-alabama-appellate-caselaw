@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1916-11-28"
+citations: ["15 Ala. App. 354", "73 So. 223"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donaldson v. Roberson."]
+source_url: "https://static.case.law/ala-app/15/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632746
+cites_cases: ["112 Ala. 347", "126 Ala. 381", "128 Ala. 305", "130 Ala. 273", "130 Mass. 293", "131 Ala. 147", "139 Ala. 331", "159 Ala. 361", "161 Ala. 292", "177 Ala. 338", "18 N. H. 115", "20 South. 644", "22 L. R. A. 836", "24 Ala. 622", "24 Or. 357", "26 Ala. 300", "28 South. 402", "30 Ala. 672", "30 N. Y. 20", "30 South. 564", "30 South. 676", "31 Am. Rep. 698", "32 South. 503", "33 Pac. 985", "35 South. 1019", "39 Am. Rep. 454", "45 Am. Dec. 363", "49 South. 909", "5 Blackf. (Ind.) 574", "51 Vt. 501", "53 Ala. 64", "62 Am. Dec. 723", "63 Ala. 83", "7 South. 188", "85 Am. St. Rep. 38", "88 Ala. 559", "9 Ala. 266", "9 Ind. 506"]
+---
+
+# Donaldson v. Roberson
+
+## Majority (BROWN, J.—)
+
+BROWN, J.—
+The first, third, and fourth counts of the complaint as amended, and on which the case was tried, substantially follow the Code form for actions of slander, and the demurrers to these counts were properly overruled. — Penry v. Dozier, 161 Ala. 292, 49 South. 909; Code 1907, § 5382, form 16.
+Under our statute, which provides: “The defendant may plead more pleas than one without unnecessary repetition; and, if he does not rely solely on a denial of the plaintiff’s cause of action, must plead specially the matter of defense,” etc. (Code 1907, § 5331) the defense that the alleged slanderous matter was privileged was not available unless specially pleaded. — Petty v. Dill, 53 Ala. 64; Daniel v. Hardwick, 88 Ala. 559, 7 South. 188; American Oak Extract Co. v. Ryan, 112 Ala. 347, 20 South. 644; Jones v. Peebles, 130 Ala. 273, 30 South. 564; 25 Cyc. 458. The court, no doubt on the theory that the alleged slanderous communication was qualifiedly privileged, overruled the plaintiff’s demurrers to the defendant’s special plea 2 (25 Cyc. 393, 394), and under this plea the defendant had the full benefit of this defense; and the rulings on the demurrers, if error, were without injury. — L. & N. R. R. Co. v. York, 128 Ala. 305, 30 South. 676; Meyer Bros. Drug Co. v. Puckett, 139 Ala. 331, 35 South. 1019. The demurrers, however, were properly sustained. A defamatory statement made in social or business intercourse, not in discharge of a duty to the public generally, though all other elements concur to render it privileged, is not privileged unless it is made in good faith and without malice, — 25 Cyc. 385, 393, 394; Easley v. Moss, 9 Ala. 266; Stallings v. Newman, 26 Ala. 300, 62 Am. Dec. 723; Cooper v. Phipps, 24 Or. 357, 33 Pac. 985, 22 L. R. A. 836, and note; Shurtleff v. Stevens, 51 Vt. 501, 31 Am. Rep. 698, and note 708-715.
+The plaintiff, while testifying as a witness, was asked to state whether or not she had heard a report, as emanating from the defendant, that he (defendant) had told that one Sis-son was keeping her, and over a timely and appropriate objection, was allowed to answer in the affirmative. In this there was reversible error. — Sheppard v. Austin, 159 Ala. 361, 48 South. 696; Stiff v. Cobb, 126 Ala. 381, 28 South. 402, 85 Am. St. Rep. 38; 13 Am. & Eng. Ency. Law (1st Ed.) 374. The theory on which this evidence was admitted was to show special damages from mental distress and it is not admissible for this purpose, as the law presumes damages where the slanderous words are actionable per se, and the plaintiff has the right to rely on this presumption, and is not required to prove special damages. — 25 Cyc. 490. And even if it be conceded that the evidence would tend to show mental distress, it also has the vicious tendency to establish the plaintiff’s case on mere rumor — a flying report, traceable to no known or responsible source. — Haley v. State, 63 Ala. 83. Otherwise stated, although the defendant uttered and originally published the alleged slander, if he was not responsible for its repetition and communication to the plaintiff, he would not be liable for damages thus occasioned. — Stiff v. Cobb, supra; Clarkson v. McCarty, 5 Blackf. (Ind.) 574; Cates v. Kellogg, 9 Ind. 506; Shurtleff v. Parker, 130 Mass. 293, 39 Am. Rep. 454; Fowles v. Brown, 30 N. Y. 20; Cochran v. Butterfield, 18 N. H. 115, 45 Am. Dec. 363; Harrison v. Pierce, 1 F. & F. 567.
+The plaintiff was also allowed, over the objection of the defendant, to introduce evidence of the financial standing of the defendant. While some courts have held thát such evidence is admissible in actions for slander and like actions where punitive damages may be assessed, it is settled in this state that such evidence is not admissible. — Ware v. Cartledge, 24 Ala. 622, 60. Am. Dec. 489; Southern Car & Foundry Co. v. Adams, 131 Ala. 147, 32 South. 503; Long v. Speigel, 177 Ala. 338, 58 South. 380; Pool v. Devers, 30 Ala. 672.
+We have examined the other rulings on the admission and exclusion of evidence, and find no error therein.
+For the errors pointed out, the judgment is reversed and the cause remanded.
+Reversed and remanded.
