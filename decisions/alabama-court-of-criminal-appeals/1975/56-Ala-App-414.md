@@ -1,0 +1,73 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "8 Div. 659"
+decided: "1975-11-04"
+citations: ["56 Ala. App. 414", "321 So. 2d 752"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur."]
+parties: ["John BURRESS v. STATE."]
+source_url: "https://static.case.law/ala-app/56/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1747151
+cites_cases: ["101 So. 780", "14 Ala.App. 104", "154 Ala. 14", "20 Ala.App. 278", "212 Ala. 125", "253 Ala. 436", "257 Ala. 339", "286 Ala. 679", "286 So.2d 313", "291 Ala. 777", "292 So.2d 135", "321 So.2d 234", "35 Ala.App. 7", "369 U.S. 438", "372 U.S. 487", "44 So.2d 616", "44 So.2d 622", "51 Ala.App. 433", "52 Ala.App. 327", "56 Ala.App. 272", "61 Ala. 75", "88 S.Ct. 774"]
+---
+
+# Burress v. State
+
+## Majority (SIMMONS, Supernumerary Circuit Judge. CATES, Presiding Judge.)
+
+SIMMONS, Supernumerary Circuit Judge.
+These consolidated appeals (one from a conviction of murder, the other from a conviction of robbery) were originally assigned to the Presiding Judge. After-wards, the writer, under Section 2 of Act No. 288, July 7, 1945, took over the assignment and prepared Parts I-V of this opinion. Cates, P. J. prepared the remainder.
+I
+Under Code 1940, T. 15, § 389, this court must search the record for any adverse rulings in the trial below which contain error injurious to the appellant. See Rendleman, The Scope of Review in Criminal Appeals, etc., 22 Drake L.R. 477; Rule A, 49 Ala.App. XXI and 28(a)(7) ARAP and Form 23.
+We cite the foregoing because we find in the record before us the following order :
+“The defendant John Burress having given notice of appeal from his conviction in the above styled cause and having filed his petition for a free transcript, the court being of the opinion that the provisions of Sections 380(14)-380(25), Code of Alabama 1940 as amended, and in particular Section 380(17), should be followed,
+“It is therefore ORDERED, ADJUDGED and DECREED by the court that the petition by the defendant be amended to comply with said provisions.” R. 118
+The trial judge seemingly imposed a merit test on a pauper seeking a free transcript under his construction of § 4 of Act 525, September 16, 1963. This section requires averments of error in a pauper’s petition for a free transcript of testimony. The enforcement of this section so as to revive assignments of error is unwarranted since § 389 is a paramount provision which has not been repealed.
+Also since § 4, supra, applies only to paupers it cannot be construed to cut off a poor man’s access to an appellate court in any significant way which is different from that available to an affluent appellant. Draper v. Washington, 372 U.S. 487, 88 S.Ct. 774, 9 L.Ed.2d 899.
+Concededly, appellant did not complain of the trial judge’s order quoted above by an appeal under § 6 of Act 525, supra. Whether or not in such proceedings an appellant is constitutionally entitled to have the sought for transcript sent up on the ancillary appeal (from denial of a free transcript) we need not here decide. But compare Coppedge v. United States, 369 U.S. 438, 82 S.Ct. 917, 8 L.Ed.2d 21 where we find:
+“ * * * If, on the other hand, the claims made or the issues sought to be raised by the applicant are such that their substance cannot adequately be ascertained from the face of the defendant’s application, the Court of Appeals must provide the would-be appellant with both the assistance of counsel and a record of sufficient completeness to enable him to attempt to make a showing that the District Court’s certificate of lack of ‘good faith’ is in error and that leave to proceed with the appeal in forma pauperis should be allowed. If, with such aid, the applicant then presents any issue for the court’s consideration not clearly frivolous, leave to proceed in forma pauperis must be allowed.”
+In the light of Draper and Coppedge, supra, we have carefully considered the entire record before us which contains only one evidence transcript, i. e., that of the murder trial. No appeal was lodged here under § 6 of Act 525. No claim is made in brief that the evidence on the robbery trial was different from that on the murder trial. Nor is there any reference to adverse rulings made in the robbery trial that do not appear in the record which appellant’s counsel have filed here. In Orum v. State, 286 Ala. 679, 245 So. 2d 831, our Supreme Court said:
+“The appellant is under the duty of seeing that his appeal is perfected according to the requirements of statutes and rules of court. * * *”
+II
+Appellant-defendant was convicted of two separate and distinct offenses; namely, murder in the first degree, and subsequently, robbery. The indictments were separate, returned at the same time, and the alleged offenses were tried separately on the different dates. The appeals are combined here by agreement in the same transcript. For the conviction of murder the punishment was life (a general verdict) and for robbery the punishment was ten years. Both punishments were fixed by a jury. Defendant was an indigent at nisi prius with appointed counsel. The same indigency with appointed counsel obtains here.
+We note that the record or transcript here filed contains a certified copy of the evidence and of the exhibits in the murder trial, but not in the robbery proceedings. However, it appears that the murder charge was an incident to the robbery according to the transcript of the evidence. We have no assurance that the evidence in both trials comported in all respects with each other. Our summary of the evidence is based on the evidence adduced in the murder trial.
+The robbery occurred at about 8 p. m. on November 14, 1974, at a general urban grocery store located on the fringe of Huntsville, Alabama. The victim of the homicide was Anthony Lasiter, the twelve year old grandson of Glen Thomas and his wife.
+An additional and brief résumé of the evidence will suffice. Mr. and Mrs. Brown had closed and locked their grocery store building. They were proceeding with their daughter and grandson to their automobile for transportation to their house. The robbers halted them enroute to the automobile parked nearby, and commanded them to turn over their money. Mrs. Brown delivered about $2,000.00 in currency and checks while the daughter surrendered a bag of coins in her possession. The husband and grandson did not have any money to surrender. The money was the proceeds of the business operated by Mr. and Mrs. Thomqs.
+At the time, the defendant had possession of a small caliber pistol, which he pointed at the face of Mrs. Brown, and the companion robber was brandishing a 38 caliber pistol; the robbers made threats to kill them.
+The robbers directed them to turn over their automobile key, and to go back inside the store. The robbers were told that the key was in a money box and that the store was locked. The family thereupon proceeded to the store where Mr. Brown broke a window pane was his fist and unlocked the store door from the inside. The whole family entered through the unlocked door and sought shelter from further intimidation and danger.
+While the family was complying with the order to enter the store, the robbers tried to crank the car. Failing, they retreated from the store on foot and while so doing, with the defendant Burress in the lead, the companion fired his 38 pistol in the direction of the store. A bullet entered the building through the glass of a window. The projected bullet found lodgement in a sensitive part of the grandson who was killed thereby. Death was immediate.
+Brenda Burress, a sister of the defendant, was called as a witness for the defense. She testified that some detectives called at her house in search of her brother and that when her brother called her over the telephone from Nashville, she told him about the homicide and robbery and that he was wanted for arrest in connection therewith. She further testified that he returned immediately and submitted to arrest.
+It further appears in the testimony of Mr. Brown that the time element between the beginning of the robbery and the firing of the fatal shot was about three minutes. As to how far the defendant had retreated when the shot was fired is not free of uncertainty.
+III
+ON THE HOMICIDE
+We will now address our comments and opinion to appellant’s contentions of error in the murder trial and the questions of law pertinent thereto.
+Title 14, Section 314, Recompiled Code, 1958, embracing the felony-murder rule, reads in part as follows:
+“Every homicide * * * committed in the perpetration of * * * robbery, * * * although without any preconceived purpose to deprive any particular person of life, is murder in the first degree * *
+Appellant asserts that the trial court erred in refusing some written charges. The asserted errprs refer to charges numbered 7, 9, 10, 11, 12, 14 and 15. We have carefully examined each charge, supra, and conclude that the Court’s refusal of each charge was free of error. The charges are either abstract, not based on the evidence, not applicable to the evidence, argumentative, misleading, confusing, or were covered by the oral charge. Duchac v. State, 52 Ala.App. 327, 292 So.2d 135(8); Adkins v. State, 20 Ala.App. 278, 101 So. 779, cert. den., 212 Ala. 125, 101 So. 780; Reynolds v. State, 154 Ala. 14, 45 So. 894; Bain v. State, 61 Ala. 75; Mitchell v. State, 14 Ala.App. 104, 71 So. 982; Champion v. State, 35 Ala.App. 7, 44 So.2d 616, cert. den., 253 Ala. 436, 44 So.2d 622; Duke v. State, 257 Ala. 339, 58 So.2d 764; Title 7, Section 273, 1940 Code. For other collated cases see Vol. 6A, Ala.Digest, Criminal Law, ^ 813 and 814(3). 'With particular reference to defendant’s refused charge 11, this charge is predicated on a finding from the evidence that defendant robbed 'deceased. For aught that appears, deceased was not robbed of anything. It is also argumentative.
+IV
+The jury, after deliberation had begun, returned to the court room. A member propounded a question to the Court as follows :
+“If the murder was committed during the commission of a felony, is it required by law that we find first degree murder?”
+The trial court proceeded to give further instructions which it deemed responsive to this interrogatory. There were no exceptions or objections by defendant thereto. We will not review this response.
+However, immediately following the jury’s verdict and sentence of defendant, the trial court, outside the presence and hearing on the jury, at 10:30 p. m. with all parties and counsel present, observed as follows:
+“THE COURT: Now, at the request of Mr. Frew who is one of the attorneys for the defendant, let the record show that prior to the rendition of the verdict in this case the jury submitted a written question which is as follows: ‘If a homicide is committed while fleeing a robbery is it presumed to have occurred as part of the robbery?’
+“Let the record also show that prior to the court having answered this question for the jury, they sent the message by the bailiff that they no longer desired that this question be answered by the court. And shortly thereafter indicated that they had reached a verdict and in fact did so.” (R. 105)
+The record fails to show when during the jury’s deliberation the question was asked. We have already decided, supra, why the written instructions were refused.
+V
+If counsel for defendant was unhappy with the court’s oral charge, or any part thereof, because of its omission or deficiency, if such was a fact, he was privileged to submit written charges meeting the demands of law and supplying the omitted phases of applicable law. Edwards v. State, 51 Ala.App. 433, 286 So.2d 308(8), cert. den., 291 Ala. 777, 286 So.2d 313.
+The judgment for murder is affirmed.
+CATES, Presiding Judge.
+VI
+THE ROBBERY CONVICTION
+As is shown in Judge Simmons’ recital of the evidence, the robbery and murder were legally discrete crimes which came from a single transaction, i. e., taking money by violence. The jury was entitled to view the killing as a terroristic act intended to deter or delay pursuit of the robbers.
+The trial judge in the murder case elaborated in his instructions on the felony-murder doctrine. These directions became the law of the case. Our Clerk tells us the trial judge allowed only one transcript.
+In the 1923 Code of Alabama first adopted a bar to double punishment which now appears in Code 1940, T. 15, § 287 which reads as follows :
+“Any act or omission declared criminal and punishable in different ways by different provisions of law, shall be punished only under one of such provisions, and a conviction or. acquittal under any one shall bar a prosecution for the same act or omission under any other provision.”
+The appellant pleaded double jeopardy. Here, as in Yelton v. State (1975), 56 Ala.App. 272, 321 So.2d 234, where the other conviction is not yet final we would be speculating as to whether or not punishment under the murder conviction would preclude punishment under the robbery conviction. Accordingly, we consider that the New York practice of concurrent sentences is the only pragmatic solution.
+The judgment of conviction for robbery is affirmed but the cause is remanded so that the sentence of ten years imprisonment is to run concurrently for the first ten years of the life sentence for murder. If the murder conviction is set aside such action will not affect the sentence under the robbery conviction.
+Murder conviction affirmed.
+Robbery conviction affirmed but cause remanded for concurrent sentence.
+All the Judges concur.
+. “ * * * And if you are satisfied from the evidence beyond a reasonable doubt and to a moral certainty, as I have explained to you, that a homicide was committed and that it was committed in the perpetration of the offense of one of these enumerated, that I have explained to you, then, the degree of the homicide would be murder in the first degree. If perpetrated or committed in the perpetration of or the attempt to perpetrate in the arson, robbery, rape or burglary or perpetrated by any act greatly dangerous to the lives of others and evidencing a depraved mind regardless of human life, although without any preconceived purpose to deprive any particular person of life, the offense would be murder in the first degree. And if you are so satisfied from the evidence, satisfied beyond a reasonable doubt and to a moral certainty, then, in that event the form of your verdict would be, ‘We, the jury, find the defendant guilty of murder in the first degree.’ ”
