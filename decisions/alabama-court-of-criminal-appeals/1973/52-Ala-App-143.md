@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "6 Div. 478"
+decided: "1973-12-04"
+citations: ["52 Ala. App. 143", "290 So. 2d 207"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur."]
+parties: ["Jimmie Floyd MILLER v. STATE."]
+source_url: "https://static.case.law/ala-app/52/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1736596
+cites_cases: ["144 Ala. 63", "236 Ala. 423", "32 Ala.App. 623"]
+---
+
+# Miller v. State
+
+## Majority (HARRIS, Judge.)
+
+HARRIS, Judge.
+The grand jury of Jefferson County returned three (3) indictments against appellant charging him with assault with intent to murder. The victims were Delma Lewis, his paramour, William K. Thomas and Michael McCleskey, two police officers of the City of Birmingham. The state moved that the three cases be consolidated for trial. Appellant’s counsel told the court he had no objection to a consolidation, and appellant said, "Well, it don’t really make any difference now.” The jury found appellant guilty on the two indictments involving the officers, and not guilty on the indictment involving Delma Lewis. The court sentenced appellant to imprisonment in the penitentiary for twenty years on each of the two guilty verdicts, and denied his request that the sentences run concurrently. Appellant then elected to have a “working” appeal.
+On July 14, 1971, Delma Lewis was living in an apartment in a housing project at SOS Brussels Circle in Birmingham with her two daughters by a previous marriage. At the time of trial these girls were seventeen and eighteen years of age. This apartment was leased to Delma Lewis and she paid the rent. A year or more previously, appellant moved in this apartment and became master of Delma’s bedroom. He had a “free stay place” and enjoyed everything else that usually goes along with free accommodations.
+On the above date Delma’s ex-husband drove from Tennessee to see his daughters. When he arrived, Delma asked him to drive her to pick up her grandmother in a small town in Jefferson County. During the trip he told her he would like to spend the night and Delma readily agreed. She called her home and told appellant that her ex-husband wanted to spend the night and asked him to spend the night with his mother in Leeds. Appellant did not like the idea of an ex-husband sleeping on his pillow even for one night. He told Delma that he was not going to leave the apartment. When they returned home Delma asked appellant if he was going to leave and he said, “No.” They argued for awhile and Delma told appellant that if he did not leave she was going to call the police. He again refused to leave and she called the police department.
+About fifteen minutes after she called the police department, Officers Thomas and McCleskey drove to the apartment in a well-marked police patrol car. They were in uniform. They knocked on the door and Delma appeared. The officers asked if she was the one who had called and she said, “Yes.” She was standing at the screen door. The officers observed a man come up behind Delma and put a knife on her throat. Delma reached up with both hands and grabbed the blade of the knife and got it away from her throat. Appellant still had Delma around the neck and they moved out of the door onto the porch. Appellant told Delma to tell the officers to move back or he would “pull her head off.”
+Officer Thomas got appellant around the neck to separate him from Delma and they moved off the porch and began to struggle. Officer Thomas fell to the ground with his back to appellant. He felt a sharp pain in his back and heard an explosion. He turned and saw appellant with a pistol in his hand pointed at him. Appellant started firing at Officer Thomas and one bullet hit him in his elbow. This officer ran into the apartment and asked Del-ma if she had a telephone and she said yes. Instead of using the telephone, the officer ran to the patrol car to radio for help and for an ambulance. He then observed his partner, McCleskey, on the ground on his stomach. He asked him if he was all right and McCleskey said he was shot in his stomach. Officer Thomas saw appellant on the ground a few feet away. He walked over to him and asked if he was hurt and appellant did not reply. His eyes were open and he just looked at the officer. Officer Thomas saw his (Thomas’) pistol lying twelve to fifteen inches from the hand of appellant and picked it up. He did not know that appellant had taken his (Thomas’) pistol until after the shooting.
+Officer McCleskey testified that appellant shot him twice before he pulled his pistol and shot at appellant. He could not recall how many times he fired nor whether he hit appellant. Appellant was shot in the right hip and left leg. McCleskey was shot in the stomach and in one of his legs.
+McCleskey never worked for the Birmingham Police Department after this shoot out. At the time of the trial, he was retired on permanent disability.
+Appellant’s version of the occurrence was that the officers jumped on him and he saw Officer McCleskey going for his pistol and he did not want him to get it. In the struggle he somehow ended up with the pistol in his hand. He claimed that Officer Thomas shot him; that Officer McCleskey could not have shot him as he (appellant) had McCleskey’s pistol.
+The bullet that entered Officer Mc-Cleskey’s leg ranged upward and came to rest in his right thigh. This bullet was removed at University Hospital and turned over to another policeman, who, in turn, carried it to the branch office of the State Toxicologist in Birmingham along with the pistols of Officers Thomas and McCleskey. The pistols were test-fired and the bullets from each were used in a microscopic comparison with the bullet recovered from the body of Officer McCleskey. It was determined from this comparison that the bullet removed from the thigh bone of Officer McCleskey was definitely fired from the pistol which belonged to Officer Thomas. It was thus conclusively shown that appellant shot McCleskey and Thomas and that McCleskey shot appellant.
+The only matter pressed upon us for a reversal of this case is the action of the trial court in permitting a consolidation of the three indictments for one trial before the same jury.
+Appellant’s counsel expressly stated in open court that he had no objection to consolidating the three separate indictments against appellant for trial, and appellant’s statement in open court that, “Well, it don’t really make any difference now”, is an expression of consent to the consolidation. Lucas v. State, 144 Ala. 63, 39 So. 821; Lipscomb v. State, 32 Ala.App. 623, 29 So.2d 145; Brown v. State, 236 Ala. 423, 183 So. 412.
+There was no motion to exclude, no charges requested, and no motion for a new trial was made. The trial court had jurisdiction of the subject matter and of the person. The evidence adduced sustained the verdicts of guilty and the sentences imposed were in all things proper.
+Affirmed.
+All the Judges concur.
