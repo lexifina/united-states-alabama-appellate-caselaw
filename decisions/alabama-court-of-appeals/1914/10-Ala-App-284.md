@@ -1,0 +1,23 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-02-10"
+citations: ["10 Ala. App. 284", "64 So. 642"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Birmingham Railway, Light & Power Co. v. Williams."]
+source_url: "https://static.case.law/ala-app/10/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626638
+cites_cases: ["119 Ala. 563", "121 Ala. 221", "121 Ala. 226", "121 Ala. 489", "13 South. 75", "132 Ala. 471", "132 Ala. 480", "169 Ala. 242", "25 South. 609", "26 South. 35", "31 South. 573", "6 Ala. App. 653", "6 Ala. App. 657", "64 South. 193", "9 Ala. App. 637", "99 Ala. 397"]
+---
+
+# Birmingham Railway, Light & Power Co. v. Williams
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+This appeal grows out of. a trial had in the court below, in which the appellee, as plaintiff in that court, brought suit to recover damages of the appellant under a similar state of facts and circumstances, based on the same transaction, and the plaintiff’s injuries attributed to the same wrongs, as complained of in the suits heretofore before this court reported as B. R., L. & P. Co. v. M. Elmit, 6 Ala. App. 653, 60 South. 981, and B. R., L. & P. Co. v. Elmit, 6 Ala. App. 657, 60 South. 982.
+The complaint on which this case was tried is in three counts, and, acting evidently on the idea that one of these counts charges wantonness or willfulness on the part of defendant’s employees in causing or inflicting the injury complained of, the court below sustained demurrers to the defendant’s plea of contributory negligence as an answer to the second count, and refused to charge the jury at the written request of the defendant that they could not award plaintiff punitive damages. The first and third counts of the complaint clearly do not charge wantonness or willfulness, but rely upon allegations attributing plaintiff’s injury to acts of simple negligence on the part of defendant’s employees. The second count is grounded upon the same facts and conduct of the defendant’s employee in starting the car forward, and not allowing plaintiff to alight at the point or place where she desired to leave the car, and carrying her a block beyond her intended destination, as averred in the first count, but ascribes the injury to “the willfulness, or wantonness, or the gross care-lessness, or gross negligence” of the defendant’s employee in signaling the car to go ahead. The facts averred in the second count of the complaint, construed (as is the settled rule) most strongly against the pleader, in connection with the alternative averments that it was the “willfulness, or wantonness, or the gross carelessness, or gross negligence” of the conductor in signaling the car to go ahead that caused the injury to plaintiff, show no more than simple negligence. — Stringer v. Ala. Min. R. R. Co., 99 Ala. 397, 13 South. 75; L. & W. R. R. Co. v. Orr, Adm'r, 121 Ala. 489, 26 South. 35; B. R., L. d P. Co. v. Elmit, 6 Ala. App. 657, 60 South. 982. As said in the case of L. & N. R. R. Co. v. Brown, Adm’r, 121 Ala. 221, 226, 25 South. 609, 611, by McClellan, C. J., in speaking for the court on the question of averment necessary to charge willfulness or wantonness: “To the implication of willfulness, or wantonness, or reckless indifference to probable consequences, it is essential that the act done or omitted should be done or omifted with a knowledge and a present consciousness that injury would probably result and this consciousness is not to be implied from mere knowledge of the elements of the dangerous situation, for this the party charged may have, and yet act only negligently and inadvertently in respect of the peril; but it must be alleged, either in terms that he willfully, or wantonly, or with reckless indifference failed to discharge the duty resting upon him or that he was at the time conscious that his course would probably result in disaster. Of course these necessary averments may be proved by the cirumstances —the jury may, in a proper case, infer such consciousness, willfulness or wantonness from his knowledge of the existing perilous conditions; but that this may be done is no excuse for the pleader’s pretermission of their averment.” This rule was approvingly referred to and quoted in L. & N. R. R. Co. v. Banks, Adm'r, 132 Ala. 471, 480, 31 South. 573. Certainly the count under discussion does not state facts sufficient in law to show that the injury was wantonly or intentionally inflicted. See B. R., L. & P. Co. v. McLeod, 9 Ala. App. 637, 64 South. 193.
+For the errors pointed out, the judgment of the lower court must be reversed.
+Reversed and remanded.
