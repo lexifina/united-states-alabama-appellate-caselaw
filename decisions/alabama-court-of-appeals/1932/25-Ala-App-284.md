@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 293"
+decided: "1932-12-20"
+citations: ["25 Ala. App. 284", "145 So. 170"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CROSSLEY v. STATE."]
+source_url: "https://static.case.law/ala-app/25/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1663993
+cites_cases: ["100 N. E. 1000", "103 So. 558", "111 Ala. 23", "159 Ind. 377", "168 N. C. 215", "20 So. 632", "210 S. W. 206", "212 Ala. 497", "257 Ill. 443", "55 Ala. 42", "56 Am. St. Rep. 17", "65 N. E. 1", "83 S. E. 701"]
+---
+
+# Crossley v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+The defendant was married to Nellie Crossley (née Atkins) April 23, 1929. At that time she was pregnant and charged that defendant was the author of her condition. Five months later the child was born and is still living. Defendant and Nellie lived together about three months when they separated, and in a short time went back together and again on the 28th day of January they again separated, as he claimed and testified on account of the infidelity of Nellie. She denied the charge of infidelity. Since the last separation ■ Nellie and her child have been living with her parents on a farm owned by him. She has lived as one of the family doing such work as is usual and customary, such as housework and work in the field, as necessity required. Defendant has lived with his father on a farm owned by the father, and ran a farm on the place each year, from which he earned no profit. He also traded some in pigs, from which he did not make a living for himself.
+Complaint was legally made charging the defendant under section 4480 of the Code of 1923, with having abandoned his wife and child and this cause was tried and the defendant, convicted under said charge at the fall term 1931 of the circuit court and the defendant adjudged guilty. The fine was fixed at $100, which the defendant paid to the clerk of the court, where it was subject to the order of the wife at the time of the trial in this case. The defendant has not lived with or supported the wife and child since the separation.
+This proceeding was begun in February, 1932, and was tried March 3, 1932, when the defendant was again convicted and fined $75. There was evidence pro and con tending to prove the above state of facts.
+Prom this last judgment of conviction the defendant appeals.
+There was a proper plea of former conviction and on this plea there was evidence tending to prove an abandonment of the wife and child on January 28, 1930, a legal charge for such abandonment, trial and conviction thereunder, and a payment of the penalty adjudged. There was no evidence of any subsequent act of abandonment other than that defendant continued to fail to contribute to the support of his wife.
+Section 9 of the Bill of Rights provides that: “No person shall, for the same offense, be twice put in jeopardy of life or limb.” In common acceptation in this state this section of the Constitution protects a citizen from being twice tried-for the same offense. Sanders v. State, 55 Ala. 42.
+Section 4480 of the Code of 1923, under which this prosecution is brought, is penal and must be construed strictly.' The statute provides a penalty for one act which continues from day to day as long as it lasts, but the continuation of the abandonment cannot be split up into separate crimes, by the bringing of prosecution at the end of periods to suit ’the whim of the prosecution. Such a construction which was placed upon this statute by the trial judge would authorize a prosecution at the end of each day during a period which the defendant willfully failed or refused to support his wife, thereby entailing an • unlimited penalty for a violation of the statute where the extreme penalty as fixed by the statute is one fine and one imprisonment. Gunter v. State, 111 Ala. 23. 20 So. 632, 56 Am. St. Rep. 17.
+To constitute a crime under this statute two elements are required to exist; the act of abandonment, and the neglect and refusal to maintain and provide for the wife or child. The act of abandonment' can occur but once, and after that has taken place, immediately upon the neglect and refusal to maintain and provide, the crime becomes complete. While the continued failure and refusal from day to day to maintain or support might prevent the running of the statute of limitations, such, continuation does not constitute another and separate crime, for the reason that such conduct does not coincide with a separate act of abandonment. Before the defendant could be guilty of a second abandonment he must first return to his wife and resume the obligation of the marital relation. People v. Heise, 257 Ill. 443, 100 N. E. 1000.
+The criminal offense is against the state and. not the wife and child, and the prosecution under the statute does not affect the civil' liability for support and maintenance growing out of the marital relation. Ex parte Jackson, 212 Ala. 497, 103 So. 558; State v. Langdon, 159 Ind. 377, 65 N. E. 1; State v. Hannon, 168 N. C. 215, 83 S. E. 701.
+On the trial of the issue on the defendant’s plea of jeopardy, the trial judge instructed the jury to find the issue in favor of the state. This was error.
+After the issues on the plea of jeopardy had been decided against defendant he was put to trial on his plea of not guilty.
+The statute reads: “Any husband who shall, without just cause, desert” etc. The testimony on this point by the defend1 ant was that on the day he abandoned his wife he caught her in the act of cohabitation with his brother. If this was so, defendant had just cause and no conviction could be had. The court could not ignore this testimony. It was for the jury. 30 C. J. 1101 (924)b.
+Another question arises, Were the wife and child “in destitute or necessitous circumstances,” at the time of the beginning of this prosecution? The wife and child were at the time living with her father, on his farm, as a member of the family and attending to the household duties and working in the crops as she had done before her marriage and in accord with the station in life of all the parties, and in addition to this she had at her command $100 paid for her benefit to the clerk of the circuit court. The civil liability of the husband to support and provide for his wife and child certainly existed, but were they in such necessitous circumstances as to make such failure criminal? That was also a jury question, to be weighed and considered from all the surrounding circumstances. Wallace v. State, 85 Tex. Cr. 91, 210 S. W. 206.
+In some cases the inability of the husband to support the wife and child would cónstitute an element of defense. 30 Corpus Juris 1103 (927)c. But, in this ease the question is eliminated as there is no claim on the part of defendant that he endeavored to continue the support.
+There being no dispute in this record on the plea of former jeopardy, and it appearing that the defendant has once been convicted of the offense here charged, the judgment of conviction in this case is reversed and a judgment will here be rendered discharging the defendant.
+Reversed and rendered.
