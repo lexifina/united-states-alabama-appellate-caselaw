@@ -1,0 +1,52 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "3 Div. 397"
+decided: "1975-12-16"
+citations: ["56 Ala. App. 552", "323 So. 2d 735"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur."]
+parties: ["Eugene STARKS v. STATE."]
+source_url: "https://static.case.law/ala-app/56/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1747199
+cites_cases: ["293 Ala. 75", "297 So.2d 169", "300 So.2d 121", "300 So.2d 124", "47 Ala.App. 65", "53 Ala.App. 351", "53 Ala.App. 36"]
+---
+
+# Starks v. State
+
+## Majority (BOOKOUT, Judge.)
+
+BOOKOUT, Judge.
+Possession of heroin; guilty plea; sentence : ten years imprisonment.
+The record in this case showed that the appellant entered a plea of guilty to the charge of possession of heroin and requested probation, by executing a form referred to as Exhibit A, commonly known in this state as an Ireland form. (Ireland v. State, 47 Ala.App. 65, 250 So.2d 602).
+Such form, among other things, informed the appellant: (1) that he was charged with the crime of possession of heroin, a felony; (2) the range of punishment; (3) that he had a right not to be compelled to give evidence against himself; (4) that he had a right to trial by jury; (5) that he had a right to testify in his own behalf, but was not required to do so; (6) that he and his attorney could subpoena witnesses, confront and cross examine witnesses for the State, and examine his own witnesses; (7) that he had a right to be confronted by and cross examine his accusers; (8) that he was clothed with a presumption of innocence which would follow him throughout the trial until the State presented evidence that would convince each juror of guilty beyond a reasonable doubt; (9) that the burden of proof would be upon the State; (10) that he had a right to enter a plea of not guilty, not guilty by reason of insanity or any other special plea, and; (11) that he should enter a guilty plea only if he was actually guilty of the crime and did not desire a jury trial, in which case there would be no jury trial as therein explained.
+The form was signed by both the appellant and his attorney on November 20, 1974. The form further requested probation and explained the appellant’s rights in seeking probation. The form further stated that the appellant had read, or had read to him, the matters contained therein, that he understood them and that he was not under the influence of drugs, medicines or alcohol and had not been threatened, abused or offered any inducement, promise or reward to get him to plead guilty. The appellant then signed that statement on the same date and further, the appellant’s attorney likewise signed a statement that all of the appellant’s rights had been read by the appellant in his presence or were read and explained by the attorney to the appellant, and that a copy was given to the appellant to keep and study. That form was likewise signed by the circuit judge and the circuit clerk on November 20, 1974.
+The judgment entry in the record recites that before accepting the appellant’s plea of guilty, the court ascertained that the plea was intelligently and voluntarily made and that the appellant understood, “(1) the privilege against self incrimination, (2) the right to a trial by jury, (3) the right to be confronted by his accusers, (4) that he fully understood what the plea connoted, including the nature of the charge and acts sufficient to constitute the offense, and (5) the consequences of the plea, including the range of the sentence, and being satisfied that the foregoing was fully and intelligently understood by the defendant and that his plea of guilty was freely and voluntarily made, the Court proceeded with the hearing.”
+In addition to the Ireland form and the recitation in the minute entry, the trial judge entered into a short colloquy with the appellant on the date of sentencing, which in pertinent part is as follows:
+“THE COURT: — -and he committed a robbery, or allegedly committed a robbery offense when this case was pending.
+“Now, Mr. Starks, I show you Exhibit A. Have you read Exhibit A, or have you had Exhibit A read to you by your attorney and have signed this document ?
+“THE DEFENDANT: Yes, sir.
+“THE COURT: You know that you have a right to a trial by Jury, don’t you?
+“THE DEFENDANT: Yes.
+“THE COURT: You know you have the right to subpoena witnesses in your behalf and to have those witnesses examined and cross examined by your attorney. And do you also understand that the Court is not bound by any agreement of any kind with the District Attorney’s offices if you plead guilty and request probation ?
+“THE DEFENDANT: Yes, sir.
+“THE COURT: Mr. Smith, have you gone over fully with the defendant Exhibit A in his presence and have read to him or had it explained to him so that he understands it?
+“MR. SMITH: Yes, sir.
+“THE COURT: All right. Do you have anything to say why the sentence of law should not now be imposed upon you?
+“THE DEFENDANT: No, sir.
+“THE COURT: You are sentenced to ten years imprisonment in the penitentiary and denied probation.”
+The appellant contends that the above colloquy is insufficient to affirmatively show that he had a full understanding of a guilty plea and its consequences. It is the contention of the appellant that a guilty plea should not rest alone upon the execution of a written form. With this we agree, however, the record in the instant case does not bear out the appellant’s contention in this regard.
+The instant case is almost identical with the circumstances in Twyman v. State, 53 Ala.App. 351, 300 So.2d 121 (1973), reversed, 293 Ala. 75, 300 So.2d 124 (1974).
+In the first instance, this Court reversed the conviction of Twyman on a guilty plea for failure of the record to affirmatively show a colloquy between the court and Twyman. In a dissenting opinion by Cates, Presiding Judge, it was pointed out that in addition to an Ireland form, the minute entry incorporated the form and recited that Twyman stated to the court that he had read the form or that his counsel had read it to him, that his counsel had fully explained the contents to him, that he fully understood the same.
+That dissent ended by stating:
+“A verbatim report is probably more desirable than an attenuated one appended to written advice and acknowledgements. This particularly because of the frequency of post mortem proceedings in Federal courts. However, I do not consider that there be a specific face-to-face in-of memorializing a proper guilty plea.
+“On this principle, I would distinguish the instant record from that shown in Cooper v. State, 53 Ala.App. 36, 297 So.2d 169, this day decided. I do not think Cooper controls this case. In other words, all that should be necessary is that there be a specific face-to-face in-court conversation between the trial judge and the accused and the colloquy must specifically go into the accused’s understanding. However, it is not material as to who is the amanuensis of the conversation, whether court reporter, court clerk, or other impartial witness thereto.” (Footnotes omitted)
+A majority of the Alabama Supreme Court agreed, and reversed this Court. The Court there acknowledged prior cases holding that a judgment entry imports absolute verity, unless contradicted by other portions of the record. They found nothing in the record in Twyman to contradict the judgment entry. The same is true in the instant case.
+In Twyman, the Supreme Court found that: '
+“The trial judge, the defendant, and defendant’s attorney all attest over their respective signatures that the matters and things stated in ‘Court’s Exhibit A’ were read by defendant or read to defendant. Defendant acknowledges that this was done and that he understands those matters and things.
+“ . . . There is no rule of law that requires or even suggests that it must be presumed that the trial judge, the defendant, defendant’s attorney, or the judgment entry do not speak the truth. The judgment is not contradicted by the instant record. . . . ”
+In the instant case, we find not only an Ireland form executed by Starks and his attorney, and acknowledged by the signatures of the trial judge and circuit clerk, we also find a minute entry which shows that the trial court personally ascertained from the defendant that he understood the matters contained in the form and that his attorney had explained them to him. Such would be sufficient for affirmance pursuant to Twyman, supra. But additionally, we find here a colloquy between the trial judge and the appellant wherein the trial judge ascertained that the appellant was familiar with the contents of the Ireland form and that he knew full well the consequences of a guilty plea, and was knowingly and voluntarily entering such a plea.
+Affirmed.
+All the Judges concur.
