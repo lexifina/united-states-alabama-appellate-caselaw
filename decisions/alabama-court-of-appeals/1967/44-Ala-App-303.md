@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 217"
+decided: "1967-05-09"
+citations: ["44 Ala. App. 303", "208 So. 2d 212"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph ALDIO v. STATE."]
+source_url: "https://static.case.law/ala-app/44/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1713085
+cites_cases: ["251 Ala. 452", "261 Ala. 465", "33 Ala.App. 328", "34 Ala.App. 145", "42 Ala.App. 240", "42 Ala.App. 653"]
+---
+
+# Aldio v. State
+
+## Majority (PRICE, Presiding Judge.)
+
+PRICE, Presiding Judge.
+This is an appeal from denial of discharge on habeas corpus in an extradition proceeding.
+This is the second time this matter has been before this court. Aldio v. State, 42 Ala.App. 653, 177 So.2d 107.
+Appellant’s counsel'in brief argues three questions, “the sufficiency and legality of the rendition warrant; the inadmissibility of the requisition warrant for the lack of proper form and authentication; the lack of proper proof on the demanding state that the requested extradition is not for the purpose of collecting or effectuating the collection of a debt or financial obligation.”
+The rendition warrant of the Governor of Alabama was set out in Aldio v. State, supra. We held that it did not contain the requisite jurisdictional facts. In this proceeding, however, the allied papers are in evidence and we look to them to determine their legal sufficiency to justify the issuance of the rendition warrant. State v. Freeman, 42 Ala.App. 240, 160 So. 2d 12, and cases cited; Aldio v. State, supra.
+The requisition of the Governor of Pennsylvania reads in pertinent part:
+“WHEREAS, It appears by the annexed copies of application and Bill of Indictment, which I certify to be authentic and duly authenticated in accordance with the Laws of this State, that JOSEPH ALDIO, stands charged with the crimes of Fraudulent Conversion and Cheating by Fraudulent Pretense which I certify to be crimes under the Laws of this State, committed in the County of Lehigh in this State and it having been represented to me that he has fled from the justice of this State and may have taken refuge in the State of Alabama.”
+Three indictments are copied into the record, two charge “Cheating by Fraudulent Pretense,” and one charges “Fraudulent Conversion.” In admitting these documents in evidence the court remarked, “The Governor refers to ‘indictment.’ He uses the singular. However, I have no way of knowing what indictment he refers to. I admit all three indictments into evidence.” Appellant’s counsel insists that, “It cannot be stated with any degree of certainty as required by law as to what or which indictment was considered by the Governor of Pennsylvania when he signed the requisition warrant,” therefore they were not properly authenticated as required by Title 15, Section 50, Code of Alabama, 1940.
+The allegations of tire requisition are that relator stands charged with more than one crime in Pennsylvania. The application referred to in the requisition, certified by the Governor to be authentic, is the request of George J. Joseph, District Attorney, of the Governor of Pennsylvania to issue the requisition and represents that relator stands charged as appears “by annexed certified copy of Indictments'” that the crimes charged are “Fraudulent Conversion and Cheating by Fraudulent Pretense, P.S. 18, Section 4834, and P.S. 18, Section 4836.” The indictments are certified by Paul H. Hartman, the Clerk of the Court of Oyer and Terminer and General Jail Delivery and Quarter Sessions of the Peace for the County of Lehigh as true copies of indictments returned in the “Cause wherein the Commonwealth is Plaintiff and Joseph Aldio is defendant in the following cases, to wit: Nos. 63, 64 & 65 January Sessions, 1964,” as the same appear in his office. Kenneth H. Koch, President Judge of the Court of Oyer and Terminer and General Jail Delivery and Quarter Sessions of the Peace of Lehigh County certified that “the foregoing Record and Attestation, made by Paul H. Hartman, Clerk of said court, whose name is thereto subscribed and Seal of office affixed, are in due form and made by the proper officer.” There is also certificate of Paul H. Hartman, Clerk, etc., that Kenneth H. Koch was at the time of making the attestation and still is, President Judge of said Court, "duly commissioned and sworn; to all whose acts, as such, full faith and credit are and ought to be given, as well in Courts of Judicature as elsewhere * *
+It seems obvious that the omission of the letter “s” from indictment by the Governor of Pennsylvania was a mere typographical error. We hold that all three indictments are sufficiently authenticated.
+The next insistence of appellant’s counsel is that there was a lack of proper proof that extradition of petitioner was not sought for collection of a debt; that there was a stipulation or agreement between defense counsel and the deputy district attorney that the law of the State of Pennsylvania requires that in a case where the charge is fraud, false pretense, embezzlement or forgery “when made a crime by the common law or any penal code or statute, the affidavit of the principal complaining witness or informant that the application is made in good faith, for the sole purpose of punishing the accused, and that he does not desire or expect to use the prosecution for the purpose of collecting a debt or for any private purpose and will not directly or indirectly use the same for any of said purposes, is required, or a sufficient reason must be given for the absence of such affidavit.”
+The charges here are by indictments preferred by a grand jury. In the absence of proof to the contrary we presume the law of Pennsylvania pertaining to indictments is the same as ours. There is no way for us to determine in this proceeding what transpired before the grand jury or what evidence it considered.
+The uniform criminal extradition act provides that in requesting extradition the application shall state “that the proceeding is not instituted to enforce a private claim.” Title 15, Section 71, Code of Alabama of 1940; Scott v. State, 33 Ala.App. 328, 33 So.2d 390. The application presented to the Governor of Pennsylvania states:
+“That this application is not made for the purpose of enforcing the collection of a debt, or for any private purpose whatever, and if the requisition now applied for be granted, the criminal proceedings shall not be used for any such object * *
+Section 68 of Title 15, Code, supra, provides that “[njothing in this chapter shall be construed as authorizing the extradition of any person in this state to any other state where the extradition proceedings, directly or indirectly, seek to aid in the collection of any debt, demand or claim against the party sought to be extradited.” On habeas corpus accused has the right to present evidence to show that the extradition proceedings were instituted to aid in the collection of a debt. Scott v. State, supra; Tingley v. State, 34 Ala.App. 145, 37 So.2d 678, cert. den. 251 Ala. 452, 37 So.2d 680; Kilgore v. State, 261 Ala. 465, 75 So.2d 126. No evidence was offered by petitioner.
+The judgment is affirmed.
+Affirmed.
