@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+docket: "5 Div. 281"
+decided: "1918-06-29"
+citations: ["16 Ala. App. 483", "79 So. 157"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PATTERSON v. STATE."]
+source_url: "https://static.case.law/ala-app/16/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1636094
+cites_cases: ["163 Ala. 413", "59 Ala. 219", "62 Ala. 197"]
+---
+
+# Patterson v. State
+
+## Majority (BRICKEN, J.)
+
+BRICKEN, J.
+The defendant was, during the year 1916, a licensed automobile dealer, having complied in Montgomery county with all of the provisions of section 1, (sub-see. 10, of the Revenue Code (Acts 1915, p. 494). He was a member of a firm having its only place of business in the city of Montgomery: He did not pay the judge of probate of Elmore county any privilege tax or license, but did during the year 1916 solicit orders for the sale of automobiles in Elmore county. He was convicted in the circuit court of Elmore county on a charge of dealing in automobiles in Elmore county without a license. The case was tried by the court, upon an agreed statement of facts, without the intervention of a jury, and from thb judgment of conviction this appeal is taken.
+The section with the violation of which the defendant is charged is as follows:
+“Upon each and every agent of and dealer in, and upon every person soliciting orders for the sale or purchase of automobiles, motor cars, or other self-propelling vehicles, except motorcycles, and except any person regularly .employed by a said agent of and dealer in, which said agent of and dealer in, has paid the privilege tax or license herein provided for, the following privilege tax or license shall be collected, to wit: In each county having a population of less than twenty thousand people, twenty-five dollars; in each county having a population of more than twenty thousand people and less than forty thousand inhabitants, fifty dollars; in each county having a population of _forty_ thousand, and less than sixty thousand inhabitants, seventy-five dollars; in each county having a population of sixty thousand and less than one hundred thousand inhabitants, one hundred dollars ; in each county having a population of one hundred thousand inhabitants, or more, one hundred and twenty-five dollars.”
+The only question involved on this appeal is whether or not this statute; properly construed, means that an automobile dealer who solicits orders for the sale or purchase of automobiles in more than one county can pay the. automobile dealer’s license tax in one of the counties of the state and relieve himself of paying a license in the other counties.
+The statute for the purposes of this appeal is a criminal statute and must be strictly construed. Walton v. State, 62 Ala. 197.
+Another vital rule of construction applicable here is that in construing a part of a law the whole must be considered. “In construing a statute regard must be had to the whole act, for it frequently happens that the meaning of one clause is shown by another that is not stated in connection with it. The object being to ascertain the framer’s intention in the use of the language he employs, that intention is oftentimes more certainly learned by comparing one clause with another and noting their correspondences and differences.” Lehman Durr v. Robinson, 59 Ala. 219; Gernert v. Limbach, 163 Ala. 413, 50 South. 903. Applying these two rules of construction to the statute in question, we find the contention of the state untenable. The statute does not say that the automobile dealer is to pay a separate license in each county in which he solicits orders. In our opinion, such was not the intention of the Legislature; for, examining the. other sections of the same act where it is intended that a license be paid in more than one county, we find the Legislature expressing itself quite clearly to that effect. Instance the following subsections: Subsection 31. Reporting on credits: $50.00 “to each county in which such person * * * maintains an office.” Subsection 33. Constructing bridges: $25.00 “for each county 'where doing business.” Subsection 39. Operating a cane rack: $25.00 “to be paid in each county in which it is operated.” Subsection 43. Emigrant agents: $500.00 “in each county .m which he operates or solicits emigrants.” Subsection 68. Lightning rod vendor: $150.-00 “for each county in which they sell or deliver said article.” Subsection 70. Selling tombstones: $5.00 “for each county in which he sells. * * * such tombstones.” Subsection 78. Selling patents: $50.00 “for each county in which he shall offer to sell such patents.” (Italics ours.)
+We believe it quite obvious that, if the Legislature had intended to exact a license of the automobile dealer for each county in which he solicits orders, it would have expressed itself clearly and unequivocally to that effect, just as it did in the sections enumerated, and in the many other sections which might have been enumerated. It is our opinion, and we so hold, that the subsection under which defendant was convicted contemplates but one state and county license. The several county populations enumerated therein are merely bases of classification. The expression “in each county” does not, in contemplation of the whole act, fix a basis of taxation in every county where a dealer solicits orders. Having qualified in his home county and having there his one place of business, he has the right to solicit orders in other counties; this being a mere incident of the business in his home county.
+The evidence conclusively showing that there could be no conviction of the offense charged, -the judgment of conviction is reversed, and judgment here rendered discharging the defendant.
+Reversed and rendered.
