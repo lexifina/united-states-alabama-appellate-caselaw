@@ -1,0 +1,32 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 208"
+decided: "1935-11-19"
+citations: ["26 Ala. App. 589", "164 So. 305"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McKEE v. STATE."]
+source_url: "https://static.case.law/ala-app/26/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1667732
+cites_cases: ["100 Ala. 139", "103 So. 902", "14 So. 792", "145 Ala. 678", "146 So. 287", "155 So. 888", "20 Ala.App. 157", "228 Ala. 1", "25 Ala.App. 331", "39 So. 583", "40 So. 81"]
+---
+
+# McKee v. State
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+This is the second appeal in this case. Ante, p. 208, 155 So. 888.
+An examination of the evidence on this appeal, and a comparison with that on the former appeal, discloses that the evidence on the two trials is of the same import and in all material aspects practically identical.
+Several questions which arose upon the first trial and insisted upon as error on the former appeal do not appear on this appeal. On the former appeal, however, as here, the appellant strenuously insisted that the state failed to meet the burden of proof necessary to a conviction. On this proposition this court held, in effect, that the state’s case, when stripped of all but legally admissible testimony, was but meagerly made out, and that said evidence barely afforded a scintilla as to the guilt of the accused, and stated, for the reason that other error was apparent, the court felt there was no necessity to pass upon the weight of the evidence, and did not do so.
+We are of the opinion that the appellant has the right to have this point of decision considered and determined upon this appeal.
+The scintilla rule has no application in a criminal prosecution, where the accused enters upon his trial clothed with the presumption of innocence. Such presumption is evidentiary in its nature and by which the accused is accompanied throughout the trial, or until such period thereof, where his guilt is established by the evidence beyond a reasonable doubt and to a moral certainty; which .means, in effect, there must be substantial legal evidence to prove all the elements of the offense charged. Ex parte Grimmett, 228 Ala. 1, 152 So. 263. Randolph v. State, 100 Ala. 139, 14 So. 792. • In the Grimmett Case, referring to the Randolph Case, the Supreme Court said: “Dealing with the sufficiency of the evidence to require a, submission of the issues to the jury, raised by defendant’s motion to exclude the evidence of the state and discharge the defendant, it was observed: ‘This question was raised in behalf of both defendants by a joint motion on their part, made upon 'the close of the testimony for the prosecution, “to exclude all the evidence offered by the state, and to discharge the defendants.” This motion should have been granted. The court’s denial of it was to rule, in effect, that there was evidence which, if believed by the jury, would authorize a conviction.’ ”
+And in the Grimmett Case, the court said:
+“These utterances are clearly inconsistent with the thought that a mere ‘gleam,’ ‘glimmer,’ ‘spark,’ ‘the least particle,’ the ‘smallest trace’ — ‘a scintilla’. — is sufficient, in the face of the presumption of innocence, to require the court to submit the issues in a criminal case to the jury, and the scintilla rule, in this sense, does not apply to criminal prosecutions. * * *
+“The Court of Appeals did not find as a fact that there was more than a mere scintilla of evidence to support the charge.”
+The testimony of state witness Warren was vague and uncertain, as well as hearsay in several instances. Upon the testimony of this witness the state relied for a conviction, and that his testimony was insufficient upon which to predicate a conviction in this case is too apparent for argument and need not be discussed. Ross v. Roy (Ala.Sup.) 39 So. 583; Roberts, Long & Co. v. Ringemann, 145 Ala. 678, 40 So. 81; Bufkins v. State, 20 Ala.App. 157, 103 So. 902; Catrett v. State, 25 Ala.App. 331, 146 So. 287, 289 ; 25 Corpus Juris 597, § 23. In Catrett’s Case, supra, this court said: “A conviction for crime, slight or serious, cannot be rested upon the imagination, conjecture, or guesswork” of a witness, to which might be added, nor upon hearsay testimony. Several rulings of the court on the admission of the testimony of witness Warren were not in harmony with well settled and oft announced rules of evidence.
+The transaction upon which this prosecution is based took place in the year 1925, at which time appellant sold to Baker, the alleged injured party, some lots in a subdivision near the town of Hudson, Fla. As is generally known, at the period of time there existed in Florida a wild and frantic era of speculation in real estate commonly called a boom, and large numbers of individuals, firms, and corporations were thus engaged. This • appellant and his associates were members of a land company like thousands of others in this line of business, and it is insisted by appellant that the conversation had with Baker was but mere sales talk, 'and, as such, was not actionable; it appearing affirmatively from the facts complained of there was no intention upon his part to injure or defraud Baker who manifestly purchased the lots in question for speculation with the hope and expectation of making large profits thereon; that the collapse of the “boom” and failure to realize the anticipated profits and disappointment incident thereto actuated this prosecution, and that the prosecution is without merit, etc. It is true in many jurisdictions general sales talk is not actionable in a proceeding of this character, and that “persons selling or exchanging property do not commit an offense, merely by making use of “puffing” statements or “seller’s talk.” 25 Corpus Juris, page 597, § 23, and numerous cases cited. As to these insistences we feel there is no need of discussion; it having been ascertained and determined there was upon this trial a failure of proof to sustain the criminal allegations of the indictment, and this, of course, is conclusive of this appeal.
+The state having failed to meet the burden of proof necessary to a conviction entitled the accused to a directed verdict. There was also error in the action of the court in overruling defendant’s motion for a new trial.
+Reversed and remanded.
