@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "8 Div. 118"
+decided: "1972-12-12"
+citations: ["49 Ala. App. 502", "273 So. 2d 478"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CATES, P. J., and TYSON and HARRIS, JJ., concur.", "DeCARLO, J., dissents."]
+parties: ["Jennie B. GRIFFIN, alias v. STATE."]
+source_url: "https://static.case.law/ala-app/49/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1727788
+cites_cases: ["11 So. 255", "177 Ala. 24", "245 Ala. 513", "262 Ala. 694", "96 Ala. 24"]
+---
+
+# Griffin v. State
+
+## Majority (ALMON, Judge.)
+
+ALMON, Judge.
+This appeal is from a judgment of conviction of murder in the first degree with a sentence of imprisonment for life.
+On arraignment appellant pled not guilty and not guilty by reason of insanity. At trial the plea of insanity seems to have heen abandoned as no evidence was offered on this issue. The appellant relied on self defense.
+The evidence shows that appellant shot and killed Binford Shoemake on the night of October 1, 1969, at the apartment where she had been staying with the deceased in a housing project in Huntsville. The arrangement, according to appellant’s testimony, was that she paid $8.00 a week as a roomer in the apartment he occupied and in the evenings brought in whiskey which they both consumed. In the early evening of the date of the killing, appellant, along with State’s witness Elizabeth Shead, a visitor, were in the apartment when deceased returned from work. After a short interval, during which he had supper, the deceased said he had had complaints about appellant’s conduct while he was away at work and that he wanted her to get her clothes and vacate the premises that night. Appellant asked that she be allowed to stay until the following morning so that she could try to find another place to stay but he refused and she finally began moving her belongings to the apartment of a neighbor, Mrs. Gurley Smith. She carried part of her clothes to the apartment of Mrs. Smith, who lived close by. She testified that the deceased had told her if she came back “Agnew” would haul her away, although it is not clear .just when this was said. She returned for the remainder of her clothes carrying a shotgun which she had procured from the Smith apartment and opened the back door saying in substance, “You can’t mess that way with me.” Appellant further testified that the deceased was standing at the end of a couch across the room from her and that in the past he had kept a large chain behind the couch where he was standing; that he reached toward the place where the chain had been kept; and that she then fired the shotgun. I-Ie fell on the floor and died from the gunshot wounds. She testified that he had hit her with the chain in the past and kept it there for defensive purposes. After firing the shotgun she ran from the apartment and threw the shotgun in the yard as she was leaving the scene.
+There were instances shown by the record where testimony was ruled inadmissible when first offered by appellant but later allowed in evidence; thus, curing any error committed by the court’s refusal to admit it earlier.
+Appellant complains that the trial judge committed reversible error in that he used a rubber stamp bearing his name and then wrote the words, “given,” or, “refused,” as the case may have been, on the written charges requested by appellant, instead of affixing his personal signature and writing the words, “given,” or, “refused,” as required by Tit. 7, § 273, Code of Alabama, 1940, recompiled 1958. Counsel for appellant suggest in brief that the charges by order of this court were made exhibits to and a part of the record. The charges have been sent up to this Court by the Clerk of the Madison County Circuit Court but we find no order in this record or otherwise authorizing this action or making the charges exhibits for our consideration.
+“ . . . On appeal, all questions must be determined by the record, and matters dehors the record will not be considered to contradict the record. Bell v. Bell, 245 Ala. 513, 514, 17 So.2d 872.” White v. State, 262 Ala. 694, 81 So.2d 267.
+The record in this case does not disclose the use of a rubber stamp on the charges contained therein. This question is not properly before this Court for our consideration. (We suggest that this matter might have been properly raised in the lower court on motion for new trial and the charges offered as exhibits to the motion.)
+The trial judge did not orally charge the jury on the law of self defense. Appellant’s counsel tendered several written requested charges dealing with self defense which were refused by the court. Some of these charges were correct statements of the law. Thus, we are presented with the question of whether the facts in this case were such as to entitle the appellant to have the issue of self defense submitted to the jury. Even though evidence tending to show that appellant acted in self defense was scant, we have come to the conclusion that she was so entitled.
+Briefly, the elements of self defense are (1) that the defendant must be free from fault in bringing on the fatal difficulty; and (2) that there must be a present impending peril to life or danger of great bodily harm, either real or so apparent as to impress on the mind of a reasonable person a reasonable belief of an existing necessity to take life, and the defendant must so believe; and (3) that a man as required by law must, though he may be free from fault and though he may be in danger, either real or apparent, of losing his own life or receiving serious bodily harm, flee or retreat if by retreating he could prevent the taking of life and not increase his own danger.
+There was testimony that the appellant lived with the deceased in the same apartment and was paying a portion of the rent. It is elementary that one need not retreat from his or her own home. Harris v. State, 96 Ala. 24, 11 So. 255; Watts v. State, 177 Ala. 24, 59 So. 270.
+According to appellant’s testimony deceased had previously hit her with a chain and on the occasion of the shooting had reached toward the place where the chain was ordinarily kept. Previously when she left the apartment with some of her clothes the deceased told her that if she came back “Agnew” would haul her out. The meaning of this statement is unclear but it could certainly be construed as a threat. Two things make appellant’s defense weak. When she returned to the apartment for the rest of her clothes she was carrying a shotgun and when the fatal shot was fired it is questionable whether the deceased was close enough to her, assuming he was reaching for a chain, to put her in a position of peril. However, whether her testimony was believable begs the issue. The question before this Court is whether the appellant was entitled to have the issue of self defense submitted to the jury. We think so. McElroy, Law of Evidence in Alabama, § 457.02(6).
+The judgment of conviction is therefore due to be reversed and the cause remanded for new trial.
+Reversed and remanded.
+CATES, P. J., and TYSON and HARRIS, JJ., concur.
+DeCARLO, J., dissents.
