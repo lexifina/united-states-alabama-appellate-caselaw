@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 985"
+decided: "1950-11-21"
+citations: ["35 Ala. App. 501", "49 So. 2d 229"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COOK v. STATE."]
+source_url: "https://static.case.law/ala-app/35/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1692948
+---
+
+# Cook v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The indictment charged the defendant with the offense of murder in the first degree, in that, “he unlawfully and with malice aforethought, killed Dexter Freeman by shooting him with a shotgun,” etc.
+All necessary preliminary orders were duly made and entered, and upon arraignment the defendant plead not guilty, by reason of self-defense. This was the only issue in the case.
+Upon the trial there was no dispute or conflict upon the question that the defendant shot -and killed Freeman, the deceased named in the indictment. Nor was there any dispute or conflict as to the deceased having but one wound upon his body, and that wound was in his back. The trial court instructed the jury fully on the law of self-defense, to which oral charge no exceptions were reserved.
+The points of decision relied upon for a reversal of the judgment of conviction are based upon several exceptions reserved to the court’s rulings upon the admission of testimony. As the law requires each of said exceptions has been examined and considered and in this connection we find no semblance of error.
+The killing occurred at 908-11th Street, North, in the City of Birmingham in Jefferson County, Alabama, on Sunday, May 29, 1949, at about 8:00 P.M. o’clock. The deceased, Dexter Freeman, and his wife, Earlene Freeman, had at one time lived at this address, which was the address of a negro rooming house, until -about six weeks prior to instant killing. On the said date they came back to this address for a visit with one of the roomers, John Stewart. After they had visited in Stewart’s room for about thirty minutes, the wife of deceased left Stewart’s room for the purpose of going to the bathroom, which was located down the hall and just beyond the room which the defendant and his wife occupied on the opposite side of the hall. As she left the bathroom and started 'back towards Stewart’s room, the defendant was standing in the hall near the door to his room. He was armed with a shotgun. He started cursing her, using obscenities, and stated that he was “going to kill everybody in the house.” He was intoxicated and was crying, cursing, and mumbling, and was swinging his gun around and was ordering Freeman and his wife out of the house. Freeman heard the defendant’s threats and, having remarked to Stewart, “I don’t want my wife in that mess,” he stepped out of Stewart’s room into the hall. In the meanwhile she -had run past the defendant and was returning to Stewart’s room. State witnesses deny that Freeman advanced upon the defendant and also deny that Freeman passed any words with the defendant and deny that he cursed the defendant. On the contrary, they testified that Freeman was not armed and that he went down the hall only about six feet and that he soon started back into Stewart’s room after the defendant had ordered Freeman and his wife out of the -house. The defendant, however, shot Freeman in the back and killed him in the hallway. The death weapon consisted of a 16-gauge single barreled shotgun. After Freeman had fallen in the hallway it was found that his head was resting only about three feet from the door of Stewart’s room whereas the defendant’s room was about 25 feet down the hall and on the opposite side of the hall. After -having killed Freeman, the defendant ran from the house and hid the shotgun beneath another house about a block and a half from the scene of the crime. After the police arrived the defendant returned to the scene and informed the police of the whereabouts of the death weapon. In making their investigation the police discovered blood spots on the floor of the hallway located at a distance of about twelve feet from the defendant’s door. Defense witnesses testified that Freeman and his wife were cursing the defendant and that the defendant sought to avoid trouble. They testified that the defendant did not appear to be drinking. Their testimony relative to the position of Freeman’s body after it had fallen in the hallway conflicted with that of State witnesses, defense witnesses testifying that the body was within two short steps of the defendant’s doorway. The defendant himself testified that upon three previous occasions the deceased' had threatened his life and that on this particular occasion both Freeman and his wife advanced upon the defendant, and that she was holding' a switch-blade knife and that as Freeman lunged at him the defendant shot and killed him. Character witnesses testified to the defendant’s good reputation, and to the deceased’s bad reputation for peace and quiet. Under this conflicting state of the evidence, the case was given to the jury under proper oral charge by the court.
+The questions presented by the record are, as stated, free from error. The judgment of conviction from which this appeal is taken is affirmed.
+Affirmed. .
