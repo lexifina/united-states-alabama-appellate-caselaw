@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 719"
+decided: "1943-01-19"
+citations: ["31 Ala. App. 634", "12 So.2d 869"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pete BENSON v. STATE."]
+source_url: "https://static.case.law/ala-app/31/cases/0634-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1683279
+---
+
+# Benson v. State
+
+## Majority (SIMPSON, Judge.)
+
+SIMPSON, Judge.
+Appeal dismissed, motion of appellant.
