@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1916-05-18"
+citations: ["14 Ala. App. 99", "71 So. 977"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jackson v. The State."]
+source_url: "https://static.case.law/ala-app/14/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1630680
+cites_cases: ["11 Ala. App. 317", "12 South. 59", "121 Ala. 296", "126 Ala. 327", "130 Ala. 127", "165 Ala. 117", "25 South. 809", "28 South. 433", "3 South. 41", "30 South. 338", "48 Ala. 273", "50 South. 1027", "68 Ala. 525", "7 South. 919", "70 South. 962", "82 Ala. 144", "9 Ala. App. 55", "90 Ala. 147", "97 Ala. 619"]
+---
+
+# Jackson v. State
+
+## Majority (EVANS, J.)
+
+EVANS, J.
+Appellant was convicted of petit larceny. His demurrers to the affidavit or sworn complaint are without merit. The first of these objects that: “Said affidavit fails to show whether the alleged owner of said property, the Birmingham Packing Company, is a partnership or a corporation.”
+The language of the affidavit sufficiently answers, It is laid as “the personal property of the Birmingham Packing Company, a corporation.” The second and third grounds of demurrer chailenge the sufficiency of the averments of the affidavit as to probable cause. The affidavit sets forth that affiant “has probable cause to believe, and does believe,” etc., following the language of the statute (Code 1907, § 6703) ipsissimis verbis, which is sufficient.—Malloy v. State, 165 Ala. 117, 50 South. 1027; Mazett v. State, 11 Ala. App. 317, 66 South. 871. The question of whether probable cause is shown is one addressed to the committing magistrate, and the trial court is not, and cannot be, converted into a trial of the good faith of affiant, “nor can any inquiry be made whether the facts in his knowledge, or on which he- based his belief, constituted probable cause, or were sufficient to generate a reasonable belief of the guilt of the accused.”—Sullivan v. State, 68 Ala. 525. A categorical averment that affiant “has probable cause for believing, and does believe,” is, under the statute, a sufficient averment of probable cause; but an averment that in the opinion of affiant he has probable cause for believing is faulty.—Butler v. State, 130 Ala. 127, 30 South. 338.
+On cross-examination of one Phillips, a state witness, the bill of exceptions recites as follows: “I know this meat to be ours by the cut it has, as every packer knows his own meat by its cut. We keep a stock list, which shows the goods on hand in the place of business at the close of business on each day. It was part of my duty to examine this stock list every evening, and that is how I know that this property was missed by us and had been taken from the company. I can always tell from the stock list what has been regularly sold and that which has not been. I did not make out the stock list myself. We had other men working for us at the time, and one of them makes out the stock list each day, and I check over personally the stock on hand and compare the list and stock each day as to its correctness.”
+The witness was then asked this question by the court: “Could you tell by your stock list if any meat had been missed and, if so, how?”
+The defendant objected to the question on the ground that it “called for illegal, incompetent, and irrelevant testimony, as it was shown by the evidence that the witness did not make out the stock list,” and duly excepted to the overruling of his objection. A motion was also made to exclude the answer on the same ground urged to the question and an exception reserved to the court’s refusal so to do. The objection to the question was, in our opinion, well taken, and the learned trial court was in error in admitting the testimony called forth over defendant’s ‘objection. The stock list was not introduced in evidence, nor indeed could be without the correctness of the original entries being authenticated or verified by the clerk making them, or his handwriting proved in the event of his death, insanity, or being out of the state.—McDonald v. Carnes, 90 Ala. 147, 7 South. 919; Hart v. Kendall, 82 Ala. 144, 3 South. 41; Young v. State, 9 Ala. App. 55, 64 South. 171; Bolling v. Fannin, 97 Ala. 619, 12 South. 59; Walling v. Morgan County, 126 Ala. 327, 28 South. 433; Lane v. May & Thomas Hdw. Co., 121 Ala. 296, 25 South. 809; Minge & Co. v. Barret Bros. Shipping Co., infra, 70 South. 962. State’s witness Phillips’, testimony was based on the idea that a theft had occurred because the stock on hand did not tally or check correctly with an unauthenticated stock list which was not in evidence. Had this stock list been properly authenticated and introduced in evidence it would then have been within the province of the jury to say whether from all the evidence a case had been made out beyond a reasonable doubt, but manifestly without such it was tantamount to permitting the witness to draw his own inferences as to guilt and, moreover, to prove the corpus delicti thereby.
+It is true that the other state’s witness, Policeman Brown, testified to having found the meat at a house frequently resorted to by the defendant, but before evidence can be admitted of the recent possession of stolen chattels, the corpus delicti must be proven aliunde.—Fuller v. State, 48 Ala. 273.
+For the error pointed out, the judgment must be reversed, and the cause remanded for another trial.
+Reversed and remanded.
