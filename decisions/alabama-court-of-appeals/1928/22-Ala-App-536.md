@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1928-06-26"
-citations: ["22 Ala. App. 536", "117 So. 607", "7 Div. 429", "22 Ala. App. 591", "118 So. 505", "7 Div. 501"]
+citations: ["22 Ala. App. 536", "117 So. 607", "7 Div. 429"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["GREEN v. STATE."]
 source_url: "https://static.case.law/ala-app/22/cases/0536-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1654213
-cites_cases: ["109 So. 886", "115 So. 700", "116 So. 304", "117 So. 607", "118 So. 505", "129 Ala. 101", "170 Ala. 87", "21 Ala. App. 520", "215 Ala. 106", "29 So. 778", "54 So. 191"]
+cites_cases: ["109 So. 886", "115 So. 700", "116 So. 304", "118 So. 505", "129 Ala. 101", "21 Ala. App. 520", "215 Ala. 106", "29 So. 778"]
 ---
 
 # Green v. State
