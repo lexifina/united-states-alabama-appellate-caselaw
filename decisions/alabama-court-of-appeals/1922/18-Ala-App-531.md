@@ -1,0 +1,39 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 387"
+decided: "1922-05-30"
+citations: ["18 Ala. App. 531", "93 So. 231"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WESTERN UNION TELEGRAPH CO. v. PREISTER."]
+source_url: "https://static.case.law/ala-app/18/cases/0531-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645482
+cites_cases: ["149 Ala. 617", "159 Ala. 254", "163 Ala. 9", "256 U. S. 566", "36 Stat. 539", "50 South. 316"]
+---
+
+# Western Union Telegraph Co. v. Preister
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+The complaint consisted of one count, in tort, claiming damages for the alleged negligence on the part of defendant’s employees in transmitting a telegraphic message from Ft. Deposit, Ala., to one Davis, at New Orleans, La., reading as follows:
+“I 'offer you thousand or fifteen hundred pounds Frotcher pecans at fifty cents f. o. b. Fort Deposit, Answer.”
+Which message was changed in, transmission, so as to read “fifteen” cents instead of “fifty.” In reply plaintiff received the following:
+“Will take fifteen hundred pounds pecans today or tomorrow. Expense shipment.”
+Plaintiff, upon receipt of this message, shipped 1,006 pounds of pecans, for which the consignee only paid him 15 cents per pound, and plaintiff claims damages for the difference of 35 cents per pound. There were filed in answer to the complaint, beside the general issue, three special pleas, but it will serve the purpose of this decision only to notice plea 3, which is as follows:
+“For further plea, this defendant says: That the telegraphic message described in the complaint and on which this action is based was an interstate message, to be sent from a point in the state of Alabama, to wit, Ft. Deposit, Alabama, to a point in the state of Louisiana, to wit, New Orleans, Louisiana, and was, as such, interstate commerce. That, according to defendant’s established rules, regulations, and tariffs, as the same were on file with the Interstate Commerce Commission on December 16, 1919', and have ever since been, and are still, maintained, messages are classified, among other classifications, into ‘repeated’ and ‘unrepeated’ messages; a repeated message being a message which the defendant agrees that the office of destination shall transmit back, after receiving it, to the point of origin in order to avoid mistakes. That in the case of unrepeated messages the defendant assumes no liability ‘beyond the amount received for sending the same, while in the case of repeated messages defendant does not undertake to limit its liability to the amount received for sending the same, but assumes, on the contrary, liability for not exceeding 50 times the amount received for sending the message (except in so far as such liability may be further limited by other provisions of the contract), and for the additional work of repeating said message and the additional liability assumed in the case of a repeated message the defendant, at. all times mentioned, made and still makes an additional charge equal to one-half of the unrepeated message rate. That by the act of Congress approved June 18, 1910 (36 Stat. 539), the Congress of the United States entered and assumed charge of the regulating of the field of interstate communication by telegraph, and thereby removed and exempted such interstate communication by telegraph from the field of state regulation or interference, and undertook to and did confer upon the Interstate Commerce Commission full power over the rates, charges, facilities, classifications, and practices of telegraph companies engaged in interstate commerce with reference to such interstate commerce, and in particular conferred upon the Interstate Commerce Commission power to approve, alter, or acquiesce in existing rates and classifications, which power the Interstate Commerce Commission has ever since retained and still retains. That said message on which this suit is based was sent by the plaintiff as an unrepeated message, and the amount paid defendant for sending the same was, to wit, the sum of $1. Wherefore the defendant says it is only liable to the plaintiff in said sum of $1, with interest thereon from. December 16, 1919.”
+To this plea the plaintiff demurred, assigning the following grounds:
+“First. It is not averred that plaintiff at the time of sending the message had knowledge of the rules, regulations, and tariff on file with the Interstate Commerce Commission as averred in said plea.
+“Second. It is not averred that at the time of sending 'the telegram referred to plaintiff had knowledge that the rules, regulations, and vtariffs referred to in said plea were on file with the Interstate Commerce Commission, or that he had any knowledge of the classification of messages into ‘repeated’ and ‘unrepeated’ messages in the manner set forth and averred in said plea.
+“Third. It is not averred that at the time of sending the message the plaintiff agreed to the rules, regulations, and tariffs set forth'in said plea, or agreed that the message should be sent as an unrepeated message, with the conditions as to liability as set forth in said plea.
+“Fourth. The said plea, in and by its averments, shows that the rules, regulations, and tariffs therein referred to, and the matters and things set up ini said plea as a defense, are against public policy, in that the contract sued on, if limited by the matters and things set up in said plea, would be a contract on the part of the plaintiff against its own negligence.
+“Fifth. It is shown in and by the averments of said plea that as to the contract sued on the rules, regulations, and tariffs referred to in said plea and the matters and things set up therein are void and against public policy, in that they limit the liability of the defendant against its own negligence.”
+The demurrer was overruled, and therein lies the whole question involved in this case, although the same question is presented in other ways.
+In the absence of an averment in the complaint charging willful misconduct or gross negligence, since the amendment by Act June 18, 1910, § 7, to • the Interstate Commerce Act (U. S. Comp. St. § 8563), bringing telegraph and cable companies within the operation of that act, and providing that telegraph and cable messages may be classified into day, night, repeated, unrepeated, letter, commercial, press, government, and such other classes as are just and reasonable, and different rates be charged' for the different classes of messages, the sender of an unrepeated message from one state to another is charged with a knowledge of the rules governing the sending of such messages, and without actual knowledge is legally bound by the provision in the company’s lawfully established tariff, and also bound as to the limits named in such tariffs as to the company’s liability for mistake in transmission of unrepeated messages to the amount of the tolls collected on the message sent, where such tariff offers alternative rates for repeated and unrepeated messages, the reason given being that:
+“Any deviation from the lawful rate would violate the statutory requirement of equality and uniformity of rates.”
+The message in this case being sent from this state into the state of Louisiana, we are bound by the decision of the United States Supreme Court, which has declared the foregoing to be the law. W. U. Tel. Co. v. Esteve Bros., 256 U. S. 566, 41 Sup. Ct. 584, 65 L. Ed. 1094.
+The plaintiff must be remitted to his claim against the party to whom the pecans were shipped for any loss he may claim. For the reasons above set forth, the judgment is reversed, and the cause is remanded.
+Reversed and remanded.
+©33For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
