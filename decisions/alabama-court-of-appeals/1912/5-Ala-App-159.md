@@ -1,0 +1,23 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-05-07"
+citations: ["5 Ala. App. 159", "59 So. 310"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stokes v. The State."]
+source_url: "https://static.case.law/ala-app/5/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1619684
+cites_cases: ["103 Ala. 122", "131 Ala. 35", "164 Ala. 599", "44 Ala. 409", "53 South. 1021", "68 Ala. 58", "80 Ala. 9"]
+---
+
+# Stokes v. State
+
+## Majority (de GRAFFENRIED, J. —)
+
+de GRAFFENRIED, J. —
+It is our understanding of the law that when evidence is admitted upon a trial, which is, at the time of its admission, irrelevant and immaterial, but is, at a later stage of the trial, by other evidence introduced by either of the parties to the cause, rendered relevant and material, the trial court will not, upon appeal, be put in error for admitting such evidence. The defendant had a small store at “Happy Hollow” in Jefferson county, and about 50 steps from the store, on the same premises, was a three-room residence in which the defendant resided. Two of the rooms were bedrooms, and the other urns a kitchen and dining room. In one of the bedrooms there was one bed and in the other two beds. The defendant had a wife and no children. Armed with a search warrant authorizing him to search the premises of the defendant, a deputy sheriff of Jefferson county searched both the store and the house. There was no liquor in. the store, but 17 pints or half-pints of gin and 15 pints of rye whisky were found in the house. Some of this liquor was in one of the bedrooms and the balance in the kitchen. There were two men — not members of the defendant’s family — eating in the kitchen when the search was made. There was evidence tending to show that men were frequently seen while under the influence of Avhisky upon defendant’s premises. No one testified that he had seen the defendant sell or give away intoxicating liquors. The defendant swore that he had never violated any of the provisions of the prohibition laws, that the liquors in the house were for his own private use, that he had ordered it to be shipped in jugs, but that it had been sent to him in bottles, that the men eating in his dining room when the search was made were not boarders, but guests, that he did not keep a boarding house, did not use his residence in connection with his store, but used it exclusively for residential purposes for himself and wife alone.
+The jury — or courts when sitting as juries — are the sole judges of the credibility of witnesses. When two or more rational, though opposite, conclusions may be drawn from the evidence, the jury only are authorized to say what the proper conclusion is and what is the truth of the matter in dispute. In this case each material part of the defendant’s testimony may have been untrue. That was a question for the trial judge sitting as a jury. The fact that the house in which the defendant slept and the house in which he conducted his business as a merchant were on the same premises, all under the defendant’s control, that men not members of the defendant’s family were eating and sleeping there when the search was made, that liquors in convenient packages for illicit sale if the defendant was engaged in the unlawful business of selling liquor were found in the house, and that men under the influence of intoxicants were frequently seen on the defendant’s premises at “Happy Hollow,” were all circumstances from which the court, sitting as a jury, had the right to infer that the house in which the defendant ate and slept was a building which was “not used exclusively for a dwelling” by the defendant. Section 4 of the act “to further suppress the evils of intemperance,” approved August 25, 1909 (Pamph. Acts Special Session 1909, p. 63), provides that the keeping of liquors or beverages that are prohibited by the laws of the state to be manufactured, sold, or otherwise disposed of in any building not used exclusively for a dwelling shall be prima facie evidence that they are kept for sale, or with the intent to sell the same, contrary to law. As there was evidence from which the court, sitting as a jury, had the right to infer that the defendant’s residence was not used exclusively as a dwelling, the court was without error in permitting the state to prove that, when the search was made, intoxicating liquors Avere found in the defendant’s dAvelling.
+There is no other question presented by this record, and the judgment of the court beloAV is affirmed.
+Affirmed.
