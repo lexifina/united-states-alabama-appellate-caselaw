@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 189"
+decided: "1925-12-15"
+citations: ["21 Ala. App. 196", "106 So. 696"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERSON v. STATE."]
+source_url: "https://static.case.law/ala-app/21/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651770
+cites_cases: ["114 Ark. 239", "115 Ala. 117", "120 Ala. 59", "129 Ala. 92", "129 Ala. 94", "138 Ala. 53", "14 Ala. App. 46", "156 Ala. 76", "159 Ala. 97", "16 Ala. App. 453", "169 S. W. 773", "18 Ala. 521", "19 Ala. App. 370", "190 Ala. 22", "2 Ala. App. 157", "20 Am. Dec. 90", "209 Ala. 505", "209 Ala. 509", "22 So. 532", "24 So. 1", "29 So. 783", "29 So. 838", "34 So. 1011", "4 Ala. App. 72", "4 Ala. App. 92", "46 Ala. 175", "47 So. 242", "5 Ala. App. 142", "6 L. R. A. 301", "6 So. 758", "6 So. 761", "67 Am'. St. Rep. 19", "76 Ala. 42", "76 Ala. 8", "79 Ala. 34", "8 Conn. 93", "88 Ala. 116", "88 Ala. 2", "9 So. 456", "90 Ala. 589", "92 Ala. 71"]
+---
+
+# Roberson v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+The party alleged to have been assaulted was a deaf mute about 19 years old, hut she could read and write. When she came to defendant’s store there was a conversation between her and defendant carried on in writing, she writing one side of the conversation and defendant writing the other. This conversation contained suggestions or an invitation that the girl should go into the rear part of defendant’s store to look for' some salmon, which she sought to buy. The alleged crime was consummated, if at all, in the rear part of defendant’s storehouse behind the counter, and in continuation of the conversation above alluded to. Objection was made that the conversation, being in writing, was inadmissible without first accounting for the absence of the writing. The conversation being entirely in writing was as if the parties had conducted a correspondence by letter, and the admission of the contents of the writing should be and is governed by the same rules as that of letters and telegrams, etc. That the conversation was preliminary to and a part of the alleged crime can hardly be questioned. It was not alone the fact of a conversation, but the contents of the writing which was desired in evidence.
+In Peek’s Case, 19 Ala. App. 370, 97 So. 374. in admitting oral proof of a search warrant, the court said: “The existence of the search warrant, rather than its contents, was the matter desired.” The general rule, says Mr. Greenleaf in his work on Evidence, volume 1, par. 89, is: AYhere a written instrument is only a collateral incident to the matter in issue and its existence, rather than its contents, is the matter desired to be proved, the rule which in general requires the production of the writing, as the best evidence of its contents, is not applicable. Allen v. State, 79 Ala. 34; Griffin v. State, 129 Ala. 92, 29 So. 783. In the instant case the conversation, which was in writing, was so closely related to the alleged crime as to be a part of the res gestee, and the contents of the writing, rather than its existence, was the matter desired. The general rule is that in such cases secondary evidence will not be admitted without proof of the loss or destruction of the original. 1 Wharton, Crim. Ev. par. 162; Bell v. State, 156 Ala. 76, 47 So. 242. The foregoing, as it relates to written conversations by deaf mutes, is supported by the opinion in State v. De Wolf, 8 Conn. 93, 20 Am. Dec. 90, though the soundness of the rule when applied to written conversations by deaf mutes has been questioned by a note in Underhill Crim. Ev. (2d Ed.) par. 45, note 59. Upon the best authority we have been able to find, we hold that the written conversation between defendant and the girl alleged to have been assaulted was the best evidence of its contents, and secondary evidence was not admissible until the absence of the writing had been satisfactorily accounted for.
+The defendant offered as a witness Sol Mathews, who testified to the good character of defendant. On cross-examination the witness was permitted to testify, over objection, exception, and motion to exclude, that since “this case has’ been on” he had heard of other times where the defendant had been too familiar with girls. A witness who has testified on direct examination to the good character of a defendant may be asked on cjuss-examination whether he had not heard of certain enumerated acts of defendant which would tend to- show his character was not good and as- tending to test the. judgment of the witness on the question of character. Jones v. State, 76 Ala. 8. But such evidence must be confined to the time of, and prior to the commission of the offense for which the defendant is on trial. Carter v. State, 4 Ala. App. 72, 59 So. 222; Brown v. State, 46 Ala. 175.
+The defendant requested the court in writing to instruct the jury that if they believed the evidence they could not find the defendant guilty of an assault with intent to ravish. The evidence on this question was-in conflict, and the request for the charge was properly -refused.
+Charge 5 was properly refused. The evidence was not that the defendant was incapable of having sexual intercourse. There was some evidence that he was partially impotent, and at the time of the alleged crime this partial impotency was not overcome, but the charge is the assault with the intent, and if with the intent he assaulted' the girl, whether he failed ;from impotency or other causes, he would be guilty. For the foregoing reasons charges 5, 18, 19, and 20 were properly refused.
+Refused charges 13 and 20 single out and give undue emphasis to a part of the evidence which is not permissible and renders the charge bad.
+Refused charge 14 is abstract.
+Refused charge 21 is elliptical; moreover if the word presumably intended should be supplied the principle of law is fully covered by the court in his oral charge.
+For the errors pointed out, the judgment is reversed and the cause is remanded. -
+Reversed and remanded.
+(@^>For other casos see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
