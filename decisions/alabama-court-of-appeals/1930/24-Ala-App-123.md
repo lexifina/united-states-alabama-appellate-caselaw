@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 606"
+decided: "1930-11-18"
+citations: ["24 Ala. App. 123", "130 So. 902"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MALOY v. STATE."]
+source_url: "https://static.case.law/ala-app/24/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1661537
+cites_cases: ["101 So. 772", "101 So. 774", "13 So. 375", "137 Ala. 22", "18 Ala. App. 482", "19 Ala. App. 621", "20 Ala. App. 299", "212 Ala. 125", "34 So. 396", "49 Ala. 354", "60 Ala. 93", "9 A. L. R. 1360", "99 Ala. 169"]
+---
+
+# Maloy v. State
+
+## Majority (SAMEORD, J.)
+
+SAMEORD, J.
+It is first insisted by appellant that the indictment is void and will not support a conviction for the reason that the caption of the indictment does not meet the requirements of section 4526 of the Code of 1923. To sustain this contention our attention is directed to the indictment appearing in the record, which begins: “Enterprise Jurisdiction *■ * * Spring term 1929.” This is not the caption of the indictment, within the meaning of the statute, but a marginal entry, not at all necessary to its validity. The caption of an indictment is the entry of record showing when and where the court is held, who presided, the venire, and who were summoned and sworn as grand jurors. This caption is applicable to and is a part of every indictment and, when appearing in the minutes of the court returning the indictment, need not be again repeated in any part of the indictment. In other words, the marginal note usual in indictments stating the county, state, and term of the court at which the indictment was returned, is not the caption and its omission is not fatal to its validity, if the jurisdictional statements appear in the organization of the court. Goodloe v. State, 60 Ala. 93; Quinn v. State, 49 Ala. 354.
+No question was raised in the circuit court as to the sufficiency of the caption, and we therefore presume that the caption was in all things regular. Code 1923, § 3249.
+It is next contended that the court erred in permitting witnesses for the state to testify to inculpatory statements made by defendant at certain times and places after the offense is alleged to have been committed, without the same having been shown to have bpen voluntary. This contention would have contained merit, if this proof had been offered by the state as original evidence, but such is not the case here. The defendant offered himself as a witness testifying in his own behalf. When a defendant elects to so testify, he is subject to cross-examination like any other witness and may be impeached by proof of contradictory statements previously made by him. This principle extends to declarations and statements which would have been excluded as evidence when offered as confessions, because not shown to have been made voluntarily. Hicks v. State, 99 Ala. 169, 13 So. 375; Smith v. State, 137 Ala. 22, 34 So. 396; 9 A. L. R. 1360.
+The state, over the timely objection of defendant, offered in evidence a small box, in which there had been nine pills, which the prosecutrix testified was given to her by the defendant during the month of February and during her pregnancy and which she took to “destroy the- baby.” This witness also testified that defendant knew she was pregnant at the time he gave her the pills. Under all the facts and circumstances it was for the. jury to say whether defendant gave the box of pills to prosecutrix with the intent to produce an abortion. If he did, and if the pregnancy resulted from the act of intercourse at the time of seduction, the evidence would be relevant as tending to show a consciousness of guilt. Johns v. State, 20 Ala. App. 299, 101 So. 772; Owens v. State, 19 Ala. App. 621, 99 So. 774; Ex parte Johns, 212 Ala. 125, 101 So. 774. But the evidence in this case is without dispute that- the child of prosecutrix was born, four weeks before the date of the trial of this case, to wit, September 11, 1929. The evidence of prosecutrix is that the promise of marriage and the first act of intercourse growing out of that promise was in August, 1928, more than twelve months before the child was born. We would therefore judicially know that the pregnancy of prosecutrix was not the result of the act constituting seduction. It therefore follows that all testimony relating to the pregnancy of prosecutrix, the birth of the baby, and the giving of pills by defendant was illegal and irrelevant, and if objected to would doubtless have been excluded. The defendant did object to the introduction of the small box, said to have contained pills and given by defendant to prosecutrix in February, which she took with the intent to destroy the child. This objection was overruled and defendant reserved an exception. As this pill box related alone to the pregnancy of prosecutrix and not to the seduction, the court erred in overruling the objection. Subsequent acts- and declarations of defendant not connected with the seduction are not admissible. Davis v. State, 18 Ala. App. 482, 93 So. 269.
+For the error pointed out the judgment is-reversed, and the cause is remanded.
+Reversed and remanded.
