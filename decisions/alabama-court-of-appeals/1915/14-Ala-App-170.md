@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1915-04-08"
-citations: ["14 Ala. App. 170", "68 So. 716", "13 Ala. App. 619", "68 So. 718"]
+citations: ["14 Ala. App. 170", "68 So. 716"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Johnson, et al. v. McFry."]
 source_url: "https://static.case.law/ala-app/14/cases/0170-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1630643
-cites_cases: ["10 Ala. App. 158", "10 South. 546", "101 Ala. 79", "104 Ala. 412", "11 Ala. App. 350", "114 Ala. 432", "13 Ala. App. 619", "13 South. 365", "14 Ala. App., 68", "14 South. 98", "147 Ala. 590", "15 L. R. A. 544", "16 South. 1", "163 Ala. 326", "18 Ala. 716", "184 Ala. 54", "20 Ala. 219", "21 South. 994", "26 Ala. 687", "50 South. 311", "54 Am. Dec. 177", "56 Am. Dec. 193", "62 South. 564", "62 South. 967", "64 South. 510", "66 South. 827", "68 South. 716", "71 Ala. 461", "72 Ala. 74", "78 Ala. 180", "9 Ala. App. 186", "9 Ala. App. 434", "94 Ala. 466", "94 Ala. 470", "98 Ala. 315"]
+cites_cases: ["10 South. 546", "104 Ala. 412", "11 Ala. App. 350", "114 Ala. 432", "13 Ala. App. 619", "13 South. 365", "147 Ala. 590", "15 L. R. A. 544", "16 South. 1", "163 Ala. 326", "18 Ala. 716", "184 Ala. 54", "20 Ala. 219", "21 South. 994", "26 Ala. 687", "50 South. 311", "54 Am. Dec. 177", "56 Am. Dec. 193", "62 South. 564", "62 South. 967", "66 South. 827", "72 Ala. 74", "78 Ala. 180", "9 Ala. App. 186", "9 Ala. App. 434", "94 Ala. 470", "98 Ala. 315"]
 ---
 
 # Johnson v. McFry
