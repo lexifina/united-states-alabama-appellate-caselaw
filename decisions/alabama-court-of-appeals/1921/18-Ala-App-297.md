@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 408"
+decided: "1921-08-27"
+citations: ["18 Ala. App. 297", "91 So. 914"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte WILLIAMS."]
+source_url: "https://static.case.law/ala-app/18/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645454
+cites_cases: ["112 Ala. 210", "13 Ala. App. 243", "136 Ala. 196", "136 Ala. 96", "138 Ala. 68", "140 Ala. 172", "155 Ala. 78", "157 Ala. 1", "17 Ala. App. 551", "188 Ala. 107", "200 Ala. 364", "207 Ala. 69", "21 South. 371", "33 South. 888", "34 South. 194", "35 South. 39", "37 South. 250", "71 Ala. 307", "76 South. 280", "89 Ala. 172"]
+---
+
+# Ex parte Williams
+
+## Majority (MERRITT, J.)
+
+MERRITT, J.
+The petitioner, Grady Williams, appeals from the judgment of 1-Ion. Walter B. Jones, judge of the circuit court of Montgomery county, refusing to grant his discharge on his petition for habeas corpus heard by said judge. Counsel for the state and appellant present only one question for the consideration of this court, and that is whether the recorder of the city of Montgomery tried and convicted the appellant for a violation of the state law, or a violation of a city ordinance. Counsel for the state concede that, if appellant was tried and convicted of a violation of the state law, his plea of autrefois convict in the court of common pleas, which the record discloses was in proper form, should have prevailed, and his discharge from custody ordered by the judge hearing his petition. The affidavit upon which the warrant of arrest was issued charged the appellant with an assault upon a woman with the intent forcibly to ravish her, the warrant setting out the same offense, and commanding that appellant be arrested and forthwith brought before the recorder of the city of Montgomery. This affidavit charged the appellant with a felony, a violation of the state law, and it was the duty of the recorder, if he had reasonable cause to believe from the evidence that a felony had been committed and that the defendant was guilty, to bind such defendant over; but in case the evidence disclosed that no felony had been committed, but that an offense had been committed which constituted a misdemeanor under the state laws, then it became the duty of the recorder to fine the appellant, notwithstanding the fact that he had been brought before him on a charge of felony. There is nothing in the record to indicate that the recorder tried and convicted the appellant for a violation of any city ordinance. We think the ease of Ex parte Ratley, 188 Ala. 107, 66 South. 147, is very much in point, and that the following excerpt from the opinion may well be quoted in this connection. The learned justice writing the opinion says:
+“The affidavit which gave him jurisdiction charged a crime under the state law, and it can hardly he insisted that the recorder, after he had convicted the defendant of the offense charged in the affidavit, and collected the fine imposed upon him under the judgment of conviction, could then have turned around and had the defendant arrested under another affidavit charging the same offense in the same words, and then again have convicted him and collected other fine out of him under the pretext that one prosecution was had under the State 'law and the other under the City ordinance. * * * This judicial officer of the state, by assuming final jurisdiction in this matter, judicially determined that the crime which the defendant had committed was not a felony. The judgment of conviction so declares, but the fact, that final jurisdiction was assumed was itself tantamount to a judicial determination that the recorder had the jurisdiction to act.”
+In section 1221 of the Code it is provided:
+“The recorder shall have original and concurrent jurisdiction with the county court or court of like jurisdiction, of all misdemeanors committed within the city or town, or within the police jurisdiction thereof.”
+So when the appellant was arraigned in the court of common pleas of the city of Montgomery at a subsequent time to his trial and conviction before the recorder, it being admitted, as set up in his plea of autrefois convict, that this was for the identical same offense, and committed at the same time, for which the recorder had convicted him, his second conviction should not have been had, it was void, his plea should have been upheld, and, in failing to(do so, he has been twice convicted for the same offense.
+The law books abound with eases where attempts have been made to split up or divide a single crime into two or more offenses, but it has been uniformly held in this jurisdiction that, if the state, through its authorized officers, elects to prosecute a crime in one of its phases or aspects, 'it cannot afterwards prosecute for the same criminal act under color of another name. Moore v. State, 71 Ala. 307, and authorities there cited. In the case at bar, the attempt to prosecute is not under another name, but, with the facts confessedly the same, the attempt is to convict a second time for the same offense, and to hold that such could be done would do violence to that constitutional declaration the language of which is, “No person shall for the same offense be twice put in jeopardy of life or limb.” Jackson v. State, 136 Ala. 96, 33 South. 888.
+In view of these facts, and it affirmatively appearing that the appellant has paid the fine imposed upon him by the recorder, under his petition he should have been discharged. The judgment of the judge of the circuit court denying the relief prayed for is therefore reversed, and one here entered granting the relief prayed for and the discharge of the appellant.
+Reversed and rendered.
+¿tesFor other oases see same tonic and KEY-NUMBER in all Key-Numbered Digests and Indexes
