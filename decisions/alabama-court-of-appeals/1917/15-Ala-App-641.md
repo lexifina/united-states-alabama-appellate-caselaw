@@ -1,0 +1,25 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1917-04-03"
+citations: ["15 Ala. App. 641", "74 So. 746"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bryant v. The State."]
+source_url: "https://static.case.law/ala-app/15/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632740
+cites_cases: ["11 Ala. App. 399", "12 Ala. App. 253", "13 Ala. App. 206", "62 Ala. 416", "66 South. 844"]
+---
+
+# Bryant v. State
+
+## Majority (BRICKEN, J.)
+
+BRICKEN, J.
+This defendant was indicted at the January term, 1912, of the criminal court of Jefferson county for keeping a gambling table. At the February term, 1914, of said court he was convicted as charged, and a fine of $100 was assessed against him, and an additional punishment of six months hard labord was imposed. The fine and hard labor sentence were the minimum punishment fixed by statute for offenses of this character.— Code 1907, § 6985. From such judgment of conviction the defendant appealed to this court. The appeal so taken resulted in an affirmance of the judgment of conviction appealed from; but, because of the failure of said judgment to recite or show that defendant was asked by the court “if he had anything to say why the sentence of the law should not be passed upon him,” the cause was remanded in order that he be sentenced in "conformity to the requirements of law in this respect. — Bryant v. State, 13 Ala. App. 206, 68 South. 704. Pending the appeal in this court Judge Green, who presided at the trial when this deefndant was convicted, died; and the order of this court that the defendant be sentenced in conformity to the requirements of law was executed by Hon. H. P. Heflin, who had succeeded Judge Greene as the presiding judge of said criminal court of Jefferson county. After said sentence was passed, the said defendant being in custody, he filed a petition of habeas corpus before Hon. C. B. Smith, judge of the circuit court of Jefferson county, basing said petition upon the following grounds:
+“That said sentence passed upon the defendant by H. P. Heflin, associate judge of the criminal court of Jefferson county, was void, for that the said H. P. Heflin, associate judge of the criminal court of Jefferson county, was not the judge of said court at the time of the trial, and did not hear the evidence introduced at said trial; that said sentence is void, for that it was imposed by H. P. Heflin, associate judge of the criminal court of Jefferson county, who at the time of said trial of petitioner was the solicitor for Jefferson county and prosecuted the petitioner in behalf of the state, and that said H. P. Heflin, as solicitor, was with the grand jury of the criminal court at the January term, 1912, when the petitioner was indicted, and that the name of H. P. Heflin, solicitor, is signed to the indictment upon which the petitioner was tried on the 27th day of February, 1914; that the term of the criminal court of Jefferson county at which petitioner was tried and convicted had' expired by operation of law before he was sentenced by H. P. Heflin, associate judge of the criminal court of Jefferson county; that petitioner is being held on a void sentence,” etc.
+The court sustained the demurrers of the state to said petition and denied the writ, from which judgment of the court the defendant appeals.
+There is no merit in the contention that the sentence passed upon the defendant by Hon. H. P. Heflin, associate judge of the criminal court of Jefferson county, was void. The punishment inflicted by said sentence was the same as that imposed by his predecessor at a former term of said court, and was the minimum punishment fixed by statute for this offense; therefore it will be readily seen that no injury resulted to. the appellant by the acts complained of. The fact that said judge had been of counsel, as solicitor, in this case (which objection was not made at the time of the sentence complained of), and afterwards, as judge of said court, passed sentence upon the defendant, might have been irregular; but the sentence so passed, if from any viewpoint it could be termed voidable, certainly it could not be seriously insisted that such sentence was void to the extent that a writ of habeas corpus would lie.
+A writ of habeas corpus does not lie to correct error or irregularities in the judgments of courts. In order to be entitled to the writ, the petitioner must show that the judgment is absolutely void, not merely voidable. — Ex parte Simmons, 62 Ala. 416. For these reasons and under authority of Wright v. State, 12 Ala. App. 253, 67 South. 798, which appears to be exactly in point, and under authority also of State, ex rel. Attorney General v. Gunter, Judge, 11 Ala. App. 399, 66 South. 844, the judgment of the lower court in denying the writ is affirmed, and, there appearing no error in the record of a reversible nature, the judgment of the lower court is affirmed.
+Affirmed.
