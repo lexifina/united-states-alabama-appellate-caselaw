@@ -1,0 +1,44 @@
+---
+court: "Alabama Court of Appeals"
+docket: "5 Div. 227"
+decided: "1946-12-17"
+citations: ["32 Ala. App. 591", "28 So. 2d 646"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILSON v. STATE."]
+source_url: "https://static.case.law/ala-app/32/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685913
+cites_cases: ["13 Ala.App. 70", "18 Ala.App. 429", "18 Ala.App. 606", "19 Ala.App. 384", "20 Ala.App. 504", "202 Ala. 5", "204 Ala. 389", "21 Ala.App. 234", "21 Ala.App. 449", "21 Ala.App. 633", "215 Ala. 2", "247 Ala. 600", "27 Ala.App. 277", "27 So.2d 27", "30 Ala.App. 99", "31 Ala.App. 423", "5 Ala.App. 306", "93 So. 217", "97 So. 615"]
+---
+
+# Wilson v. State
+
+## Majority (CARR, Judge.)
+
+CARR, Judge.
+This is an appeal from a judgment of conviction for manslaughter in the second degree. The indictment, upon which the prosecution was based, charged murder in the second degree.
+In a well prepared brief counsel for appellant lists five propositions, upon each of which insistence is anchored for error. Our study of the record convinces us that, when we have treated each of these, we will have discussed all reviewable matters of meritorious inquiry.
+“Proposition No. 5. Trial Court erred in refusing appellant’s Charge No. 1 requested in writing.” No. 1 is the general affirmative charge.
+The victim of the unfortunate incident that gave rise to this cause was a three year old child. Without dispute in the evidence, the defendant was the driver of the automobile which struck or collided with the little boy, as the latter was in the act of passing on foot across the highway.
+The collision occurred in the daytime on the paved surface of the Montgomery-Atlanta Highway at Langdale, Alabama. Near the opposite side of the highway from the place the child started as he attempted to cross, there is a street which intersects the highway at right angles. The little boy lived down this street a short distance. The testimony is not sufficiently clear to enable us to draw an accurate mental picture of the location of the various buildings described in the evidence. However, a careful study of the record brings us to the unmistakable conclusion that along the highway and the street entering it, as above noted, there are several dwelling houses, an ice plant, and a beauty shop located in fairly close proximity to the locale of the collision.
+The evidence bears the indisputable finding that the little child came suddenly and unexpectedly into the path of the moving automobile.
+Under the circumstances disclosed by the record, the matter of the speed of the appellant’s car is a very material inquiry. The mother of the deceased testified that she observed “for a pretty good piece” the automobile as it was approaching the place of impact and in her judgment it was traveling at a rate of about 75 miles per hour.
+Four occupants of the automobile, including the appellant, gave testimony on the trial in the court below. One of these deposed that the rate of speed of the car at the time in question was between 20 and 30 miles per hour. Another said it was proceeding at a rate of 30 miles. The defendant and his brother fixed the speed at 25 or 30 miles. Whether or not the highest figure was an overestimate or the lowest was an under-appraisal it was, of course, ■for the jury to determine.
+Title 36, S,ec. 3, Code 1940 specifies: “Any person who drives any vehicle upon a highway carelessly and heedlessly in wilful or wanton disregard of the rights or safety of others, or without due caution and circumspection and at a speed or in a manner so as to endanger or be likely to endanger any person or property, shall be guilty of reckless driving * *
+Sec. 5 of the same title fixes the speed in a residential district at 25 miles per hour.
+In Jones v. State, 21 Ala.App. 234, 109 So. 189, 191, this court approved the trial judge’s definition of manslaughter in the second degree, which was given in the following language: “Manslaughter in the second degree' is defined as the unlawful killing of another human being, without malice and without the intent to kill or to inflict the injury resulting in death, but accidentally committed by the accused while he was doing an unlawful act amounting to a misdemeanor, or accidentally, committed by the accused while he was doing a lawful act, but in a grossly negligent or improper manner.”
+Judge Samford writing for this court in Estes v. State, 18 Ala.App. 606, 93 So. 217, 219, observed: “Manslaughter in the second degree may be committed by the doing of an unlawful act, or the doing of a lawful act in an unlawful manner, although at the time the defendant did not actually know that the act would result in a homicide, and this notwithstanding, after the act was done, or while in progress, the defendant used ordinary care to prevent the taking of human life; nor is the intention to take life necessary in a prosecution for this crime.” See, also, Crisp v. State, 215 Ala. 2, 3, 109 So. 287, and in connection therewith Crisp v. State, 21 Ala.App. 449, 109 So. 282; Sawyer v. State, 20 Ala.App. 504, 103 So. 309; Hammell v. State, 21 Ala.App. 633, 111 So. 191.
+Appellant in brief of counsel cites Barnett v. State, 27 Ala.App. 277, 171 So. 293. It is true that this court held in the Barnett case, supra, that the evidence did not warrant a finding by the jury of guilt of manslaughter in the first degree, but further observed that there were facts from which an inference could be drawn to sustain a conviction for manslaughter in the second degree.
+We are convinced that in the instant case the general affirmative charge was not due the defendant. This holding, of course, is in relation to manslaughter in the second degree, for which offense the defendant was convicted. Pippin v. State, 19 Ala.App. 384, 97 So. 615; authorities, supra.
+“Proposition No. 3. Trial Court erred in its oral charge in instructing the jury that the speed limit along the highway at the scene of the accident was only fifteen miles per hour.” The record does not show that an objection was interposed to this instruction of the trial judge. The rule will not permit us to review it. Tucker v. State, 202 Ala. 5, 79 So. 303; Montgomery v. State, 204 Ala. 389, 85 So. 785.
+“Proposition No. 4. Trial Court erred in refusing Charge No. 4 requested in writing by the defendant-appellant.” Applied to all the evidence in this case, this charge invaded the province of the jury. Jackson v. State, 5 Ala.App. 306, 57 So. 594.
+“Proposition No. 2. The Trial Court erred in refusing charges No. 1, No. 3, No. 4, No. 5, No. 10, and No. 9, requested in writing by the defendant below.” Refused charges 1 and 4 have already had our attention; We do not find a charge numbered 3 included in the record.
+As stated above, the appellant was convicted of manslaughter in the second •degree. Refused charges 5 and 9 are without application to this offense. Whether the charges are good or bad when applied to manslaughter in the first degree is a matter of immaterial inquiry. Certainly, no harm could inure to appellant in their refusal. Shikles v. State, 31 Ala.App. 423, 18 So.2d 412; Anderson v. State, 18 Ala.App. 429, 93 So. 68.
+Charge 10 should not have been given in the instant case. Anderson v. State, supra; Campbell v. State, 13 Ala.App. 70, 69 So. 322.
+“Proposition No. 1. The Trial Court erred in overruling the appellant’s motion for a new trial.” What we have written above disposes of all questions raised by the motion for new trial except the ground that the verdict was contrary to the evidence.
+We would now be confronted with a very difficult problem if the accused had been found guilty of an offense of higher culpability than manslaughter in the second degree. We cast .this aside and come to consider the matter on the basis of the judgment of conviction.
+We have hereinabove set out what we regard as a fair statement of the tendencies of the evidence upon which the instant inquiry can be predicated. The speed of appellant’s automobile at the time of the injury is in dispute. The court and jury were privileged to see and hear the witnesses. We are removed from the setting of the trial. The jury responded to its duty. The trial court refused to disturb this finding. We should not overturn this verdict nor disturb the judgment of the court below unless a good, legal reason is shown therefor. We do not find it here, and we cannot, under the rules by which we are governed, charge error. Freeman v. State, 30 Ala.App. 99, 1 So.2d 917; Booth v. State, 247 Ala. 600, 25 So.2d 427; Peterson v. State, ante, p. 439, 27 So.2d 27.
+It is therefore ordered that the judgment of the lower court be affirmed.
+Affirmed.
