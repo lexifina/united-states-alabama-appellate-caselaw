@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 419"
+decided: "1938-11-29"
+citations: ["28 Ala. App. 390", "185 So. 187"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF ANNISTON v. OLIVER."]
+source_url: "https://static.case.law/ala-app/28/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674566
+cites_cases: ["105 Ala. 170", "113 Ala. 360", "14 Ala.App. 541", "16 So. 576", "192 Ala. 354", "197 Ala. 554", "21 So. 366", "215 Ala. 426", "218 Ala. 464", "222 Ala. 249", "228 Ala. 318", "27 Ala.App. 377", "47 Am.Rep. 422", "72 Ala. 411", "78 Ala. 5"]
+---
+
+# City of Anniston v. Oliver
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+The plaintiff in the court below, a minor, brought suit by her next friend against the defendant, the complaint containing a single count.
+The material allegations of the complaint charged that the plaintiff was injured while riding in an automobile, over and along Tenth Street, in the City of Anniston, Calhoun County, Alabama, at a point designated in the complaint. That while plaintiff was so riding and crossing a bridge on said street, there was a rotten, loose, or detached piece of timber, constituting a part of said bridge, which, when driven upon by the automobile in which the plaintiff was traveling, flew up and struck the plaintiff in the face, resulting in the injury complained of.
+1 The injuries and suffering complained of were ascribed to the negligence of the defendant in maintaining or permitting the alleged defect in the bridge described in the complaint.
+A. claim for plaintiff’s damages was duly filed by her Mother, in her behalf, with the Clerk of the City of Anniston, plaintiff being a girl of the age of seven years and incapable of acting on her own account. Payment of her claim was declined by the Council of said City.
+Upon the trial of the cause several witnesses testified to the defective condition of the bridge, and that said condition was obvious arid had existed for some three weeks prior to the accident and injury. The testimony of these witnesses was not controverted, and, therefore, we may say that it is conceded that the bridge was defective as alleged, and that it had remained in this condition for a period of at least three weeks prior to the accident.
+After the accident the officials of the City took cognizance of the condition of the bridge, and under instructions from the Mayor and the Street Supervisor, the bridge was barricaded and repaired before again being opened to the public for travel.
+On the trial there was verdict and judgment for the plaintiff in the sum of $500, from which judgment is this appeal.
+Where the defendant in a suit for damages for personal injuries pleads the general issue, as is done in the case at Bar, the burden is upon the plaintiff to reasonably satisfy the jury, by the evidence in the case, of the material allegations of the complaint. Central of Georgia R. Co. v. Gross, 192 Ala. 354, 68 So. 291.
+Based upon the principle announced in the case above cited, the appellant on this appeal contends that it was entitled to the general affirmative charge for three specific reasons, to-wit: (1) There was no proof that the street named in the complaint was in the City of Anniston; (2) there was no proof that Tenth Street was a public street; and (3) there was no proof that the loose or rotten timber constituted a part of the bridge. As to the first two of .these reasons, we find no direct testimony; that is to say, no witness has specifically said that the street w’as in the City of Anniston, or that Tenth Street was á public street. But, such testimony is not necessary where the facts and circumstances testified to by the witnesses furnish evidence from which inferences can be drawn proving the facts as alleged in the complaint. Such is the case here. The whole of the testimony, both for the plaintiff and the defendant, points conclusively to the fact that the street at the point where the accident occurred was within the City of Anniston, and that it was a public street over which the authorities had jurisdiction,
+As to the third reason, there was direct proof that the rotten plank, which flew up and struck the child, was a part of the bridge.
+As to all of the above reasons there seems to have been no controversy in the lower court, or at least the points do not appear to have been urged on the trial. The question was clearly for the jury under the facts.
+The liability of a municipality does not necessarily follow proof of a defect and an injury proximately resulting therefrom. The basis of the action being negligence, notice to the municipality of the defect which caused the injury, or of facts tantamount to notice of such defects, or proof of circumstances from which it appears that the defects ought to have been known and remedied, is essential to actionable liability. City of Birmingham v. Martin, 228 Ala. 318, 153 So. 235.
+Tenth Street being in the City of . Anniston, and being a public thoroughfare, it was the duty of the city to keep such street in a reasonably safe condition for travel and the use of its citizens and the pub-lie in general; this duty extends to the entire width of the street. Mayor and Alderman v. Tayloe, 105 Ala. 170, 16 So. 576; Lord v. City of Mobile, 113 Ala. 360, 21 So. 366; City of Birmingham v. Andrews, 27 Ala.App. 377, 172 So. 681.
+'Before the defendant could be held liáble in this case it was necessary for the plaintiff to establish notice to the city of the dangerous condition of the bridge, or a continuation of the condition of the bridge for such length of time as would impart notice. If the defendant negligently permitted the defect to remain in the street an unreasonable length of time, this would be equivalent to such notice as is necessary to fix a liability upon the defendant. City of Birmingham v. Chambless, 222 Ala. 249, 132 So. 313.
+Under the facts in this case it was a question for the jury to say whether or not the dangerous condition of the bridge had remained for such length of time as would impart notice to the city. City Council of Montgomery v. Wright, 72 Ala. 411, 47 Am.Rep. 422; City of Birmingham v. Muller, 197 Ala. 554, 73 So. 30.
+The appellant complained that the trial court erred in refusing to permit him to read as a part of his argument to the jury Section 2029 of the Code of 1923. It is permissible for counsel in argument to read to the jury the law as it is written either in the Code or in published decisions of the Appellate Court of the State pertinent to the questions involved in the case on trial, and containing correct exposition of the law applicable thereto. Such is the ruling in many cases in this court and in the Supreme Court. City of Tuscaloosa v. Hill, 14 Ala.App. 541, 69 So. 486. But such permission is discretionary with the trial judge, and his refusal to permit such reading is not reversible error. The reason for this is obvious. The duty of the jury is to try the facts and apply such facts to the law as given them in charge by the court. It is the duty of the court to declare the law, and it is the duty of the jury to follow the law as given them in charge by the court. Harrison v. State, 78 Ala. 5.
+Appellant complains' that the single charge given at the request of the plaintiff was error; to sustain which we are cited to two authorities of the Supreme Court, to-wit: Walls v. Decatur Fertilizer Co., 215 Ala. 426, 111 So. 214; Birmingham Baptist Hospital v. Branton, 218 Ala. 464, 118 So. 741. The law, as therein stated, we recognize; but when the plaintiff’s requested charged is taken and considered in connection with the oral charge of the court, which under the Statute we are required to do, we find no error in its giving.
+The refused charges requested by the defendant have been disposed of in the foregoing opinion and in connection with the discussion of the legal propositions involved and their refusal was in each instance, free from error.
+We cannot say that the judgment is excessive.
+The record being free from err.or, the judgment is affirmed.
+Affirmed.
