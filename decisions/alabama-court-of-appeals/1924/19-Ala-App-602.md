@@ -1,0 +1,38 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1924-04-08"
+citations: ["19 Ala. App. 602", "99 So. 748", "6 Div. 208"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROWE v. STATE."]
+source_url: "https://static.case.law/ala-app/19/cases/0602-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8828225
+cites_cases: ["135 Ala. 66", "16 Ala. App. 476", "17 Ala. App. 475", "17 Ala. App. 559", "33 Am. Dec. 281", "33 South. 485", "50 Ala. 127", "50 Ala. 130", "52 Ala. 19", "54 Ala. 224", "8 Port. 155", "8 South. 760", "90 Ala. 633"]
+---
+
+# Rowe v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The statute, for a violation of which this appellant was prosecuted, makes it unlawful for any person, without a license, to engage in the business of hiring or soliciting laborers to go or be employed outside of this state, or in furnishing, arranging, or providing transportation for laborers to go beyond the limits of this state, or in advertising for such laborers. By the provisions of said act (Acts 1919, p. 187) any person so engaged in all or either of the businesses above mentioned, is termed “labor agent,” within the meaning of the statute, supra.
+The act contains a provision making it a misdemeanor for any person who shall “engage in the business of a labor agent,” as thus defined, without first paying the license provided for in said act, which license is ■fixed at $2,500 for the use of tlie state, and such additional sum, not to exceed 50 per cent, thereof, as may be levied by the court of county commissioners or board of revenue of the respective counties for the use of the county. The act also provides that such license shall be paid in each county in which such labor agent engages in such business.
+The original prdsecution in this case was begun by affidavit and warrant in the Jefferson county court of misdemeanors. From a judgment of conviction in that court the defendant appealed to the circuit court, and was there tried by a jury, upon a complaint filed by the solicitor under the provisions of section 6730 of the Code of 1907; said complaint -being predicated upon the original affidavit, sworn out by one J. G. Brown, before Hon. H. B. Abernathy, judge of the Jefferson county court of misdemeanors. From a judgment of conviction in the circuit court, this appeal is taken.
+Motion to dismiss the case was made by defendant in the circuit court on the grounds that the judgment of conviction rendered against him in the Jefferson county court of misdemeanors was void, for that the defendant was fined $3,750 in said court, which was beyond the jurisdiction of said court. Other grounds of similar import were contained in the motion to dismiss; and a purported plea in “abatement” was also filed setting up the same matters.
+The court overruled the motion to dismiss, and sustained the state’s motion; to strike the “plea,” to which rulings of the court defendant reserved an exception. It is not necessary to a decision here to pass upon these rulings of the court.
+The statute in question is directed to such persons as engage in any or all of the businesses designated, and to all assistants, sub-agents, partners, associates, or employees of such persons so engaged in said business in this state.
+The complaint in this case consisted of three counts. The verdict of the jury found' the defendant guilty as charged in the third count, and assessed a fine against him of $37.50. The third count of the complaint charged that the defendant “did assist in the engaging in the business of hiring or soliciting laborers to go or be employed outside the state of-Alabama without first having taken out and paid for a license, contrary to law, against the peace and dignity of the state of Alabama.”
+The verdict of the jury operated as an acquittal of the charges contained in the first and second counts of the complaint.
+The sole question presented for consideration is the sufficiency of the testimony to sustain the conviction under count 3 of the complaint. This question is properly presented by the refusal of the affirmative charge as to count 3.
+The evidence adduced upon the trial of this case in the circuit court has had attentive consideration, and the court is unable to find any evidence in the record to sustain the verdict of the jury and the judgment of guilt pronounced upon this appellant in the court below. “
+In the first place the term “engage in business” as expressed in the statute, supra, has a well-defined meaning in law. It means that employment which occupies the time, attention, and labor of the person so engaged in business. That which a man occasionally engages in, as opportunity offers, or inclination prompts, is, for the time being his business; yet the law uses that term to indicate a regular and legal employment, not one that is occasional, irregular, or illegal. Stephenson Case, 8 Port. 155, 33 Am. Dec. 281. This, in contradistinction to a single act.
+“Single acts are not licensed, but only a series of acts prosecuted with the intention of reaping a profit or making a livelihood.” Harris Case, 50 Ala. 127.
+See, also, Weil’s Case, 52 Ala. 19. Doing a single act, pertaining to a particular -business, will not be considered, as has been held, engaging in or carrying on the business, yet a series of such acts would be so considered. Lamons v. State, 50 Ala. 130; McPherson’s Case, 54 Ala. 224.
+A single act, however, may be sufficient to constitute an “engaging in or carrying on the business” according to the intent with which the act,is done, and other proof in the case. If a person makes all necessary preparations to carry on a business, holds himself out for the business, intending to continue therein, he is engaged in or carrying on the business within the meaning of the law. Abel v. State, 90 Ala. 633, 8 South. 760; Morningstar v. State, 135 Ala. 66, 33 South. 485.
+In the case of Braxton v. City of Selma, 16 Ala. App. 476, 79 South. 150, this question was more or less fully discussed. The Brax-ton Case, supra, is in point here, and upon authority of that case the reversal of the judgment appealed from could well be based.
+The undisputed testimony in this case disclosed that this defendant had regular employment with the Avondale Cotton Mills in Avondale, Jefferson county, Ala.; that he had been at work in said mills for a few months more than two years. Moreover, on the trial of this case there was no testimony showing or tending to' show that he assisted any one in hiring or soliciting laborers to go or be employed outside the state of Alabama, and from the whole evidence it affirmatively appears in this case that no hiring or soliciting laborers to go or be employed outside of the state was indulged by any one.
+Before a conviction for crime shall be permitted to stand, there must be proof, under the required rules, sufficient to establish the corpus delicti; that is to say, the evidence must show the substantive fact that a crime has been committed. In the instant case, as stated, no such proof was made, there was no attempt to show that any laborers had been hired to go or be employed outside the state, nor was it shown by any testimony in this case that any laborer or laborers had been solicited to that end by .the defendant, or that he in any manner assisted another in so doing.
+The affirmative charge requested in writing should have been given, and for the error in its refusal the judgment of conviction appealed from is reversed and the cause re-' manded.
+Reversed and remanded.
