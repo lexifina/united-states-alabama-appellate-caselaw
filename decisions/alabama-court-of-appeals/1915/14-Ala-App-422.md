@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-10-19"
+citations: ["14 Ala. App. 422", "70 So. 201"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sibley v. Barclay."]
+source_url: "https://static.case.law/ala-app/14/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1630550
+cites_cases: ["10 South. 243", "111 Ala. 555", "137 Ala. 454", "17 La. Ann. 32", "181 Ala. 491", "20 South. 400", "22 Ala. 382", "26 Ala. 748", "34 South. 988", "5 South. 120", "51 Mo. App. 92", "85 Ala. 414"]
+---
+
+# Sibley v. Barclay
+
+## Majority (BROWN, J.)
+
+BROWN, J.
+The fifth count of the complaint, after stating the legal effect of the contract to be that, in consideration of plaintiff’s purchasing five shares of stock of the Sibley-Minge Brick & Coal Company from defendant at his request and paying therefor, defendant agreed that if plaintiff desired to sell the stock at its par value in December following the defendant would purchase the same from plaintiff at its par value, avers four breaches of the contract, numbered them consecutively 1, 2, 3, and 4. As we construe .the averments, the first, second, and fourth breaches are in substance and legal effect the same, stating the desire of the plaintiff to sell, his offer to sell to the defendant in December, according to the terms óf the contract, and the defendant’s failure or refusal to purchase as he had engaged to do, with. resultant damages to the plaintiff — thus stating the essential elements of a cause of action ex contractu.—Hart v. Steele (Sup.) 10 South. 243, 711 (XII, G. 1, a).
+The third breach is thus stated: “That although in "December, 1911, plaintiff ..desired to sell said stock at par, and offered, at said- time to sell' same to' defendant at par, defendant failed to pay plaintiff the said par value of said stock/-but requested him to wait till spring, and then or later paid to, plaintiff the interest on the-par value of said stock for-a period, to-wit, for one year, and although "plaintiff waited till spring defendant ■still'failed to pay plaintiff sa-id par value of said stock, and ■ plaintiff still has said stock subject to the orders of the defendarit, all to plaintiff’s loss and damage in a large sum, to-wit, $700.”
+Resolving 'all doubts as to the meaning of these averments against the pleader, as we must do (L. & N. R. R. Co. v. Duncan Orr, 137 Ala. 454, 34 South. 988), we construe them to mean that' the time of performance of the contract was extended from December, 1911, until thé spring of 1912, and in consideration of the extension of the time of performance the defendant paid to •'the plaintiff interest for one year on his investment. That it ' was the intention of the pleader to convey this meaning by these averments is fully confirmed by the second special charge given at’the request of the plaintiff, in these words: “If the jury are reasonably satisfied from the evidence that the time' of performance of the contract was extended till a time after December, 1911, then there could be an actionable breach of the contract by a failure to perform after December, 1911, and within such time, if any, that the performance of the contract was extended by mutual agreement of the parties, if it was so extended.”
+It is manifest from the averments of the count that the time the contract was .to be performed is of its very essence, and while an agreement, upon an independent consideration, to expend the time of performance, when considered in the light of the maxim-nóvatio non prsesumitur, was not necessarily a novation (McDonnell v. Ala. Gold Life Ins. Co., 85 Ala. 414, 5 South. 120), such agreement was at least a material modification of the original contract, and if this subsequent agreement was entered into at the time of the proposed resale to defendant in December, it operated to avoid an actionable breach of the contract at that time. The result is that these averments are repugnant to the averments alleging a breach in December, rendering the count subject to the demurrers, which were erroneously overruled.
+Where a contract has been modified by a subsequent agreement, the plaintiff may declare on it as modified, without respect to any of the terms of the original contract dispensed with or changed by the subsequent agreement — in other words, declare on the contract in its modified form.—Nesbitt v. McGehee, 26 Ala. 748; 9 Cyc. 716.
+And while, as some authorities hold, where the effect of the subsequent agreement amounts only to the extension of time of the performance and does not modify the terms of the original contract, it is not necessary for the plaintiff to plead such extension (Leeds v. Fassman, 17 La. Ann. 32; Maack v. Schneid, er, 51 Mo. App. 92) ; yet this rule has no application where the time of performance is of the essence of the contract and some •positive act is required of the party claiming the breach, as in this case. Before the plaintiff could claim a breach of the contract, it was incumbent upon him to make known to the defendant his desire to sell the stock in December, accompanied with an offer to sell to defendant under the contract.
+We are not unmindful of the rule that allows the plaintiff in an action of assumpsit to assign several breaches of the contract in the same count.—Sloss Iron & Steel Co. v. Macon County, 111 Ala. 555, 20 South. 400. But, to avoid duplicity in pleading, this rule is subject to the limitation that two or more breaches of the same covenant or stipulation must not be stated in a single count.—Nave v. Berry, 22 Ala. 382; 9 Cyc. 730; Birmingham Railway, L. & P. Co. v. Nicholas, 181 Ala. 491, 61 South. 361.
+On the issues as formed by the pleadings, the evidence required a submission of the issues to the jury, and justified the refusal of the affirmative charge.
+Charge 3 was faulty in that it predicated the value in December of the stock as a criterion for the admeasurement of damages, while its value at the time of the breach of the contract was the proper criterion.
+Charge 11 was argumentative. The charges given at the instance of the plaintiff correctly state the law.
+For the error in overruling the demurrer to the fifth count of the complaint, the judgment must be reversed.
+Reversed and remanded.
