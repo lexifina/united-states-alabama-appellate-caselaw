@@ -1,0 +1,66 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "6 Div. 166"
+decided: "1971-06-15"
+citations: ["47 Ala. App. 23", "249 So.2d 639"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bennett Lee ECHOLS v. STATE."]
+source_url: "https://static.case.law/ala-app/47/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1722347
+cites_cases: ["110 P.2d 408", "124 A.L.R. 1123", "14 Cal.2d 387", "17 Cal.2d 459", "170 Ala. 87", "20 L.Ed.2d 1354", "205 So.2d 239", "24 L.Ed.2d 228", "25 L.Ed.2d 258", "251 La. 237", "254 Ala. 87", "257 U.S. 312", "278 Ala. 145", "281 Ala. 486", "310 U.S. 141", "362 U.S. 199", "372 U.S. 353", "373 U.S. 420", "379 U.S. 443", "388 U.S. 218", "39 Cal.Rptr. 386", "390 U.S. 377", "392 U.S. 645", "393 P.2d 698", "396 U.S. 931", "397 U.S. 966", "45 Ala.App. 146", "45 Ala.App. 236", "45 Ala.App. 32", "54 So. 191", "61 Cal.2d 544", "88 S.Ct. 2298", "90 S.Ct. 1002", "90 S.Ct. 261", "94 P.2d 559"]
+---
+
+# Echols v. State
+
+## Majority (CATES, Judge.)
+
+CATES, Judge.
+Rape: sentence, life imprisonment.
+I
+The complainant picked out a photograph (from others) which she told a detective portrayed a man who looked likelier ravisher. With this clue the detective-organized a lineup with the appellant as one of six black males.
+The only discrepant circumstance was that appellant was the only man without shoes. However, there was testimony that at the first identification the complainant was seated at a point where she could not see appellant’s feet. When she rose and went forward for a more certain view, she testified that she paid no attention to his feet. Her in-court identification was positive.
+The appellant waived the presence of counsel saying that he had no objection because he had nothing to hide. Considered from the totality of the circumstances we conclude that the requisites of United; States v. Wade, 388 U.S. 218, 87 S.Ct. 1926, 18 L.Ed.2d 1149 were met. Robinson v. State, 45 Ala.App. 236, 228 So.2d 850; State v. Allen, 251 La. 237, 203 So.2d 705.
+II
+We think that the use of photographs in the preliminary screening of identification was within the permissible limits marked out in Simmons v. United States, 390 U.S. 377, 88 S.Ct. 967, 19 L.Ed.2d 1247.
+iii
+Without objection, Detective Carl Garrett testified as to the use of photographs of various men including the appellant. In brief, it is claimed that we should apply the plain error doctrine of the Automatic Appeal Act, (Act 249, June 24, 1943) to declare this testimony erroneous despite the lack of a protected record anent this point.
+Further, it is argued that § 10 of the Automatic Appeal statute, supra, in applying to death-sentenced appellants •only, in contradistinction to the scope of review accorded other criminal appellants by Code 1940, T. 15, § 389 denies due process and equal protection of the laws to the appellant contrary to § 1 of the Fourteenth Amendment to the Constitution of .the United States.
+Section 389, supra, reads as follows:
+“In cases taken to the supreme court or court of appeals under the provisions of this chapter, no assignment of errors or joinder in errors is necessary; but the ■court must consider all questions apparent on the record or reserved by bill of ■exceptions, and must render such judgment as the law demands. But the judgment of conviction must not be reversed because of error in the record, when the court is satisfied that no injury resulted therefrom to'the defendant.”
+This provision was inserted in our criminal procedure to abolish the need for assigning error to obtain review in the appellate court. It does away with the need for a brief, though not for a lawyer for an indigent. Caton v. Alabama, 392 U.S. 645, 88 S.Ct. 2298, 20 L.Ed.2d 1354.
+Section 10 of said Act reads as follows:
+“In all cases of automatic appeals the Appellate Court may consider, at its discretion, any testimony that was seriously prejudicial to the rights of the appellant, ■and may reverse thereon even though no lawful objection or exception was made thereto. The Appellate Court shall consider all of the testimony, and if upon such consideration is of opinion the verdict is so decidedly contrary to the great weight of the evidence as to be wrong and unjust and that upon that ground a new trial should be had, the Court shall enter an order of reversal of the judgment and grant a new trial, though no motion to that effect was presented in the court below.”
+In his message to the 1943 Legislature Governor Sparks stated:
+“In this connection [fees for indigent appellants in capital cases], I would also urge upon your consideration the requirement that every capital case in which the death penalty is fixed by the jury be appealed to the Supreme Court for consideration of both facts and errors by the Court.” Gen. Acts 1943, p. XXIX.
+Reputedly the authors of the suggested legislation borrowed from California. That state in 1935 amended its Penal Code, § 1239. This Section in pertinent part now reads as follows:
+“ * * * (b) When upon any plea .a judgment of death is rendered, an appeal is automatically taken by the defendant without any action by him or his counsel Hi * H< ”
+Seemingly the inspiration for our § 10, supra, derives from California decisional law. See People v. Perry, 14 Cal.2d 387, 94 P.2d 559, 124 A.L.R. 1123; People v. Ives, 17 Cal.2d 459, 110 P.2d 408; see also People v. Treloar, 61 Cal.2d 544, 39 Cal.Rptr. 386, 393 P.2d 698. (“our independent search of the record”).
+The received construction of § 10, supra, is that all the testimony is scrutinized with care to see that the defendant is not denied his constitutional rights. This, though the error is not adverted to in the trial below (Alberson v. State, 254 Ala. 87, 47 So.2d 182) or in brief on appeal (Duncan v. State, 278 Ala. 145, 176 So.2d 840.)
+In the oft criticized but never overruled case of Woodson v. State, 170 Ala. 87, 54 So. 191, where there was no evidence in the slightest degree tending to show the commission of any felony, the majority opinion reades in pertinent part:
+“McCLELLAN, J.—The record proper in this transcript is free from irregularity. The bill of exceptions fails to show that any exception was reserved, in any manner, to any action or ruling of the trial court on the trial. It purports to set out substantially all of the evidence, and it is apparent from it that the evidence was insufficient to warrant a conviction of the offense charged in the indictment. The trial court had jurisdiction of the subject-matter and of the person. Having complete jurisdiction, and the judgment being grounded in a verdict accurately responding to the indictment, the adjudication of guilt, and the sentence therefor, cannot be void.
+“In respect of cases in the category to which, this case belongs, the jurisdiction this court has is appellate only. Review here, in such cases, is limited to those matters upon which action or ruling at nisi prius was invoked and had. Accordingly, where the evidence is deemed insufficient to warrant a conviction a ruling of the trial court on that proposition must be properly (usually by special instruction requested) invited, in order to invoke or justify a review of the question, so raised below, by this appellate court. Such is the settled rule, on principle and in practice, by which this court is bound * * * ”
+“There being no question reserved for review in this appellate court, the judgment below must be affirmed.”
+Thus it is that on the trial of an indictment for a crime punishable with death the trial judge is harnessed to a potentially more rigorous review than in other criminal trials. Even though the jury finds for imprisonment rather than electrocution,, nevertheless the defendant has at nisi priushad the benefit of this rigor. Yet we do-not search his appellate record except where his counsel has raised objections and obtained adverse rulings from the trial judge.
+In Gore v. State, 45 Ala.App. 146, 227 So.2d 432, cert. den. 397 U.S. 966, 90 S.Ct. 1002, 25 L.Ed.2d 258, we find:
+“Trial tactics should not be enforced with speculative wisdom ex post factoveredicto.
+Moreover, we must also remember that, trial judges, in capital cases, are potentially under stricter rules than in non-capital felonies. This because under the-Automatic Appeal Act, if there is a conviction with electrocution, review is by a. more lenient standard to reverse than prevails in other appeals.”
+The clauses, due process and equal protection, afford like but not identical protections against State action. The former “tends to secure equality of law in the sense that it makes a required minimum of protection for everyone’s right of life, liberty, and property, which * * * the Legislature may not withhold. * * * The guaranty [of equal protection] was aimed at undue favor and individual or class privilege, on the one hand, and at hostile discrimination or the oppression of inequality, on the other. It sought an equality of treatment of all persons, even though all enjoyed the protection of due process.” Truax v. Corrigan, 257 U.S. 312, 332-333, 42 S.Ct. 124, 129, 66 L.Ed. 254.
+No doubt § 10, supra, exhibits a tenderness toward a death appeal not accorded one involving imprisonment for life or a term of years. The question, however, is-whether or not this admitted discrimination is an invidious one.
+Thus it is apparent that § 389, supra, affords the minimum scope of appellate review in criminal appeals. On the other hand by virtue of § 10, supra, an additional burden is laid on the reviewing judges in •appeals where the appellant is sentenced to •death.
+As to the distinction in appellate review we note at the outset'that a State which has no appellate review has not denied due process. However, even there the Supreme Court will ensure that a criminal act be proven.
+Thus, though Kentucky law provided for no review where a sentence of less than ten days and a fine under $20.00 was fixed, yet the merits were enquired into. Thompson v. City of Louisville, 362 U.S. 199, 80 S.Ct. 624, 4 L.Ed.2d 654. Apparently this principle renders Woodson, supra, of dubious viability.
+But where the corpus delicti has been established we doubt that due process would require reversal where proof, not strictly within the letter of the law, is nonetheless not violative of some constitutional safeguard or if so, if the protection has been properly waived. Henry v. Mississippi, 379 U.S. 443, 85 S.Ct. 564, 13 L.Ed.2d 408.
+With respect to indigent appellants the review accorded by § 389, supra, without counsel on appeal has been held bad. Caton v. Alabama, 392 U.S. 645, 88 S.Ct. 2298, 20 L.Ed.2d 1354; see dissenting opinion 281 Ala. 486, 205 So.2d 239; Douglas v. California, 372 U.S. 353, 83 S.Ct. 814, 9 L.Ed.2d 811.
+But here Echols has had counsel appointed for him under § 4 of Act No. 526, .Sept. 16, 1963. There is no line drawn between rich and poor under the dichotomy "between § 10 and § 389, supra.
+We quote from Tigner v. Texas, 310 U.S. 141, 60 S.Ct. 879, 84 L.Ed. 1124:
+“ * * * Certainly these are differences which may be acted upon by the lawmakers. The equality at which the ‘equal protection’ clause aims is not a disembodied equality. The Fourteenth Amendment enjoins ‘the equal protection of the laws’, and laws are not abstract propositions. They do not relate to abstract units A, B and C, but are expressions of policy arising out of specific difficulties, addressed to the attainment of specific ends by the use of specific remedies. The Constitution does not require things which are different in fact or opinion to be treated in law as though they were the same. * * * ”
+We find nothing in the decided cases that makes equal protection into uniform protection semper et ubique without room for legitimate classifications or exceptions. “Rough accommodations” must be accepted as an expected incident of practical government. Norvell v. Illinois, 373 U.S. 420, 83 S.Ct. 1366, 10 L.Ed.2d 456.
+While it might plausibly be argued that under certain conditions life imprisonment is worse than sudden death, yet we conceive that most reasonable men would consider a sentence of death as more drastic than imprisonment. Foremost, death removes all possibility of secular pardon.
+A convict under judgment for a non-ca'p-ital offense receives a much less degree of procedural protection than that accorded either in case of death or in case of imprisonment under indictment for a capital felony. See the quotation from Gore, supra. Echols does not come within the former category- and hence that factor is not available in his argument here.-
+We consider that there is no invidious discrimination between the standards of appellate review exhibited by § 10 and § 389, supra.
+We have reviewed the entire record under § 389 and consider the judgment below is due to be
+Affirmed.
+. The civil standards (assignment of errors and consideration only of the argued assignments) applies to appeals from convictions under municipal ordinances. Ray v. City of Prichard, 45 Ala.App. 32, 222 So.2d 345, cert. den. 396 U.S. 931, 90 S.Ct. 261, 24 L.Ed.2d 228.
