@@ -1,0 +1,58 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "8 Div. 384"
+decided: "1974-01-02"
+citations: ["52 Ala. App. 200", "290 So. 2d 661"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CATES, P. J., and TYSON and DeCARLO, JJ., concur.", "ALMON and HARRIS, JJ., concur in result."]
+parties: ["Ronald Lee MARTZ v. STATE."]
+source_url: "https://static.case.law/ala-app/52/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1736719
+cites_cases: ["188 Ala. 9", "269 Ala. 146", "278 Ala. 437", "42 Ala. App. 406", "42 Ala.App. 406", "49 Ala.App. 438"]
+---
+
+# Martz v. State
+
+## Majority (BOWEN W. SIMMONS, Supernumerary Circuit Judge.)
+
+BOWEN W. SIMMONS, Supernumerary Circuit Judge.
+Appellant-defendant, an indigent, was indicted for murder in the first degree and convicted of murder in the second degree. Punishment was fixed at twenty years in the penitentiary and proper judgment therefor. This appeal followed.
+The trial court appointed counsel to defend the appellant in the lower court. Different appointed counsel represents him on this appeal.
+The defendant, on proper arraignment in the presence of appointed attorney, pleaded not guilty to the indictment which contained two counts. Both counts alleged the name of the homicidal victim to be Iva Nell Griffin. Count one charged the defendant with killing the deceased by beating her with his hands or feet or with both; the second count by beating her with a blunt instrument.
+A qualified expert, a State Toxicologist, testified inter alia that the cause of the victim’s death on March 21, 1971 was “Hemorrhage produced by a laceration of the liver as a result of force exercised to the abdomen.”
+This force, he testified “ * * * produced a very massive rupture or star shaped laceration of the inside lobe of the liver which of course then would begin to hemorrhage.”
+We state at the outset that the transcript of the evidence here filed and taken at the trial of the defendant was diminuted on motion of defendant’s counsel.
+The motion to diminute is limited to “ * * * a transcript of those parts of the evidence or other proceedings as may be necessary to be transcribed to afford the Appellate Court with a record of sufficient completeness as a basis for a fair review of the following points insisted upon by Petitioner as errors:
+1. Improper refusal of requested written charges.
+2. Improper admission of photographs of victim.
+3. Improper admission of articles taken from home of Appellant.
+4. Improper sustaining of State objection to testimony of Robert Bradford concerning threats made toward victim by person other than accused.”
+The trial court, pursuant to the motion, entered an order that eliminated the evidence of sixteen witnesses. The name of the defendant was not included in the omissions, but his evidence does not appear in the record. The oral charge of the court indicates that the defendant did take the stand.
+Counsel for the appellant does not argue points one and two, supra. However, we have reviewed the refused charges; also we have examined the photographs of the deceased, which show the charred or seared condition of her body due to gasoline applied to her either before or after death and ignited.
+There are forty-seven written instructions of which the court gave seventeen and refused thirty. These refused charges (except the affirmative charge) were either covered by the oral charge or given charges, or were incorrect, misleading or abstract. Title 7, § 273, Code of Alabama 1940, Recompiled 1958. The affirmative charge was correctly refused. We find no error in the refusal of these several charges.
+The photographs of the victim’s body, made and identified by the State Toxicologist, were relevant and material to the cause of death and condition of the victim’s body, upon which, as we have stated, gasoline was poured and ignited, according to the evidence of the State Toxicologist. Proper predicate was laid. There was no error in admitting the photographs. Boulden v. State, 278 Ala. 437, 179 So.2d 20(7); Washington v. State, 269 Ala. 146, 112 So.2d 179(12), and cases cited.
+We now address this opinion to point three, supra, and the contention of the appellant in his brief that certain articles taken from his home were the fruits of illegal search and seizure. The motion was heard and evidence taken before the trial judge, outside the presence of the jury.
+It appears thac five police officers, Detectives Brooks, Traughber, Edgar, Thompson and Norman, on the afternoon of March 22, 1972, the day following the discovery of the victim’s body, went to a residence owned by the appellant’s father, at 1833 Southeast Oakwood in Huntsville, where Detective Brooks knocked on the front door. In response to this knock, an elderly gentleman, the father of the appellant, appeared, and a conversation ensued. Detectives Brooks, Edgar and Traughber were the only officers who went to the front door. Officer Brooks identified himself to the father who, in response to the officer’s inquiry, stated that his son (the defendant) was there in the back room. The officer asked the father if they could come in and consent was obtained. The father escorted the officers to the room where the son was lying on the bed. The door of the room was open.
+On motion to suppress, Officer Brooks testified he informed the defendant that he would like to talk to him about Iva Nell Griffin: “But, before we ask you any questions, first let me advise you of your rights,” and then he read the card. The several facets of the Miranda warnings were read to him. The witness testified that the defendant was a prime suspect as the murderer of Iva Nell Griffin, and that he told the defendant he was “a suspect in a murder case."
+One of the facets of the Miranda warnings and the answer thereto is as follows:
+“ * * * ‘Do you understand that we are not threatening you or promising you anything in order to secure a statement from you’ and the answer was, ‘yes.’ ‘With these rights in mind, do you wish to talk to us?’, his answer was he would talk to us.’ ”
+It further appears that the officers never did inform the defendant in the bedroom that he was under arrest. However, the officer testified that he would not have permitted him to leave. A formal arrest occurred later. There was some clothing of a male person in the room. This clothing was in plain view. The defendant, in response to an officer’s inquiry, told the officer that the clothing was his and that he had worn it the night before. He consented to go with the officers to the police station and authorized them to take the clothing along. This clothing was later delivered to the State Toxicologist for examination. No specific questions concerning the murder were propounded to the defendant in his room or in the residence. The defendant, on motion to suppress, denied the evidence of Detective Brooks with respect to the Miranda warnings and contended that no such warnings were given him. He also denied other phases of the officer’s testimony as to what occurred in the room, and that he consented for the clothing to be taken.
+The trial judge, at the conclusion of the hearing on ther motion to suppress, which he heard orally, overruled the motion.
+We hold that the ruling, supra, on the motion was free of error. The conflicts in the evidence were resolved in favor of the state. We will not disturb this resolution. The usual rule accorded the trial court on hearing evidence ore tenus prevails in this proceeding. Matthews v. State, 42 Ala.App. 406, 166 So.2d 883(1); Jones v. State, 49 Ala.App. 438, 272 So.2d 910(5).
+Entry into the residence, as shown by the officer’s evidence, was obtained by the father’s consent and his invitation to come in. He escorted them to the room where the door was open, and the defendant in plain view. The officers went in the room without any opposition thereto by the defendant. After Miranda warnings were given, he answered questions about his clothing, and consented that the garments be taken by the officers. There is nothing in the testimony of the officers which indicates they were oppressive in their conversations or manners while in the room with the defendant, or that they intimidated him in any manner. There were no threats or promises made to get the defendant to make a statement.
+We see nothing illegal about the seizure of the articles taken from appellant’s room, and their introduction into evidence. Matthews v. State, supra; Jones v. State, supra.
+With respect to point four, supra, it appears that the defense counsel proposed to show by his witness, R. L. Bradford, that another person, whose name we omit, had threatened some five months prior to the instant homicide to “stomp hell out of Iva Nell Griffin.” The trial court sustained the state’s objection to the testimony. A state’s witness had testified, prior to the introduction of R. L. Bradford as a witness, that a piece of paper was found in the victim’s purse with the word “Chuck”, the given name of the person we have omitted, written on it and “ * * * then the words ‘trust, truthfulness, understanding, sharing, companionship, kindness,’ and at the top, T don’t’ and T hurt your Chuck.’ There were also the words, ‘Got hurt this trip.’ ”
+The Supreme Court observed in Spicer v. State, 188 Ala. 9, 65 So. 972, as follows:
+“It was also error to decline to allow the defendant to prove threats, on the part of Joe Green, the negro boy, to kill the defendant. There was evidence in this case, and properly so, to the effect, of which would authorize the jury to find, that the negro boy killed the deceased through a mistake of identity; that is, that the boy intended to kill the Defendant, and not the deceased.
+“It is very true that it is not permissible for the defense to prove threats on the part of a third party to kill the deceased, when there is no evidence tending to show that such third party, and not the defendant, killed the deceased; but the rule is different where there is other and independent proof going to show that such third party actually killed the deceased.”
+The time of the alleged threat of “Chuck”, supra, was five months prior to the homicide. The remoteness of time within itself is a factor supporting the ruling of the trial court. The above quoted words on the paper in the victim’s purse are very ambiguous and unrelated to the homicide and incapable of a reasonable inference that the said “Chuck” killed Mrs. Griffin. The alleged threat, supra, fails to find any support from the evidence that some other person killed Mrs. Griffin. The alleged threat standing unsupported was not admissible. Spicer v. State, supra.
+The four points, supra, are without merit.
+This court favors a voluntary diminution of the record by the parties and the listing of the points outlined for appellate review. We commend appellant’s trial attorney and the trial court on voluntarily adopting this procedure. It brings the contested issues to a focus, shortens the record, and reduces transcription expense. We have reviewed the entire record and find no reversible error.
+The judgment of the trial court is due to be and the same is hereby affirmed.
+The foregoing opinion was prepared by the Hon. BOWEN W. SIMMONS, Supernumerary Circuit Judge, serving as a judge of this Court under § 2 of Act No. 288, July 7, 1945, as amended; his opinion is hereby adopted as that of the Court.
+Affirmed.
+CATES, P. J., and TYSON and DeCARLO, JJ., concur.
+ALMON and HARRIS, JJ., concur in result.
