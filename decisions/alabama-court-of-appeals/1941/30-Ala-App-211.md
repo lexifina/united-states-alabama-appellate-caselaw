@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 664"
+decided: "1941-05-27"
+citations: ["30 Ala. App. 211", "4 So. 2d 903"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SIMMONS v. STATE."]
+source_url: "https://static.case.law/ala-app/30/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1680460
+cites_cases: ["129 So. 707", "24 Ala.App. 19"]
+---
+
+# Simmons v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+“The Appellant, A. M. Simmons, was charged with and convicted of the offense of obtaining money from the First National Bank of Opp, Alabama, a banking corporation, by false pretenses. From the judgment of conviction, appellant prosecutes this appeal.
+“The testimony introduced by the State tended to show that a short time prior to October 3, 1938 the appellant, A. M. Simmons or Mack Simmons, went to tjre First National Bank of Opp and engaged Mr. W. B. Benton, Cashier of said Bank, in a conversation relative to the borrowing of the sum of $500 to pay the balance due by appellant on some fifty feeder steers which he had purchased; that on the occasion of this conversation, W. B. Benton reminded appellant that he owed the Bank the sum of $319 and that if he (appellant) would pay off this amount, the Bank would consider lending him $500 which he desired; that on October 3, 1938 the appellant returned to the said Bank and paid off the $319 which he owed; that on this date he again reiterated to W. B. Benton that he had purchased fifty head of steers from one W. C. Green for $1,000; that he had paid $500 of this sum and wanted to borrow $500 from the Bank to pay Mr. Green the balance which he owed him for the cattle. The testimony further shows that appellant testified that the fifty head of cattle was in his pasture at home and that he also had a mule and two milch cows. At the time of this conversation, he also showed to W. B. Benton a bill of sale or statement signed by W. C. Green showing that the appellant had purchased on October 1, 1938 fifty head of Angus and Hereford mixed feeder steers for the sum of $1,000, half of which sum had been paid at the time of purchase with the balance to be paid not later that October 5. The testimony further tended to show that upon these representations W. B. Benton, acting for the First National Bank of Opp, loaned the appellant the sum of $500. A deposit slip -for this amount of money was issued to appellant, the money was placed to appellant’s credit in the bank, subject to his credit — subject to his use — it was his money; that at the time, appellant executed a chattel mortgage, which said .mortgage pledged as collateral for said loan the fifty head of cattle which appellant .claimed to own and also his two milch cows and a mule. The testimony then tended to show that appellant did not own and did not have in his possession the fifty head of cattle described in the chattel mortgage executed by him to the First National Bank of Opp as security for the loan of $500.
+“Among other exhibits, the State introduced the original ledger sheet of the bank which it was testified to correctly showed the appellant’s account as reflected on the books of the Bank — It was the sheet of original entry. A careful examination of this ledger sheet shows that on October 3, 1938 appellant had a balance of 5‡; that on said date a deposit of $500 was made showing his balance at the end of said day to be $500.05. Said ledger sheet further shows that on October 4, 1938 a check for $500 against appellant’s account was paid by the bank and that at the end of the day, October 4, 1938, appellant’s balance was again 5‡.
+“The appellant did not offer any testimony in his own behalf.”
+We have taken all that goes hereinabove literally from the brief filed here on behalf of the State; but we have carefully checked same against the record, including the bill of exceptions, and are of the opinion that the same correctly sets forth the principal queston to be decided.
+Appellant’s able counsel stoutly contends that he should have had the jury given at his request the general affirmative charge to find in his favor — this for the reason that there was no evidence that he actually obtained money from the First National Bank of Opp.
+But we think this question was decided against him by our holding in the case of Pirkle v. State 24 Ala.App. 19, 129 So. 707. There, under an indictment in every essential principle similar to the indictment in this case, we said:
+“To sustain these allegations, there was testimony offered on behalf of the state tending to show that appellant approached the said Fuller, and stated that he (appellant) desired to purchase some fertilizer; that Fuller, who was interested in the company from whom the fertilizer was to be obtained, and who was also the vice president of the Bank of New Brocton, stated to him, in substance, that the fertilizer was only sold for cash, but that if he had proper security, the bank would lend him the money, etc.; that thereupon appellant exhibited the mule and wagon, referred to, to Fuller, stating that he (appellant) owned them; that upon the strength of this statement, the bank lent appellant the sum of money required, the whole transaction being that appellant, there in the bank, executed a mortgage to it on the said mule and wagon, whereupon a ‘deposit slip’ was made out by the cashier, and delivered to appellant, he, immediately, drawing his check in favor of the fertilizer company, referred to, which check was paid by the bank; that the said mule and wagon did not belong to appellant, but to another.
+“We hold that this was a sufficient ‘obtaining from the bank’ of the money mentioned in the indictment, and that hence there was no error in refusing to give, at appellant’s request, the general affirmative charge in his favor.”
+Appellant’s counsel seeks to distinguish the facts the evidence tended to show in the above said Pirkle case from those in the instant case by disputing the assertion in the State’s brief (above quoted) that “said ledger sheet further shows that on October 4th 1938 (one day after appellant is shown to have obtained the “deposit slip” from the bank) a check for $500.00 against appellant’s account was paid by the bank.”
+But we think, and hold, the said ledger sheet does show what the Attorney General says it does. So that ends that.
+There are some other questions discussed in the brief filed here on behalf of appellant. But none of them seem to us of sufficient importance to require separate treatment by us. The evidence in the case —all by the State — none on behalf of appellant — made a case fit only to be decided by the jury. The general affirmative charge was properly refused.
+The other rulings to which exceptions were reserved were not of that importance in their bearing upon the issues for which the judgment of conviction would be reversed, even if erroneous — which we do not assert.
+We think the judgment of conviction should be, on the record before us, affirmed. And it is so ordered.
+Affirmed.
