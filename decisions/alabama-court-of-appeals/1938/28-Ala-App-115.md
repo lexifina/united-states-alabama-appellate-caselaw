@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 375"
+decided: "1938-02-08"
+citations: ["28 Ala. App. 115", "180 So. 588"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALABAMA COCA-COLA BOTTLING CO. v. CAUSEY."]
+source_url: "https://static.case.law/ala-app/28/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674432
+cites_cases: ["116 So. 147", "217 Ala. 302", "222 Ala. 369", "232 Ala. 233", "9 So. 738", "92 Ala. 630"]
+---
+
+# Alabama Coca-Cola Bottling Co. v. Causey
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+The suit in-this case is by the ultimate consumer of a bottle of Coca-Cola against the bottling company for personal injuries, claiming damages as the result of the negligence of defendant -in allowing to be sealed up in a bottle, from which plaintiff- drank a part of the contents, “a metal or metallic substance, or other foreign dead matter, rriaking it. nauseating, sickening and dangerous to persons consuming and drinking said beverage.”
+The evidence for the plaintiff tended to prove that she drank two swallows from a bottle of Coca-Cola, bottled and capped by the defendant and sold to the public to be ultimately consumed by a purchaser, and that she was such a purchaser; that,when she took the first swallow she observed -“it did not taste right, had a peculiar taste, that she then took the second swallow and immediately became nauseated from which nausea she vomited and became sick,” etc.
+It is insisted by appellant (1) that it was' entitled to the affirmative charge, and, if not, (2) that the court should have granted the motion for a new trial on the ground, that.the verdict was contrary to the great weight of the evidence.
+No question is raised in this record-as to the sufficiency of the allegation relative to the contents of the bottle of Coca-Cola ; and hence we deal with the cause in’ á'ccordance with the allegations contained' in the complaint, which deals generally with “other foreign dead matter” without specifying what it was. The evidence found' in-the record tends to prove that, after she had' drunk two swallows of the - Coca-Cola, the bottle was examined, and found to contain a’safety pin. And there was evidence tending to prove that in the process of washing there had been used a washing powder consisting of “caustic flakes,” which is stronger than ordinary “red devil lye.” ,
+We may observe here that the-undisputed testimony is to-the effect that the' safety pin, alone, could not have been such' a substance as that a chemical reaction would have produced a poisonous or nauseating result. But the evidence of the “caustic flakes,” incident to the washing of bottles in defendant’s plant, coupled with evidence from the. doctor that its presence in the Coca-Cola could produce nausea and cramps such as plaintiff suffered, is evidence justifying inferences tb support the allegations of the complaint that there was a substance in the Coca-Cola poisonous and deleterious to health, and that such substance was in the bottle as the result of the negligence of some of defendant’s agents having charge of that part of defendant’s business.
+The .instant 'case is .almost on all fours with Try-Me Beverage Co. v. Harris, in whifch it was held that evidence of some foreign, substance in the bottled bev-. erage and'its nauseating effect on the human system, together with the further evidence as to the modern equipment of the bottling plant and the details of operation, including inspection both before and after filling the bottle, serve rather to emphasize than to disprove negligence of some em- . ployees in passing into the market a bottle containing the article disclosed in the evidence. Try-Me Beverage Co. v. Harris, 217 Ala. 302, 116 So. 147. And this general principle was followed by the Supreme Court in Coca-Cola Bottling Co. v. Crook, 222 Ala. 369, 132 So. 898; Lewis et al. v. Linkett, 232 Ala. 233, 167 So. 286.
+There is evidence in the record tending to prove the' allegations of the complaint, and therefore the court properly refused to give at the request of the defendant, the general affirmative charge.
+Under the well-known rules as laid down in the leading case of Cobb v. Malone et al., 92 Ala. 630, 9 So. 738, we decline to interfere with the judgment of the court overruling the motion for a new trial on the ground that the verdict was contrary to the great weight of the evidence.
+The assignments of error 13, 26, 27, 28, and 29 relate to the refusal of the trial court to give requested charges instructing the jury, in substance, that unless they were reasonably satisfied from the evidence that the bottle of Coca-Cola in question contained a safety pin at the time it was sold by defendant to the retail dealer, and that said safety pin was- in the bottle of Coca-Cola by reason of the negligence of the defendant, and that the safety pin caused the plaintiff to become ill, that they could not find a verdict for the plaintiff. The vice of these charges lies in the fact that plaintiff’s recovery is confined to ■ the presence of a safety pin in the bottle, whereas.there was evidence tending to prove other foreign substance which may have caused the damages to plaintiff, not connected with the presence of the safety pin in the bottle. And the complaint as laid was broad enough to cover this phase of the testimony.
+. Assignment of error 16 takes the point that the court erred in refusing to give at the request of the defendant charge 7 as follows: “I charge you, gentlemen of the jury; that if you believe from the evidence that the defendant used such care in the .bottling of said coca-cola as is used by other ordinarily careful and prudent persons en-, gaged in the same line of business, then you cannot find a verdict for the plaintiff.”
+The law applicable to this phase of the case was fully covered by the court in his oral charge to the jury, but, aside from' that the fact that defendant used such care in the bottling of said Coca-Cola as is used by other ordinarily careful and prudent per-’ sons engaged in the same kind of business, would not excuse the negligence of one of: defendant’s employees in negligently bottling or allowing to be bottled the particular bottle from which this plaintiff drank and was made sick, etc. The issue of negligence, vel non, is in each case a question for the jury on the whole evidence, and a charge such as the one above quoted could only have a tendency to confuse the minds of the jury in a consideration of the case.
+Charges embraced in assignments of error 22 and 23 limit the jury’s inquiry to the safety pin found in the bottle of Coca-Cola, and for that reason were properly refused.
+The court charged the jury fully upon the proper recovery of damages in the case, and for that reason Charge C, refused to defendant, was, if error, without injury. ■
+We find no error in the record, and the-judgment is affirmed.
+Affirmed.
