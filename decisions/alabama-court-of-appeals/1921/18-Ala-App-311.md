@@ -1,0 +1,45 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 679"
+decided: "1921-06-30"
+citations: ["18 Ala. App. 311", "92 So. 95"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McNEAL v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645219
+cites_cases: ["100 Ala. 129", "104 Ala. 35", "107 Ala. 444", "113 Ala. 170", "118 Ala. 102", "13 South. 767", "14 South. 538", "148 Ala. 633", "153 Ala. 113", "156 Ala. 645", "16 Ala. App. 430", "16 South. 85", "161 Ala. 18", "168 Ala. 175", "170 Ala. 41", "180 Ala. 489", "19 South. 909", "193 Ala. 12", "2 Ala. App. 235", "203 Ala. 441", "203 Ala. 534", "207 Ala. 712", "21 South. 832", "24 South. 448", "32 L. R. A. 520", "4 Ala. App. 32", "45 South. 226", "49 South. 809", "75 Ala. 533", "89 South. 828", "92 South. 921", "97 Ala. 59", "99 Ala. 166"]
+---
+
+# McNeal v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The caption of the act under which this indictment was drawn, and upon which the defendant was tried and convicted, is as follows:
+“To further suppress the evils of intemperance; to prohibit the manufacture, sale, giving away or having in possession any still, apparatus, appliance or any device or substitute therefor to be used in the manufacture of prohibitive liquors and beverages.” Laws 1919, p. 1086.
+Defendant demurred to the indictment assigning, in substance, that this act was violative of section 45 of the Constitution 1901, in that, it contained more than one subject, it being contended by appellant that section 1 of the act contains one subject, and that section 4 thereof contains another and different subject, and that, as to this latter section (4), no reference thereto is made in the title of the act, supra.
+The two sections are as follows:
+“Section 1. It shall be unlawful for any perlón, firm or corporation in this state to manufacture, sell, give away or have in possession any still, apparatus, appliance, or any device or substitute therefor, to be used for the purpose of manufacturing any prohibited liquors or beverages. * * *
+“Section 4. That when any person is convicted of violating the provision of this act, there shall be charged in the bill of cost the sum of $50.00 to be allowed the sheriff or other person who furnished the evidence and-brought about the conviction and who shall satisfy the presiding judge that he is the person entitled to said sum and shall receive from the judge a certificate to that effect.”
+We cannot accord to the insistence of the defendant; and we hold that the demurrers were properly overruled. It is true that section 45 of the Constitution 1901 requires that every law enacted by the Legislature (save those enumerated in that section) must be single, that is, that it shall contain but one subject, which shall be clearly expressed in its title. It has been many times held, however, that this provision must receive a reasonable construction, so as to give it effect. Bates v. State, 118 Ala. 102, 24 South. 448; State v. Bogers, 107 Ala. 444, 19 South. 909, 32 L. R. A. 520. If the subject is expressed in general terms, everything necessary to make a complete enactment, or which results as a complement of general expression, is included. It is not required that every clause or section of the statute be indicated or specified, but it is sufficient if each section or clause is referable to or cognate with the subject expressed in the title, the provision is satisfied. The question involved here comes clearly within this rule in our opinion. Toole v. State, 170 Ala. 41, 54 South. 195; Dowda v. State, 203 Ala. 441, 83 South. 324; State ex rel. City of Mobile v. Board of R. R. Com., 180 Ala. 489, 499, 61 South. 368; Reese v. State, 16 Ala. App. 430, 78 South. 460.
+The facts in this case, as shown in the transcript, were in sharp conflict, and therefore presented a jury question. The rulings of the court upon the testimony have been carefully examined, and no error of a prejudicial nature is shown in any of these rulings.
+When taken as a whole, the oral charge of the court is free from error, and the exceptions reserved thereto cannot be sustained. The measure of proof necessary to a eonvietion was clearly stated that, after a consideration of all the evidence in this case, the jury believed beyond a reasonable doubt that the defendant is guilty, it was their duty to so find. Hart v. State, ante, p. 249, 89 South. 828.
+Charge 1 was properly refused. There was conflict in the testimony and the defendant was not entitled to this (affirmative) charge. The one other refused charge, not numbered, was also properly refused as being in conflict with section 2, Acts 1919, p. 1086.
+There being no error, the judgment of the circuit court is affirmed.
+Affirmed.
+<Sr=jFor other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
+other cases see same topic and KEY-NUMBER in ail Key-Numbered-Digests and Indexes
+
+## Rehearing
+
+On Rehearing.
+No prejudice resulted from the action of the court in overruling appellant’s motion to exclude the statement of witness A. H. May, who testified in response to the question:
+“Over there where you found the empty barrels, did you see any signs there?” Answer. “Looked like fresh signs there, and oxen hitched there had trampled the ground.”
+In the first place, no objection was interposed to the question, and, if the answer of the witness was objectionable, because a conclusion, there was nothing hurtful in the answer sufficient to predicate error to a reversal. It is not unreasonable that a witness can distinguish the track of an ox from that of a mule or horse, as insisted by counsel for appellant; and while it would have been better practice to have required the witness to describe what he saw at the place in question and let the jury decide whether “oxen hitched there had trampled the ground,” this portion of the testimony was more or less immaterial, it being conceded that the offense complained of in the indictment had been committed by some one, and this appellant’s connection therewith was the material inquiry involved upon this trial.
+, The evidence without dispute was to the effect that this appellant and one Eddie Jack Pool were found by officers driving an ox cart, and on this cart was a wash pot, a 6-foot copper rod, about 4 gallons of homemade whisky, some buckets, bottles, axe, wood, etc., and the tracks of the cart led to a place on the edge of a pond, where there were some barrels, a trough, and a place where a fire had been. Witness Adams testified that defendant, who was on the cart, had a bottle and was drinking when he first saw him, that he handed the bottle to Pool who also took a drink, and defendant hit the ox, but that he (witness) got in the creek and stopped him. There was also some evidence by witnesses May and Adams as to the confessions of defendant. The defendant denied that he had anything to do with the still or apparatus, cart, whisky, etc., and contended that he was merely riding on the cart with Pool by his invitation. He received the benefit of the testimony of himself and witness to the fact that he had gone to Malone, Fla., on the day in question and on his way home overtook Pool driving the ox cart and that he got off the buggy and got on the cart with Pool. He stated the still was on the cart at that time.
+Appellant complains that the court erred in not allowing him to prove by his witness Rogers what Pool said at the time defendant got on his cart. This testimony was not allowed, and properly so, for what Pool said at that time and place was not relevant or competent and the only effect this testimony could have had, and manifestly the purpose for which it was offered, was to bolster up the testimony of defendant and his witness Rogers, who testified as to the defendant getting out of the buggy and onto the cart, and giving his reasons therefor. The cases cited by defendant to sustain the correctness of this contention are not in point here. In each of the cases cited, the offense charged was murder in the first degree and comprehended and included several necessary constituent elements of such offense, i. e., premeditation, deliberation, willfulness, maliciousness, motive, etc., and, in order to rebut the insistence of the state that these several elements coexisted, it was held that the defendant could by competent evidence rebut such inference of unlawful motive by showing that he was merely present in a representative and official capacity. It would indeed appear to require a sanguine imagination to insist that an analogy in the case at bar with the cases cited exists. We do not think so, and are of the opinion that the court properly ruled in this connection.
+• Other questions decided in the opinion have been again examined and are manifestly sound. There being no error, we adhere to the opinion and conclusion announced.
+The application is overruled.
