@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1923-01-16"
-citations: ["19 Ala. App. 89", "95 So. 59", "6 Div. 38", "19 Ala. App. 92", "95 So. 60", "6 Div. 196"]
+citations: ["19 Ala. App. 89", "95 So. 59", "6 Div. 38"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["POPE v. STATE."]
 source_url: "https://static.case.law/ala-app/19/cases/0089-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8820449
-cites_cases: ["151 La. 938", "18 Ala. App. 467", "207 Ala. 179", "254 U. S. 17", "41 Sup. Ct. 261", "92 South. 393", "93 South. 293"]
 ---
 
 # Pope v. State
