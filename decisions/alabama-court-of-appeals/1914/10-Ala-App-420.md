@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-02-05"
+citations: ["10 Ala. App. 420", "65 So. 194"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reynolds v. Reynolds."]
+source_url: "https://static.case.law/ala-app/10/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626550
+cites_cases: ["1 Ala. 356", "104 Ala. 662", "11 Ala. 1009", "112 Ala. 436", "121 Ala. 529", "151 Ala. 643", "166 Ala. 275", "174 Ala. 393", "19 Ala. 203", "31 Ala. 392", "41 Ala. 187", "5 South. 492", "6 Ala. 146", "6 Wall. 772", "61 Kan. 727", "61 South. 30", "75 Ala. 342", "75 Ala. 487", "80 Ala. 51", "81 Am. St. Rep. 28", "85 Ala. 612", "86 Ala. 226"]
+---
+
+# Reynolds v. Reynolds
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+The action was by the appellee against the appellant upon several promissory notes made by the appellant to R. J. Reynolds, who died before the suit was brought, leaving a will and a codicil thereto under which the appellee, his widow, and his two children, one of them the appellant, were beneficiaries.
+By a Avritten instrument, to which these three beneficiaries were parties, the two children of the deceased bargained, sold, and quitclaimed to the appellee “all the rights, title, and interests they and each of them have in and to any property owned by the said R. J. Reynolds at the time of his death, except that Avhich is devised to them by the terms of the will and codicil thereto and that which is granted to them by the terms of this agreement.” The will and the codicil thereto were properly admitted in evidence for the purpose of shoAving that the notes sued on were not Avithin the exception made in the above-quoted transfer to the appellee. The notes having been made payable to R. J. Reynolds, in the absence of any assignment or transfer of them, they remained his property until his death, and, not having been disposed of by the will or the codicil, they passed to the distributees of his estate, subject to administration, and, Avith this qualification, the sole ownership of them vested in the appellee as a result of the transfer to her by the only other persons Avho had an interest in them as distributees of the estate of the deceased payee.
+The court sustained the objection of the plaintiff to the offer of the defendant to prove by himself as a witness that it was a part and parcel of the consideration of his entering into the written contract of settlement above quoted from that he Avas to be released of all indebtedness owing by him to the estate of the deceased, and that each of the other parties to the agreement relinquished all right or claim to any indebtedness OAving by the defendant to said estate. The objection was properly sustained. It is manifest that the proposed testimony would have varied or contradicted the terms of the written instrument. A result of the agreement as evidenced by that instrument was that the daughter of the deceased payee of the notes disposed of her interest in them by transferring it to the widow, the plaintiff in this suit. The effect of the prior or contemporaneous verbal agreement proposed to be testified to by the defendant would have been to make a wholly different disposition of that interest, namely, a relinquishment of it in favor of the defendant, the maker of the notes. The testimony offered was not admissible under the rule that a collateral parol agreement concerning the same matter may be proved, if it does not contradict the terms of the written contract, as the verbal agreement proposed to be proved would have contradicted the writing, by materially changing its terms and effect. Roquemore v. Vulcan Iron Works, 151 Ala. 643, 44 South. 557.
+The defendant was not entitled as a witness in his own behalf to testify as to a transaction between himself and R. J. Reynolds, deceased, whose estate was interested in the result of the suit. — Code, § 4007; Hodges v. Denny, 86 Ala. 226, 5 South. 492.
+The defendant offered in evidence a check given by Kirkland & Reynolds, a firm of which he was a member, payable to the order of R. J. Reynolds, and having his indorsement on it, and an entry on the books of that firm showing a charge of $50 against R. J. Reynolds on an account between him and the firm. This evidence, standing by itself, had no tendency to prove any payment on the individual indebtedness of the defendant to the deceased payee of the notes sued on, and the objections to it were properly sustained.
+It is suggested in the argument of the counsel for the appellant that the general affirmative charge given at the request of the plaintiff Avas improper, because the defendant testified to a payment of $110 made by Mm to Ms father. His testimony to this effect was excluded, and this ruling has not been assigned as error. Besides, it seems that if such testimony had not been excluded, and had been uncontradicted, it would not have rendered improper the giving of the charge in question, as the payment testified as having been made was greatly less than the amount of the notes sued on; the undisputed evidence in the case showing that the .plaintiff was entitled to recover something.
+Affirmed.
