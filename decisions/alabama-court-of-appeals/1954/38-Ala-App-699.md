@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "2 Div. 883"
+decided: "1954-12-07"
+citations: ["38 Ala. App. 699", "76 So. 2d 860"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George BROWN v. STATE."]
+source_url: "https://static.case.law/ala-app/38/cases/0699-04.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1699353
+---
+
+# Brown v. State
+
+## Majority (HARWOOD, Judge.)
+
+HARWOOD, Judge.
+Affirmed.
