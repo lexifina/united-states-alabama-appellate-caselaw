@@ -1,0 +1,52 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 935"
+decided: "1951-05-29"
+citations: ["36 Ala. App. 152", "54 So. 2d 797"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOLDFIELD v. BREWBAKER MOTORS, Inc."]
+source_url: "https://static.case.law/ala-app/36/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1695470
+cites_cases: ["127 Ala. 137", "198 Ala. 290", "199 Ala. 164", "205 Ala. 545", "206 Ala. 527", "209 Ala. 403", "209 Ala. 486", "218 Ala. 674", "221 Ala. 427", "23 Ala. 726", "240 Ala. 2", "245 Ala. 123", "247 Ala. 485", "249 Ala. 281", "28 So. 679", "43 Ala. 705", "8 Port. 351", "96 So. 336"]
+---
+
+# Goldfield v. Brewbaker Motors, Inc.
+
+## Majority (CARR, Presiding Judge.)
+
+CARR, Presiding Judge.
+In the court below David H. Goldfield sued Brewbaker Motors, Inc., in detinue. 'The property involved was a Plymouth au■tomobile. The cause was tried by the court without the aid of a jury, and a judgment •was rendered in favor of the defendant.
+The plaintiff, a merchant in Prattville, .Alabama, was the owner of the property •in question. It appears that he had negoti-ated with Hodo Motor Company, of Montgomery, with the view of trading for a Dodge automobile. The shipment of the Dodge had not arrived, and the trade was delayed on this account.
+The appellant left his home for a visit to his daughter in New Jersey. Before leaving he turned over to his wife a check in the amount of $500.00 made payable to Hodo Motor Company, with instructions to her to consummate the trade for the Dodge if it was available before his return.
+Mrs. Goldfield came to Montgomery apparently for this purpose, but was informed by the dealer that the Dodge had not yet arrived. She then went to the sales department of Brewbaker Motors, and there traded for a Buick automobile. Incident to the trade she signed in her own name as purchaser a “Car Order” in which is recited: “By Payments As Follows: Cash Deposit $500.00 By One 1947 Plymouth 4 door Motor Car * * * $790.05 Which I am delivering to you Free and Clear of all Liens and Encumbrances. Balance to be paid as follows: Balance on Delivery $2000.00.”
+She also signed application for insurance and a conditional sale contract and note for the payment of the balance of the purchase price. The note was to mature two days after its execution.
+According to Mrs. Goldfield’s testimony she did not know what she was signing when she placed her name as purchaser on the above indicated papers. She stated also that the entire trade transaction was made subject to appellant’s approval and she so informed the appellee.
+It appears that the payee on the $500.00 check was changed by the consent and with the knowledge of Mrs. Goldfield to Brew-baker Motors.
+Mr. Goldfield left on his trip to New Jersey on the 26th or 27th of July 1950 and returned on Friday night the following August 5th.
+According to his testimony, upon his return he found the Buick automobile at his home and his wife informed him that tFe car had been left there subject to his approval. He denied that he had authorized Mrs. Goldfield to trade for the Buick.
+On Monday following lie instructed his wife to take the car back to appellee’s place- of business and inform the latter that he might take a smaller Buick automobile. On Wednesday, August 8th, appellant came to Montgomery and talked to Mr. Brewbaker, owner and manager of Brew-baker Motors, Inc. With reference to this conversation the record discloses:
+“Q. Will you tell the Court what Mr. Brewbaker said to the best of your recollection. A. I told Mr. Brewbaker that when I came home and found that car, I couldn’t use that automobile because I was financially unable to handle a car of that size. I said that was too much automobile financially for me to keep up and there was just no way I could handle that roadmaster. He said that he would see the boy that sold it to my wife and that he would talk it over with him and see if it could not be straightened out, without my taking legal action. It was my impression that something would be done about it. I left that night walking. I didn’t have a car for four or five weeks. In the meantime I called to see what was being done. The salesman that answered the phone said, it seems that you have bought yourself a roadmaster. It seemed that nothing was being done.”
+Mr. Brewbaker testified concerning this conversation as follows:
+“A. David came into the office and he told me the situation, that he had a Buick Roadmaster and that it was more car than he could use.' He said that his wife bought it while he was out of town and that he would like to get a lighter car. We discussed the deal at that time and the only car we had then was a Roadmaster and we were uncertain when we would have a lighter car and I suggested to him that he wind up the deal. In the meantime he said he had more car than he needed in Pratt-ville. He had a car that had been run too much. We registered it in his name and as far as we, are concerned, it is his car. We suggested to him that we conclude that deal and then see if we could not sell it for him for a lower price car.
+“Q. Did he ask you about getting another car? A. Yes.
+“Q. Tell the Court what that was. A_ A Super or a Special instead of a Road-master.
+“Q. At any time did he say anything about rescinding the contract that his wife made. Did he ask you to rescind the contract? A. No.
+“Q. Did he ask you to return the automobile that had been taken as consideration as part payment on this Buick? A. I don’t think that the Plymouth was mentioned.”
+The evidence discloses that Mrs. Goldfield was a business lady of considerable-experience. Prior to the time in question for twelve years she operated a ladies’" ready to wear shop. She testified that she-was accustomed to buying and selling' merchandise and making contracts and executing notes incident to the prosecution-of her business. She stated also that she assisted her husband in his business when-her services were required and that appellant left her in complete charge of his mercantile business while he was away" on the above indicated trip.
+We have attempted to set out a fair-delineation of the tendencies of the evidence. The above are the salient facts and' sufficient, we think, to illustrate the questions presented for our review.
+Briefs of attorneys are directed toward’ the solution of these determinable, reviewable questions: Did Mrs. Goldfield have-authority to sell or trade the Plymouth automobile to the appellee on the purchase-of a new Buick car? If she did not have-such actual authority, was the appellant estopped, by his actions, to deny her right-to make the trade? Did the appellant ratify her action in the premises ?
+Appellant presses the position that there-is no substantial conflict in the evidence- and therefore as a matter of law each of the above questions must be answered, by us in the negative and a judgment below must be ordered.
+He relies on the doctrine announced im many of the authorities, among them Johnson v. Shook & Fletcher Supply Co., 245 Ala. 123, 16 So.2d 406.
+Our courts follow what seems to be the general rule which provides that the mere fact of marital relationship does not make a wife the agent of her husband. He may make her his agent, but the creation of this relationship ordinarily rests upon the same circumstances, rules, and conditions as are applied to any other agency. 26 Am.Jur., Husband & Wife, Sec. 236, p. 845; 41 C.J.S., Husband & Wife, § 65, p. 536, § 512(b), p. 1092; Rochelle v. Harrison, 8 Port. 351; Krebs v. O’Grady, 23 Ala. 726.
+Our task, therefore, is to consider the 'doctrine of principal and agent in its gen■eral application.
+In the case of Patterson v. Williams, 206 Ala. 527, 91 So. 315, the Supreme Court observed: “An agent’s authority is measured by the powers which his principal has caused or permitted him •to ‘seem to possess.’ As to third persons without knowledge or notice, it is not limited to the powers actually conferred :and those to be implied as flowing therefrom, but includes as well the apparent -powers which the principal by reason of This conduct is estopped to deny.”
+See also, Golding v. Merchant & Co., 43 Ala. 705; Southern States Fire Ins. Co. v. Kronenberg, 199 Ala. 164, 74 So. 63; Roberts & Sons v. Williams, 198 Ala. 290, 73 So. 502; Halle v. Brooks, 209 Ala. 486, 96 So. 341.
+With reference to the doctrine of ratification our Supreme Court had this :,to say: “Intention, express or implied, to ratify an unauthorized act is a material factor in an inquiry of ratification vel non by an asserted principal; and the intent ■requisite may be inferred where there is -evidence tending to show that the asserted ¿principal, with adequate knowledge of the facts and circumstances, so conducted himself as to evince his purpose to confirm or adopt the unauthorized act of another.” Birmingham News Co. v. Birmingham Printing Co., 209 Ala. 403, 96 So. 336, 340.
+A careful study and .consideration of the evidence in the instant case, lead to the conclusion that different inferences can be reasonably drawn from the testimony on the matter of agency. Disputed factual issues being thereby presented, the question of decision addressed itself to the trial judge sitting without a jury. Clark & Barker v. Eufaula Brick Works, 205 Ala. 545, 88 So. 669.
+See also, Birmingham Mineral R. Co. v. Tenn. C. I. & R. Co., 127 Ala. 137, 28 So. 679; Adler v. Miller, 218 Ala. 674, 120 So. 153; Pearson v. Agricultural Ins. Co. of Watertown, N. Y., 247 Ala. 485, 25 So.2d 164; Herndon v. Stanton, 221 Ala. 427, 129 So. 18; Krebs v. O’Grady, supra.
+Our appellate courts adhere to the familiar rule which provides that in cases tried by the judge without the aid of a jury his conclusions upon the findings of facts from the evidence given before him ore tenus, have the effect of a verdict of a jury, and his judgment will not be disturbed unless it is contrary to the great weight of the evidence — that is, it is manifestly wrong or plainly erroneous. Hampton v. Stewart, 240 Ala. 2, 194 So. 509; Norris v. Kelly, 249 Ala. 281, 31 So.2d 129; Halle v. Brooks, supra.
+The force of the above rule, in consonance with the evidence in the instant case, compels the conclusion that the judgment below should be affirmed. It is so ordered.
+Affirmed.
