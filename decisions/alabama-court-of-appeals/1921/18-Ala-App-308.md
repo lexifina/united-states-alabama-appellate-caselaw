@@ -1,0 +1,38 @@
+---
+court: "Alabama Court of Appeals"
+docket: "1 Div. 421"
+decided: "1921-11-15"
+citations: ["18 Ala. App. 308", "92 So. 90"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOBILE LIGHT & R. CO. v. FULLER."]
+source_url: "https://static.case.law/ala-app/18/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645492
+cites_cases: ["10 South. 87", "105 Ala. 561", "119 Ala. 588", "130 La. 51", "138 Ala. 487", "144 Ala. 317", "15 Ala. App. 448", "15 Ala. App. 451", "160 Ala. 635", "161 Ala. 231", "161 Ala. 434", "166 Ala. 575", "17 Ala. App. 350", "17 South. 41", "170 Ala. 524", "170 Ala. 565", "174 Ala. 631", "174 Ala. 657", "174 Ala. 669", "179 Ala. 136", "186 Ala. 409", "198 Ala. 590", "200 Ala. 288", "203 Ala. 284", "24 South. 836", "3 Ala. App. 359", "35 South. 457", "42 South. 45", "49 South. 797", "50 South. 52", "54 South. 494", "56 South. 579", "57 South. 405", "57 South. 584", "58 Ala. 678", "59 Ala. 272", "59 South. 584", "6 South. 413", "60 Ala. 621", "72 Am. St. Rep. 949", "73 South. 935", "74 Ala. 150", "76 South. 56", "82 South. 544", "87 Ala. 610", "89 South. 391", "94 Ala. 143"]
+---
+
+# Mobile Light & R. v. Fuller
+
+## Majority (MERRITT, J.)
+
+MERRITT, J.
+The appellee brought suit against the appellant, and recovered a judgment for damages, alleged to have been sustained by appellee on account of the negligent action of the appellant in running one of. its street cars into appellee’s automobile. The case was submitted to the jury on counts 1 and 5, which charge simple negligence. AH questions raised by the appellant, save one or two, deal with the ruling of the trial court on the pleading. The appellee insists that this court cannot legally review the action of the trial court on its rulings on the pleading, for that the record shows that she amended her complaint by striking out all counts except counts 1 and 5, and the record further shows that the appellant did not refile its pleas to the complaint so amended. This contention is not sound in the instant case, for that the amendment worked no substantial change in the complaint.
+The rule is that, if the pleading is amended so as to eliminate the part objected to by the plea or demurrer, or in an attempt to obviate the point taken by the plea or demurrer, the demurrant waives his right to review the ruling, unless he reinterposes his demurrer to the amended pleading, and gets a ruling on the same; but, if the amendment does not relate to the point or defect taken by the demurrer or plea, but to some other or different matter or part of the complaint, the defendant does not waive his right to review the ruling made before amendment. Seaboard Mfg. Co. v. Woodson, 94 Ala. 143, 10 South. 87; Birmingham Ry. Co. v. Fox, 174 Ala. 669, 56 South. 1013. 7 Mayfield, 716.
+Plea 4, if not otherwise faulty, was subject to grounds 3, and 1 of the plaintiff’s demurrer, and there was no error in the court’s ruling in sustaining the demurrer. For aught that appears from the facts' set but in the plea, the plaintiff was not negligent in backing her automobile on the defendant’s track; it not appearing that the defendant’s ear was in dangerous proximity to place of accident at that time. B. R., L. & P. Co. v. Demmins, 3 Ala. App. 359, 57 South. 405; L. & N. v. Calvert, 170 Ala. 565, 54 South. 184; Birmingham So. Ry. v. Harrison, 203 Ala. 284, 82 South. 544.
+It cannot be said to be always negligence to back an automobile onto a street car track, it depending on the facts and circumstances in each particular case.^ This was a plea of contributory negligence, and, to withstand demurrer, the facts constituting the negligence should be stated-, and the facts must be such as that the conclusion of negligence follows as a matter of law. Cook v. Standard Oil Co., 15 Ala. App. 448, 73 South. 764; Dwight Mfg. Co. v. Holmes, 198 Ala. 590, 73 South. 935.
+Irrespective of whether plea 5 could he set up by the defendant in this case, the action of the court in sustaining demurrers thereto can be well sustained on the tenth ground of demurrer. Th'e plea merely sets up a violation of a city ordinance, but there are no facts or circumstances set out in the plea which show a causal connection between the injury and the violation of the ordinance. Conceding that the plaintiff violated the ordinance, no facts are set out in the plea to indicate that her action in so doing contributed to the damage alleged to have been sustained. So. Ry. v. Prather, 119 Ala. 588, 24 South. 836, 72 Am. St. Rep. 949; B. R., L. & P. Co. v. Fuqua, 174 Ala. 631, 56 South. 579; Anniston Electric & Gas Co. v. Elwell, 144 Ala. 317, 42 South. 45.
+To our minds, what has been said above with reference to plea 5 applies with equal force to pleas 6 and 7.
+The demurrers to amended pleas 3 and 4 were properly sustained.
+The first, second, and third grounds of demurrer are sufficient to condemn plea 3.
+The only allegation of negligence in amended plea 3 is as follows:
+“And the defendant avers that the plaintiff negligently backed her automobile onto the defendant’s track, without taking the proper precaution necessary to have enabled her to ascertain the approach of the said car, and negligently permitted said automobile to remain standing upon the track until struck by the car, and did thereby proximately contribute to said injury.”
+This statement is but the conclusion of the pleader, and does not state what precaution was necessary to have enabled the plaintiff to ascertain the approach of the street car. Brent v. Baldwin, 160 Ala. 635, 49 South. 343; Birmingham R., L. & P. Co. v. Demmins, 3 Ala. App. 359, 57 South. 404; B. R., L. & P. Co. v. Saxon, 179 Ala. 136, 59 South. 584; So. Ry. v. Harrison, 203 Ala. 284, 82 South. 544.
+What has been said as to plea 3, applies also to plea 4, and, in addition, plea 4 does not allege that the negligence of the plaintiff proximately contributed to her injury. This is a necessary averment. B. R. L. & P. Co. v. Saxon, 179 Ala. 136, 59 South. 584.
+Assignments of error predicated on the action of the trial court in permitting the plaintiff to identify certain photographs, purporting to be pictures showing the condition of the automobile after the contact of the street car, can avail the defendant nothing here. It does not appear that the photographs were ever introduced in evidence, or that they were exhibited to or were ever in view of or in possession of the jury.
+The appellee insists that the ruling of the trial court on these questions cannot be reviewed, because the appellant made no motion to exclude the answers of the witness. While the ruling of the trial court in its rulings on the questions is free from reversible error, yet we think in this connection we should declare that the opinion in the case of Walker D. Hines, Director, etc., v. Laurendine, 17 Ala. App. 350, 84 South. 780, is erroneous; it appearing to be the rule, so declared by our Supreme Court, that, where the answer given to an improper question was strictly responsive thereto, it was not incumbent upon the objecting party to move to exclude the answer, in order to rely on the error in permitting the question. E. T., V. & G. R. v. Bayliss, 74 Ala. 150; Troy Lumber & Construction Co. v. Boswell, 186 Ala. 409, 65 South. 141; Stewart v. State ante, p. 92, 89 South. 391.
+We find no error in the record, and the judgment appealed from is affirmed.
+Affirmed.
+<§3»For other eases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
+<5S=»Eor other eases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
