@@ -1,0 +1,19 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1922-11-28"
+citations: ["19 Ala. App. 676", "94 So. 923", "5 Div. 409"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOLTON v. STATE."]
+source_url: "https://static.case.law/ala-app/19/cases/0676-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8829536
+---
+
+# Bolton v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+Appeal dismisséd.
