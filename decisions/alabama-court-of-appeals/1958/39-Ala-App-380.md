@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 154"
+decided: "1958-02-25"
+citations: ["39 Ala. App. 380", "101 So. 2d 96"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE v. Robert F. ANDERSON."]
+source_url: "https://static.case.law/ala-app/39/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1701427
+cites_cases: ["192 Ala. 471", "5 Ala.App. 212", "65 A.L.R. 525"]
+---
+
+# State v. Anderson
+
+## Majority (CATES, Judge.)
+
+CATES, Judge.
+The Law and Equity Court of Lauder-dale County has declared Act No. 187, approved July 2, 1953, Acts 1953, p. 240, to be violative of both State and Federal Constitutions, (1) in that this law, which relates to the regulation of the feeding of garbage to swine, is discriminatory, since Section 12 provides, “This Act shall not apply to any person who feeds only his own household garbage to swine”; (2) in that the court found that one excuse for the law was to pamper swine by making their food more palatable and sanitary, i. e., a clear whimsical act of a police state; and (3) because the Legislature was induced by an ulterior motive not apparent on the face of the statute, i. e., to place an impediment in the path of the “small part time operators, who have * * * not enough swine to enable them to spend the amount of funds required” to provide the equipment and pay the expense of cooking garbage, as required by this statute. This we take to be a finding that the statute as applied in this case deprives the defendant of his property without due process of law.
+With this conclusion, we are forced to disagree.
+The defendant nowhere demurred to or otherwise plead that the Act was unconstitutional. However, the Attorney General has not pressed any possible deficiency, and apparently asks our consideration of the merits as though in all respects properly presented.
+Ever since the opinion of this court in State v. McCarty, 5 Ala.App. 212, 59 So. 543 (approved in Ferguson v. Starkey, 192 Ala. 471, 68 So. 348), it has been beyond question that the Legislature has the power to establish regulations for the purpose of promoting the health of livestock and of preventing the spread of disease among animals. See Annotation 65 A.L.R. 525.
+The evidence in this case clearly showed that Anderson was feeding hogs raw garbage, and had not obtained a permit which would have let him feed them cooked garbage. The State negatived his coming within the exemption of Section 12, supra, by showing that on several occasions the hogs were observed eating at least the contents of two fifty-gallon barrels of the entrails of some animal covered with green flies and maggots.
+The defendant did not produce any witnesses.
+The State placed Dr. T. E. Bonds, then the acting State Veterinarian, on the witness stand. He testified as to conditions at Mr. Anderson’s hog pen, and further went into some of the scientific background which lead to the enactment of the statute. This latter testimony was sufficient, in the absence of any evidence to rebut it, to substantiate the legislative findings of fact contained in Section 1 of the Act here in question. Moreover, in view of the fact that the disputant of a law’s constitutionality carries the burden of persuasion, the matters covered by this testimony and the declaration of purpose must be accepted as true in our consideration, although in other cases we conceive that it is possible to rebut a legislative finding of this sort. The existence of an emergency does not create power, but merely affords the opportunity for the exercise of an already existent power. Accordingly, if the power exists and the means to correct the mischief which may be forbidden or regulated are appropriately enacted, it is not necessary to re-examine the finding of fact contained in the declaration of purpose.
+To explain some of the background of this statute, we quote from the preamble of a regulation of the United States Secretary of Agriculture set forth in 9 Code of Federal Regulations, § 76.26:
+“Notice is hereby given that the Secretary of Agriculture has reason to believe that the contagion of vesicular exanthema exists within and throughout the United States, and that raw garbage is one of the primary media through which such contagion is disseminated. Since June 16, 1952, vesicular exanthema has been diagnosed in 42 states. In those instances in which it was possible to trace the infection to its source, it was traced, almost without exception, to swine fed on raw garbage, even in cases of infection by contact. Virus-infected meat scraps in raw garbage carry the disease into herd after herd at great loss to livestock owners, the packing industry, and the consuming public. The contagion of such disease is extremely virulent and experience with the disease shows that such contagion is disseminated very rapidly. * * * ”
+In view of the foregoing, we are at the conclusion that the application of this statute is not violative of either the Fourteenth Amendment to the Federal Constitution or the-due process clause of the Alabama Constitution, Section 6. The exemption of a feeder of swine using only his own household garbage is not such an anomaly of the otherwise broad scope of the Act as to be discriminatory. Thus it is familiar law that the exemption under the Workmen’s Compensation Act, Code 1940, Tit. 26, § 253 et seq. (originally) of employers of sixteen or less did not infringe our Constitution.
+We conclude that the exemption of Section 12, supra, constituted a reasonable classification within the competence of the Legislature, particularly since Anderson has presented no evidence to show that it is unreasonable.
+Since this cause is to be reversed and remanded for another trial, we think it appropriate to point out one or two matters which might arise again. During the course of the testimony, the defendant required the State to elect as to what day it was attempting to prove that the offense was committed. This was an appropriate request arising from the last sentence of Section 13 of the Act, which provides that each day’s violation constitutes a separate offense.
+We think it would be advisable (but not mandatory) that complaints under this statute specify the day on which the offense is alleged to have occurred. In view of the liberality of amendment of complaints in misdemeanors, we go no further into this. Also, in determining what constitutes the day, we are inclined to view this as being the twenty-four hour period intervening between successive midnights. We hasten to add that we do not consider it is necessary to prove a violation which subsists for this entire twenty-four hour period.
+In our view, the Act being agreeable to constitutional principles, the trial court committed error in discharging the defendant. Accordingly, the judgment is reversed and the cause, remanded for a new trial.
+Reversed and remanded.
