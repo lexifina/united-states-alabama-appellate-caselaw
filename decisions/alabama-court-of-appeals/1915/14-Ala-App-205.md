@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-06-10"
+citations: ["14 Ala. App. 205", "69 So. 243"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louisville & Nashville R. R. Co. v. Risenstein."]
+source_url: "https://static.case.law/ala-app/14/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1630614
+cites_cases: ["12 Ala. App. 347", "155 Ala. 316", "160 Ala. 630", "165 Ala. 451", "167 Ala. 311", "192 Ala. 532", "68 South. 871"]
+---
+
+# Louisville & Nashville R. R. v. Risenstein
+
+## Majority (PELHAM, P. J.)
+
+PELHAM, P. J.
+The plaintiff, who is appellee here, brought his action against the carrier in the lower court to recover damages for failure to deliver, and injury in transit to, household goods, delivered by plaintiff to the defendant carrier at Sayre, Jefferson county, Ala., to be delivered to plaintiff at a point on the defendant’s railroad called Adger, in the same county.
+The defendant pleaded the general issue and interposed special pleas, to which demurrers were sustained by the court, setting up a special contract with the shipper by which it undertook to limit its liability as to recoverable damages not to exceed $5 per hundredweight, due to the fact that the plaintiff chose one of two legally established rates — a reduced or lower rate based on a stipulation as to the value of the goods shipped, limiting the amount of recovery in case of loss or damage to $5 per hundredweight, the stated value of the goods.
+The same question presented by the ruling of the court in sustaining demurrers to the special pleas, whereby the defendant undertook to set up an exemption from liability beyond the amount stipulated for in the contract of affreightment, fixing and limiting the carrier’s liability for its negligence for loss or damages to the amount stated in the contract as the value of the goods, and upon which basis of valuation the rate was made, has been before the Supreme Court in the case of A. G. S. Ry. Co. v. McCleskey, 160 Ala. 630, 49 South. 433, and this court in the case of L. & N. R. R. Co. v. Jones, 12 Ala. App. 347, 67 South. 621, and determined adversely to the contention of the appellant. The latter case (L. & N. R. R. Co. v. Jones) was reviewed by the Supreme Court on certiorari (Ex parte L. & N. R. R. Co. v. Jones, 192 Ala. 532, 68 South. 871, Sup. Ct. May 13, 1915), and the former ruling in A. G. S. Ry. Co. v. McCleskey, followed by this court in L. & N. R. R. Co. v. Jones, 12 Ala. App. 347, 67 South. 621, was adhered to after careful consideration of the case, assisted by “a very strong and able brief” of counsel presenting the contra view. The Supreme Court in that decision made candid recognition of the fact that the holding of the Supreme Court of this state on intrastate shipments is in conflict on this proposition with the holdings of the Supreme Court of the United States on interstate shipments, which we are urged by appellant to adopt. See Ex parte L. & N. R. R. Co. v. Jones, supra. In view of the holdings above referred to, further discussion .of the question by us is not only uncalled for, but would be out of place, as this court is required by statute to conform its rulings to that of the Supreme Court.
+The rulings of the court in admitting evidence of what the shipper told the agent of the defendant at the time of making the shipment as to the contents of the drawers of the dresser and chiffonier were not violative of the rule against altering or contradicting the terms or contents of a written agreement by parol, and were free from error.—A. G. S. Ry. Co. v. Norris, 167 Ala. 311, 52 South. 891; Southern Ry. Co. v. Lewis, 165 Ala. 451, 51 South. 863; Pilcher v. Ga. Ry. Co., 155 Ala. 316, 46 South. 765. The defendant would have been liable for the contents of the drawers, though ignorant of their contents, if no fraud or imposition was practiced by the shipper in concealing their contents. — 7 Mayf. Dig. 113.
+The list of the goods lost, from which the plaintiff was allowed to refresh his memory while testifying as a witness, is shown to have been made by the witness from his own personal knowledge at or about the time of the occurrence of the transaction, and although during his examination he referred to the list of the goods lost as made out by him to be a “copy” from the original list containing all of the items of goods shipped, it is manifest from the plaintiff’s testimony that it was such an original memorandum of facts made by him at the time, and of which he had personal knowledge, as would make it permissible for him to refer to the memorandum to refresh his memory.
+The oral charge of the court, construed as a whole, is a correct and fair exposition of the law of the case, and there is no merit in the exceptions to the excerpts from the charge made the basis of assignments of error. If in parts of the charge the court seemingly left it to the jury to decide whether the special contract limiting the value of the goods to $5 per hundredweight was effective and binding on the plaintiff, this was not prejudicial error to the defendant of which it can complain.
+From what we have said, it follows that we are of the opinion that the trial court was not in error in its rulings in passing upon the written instructions raising the same questions that we have already considered in' this opinion and passed upon adversely to the contentions of the appellant.
+Affirmed.
