@@ -1,0 +1,54 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 787"
+decided: "1950-02-28"
+citations: ["35 Ala. App. 211", "45 So. 2d 795"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HUBBARD v. STATE."]
+source_url: "https://static.case.law/ala-app/35/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1693022
+cites_cases: ["1 So.2d 593", "14 Ala.App. 636", "161 So. 538", "17 Ala. App. 486", "19 Ala.App. 212", "19 Ala.App. 407", "19 Ala.App. 578", "205 Ala. 160", "23 Ala.App. 355", "230 Ala. 413", "231 Ala. 437", "234 Ala. 4", "24 Ala.App. 208", "241 Ala. 132", "249 Ala. 1", "25 Ala.App. 156", "26 So.2d 274", "27 Ala.App. 60", "28 Ala.App. 396", "30 Ala. App. 129", "30 Ala.App. 110", "30 Ala.App. 416", "31 Ala.App. 529", "31 Ala.App. 68", "31 So.2d 667", "32 Ala.App. 283", "32 Ala.App. 644", "33 Ala.App. 159", "34 Ala.App. 485", "61 Ala. 48", "7 So.2d 579", "8 So. 104", "89 Ala. 134", "97 So. 747", "99 So. 321"]
+---
+
+# Hubbard v. State
+
+## Majority (CARR, Judge.)
+
+CARR, Judge.
+Charlie Hubbard was indicted and convicted for the offense of stealing “one cow or animal of the cow kind.” Title 14, Sec. 331, Code 1940.
+Charles C. Nance, Jr. owned a male calf or yearling weighing about 500 pounds and about six months old. The animal was seen in a pasture of a neighbor and among some cattle that the appellant was charged with feeding. It remained here for a day or two and then disappeared.
+A few days after its disappearance was observed, a skin and head of a slaughtered.' yearling were found at some secluded place. The evidence in the aspect of identification sustains the findings of the jury that the skin and head were removed from the animal which Mr. Nance lost.
+Buddy Whitworth, a sixteen year old boy, testified for the State. According, to the evidence of this witness, the defendant and two of the latter’s brothers, Robert and James Hubbard, arranged a night deer hunt. Buddy did not have anything to do with the details of the plans, but was invited to go along. He accepted the invitation. He testified that the party met at the appellant’s home and went in Robert’s automobile a distance of about six or eight miles to the old homeplace of the defendant’s father. It appears that no one lived here.
+Upon reaching the ' destination, Robert gave some directions about the routes to take. When the witness and appellant had walked a distance of about one hundred yards from the old house, Robert called to them and stated he had heard a deer. The couple returned in answer to the call. The eyes of the animal were located by means of a flashlight and Buddy and James shot and wounded what the witness then discovered was a yearling. Robert and appellant then shot the animal several times. Each member of the party, except the witness, assisted in skinning-and dressing the yearling. The appellant deposited the skin and head at the place where they were subsequently found, as we have indicated hereinabove.
+The accused testified in his own behalf. His testimony in the main was not at variance with that of Buddy. He denied that he ever shot the yearling. He admitted sharing the meat with his brothers, Robert and James.
+When the State had rested its case in chief, the appellant made a motion tó exclude-the evidence. This was denied. The general affirmative charge was requested for appellant when the introduction of all the testimony had concluded.
+We will treat both of these questions together.
+“The corpus delicti is a compound fact made up of two things: The existence of a certain act or result forming the basis of the criminal charge, as the occurrence of an injury or loss; and the existence of a criminal agency as the cause of this act or result.” 23 C.J.S., Criminal Law, § 916, p. 181. See also, Weaver v. State, 24 Ala.App. 208, 132 So. 706; Medlock v. State, 34 Ala.App. 485, 41 So.2d 622.
+The tendencies of the evidence which we have delineated above will illustrate our conclusion that the State did not fail in the essential proof of the corpus delicti. Colquitt v. State, 61 Ala. 48; Poole v. State, 30 Ala.App. 110, 1 So.2d 661.
+It is evident that the legal doctrine of aiding and abetting had application to the prosecution and the conviction of the accused. Title 14, Sec. 14, Code 1940.
+The evidence supported the contention of the State that the yearling was taken from the pasture of the neighbor and carried-to the place where it was later killed and slaughtered. There is a strong inference from the proof that this was a part of a scheme whereby the animal would be subsequently killed and dressed and it-s meat would be taken by the perpetrators of the plot.
+As we have pointed out above, it is without dispute in the evidence that the defendant assumed the joint possession of the animal after it was killed. He assisted in dressing it and shared in the meat with his brothers.
+We held in Harrison v. State, 31 Ala.App. 68, 12 So.2d 350, that, where the corpus delicti had been established, proof of defendant’s unsatisfactorily explained recent possession of the stolen property was sufficient to justify a conviction. See also, Heath v. State, 30 Ala.App. 416, 7 So.2d 579; Morrow v. State, 19 Ala.App. 212, 97 So. 106; Bell v. State, 23 Ala.App. 355, 125 So. 901.
+It is urged in brief of counsel that Buddy Whitworth was an accomplice and his testimony was not sufficiently corroborated. Title 15, Sec. 307, Code 1940.
+The proof does not establish conclusively that Buddy was in fact an accomplice. This question aside, and assuming that he was, his testimony was sufficiently corroborated to meet the demands of the statute.
+Before resting, the State introduced a statement made by the accused to investígating officer. In this statement, the appellant admitted that he assisted in dressing the animal and that he shared in the division of the meat.
+The owner never saw the yearling after it strayed from his premises into his neighbor’s pasture. At the latter place it was among other cows which were tended by the appellant.
+“Corroborate”, as applied to the statute in question, means to strengthen. It must be some fact or facts which will strengthen the testimony of the accomplice. It is not necessary that it tend to establish or prove the exact facts stated by the accomplice. It must be sufficient and of such probative value as to connect the defendant with the commission of the crime. Brown et al. v. State, 31 Ala.App. 529, 19 So.2d 88; Bradley v. State, 19 Ala.App. 578, 99 So. 321; Morris v. State, 25 Ala.App. 156, 142 So. 592.
+Justice Thomas, writing for the Supreme Court in Skumro v. State, 234 Ala. 4, 170 So. 776, 778, stated the doctrine in this language: “It is further established that the corroboration of an accomplice must tend to connect the accused with the commission of the offense; that it need not refer to particular statements testified to by that accomplice, but must strengthen the probative incriminatory force of. such accomplice’s testimony. Having this effect, it is sufficient to warrant submission of the issues of fact involving defendant’s guilt to the jury.”
+See also, Malachi v. State, 89 Ala. 134, 8 So. 104; Smith v. State, 230 Ala. 413, 161 So. 538; Berry v. State, 231 Ala. 437, 165 So. 97; Segars v. State, 19 Ala.App. 407, 97 So. 747; Dykes v. State, 30 Ala. App. 129, 1 So.2d 754; Hodge v. State, 32 Ala.App. 283, 26 So.2d 274; English v. State, 14 Ala.App. 636, 72 So. 292.
+In the case of Dunn v. State, 28 Ala.App. 396, 187 So. 641, 642, this court reviewed facts somewhat analogous to those in the case at bar. In response we observed: “The larceny charged was of several articles of clothing taken at night from the pressing shop of H. H. Bowman. There was testimony tending to prove the possession of some of this clothing by the defendant after the crime had been committed, and, also, testimony tending to prove incriminating admissions in the nature of confessions made in the presence of several witnesses. These facts, together with the details of the crime by the accomplice, were sufficient to justify the jury in rendering a verdict of guilty.”
+We are clear to the conclusion that the motion to exclude the evidence was properly overruled and that the appellant was not due the general affirmative charge.
+The statement which the appellant made to the investigating officer was reduced to writing and signed by mark by the accused. Facts' were established by the proof that it was voluntarily made. Over objections the document was introduced in evidence.
+If any rule of the law of evidence was violated in this instance, counsel has failed to point it out. In any event, the appellant as a witness in his own behalf gave evidence in substantial counterpart to that contained in the written document. If there was error here, which we do not concede, it was clearly without injury to the accused. It related to matters which were not in dispute in the evidence. Enzor v. State, 27 Ala.App. 60, 167 So. 336; Gettings v. State, 32 Ala.App. 644, 29 So.2d 677; Stallings v. State, 249 Ala. 1, 32 So.2d 233.
+Appellant’s counsel excepted to these excerpts from the court’s oral charge: “ * * * steal it, that is, to take it without paying for it” and “if a reasonable, valid or sane reason could be given, then you are satisfied beyond a reasonable doubt.”
+In reviewing exceptions to the oral charge of the court, we must take the entire charge into account. This we have done, and we do not find that the quoted excerpts, when taken in connection with the whole charge, are erroneous. Moseley v. State, 241 Ala. 132, 1 So.2d 593; Johnson v. State, 33 Ala.App. 159, 31 So.2d 667.
+Refused charges 12, 14, and A-5, if for no other reason, were properly refused because they- omit any reference to the doctrine of aiding and abetting. Under the evidence in the case, this principle had application.
+Charge 19 is not hypothesized on the evidence. Edwards v. State, 205 Ala. 160, 87 So. 179. It is, also, in part abstract. It attempts to instruct on the larceny of a “bull or steer calf.”'
+In consonance with the familiar and oft repeated rule, we hold that the court below was not in error in overruling the motion for a new trial.
+According to the recitations in the judgment the court omitted to give the defendant an opportunity to state why sentence should not be pronounced against him. This omission does not force us to order a reversal, but it does require that the cause be remanded to the court below for proper sentence. Frazier v. State, 17 Ala. App. 486, 86 So. 173.
+We have responded to each presented question which in our view merits any discussion.
+The judgment of the court below is ordered affirmed. The cause is remanded to the trial court for proper sentence.
+Affirmed. Remanded for proper sentence.
