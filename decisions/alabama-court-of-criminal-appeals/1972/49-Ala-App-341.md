@@ -1,0 +1,44 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "6 Div. 223"
+decided: "1972-10-03"
+citations: ["49 Ala. App. 341", "272 So. 2d 267"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur."]
+parties: ["Elva Lee MASSEY v. STATE."]
+source_url: "https://static.case.law/ala-app/49/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1727785
+cites_cases: ["18 Ala.App. 409", "21 Ala.App. 237", "237 Ala. 344", "251 Ala. 624", "257 Ala. 414", "259 Ala. 212", "259 Ala. 415", "260 Ala. 30", "262 Ala. 236", "280 Ala. 318", "281 Ala. 193", "32 Ala.App. 309", "47 Ala.App. 189", "48 Ala.App. 421", "66 So.2d 714"]
+---
+
+# Massey v. State
+
+## Majority (TYSON, Judge.)
+
+TYSON, Judge.
+The indictment charged the appellant, Elva Lee Massey, with first degree murder. The Jury’s verdict found the appellant guilty of manslaughter in the first degree and its verdict and judgment fixed punishment at ten years imprisonment in the penitentiary.
+The appellant had been married to the deceased, James Massey, for over sixteen years and was divorced from him on July 22, 1969. Thereafter, the deceased married one Peggy Bradley on July 23, 1969.
+David Bradley, the stepson of the deceased, James Massey, and son of Peggy Bradley Massey, lived in Fairfax, Alabama, in the custody of his father, but had come to visit his mother and stepfather on August 1, 1969, where they resided in Birmingham, Alabama, at 4041 Cliff Road.
+On the afternoon of August 7, 1969, young David Bradley and his stepfather arrived in the alley behind the house at 4041 Cliff Road, having returned from a fishing trip, and found the appellant engaged in conversation with Peggy Bradley Massey at the back door of the home. Young David Bradley testified thereafter that he and his stepbrother, Jimmy Massey, the appellant’s son, were called out of the house, and the appellant told her son, Jimmy Massey, to get his clothes and come home. He saw his stepfather and the appellant then engaged in a conversation and heard the deceased, James Massey, say, “Put it up,” and then he heard shots; that he ran into the house and saw his mother, Peggy Bradley Massey, running down the hall, heard another shot, and saw her fall in the hall, tie testified that he heard a total of three shots, and that he went downstairs and called the police. A few minutes thereafter, the appellant came in the house and told him to get off the phone as she wished to make a telephone call. He stated that he overheard the appellant state to someone that she “was in big trouble”; that he saw that both his mother and stepfather were dead.
+James Lee Corey testified that he was the next door neighbor of the deceased, James Massey. On the date in question, he testified that he heard three shots at the IMassey residence and went over to investigate after having telephoned the police. He stated that he saw the bodies of the deceased James Massey and Mrs. Peggy Bradley Massey, and that the appellant was kneeling over the body of the deceased James Massey, saying, “Oh, my God, oh, my God,” then later, “Oh, Jim, oh Jim, I’m sorry, Jim, I’m sorry, I’m sorry.” This last statement was made to her own son, young Jimmy Massey. Mr. Corey further stated that he saw a woman, who was later identified as the appellant’s mother, drive up; that he saw her approach the appellant and state, “Lee why did you do this? Oh, Lee,” to which the appellant replied, “I «don’t know, I don’t know.”
+The investigating officers testified that -young Jimmy Massey, son of the appellant, 'handed a twenty-five caliber automatic pistol over to them upon their arrival and said, “This is the gun she shot him with.” The officers stated that they found three empty shell hulls, and that the deceased James Massey had been shot twice, once through the leg and once through the upper body; and that Peggy Bradley Massey had been shot once through her upper body, which passed through the heart.
+The coroner stated that James Massey died of the gunshot wound in his chest and ■was dead upon his examining the body at the scene.
+I
+Appellant argues that photographs made at the scene showing the body of the deceased Peggy Bradley Massey were improperly admitted in evidence. We believe that photographs in question were properly admitted under the rules set forth in Smarr v. State, 260 Ala. 30, 68 So.2d 6, and authorities cited, and that the evidence of the shooting of Peggy Bradley Massey was likewise admissible as being part of the res gestae, Higginbotham v. State, 262 Ala. 236, 78 So.2d 637, such shedding light on the acts, motive, and intent of the appellant. Snead v. State, 251 Ala. 624, 38 So.2d 576, and cases cited.
+II
+Appellant argues that in some two or three instances, leading questions were asked by the district attorney in the direct examination of young David Bradley. We have carefully examined the instances complained of and find that such were not error due to the age of the witness (13 years). Smarr v. State, 260 Ala. 30, 68 So.2d 6; Myhand v. State, 259 Ala. 415, 66 So.2d 544, and cases cited. See also Title 7, Section 444, Code of Alabama 1940, as Recompiled 1958.
+III
+During the redirect examination of Powell E. Morris, a witness for the State who was a criminal laboratory technician for the City of Birmingham, he testified that he had made an examination of the pistol in question and of the bullets and shell casing which had been submitted to him. He was asked, “Do you keep records showing what, you received when you were with the City,” and he answered, “Yes, sir, but — these records were used in the last case. .1 don’t know who has them, my receipts and what have you.” The appellant argues that this reference to the “last case” by this witness was error. Here, however, there was no objection to this at the time the unsolicited response was made by the witness, nor was there a motion to exclude or a motion to strike same. The rule governing this is found in Ivory v. State, 237 Ala. 344, 186 So. 460; and in the absence of the objection and appropriate motion where such unsolicited response comes in, such failure to act constitutes a waiver and may not be rr,ade the object of a motion for a mistrial at a later time in the proceeding's. See also Treadaway v. State, 18 Ala.App. 409, 92 So. 529; and Howton v. State, 21 Ala.App. 237, 107 So. 28.
+IV
+During' closing argument, counsel for the State asked: “ . . .1 want to ask you in this case whether the State brought you one hundred percent of the evidence, and the defendant nothing . . .,” to which the appellant objected. The trial court instructed, “Disregard it,” and stated this last remark, “Sustained. Ladies and gentlemen, disregard any comment by Mr. _ as to whether or not the defendant has presented any witnesses. Once the Court had sustained an objection, I’m sure Mr._realizes it is not then admissible.”
+Without doubt, any reference to. a -failure of the accused to take the stand, and testify or offer evidence in his behalf constitutes reversible error. Title 15, Section 305, Code of Alabama, Recompiled ’ 1958. Broadway v. State, 257 Ala. 414, 60 So.2d 701.
+However, we have carefully examined the status of the record here presented and find that not only was the: objection to the district attorney’s argument1 sustained but also the district attorney -.'did in fact withdraw the statement, and, additionally, in light of the strong admonition by the trial court to disregard such as being improper comment, we do not feel that reversible error is here shown. Davis v. State, 259 Ala. 212, 66 So.2d 714; Broadway, supra; Troup v. State, 32 Ala.App. 309, 26 So.2d 611.
+V
+Finally, appellant’s counsel argues that the trial court committed error in its oral charge with reference to the subject of the presumption of malice from the use of a deadly weapon in that the court did not make “any mention of intent or the intentional use of a deadly weapon.”
+At the conclusion of the oral charge, we find, “Gentlemen, are there any exceptions to the court’s oral charge ?” Appellant’s counsel replied, “We are satisfied.” Where, as here, appellant’s counsel did not make an exception to the oral charge, but, to the contrary, replied, “Satisfied,” and did not ask for any clarifying instructions, nothing is here presented for review. Cox v. State, 280 Ala. 318, 193 So.2d 759; Allison v. State, 281 Ala. 193, 200 So.2d 653; Passmore v. State, 47 Ala.App. 189, 252 So.2d 115; Darby v. State, 48 Ala.App. 421, 265 So.2d 449.
+We have carefully reviewed this entire record, as we are required to do by the provisions of Title 15, Section 389, Code of Alabama, Recompiled 1958, and find same to be free from error. The judgment is therefore due to be and the same is hereby
+Affirmed.
+All the Judges concur.
