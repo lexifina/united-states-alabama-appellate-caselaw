@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 321"
+decided: "1931-08-04"
+citations: ["24 Ala. App. 499", "137 So. 318"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CODY v. STATE."]
+source_url: "https://static.case.law/ala-app/24/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1660277
+cites_cases: ["114 So. 906", "12 Ala. App. 82", "129 So. 303", "18 Ala. App. 268", "184 Ala. 5", "186 Ala. 5", "21 Ala. App. 289", "217 Ala. 114", "22 Ala. App. 176", "23 Ala. App. 544", "68 So. 494"]
+---
+
+# Cody v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+This appellant admittedly killed Dewey Colvin by shooting him with a pistol. The indictment charged him with the offense of murder in the second degree, and as an answer thereto.' he pleaded: (1) “Not guilty.” (2) Not guilty by reason of insanity.
+On this appeal the appellant has assigned errors, and in assignments 1, 2, and 3. complains of the action of the court in overruling his motion for a continuance, which motion was based upon the grounds that three witnesses who resided in other counties were absent. It appears from the record that these same three witnesses were absent at the preceding term of the court; that they had been regularly subpoenaed to attend, and that at the former term attachments were issued for each of them; that the attachments had not been served, etc. We have carefully read and considered all that was said and done in the court below in this connection, as shown by the record. There is a total lack of any statement or showing to the effect that the witnesses in question were material, and for this, and other apparent reasons, we hold there was no abuse of the court’s discretion in overruling the motion for a continuance.
+In support of assignments o-f errors 4 and 5, appellant cites the case of Fisher v. State, 23 Ala. App. 544, 129 So. 303. These assignments are based upon the fact that pending the trial Mrs. Nellie Colvin, the widow of the deceased, was accompanied by her two small children when she took the stand to testify as a witness. It was insisted by appellant that the presence of these children of the deceased was calculated to arouse the prejudice or sympathy of the jury. Upon inquiry by the defendant’s counsel it was ascertained from the mother of the children that one of them was seventeen months old, and the other about five years old. During the controversy relative to the appearance of the children in court, some one was secured to take charge of them and they were carried from the courtroom before the examination of their mother as a witness began. We see but slight analogy in the case at bar, on" this point, to the Fisher Case, supra, and the Thomas Case, 18 Ala. App. 268, 90 So. 878, upon which the conclusion in the Fisher Case was rested. Thomas v. State, 18 Ala. App. 268, 90 So. 878. We are of the opinion that the case of Pollard v. State, 12 Ala. App. 82, 68 So. 494, 497, is more in point upon the question involved; and that the court did everything in its power to meet the objections interposed by defendant’s counsel. Certainly there appears no abuse of the discretion with which the court was vested, for as said in Pollard v. State, supra: “Courts exist for the administration of justice, and in the conduct of trials in general much must, of necessity, and in the very nature of things, be left to the discretion of the court charged with the duty of administering justice, and having the inherent power to regulate such matters in the trial forum.” For the reasons stated we cannot sustain the assignments here under discussion.
+The sixth, seventh, eighth, and tenth assignments of error are likewise without merit. Hyche v. State, 22 Ala. App. 176, 113 So. 644; Hyche v. State, 217 Ala. 114, 114 So. 906. No extended argument in this connection is necessary.
+The ninth assignment of error is based on the refusal of the court to require state witness Dr. Isbell, during the trial, to examine the defendant so as to enable him to express an opinion as to the insanity of the defendant. This also was a matter within the discretion of the court. Nothing appears to show an abuse of this discretion and there was no error in this connection. Granberry v. State, 184 Ala. 5, 63 So. 975; Rohn v. State, 186 Ala. 5, 65 So. 42.
+We do not accord to the insistence of appellant presented by the eleventh assignment of error, wherein it is contended that the court erred in excluding the statement of witness Dr. Dowdy to the effect that “they, the government, had a guardian appointed for him.” The statement was hearsay pure and simple, was remote, irrelevant, and immaterial as well.
+There was no error in permitting witness Hyde, the sheriff, to testify as to confession by the defendant. In the first place the predicate laid was ample and met tile required rule. Moreover, at the conclusion of the testimony, the court excluded this evidence and made the statement that it had nothing to do with the case. This question is presented by assignment of error 12.
+The remaining assignment of error is based upon the ruling of the court in sustaining the state’s objection to the question propounded to witness Hyde on cross-examination, to wit: “Whether or not in his (witness’) judgment he (defendant) was a man of sound mind.” No sufficient predicate had been laid to this witness, a layman, to warrant him in giving testimony as to the insanity or soundness of mind of the accused. The rule for an examination of this character is stated in the case of Douglass v. State, 21 Ala. App. 289, 107 So. 791. No attempt to comply with this rule appears to have been made. The two issues raised by the dual plea of defendant were questions for the jury.
+We find no error in any ruling óf the court calculated to injuriously affect the substantial rights of the accused.. The record is regular in all things.
+Affirmed.
