@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 698"
+decided: "1920-06-22"
+citations: ["17 Ala. App. 519", "86 So. 170"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HASWELL v. STATE."]
+source_url: "https://static.case.law/ala-app/17/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1641080
+cites_cases: ["109 Ala. 45", "11 Ala. App. 95", "135 Ala. 15", "148 Ala. 115", "148 Ala. 608", "153 Ala. 31", "16 Ala. App. 496", "167 Ala. 20", "186 Ala. 14", "19 South. 491", "29 Ala. 558", "33 South. 23", "74 South. 843"]
+---
+
+# Haswell v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+Defendant was indicted upon a charge of murder in the second degree, was convicted of manslaughter in the first degree, and duly sentenced to a term of five years’ imprisonment in the penitentiary, in accordance with the verdict of the jury.
+Appellant’s counsel insist that the venue was not sufficiently proven, but this insistence must fail for two reasons: First, there was sufficient evidence of .the venue; the first state’s witness, John Grider, having testified that he was present at the time of the difficulty; that it happened on Sunday, May 25, 1919, and it occurred about a mile from Fhckler, in Jackson county. This testimony of itself is sufficient to prove the venue. But, if this were not true, and if this testimony failed in direct proof of the venue, and was not sufficient to afford an inference thereof, it clearly appears from the record that the question was not presented to the trial court, nor -was the affirmative charge requested by the defendant upon this ground, as required by rule 35 of the circuit court rules. See Ray v. State, 16 Ala. App. 496, 79 South. 620.
+Witness Dr. Hugh Boyd had qualified as an expert; he having testified that he had been an active practicing physician for 20 years, and had also had experience as a surgeon in Jackson county, in Memphis, and in New York and Prance. The rulings of the court on the objections to the questions propounded to this witness were free from error, and the fact that this witness was permitted to testify that “he had been in Prance about five months, and had had experience with wounds of the head,” could not in any manner injuriously affect the substantial rights of the defendant. Moreover, the learned trial judge expressly limited this portion of this witness’ testimony to the question of the experience of the witness as- a physician and surgeon.
+There was no error in permitting the witness Dr. Boyd to refer to the picture or diagram of a human head, in order for the witness to explain what the wounds were and the effect of them. While the court took the precaution to limit the use of the picture or diagram for this purpose, this precaution was not necessary; it having been often held that medical books and books upon the subject of surgery may be offered in evidence in connection with the testimony of the expert witness. Oakley v. State, 135 Ala. 15, 33 South. 23; Stoudenmeier v. Williamson, 29 Ala. 558; B. R., L. & P. Co. v. Moore et al., 148 Ala. 115, 42 South. 1024. Moreover, it does not appear that the picture or diagram in question was offered in evidence, but the record shows that—
+“Here the solicitor offered the picture to the witness, stating', ‘The green will show the fracture.’ Defendant objected to the diagram, and reserved an exception to the court’s action in overruling the objection.”
+The record does not bear out defendant’s counsel in his insistence that objection was made to the remark of the solicitor on the grounds that the solicitor was making a witness of himself.
+The next insistence of error made by defendant’s counsel is that the court erred in overruling defendant’s objection to the qiiestion propounded to defendant’s witness Jim Tally on cross-examination. The question was, “Did not defendant have some whisky there?” There was no error in this ruling; the objection interposed was general, and was based upon the further grounds:
+“As no evidence tended to show there was any difficulty about liquor or that liquor was the cause of the difficulty. There was evidence that the defendant, deceased, and others were engaged in a game of cards, and that deceased, Williams, was drunk, and in reply to the question witness answered that defendant had about a quart there during the day, and over the further objection of defendant witness testified that ‘he and the deceased both drank some of the whisky of the defendant.’ ”
+' The testimony was therefore competent to go to the jury as a part of the whole transaction, and to be considered by them in connection with the drunken condition of the deceased at the time the fatal blow was struck, and as to whether or not the drunken condition was a result of the defendant having furnished this whisky to the deceased. Moreover, if the reasons here .assigned as to the admissibility of this evidence are not sufficient, no motion whatever was made to exclude this testimony from the -consideration of the jury, and in the absence of such motion the court will not be placed in error for overruling objections to questions eliciting testimony, the nature of which, so far as the court may know, is satisfactory to defendant; he having made no effort whatever to have same excluded.
+The court refused the following charge requested by the defendant:
+“The court charges the jury that, if you have a reasonable doubt as to whether the lick struck by defendant killed the deceased, you should acquit the defendant.”
+A most material inquiry in this case is involved -in this refused charge. But the charge is faulty, in that it does not require the reasonable doubt of the jury on this question to be based upon the evidence in the case. A reasonable doubt as to whether the lick struck by defendant killed the deceased, generated from any source other than by the evidence in the case, would not authorize the jury to consider such a reasonable doubt, for the reasonable doubt which authorizes the acquittal of a defendant in any criminal case must arise from and grow out of the evidence, after a consideration by the jury of all the testimony in the case.
+Furthermore, the refusal of this charge, even if not subject to above criticisms, was •authorized, and the court could not be put in error therefor, for the reason that the general oral charge of the court, and indeed an able one, fully, fairly, and substantially covered the proposition contained in the charge.
+The exception reserved to a portion of the oral charge is not well taken, and the objections urged in this connection are without merit. Reeves v. State, 186 Ala. 14, 65 South. 160.
+We have considered specifically each of the questions insisted upon by appellant’s counsel in his brief and argument, and have also carefully examined other rulings of the court complained of, and to which exceptions were reserved upon the trial of this case. A careful examination of the record discloses it is free from error, and, as no error appears as shown by the entire proceedings, the judgment of conviction of the defendant in the circuit court must be affirmed.
+Affirmed.
