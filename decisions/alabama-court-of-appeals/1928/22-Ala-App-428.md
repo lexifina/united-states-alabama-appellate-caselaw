@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1928-04-10"
+citations: ["22 Ala. App. 428", "116 So. 415", "3 Div. 578"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TAYLOR v. STATE."]
+source_url: "https://static.case.law/ala-app/22/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1653737
+---
+
+# Taylor v. State
+
+## Majority (BRIOKEN, P. J.)
+
+BRIOKEN, P. J.
+The controlling question in all criminal prosecutions is the guilt or innocence of the person accused. But, however guilty the defendant may appear to be from the evidence, he is nevertheless entitled to a fair and impartial trial, and before a judgment of conviction can be permitted to stand, upon appeal, it must affirmatively appear that the trial below proceeded throughout without prejudicial and substantial error.
+In reviewing the case at bar this court need go no further than the conduct of the solicitor who, by his repeated efforts and insistences in argument and otherwise, injected into this case prejudicial matters not in the record, and foreign to any of the issues involved upon the trial, yet were calculated to erroneously and injuriously affect the substantial rights of the accused. The office of solicitor is of the highest importance; he is the representative of the state, and as a result of the important functions devolving upon him as such officer necessarily holds and wields great power and influence, and as a consequence erroneous insistences and prejudicial conduct upon his part tend to unduly prejudice and bias the jury against the defendant; this, without reference to the instructions of the court. The test in matters of this kind is not necessarily that the conduct of the solicitor complained of did have such effect upon the jury, but might it have done so? We are of the opinion that there was ample legal evidence in this case to carry the question of the guilt or innocence of the accused, as to the crime charged, to the jury. As to whether or not the defendant was a bootlegger, also, what might have or did happen at the preliminary proceedings as to whether or not certain witnesses were there examined, and whether the bank had turned down a certain check of the defendant, and other insistences of like character, injected or sought to be injected into this case by the solicitor, were foreign to the issues involved upon this trial, and appellant’s contention in this connection must, of necessity, be sustained. We are not authorized to hold that these matters did not injuriously affect the substantial rights of the defendant for their natural tendencies are conclusively to the contrary.
+Under the showing made for a continuance in this case, and the undisputed facts disclosed in connection therewith, we hold that no abuse of discretion of the trial court .is shown, and therefore no error was committed by the court in this connection.
+We are of the opinion that the fact that “at the preliminary trial, the defendant never put up any defense at all” was an improper inquiry upon the final trial of this case. There was no attempt made to show that at any time the defendant had confessed to the larceny of the automobile, and the fact that at the preliminary trial he chose to exercise a right conferred upon him by the Constitution should not be allowed to burden his case afterwards when being' tried upon its merits. The court held to the contrary and committed error in so doing.
+In the closing argument the solicitor stated:
+“If we did not have a good case it would not be here, and it would have been nol prossed.”
+Defendant’s counsel objected to this remark and statement and moved its exclusion. The court promptly and properly sustained the objection and granted the motion to exclude. .Thereupon the solicitor stated to the jury that:
+“They are laying like vultures to take this case to the Supreme Court.”
+This remark was undignified, highly improper, and had no place upon the trial of this case. It was contumely in all that the word implies and tended to place counsel for defendant in an improper light and disrepute before the jury; this, in the absence of any improper or illegal conduct upon the part of defendant’s counsel, who, as shown by the record, were ably and earnestly undertaking to defend their client and to protect him in his legal rights, in accordance with the solemn oath which every attorney at law is required to take before he shall he permitted to practice in this state.
+The undisputed facts in this ease appear to fully establish the corpus delicti. This evidence tends to show that the car in question was the property of a Mr. T. L. Lunsford, of Greenville, Ala.; that the ear had been parked on Monroe street, in the city- of Montgomery, and after an absence of 30 minutes the owner returned and found that it had been stolen. This stolen car was afterwards found in the possession of one Tillery, at Ramer, Ala., and the evidence is without dispute that Tillery had purchased this stolen automobile from this defendant. In endeavoring to explain his possession of the stolen automobile, the defendant insisted, and so testified, that he purchased the car from one Pete Elinn. He admitted that he secured no certificate of title to the car from Elinn, but stated that Flinn promised to furnish him with such certificate. The controlling question upon this trial was the bona fides or truthfulness of defendant in his insistence that he purchased the car from said Flinn. This was the paramount question of fact for the jury to determine, and in' its deliberations the jury should look to all the evidence, consider carefully its tendencies, and return a verdict in accord with the evidence in the ease which they regarded as being true.
+Reversible error being apparent, as above indicated, the judgment of conviction from which this appeal was taken is reversed and the cause remanded. This case has had the consideration of this court sitting en banc.
+Reversed and remanded.
