@@ -1,0 +1,54 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 163"
+decided: "1964-08-18"
+citations: ["42 Ala. App. 410", "166 So. 2d 914"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. T. McCREARY v. STATE."]
+source_url: "https://static.case.law/ala-app/42/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1707657
+cites_cases: ["244 Ala. 79", "262 Ala. 420", "265 Ala. 693", "36 Ala.App. 203", "36 Ala.App. 693", "38 Ala.App. 490", "38 Ala.App. 64", "40 Ala.App. 613", "41 Ala.App. 533", "93 So.2d 796"]
+---
+
+# McCreary v. State
+
+## Majority (JOHNSON, Judge.)
+
+JOHNSON, Judge.
+On October 7, 1963, the appellant, S. T. McCreary, was convicted of Grand Larceny in the Circuit Court of Conecuh County, Alabama, in that he feloniously took and carried away a calf or animal of the cow kind, the personal property of Thomas Wiley Weaver. From such conviction, this appeal is made.
+In the brief of the Attorney General, the State contends that on March 17 or 18, 1963, a calf belonging to Thomas Wiley Weaver disappeared from his pasture in Conecuh County, Alabama, and that Mr. Weaver and investigating officers found that the pasture fence had been cut and that something had been drug from inside the pasture to where a vehicle was parked just outside the fence.
+The testimony of the witnesses is set out, in the order in which they testified, as follows:
+Thomas Wiley Weaver testified that on March 17, 1963, he “heard a rifle shooting” and that later that afternoon he noticed that one of his calves was limping and that he “found a hole in its leg” and that it “looked like a twenty-two rifle hole”. The following morning he missed a calf and discovered “where the calf had been shot” and “saw on the outside of the fence where a truck had come in there and you could see where it had backed up and turned around and the fence had been cut”. Weaver also stated that “you could see signs there of blood * * * where it had been drug away from there” and that there were footprints there too. He stated that he called the officers of the law immediately and that, with the officers of the law, he discovered vehicle tracks near his fence and more tracks in a mud hole where this vehicle had become stuck. Weaver testified that, from the tracks in question, it appeared that this vehicle had not proceeded by the most direct route to the nearest public road but had taken a longer route through the woods, and that signs were found in the woods where someone had eaten bologna sandwiches and left paper at the spot. In the course of his testimony, Weaver testified that the missing animal was a bull calf and weighed “three fifty or probably four hundred pounds”. Weaver also stated that the appellant contacted him and said that “they wanted to pay me for my calf”. He further stated that he picked up a radio aerial in the woods near his place and gave it to Mr. Pierce, one of the officers.
+Mr. James Brock, Sheriff of Conecuh County, testified that in Pensacola the appellant had voluntarily said that Howard had told him that he had a cow he wanted to go get and that appellant didn’t “know nothing about the cow” but that he had gone with Howard in his truck and had shot the calf. Sheriff Brock also stated that he and other officers went to Lester Howard’s home in Brewton, Alabama, and “found in his yard, where the dogs had scratched it up, a hide and head and feet, and found three big pieces of meat in the bottom of the deep freeze”. Brock also testified that the radio aerial found by Mr. Weaver was traced to appellant’s truck and that appellant admitted that it was his.
+The appellant testified that he came to Escambia County for a funeral and that after the funeral Lester Howard told him that he wanted him to go with him in his truck to see if they could find one of the cows that was once on his grandmother’s place, that they found a cow but couldn’t catch it until they came to Weaver’s pasture where appellant shot the cow one time. Appellant contended throughout his trial that he thought the cow in question belonged to Lester Howard or to Lester’s grandmother.
+During the cross-examination by the prosecutor, the appellant was asked by the State’s Solicitor, “And you have been convicted down in Florida for armed robbery too haven’t you?” Defense counsel entered a timely objection and moved that the court declare a mistrial which was denied with defendant reserving an exception. Appellant did not reply to this question. He further testified that he had offered to pay Weaver for the cow in question.
+In his brief, the appellant contends the following:
+(1) that the State’s evidence was insufficient to establish a felonious intent in the alleged larceny;
+(2) that the taking was not perpetrated with an intent to steal which is necessary to constitute larceny;
+In answer to the two foregoing propositions, we feel that there was sufficient evidence of the legal elements of the alleged crime to justify the action of the trial jury in appellant’s conviction. Arthur v. State, 38 Ala.App. 490, 93 So.2d 793, cert. den. 265 Ala. 693, 93 So.2d 796; Johnson v. State, 36 Ala.App. 203, 54 So.2d 84; 13A Ala.Dig., Larceny ®=368(1) b.;
+(3) that it was improper to admit evidence of a distinct and independent offense and that such evidence is admissible only when it is relative to the crime charged;
+(4) that evidence was admitted which did no more than generate a suspicion that accused committed another crime, which is otherwise without probative value. In Alabama a witness may be cross-examined about his former conviction of a crime involving moral turpitude, for the purpose of attacking his credibility. In White v. State, 40 Ala.App. 613, 119 So.2d 344, this court stated:
+“For the purpose of attacking his credibility, a witness, or a defendant when testifying in his own behalf, may be examined on cross-examination as to a former conviction of a crime involving moral turpitude, and if denied, such conviction may be proven by the court record of conviction or a properly certified copy thereof, but it cannot be established by oral testimony. Title 7, Secs. 434, 435, Code of Ala. 1940; Love v. State, 36 Ala.App. 693, 63 So.2d 285; Ellis v. State, 244 Ala. 79, 11 So.2d 861; Wright v. State, 38 Ala.App. 64, 79 So.2d 66, certiorari denied 262 Ala. 420, 79 So.2d 74.”
+(5) and appellant further contends that the trial court erred in failing to give appellant’s requested written charge No. 13 because the matters contained therein were not covered by the trial court’s oral charge, the requested written charge being as follows:
+Refused Charge No. 13 — “The Court charges the Jury that larceny is the felonious taking and carrying away the personal property of another with the intent to convert it to the use of the taker, or deprive the owner thereof, and unless you believe from all the evidence that this was the intention of the Defendant at the time he took the Bull Calf in question you cannot convict him of the crime alleged in the indictment returned in this cause.”
+We disagree with the appellant’s contention as we think that the instructions contained in said charge are also contained in the court’s oral charge, which is as follows:
+“Now gentlemen of the jury the stealing of cattle or any property for that matter, entails the knowledge or intent at the time of the taking to convert that article to the use of the taker and to deprive the owner of the use thereof. You don’t have to take it any specific distance, if you were to try to steal my glasses with my back turned it wouldn’t make any difference if you took them and had them in your pocket if you didn’t have them there but two seconds, if I knew where they were and reached and got them you’d be guilty of larceny just the same as if you’d kept them all the time. The question is of taking and getting the possession thereof with the intent to deprive the owner of his property. Now it’s not contended that the defendant here took the yearling by himself, but he claims he didn’t know it was being stolen at the time it was taken and that’s a question for you to pass on and for you alone.”
+The record shows that the trial judge gave the following written charges at the request of the appellant:
+“Charge 14. I charge you gentlemen of the jury that if you believe the evidence in this cause you cannot convict the Defendant of the offense charged.
+“Charge 15. I charge you gentlemen of the jury that under the evidence in this cause you cannot convict the Defendant of the offense charged in the indictment.”
+There is a presumption that the trial judge read these charges to the jury. This presumption stems from the notion that an officer does his duty. The duty of instant concern is from Code 1940, Tit. 7, Sec. 273. The fourth sentence prescribes the pertinent requisites of the appellate record — a mere succinct catalogue of the jury instructions given and refused.
+Presumptions are of three sorts: (1) Conclusive (i. e., irrebuttable) praesumptiones juris and de jure, unassailable by force of law, Baxter v. State, 41 Ala.App. 533, 143 So.2d 191; (2) inconclusive (i. e., rebuttable) praesumptiones juristantum which stand by force of law as true until disproved; and (3) factual (i. e., legally unaided) praesumptiones hominis vel facti, e. g., possession is a strong presumption of fact.
+We consider the presumption from the clerk’s certifying charges 14 and 15, supra, as given to be a rebuttable one. Hence, it would be mandatory for the appellate court to infer therefrom prima facie that the judge read them, saying to the jury in a clear and audible voice, “These are the instructions given you by the court at the request of defendant and are correct statements of the law to be taken by you in connection with what has already been said to you.”
+This inference, however, is affirmatively contradicted by the following “record evidence”:
+1. The court’s oral charge sets out a form of verdict if the jury should find the defendant guilty.
+2. The judgment entry recites that the jury gave such a verdict in open court.
+3. The court adjudged the defendant guilty and pronounced the sentence of the law upon him.
+In addition to these positive refutations of the court’s giving of an affirmative charge we also note:
+1. No exception was taken by the defendant to the court’s accepting the verdict.
+2. No ground for new trial assigns the inconsistency as error.
+We conclude that, while the court actually signed Charges 14 and 15, it did not read them to the jury. Whether or not the jury took them on retirement, we need not decide. Under Bushel’s case, (1670) Vaughan 135, the jury is the sole judge of' the facts.
+For the reasons set out above, we feel that this cause is due to be and the same is hereby
+Affirmed.
