@@ -1,0 +1,48 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 463"
+decided: "1975-07-16"
+citations: ["55 Ala. App. 597", "318 So. 2d 296"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and HOLMES, J., concur."]
+parties: ["John L. GWIN v. Fannie S. GWIN."]
+source_url: "https://static.case.law/ala-app/55/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1744335
+cites_cases: ["249 So.2d 855", "249 So.2d 860", "249 So.2d 861", "280 Ala. 9", "284 Ala. 524", "287 Ala. 740", "293 Ala. 47", "299 So.2d 743", "47 Ala.App. 33", "49 Ala.App. 647"]
+---
+
+# Gwin v. Gwin
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+This -is a divorce case.
+The appellant, John L. Gwin, filed the original hill of complaint seeking a divorce from appellee, Fannie S. Gwin, on February 27, 1973. The ground for the divorce was incompatibility of temperament. Appellee answered on March 12, 1973 by denying the allegations of the complaint. On June 25, 1973 appellee amended her answer and filed a cross-bill seeking a divorce from the appellant on the ground of incompatibility of temperament; a division of property; $500 per month as alimony; and attorney’s fees. On May 9, 1974 a hearing was held by the court on the matter; and, on June 6, 1974, a decree was rendered by the court wherein the appellee was granted a divorce from appellant on the ground of incompatibility of temperament; a division of property was ordered; periodic alimony in the amount of $60 per week was awarded, plus $2,000 to partially take care of appellee’s present indebtedness; and $350 as an attorney fee. The appeal is from that decree.
+The parties to this proceeding were married on April 21, 1966 and finally separated January 7, 1972. Prior to the final separation there were four other separations lasting about three months each. There were no children born of the marriage, although appellee had four children by a former marriage that lived with them. She received $100 per month for the support of the children from the former husband. At the time of the trial the appellant, a disabled WWII veteran, was sixty years old, and the appellee was forty-six years old.
+The parties jointly owned a house and lot on Woodland Drive in Jackson, Alabama valued by an independent appraiser at $23,050, on which there was a $14,900 mortgage outstanding; and a house and two lots in Wagarville, Alabama valued according to appellant at $14,500. The independent appraiser set the value at $6,600. The property was mortgaged, but the evidence does not reveal the amount.
+The appellee owned a house and lot in Wagarville, Alabama free and clear of any indebtedness. The appellant owned a building on Forest Avenue in Jackson, Alabama valued at $15,400 with an $8,000 mortgage outstanding. The appellant also owns a dry cleaning business and two laundromats in the City of Jackson, Alabama. He stated he had been in the dry cleaning business about twenty-seven years. The income from these businesses was his main source of income with the exception of a monthly VA disability pension in the amount of $28. Appellant stated that his business equipment was twenty years old and valued at $8,000. An outside appraiser valued the equipment at $20,620. Appellant said he had recently sold $6,000 worth of equipment and the remainder was subject to a $30,000 mortgage held by the Merchants Bank of Jackson, Alabama.
+One of the laundromats is located in a building in Jackson, Alabama owned by appellant. He paid $12,500 for the property but said it is run-down and is now valued at $500. An independent appraiser set the value at $20,000.
+Appellant said he owned the building housing the dry cleaning operation and estimated its worth at $20,000; however, it was subject to a $20,000 indebtedness.
+The evidence showed that appellee had worked prior to and subsequent to her marriage to appellant. In 1972 appellee had an operation and has not worked since that time. She stated that she would go to work when her doctors released her. The evidence also showed that only one child was living with appellee at the time of the trial.
+Appellant has argued several assignments of error in brief, the first contending that the trial court erred in ordering the sale of a jointly owned house and lot on Woodland Drive in the City of Jackson, Alabama with the proceeds to be divided equally between the two parties. Appellant offers several reasons why the trial court erred in this aspect of the case, the first being that the trial court failed to bring in as parties the mortgagee and the person renting the premises so that their interests would be protected.
+The record clearly revealed that Home Savings and Loan Association of Mobile, Alabama held the mortgage; and the decree provided that the proceeds of the sale would be divided equally between the two owners. We think it clear that, the trial court decreed the net proceeds of the sale be divided between the owners, which would be the amount left after deducting the mortgage and the cost of the sale.
+Appellant also says that there was no proof that an equitable partition could not have been made between the joint owners and cites our case of Prosch v. Prosch, 47 Ala.App. 33, 249 So.2d 855, cert. den. (appellee’s) 287 Ala. 740, 249 So.2d 860, cert. den. (appellant’s) 287 Ala. 740, 249 So.2d 861. In the Prosch case, the property in question consisted of 365 acres of farmland and we did hold that there must be proof that partition in kind could not be made prior to the execution of a property sale. We think it rather obvious that when the evidence shows that the property ordered to be sold for division is a dwelling house on a city lot, proof exists that an equitable partition could not be made.
+Appellant further says that the decree ordering the property to be sold within sixty days or a judicial sale by the register would be required had the effect or would have the effect of a sale for less than what the property was worth. We disagree.
+The trial court had the authority to order a sale of the jointly owned property. Killingsworth v. Killingsworth, 284 Ala. 524, 226 So.2d 308. And, we think the court could have directed the sale to be made originally by the register. But the court did not do this; instead, it permitted the parties to find a willing buyer so that the property would not be sacrificed. We find no error in this aspect of the decree.
+The next argument put forth by appellant concerns the alimony aspect of the decree. He first says that alimony in gross and periodic alimony cannot be combined in the same decree. He says that the $2,000 cash payment required to be paid to appellee was alimony in gross and the $60 a week was periodic alimony. As authority for his contention, appellant cites our case of Welch v. Welch, 49 Ala.App. 647, 275 So.2d 162.
+We did hold in Welch that alimony in gross and periodic alimony could not be awarded in the same decree, but the supreme court in Hager v. Hager, 293 Ala. 47, 299 So.2d 743, overruled that part of the decision in Welch, and the present rule is that the two awards in the same decree are not incompatible.
+The next argument put forth by appellant is that the award of $2,000 in cash to appellee was error for that the decree directed that the award be used, “ . to partially take care of her present indebtedness.” In support of this argument, appellant cites Leo v. Leo, 280 Ala. 9, 189 So.2d 558, for the proposition that the husband cannot be required to pay debts, other than medical bills, incurred by the wife during the separation of the parties where the husband did not expressly or impliedly assent thereto.
+The record reveals that after the separation and before the award, appellee had incurred doctors’ bills of $304, and had borrowed $2,050 from her sister to purchase an automobile and to buy groceries.
+In the case at bar the decree did not require the husband to pay particular debts owed by the wife as was the case in Leo v. Leo, supra. It simply gave appellee $2,000, as partial compensation for her indebtedness. As we construe this part of the decree, the $2,000 could be used by her for any purpose, including the payment of debts. This aspect of the decree simply amountd to an award of alimony in gross.
+Appellant next raises the point that the periodic alimony of $60 a week is excessive and the trial court erred in requiring appellant to pay this amount.
+The evidence in the present case as to the income of appellant is very sketchy.
+Appellant’s income tax returns showed that he had a net loss in 1973 of $706, and net income of $2,392 in 1972, $9,252 in 1971, and $9,938 in 1970.
+The income tax returns also show that depreciation was taken in the amount of $6,780.12 in 1970, $5,785 in 1971, $5,656 in 1972, and $6,847 in 1973.
+The work sheet prepared by appellant’s accountants and introduced in evidence show that during 1973 appellant had obtained from his business cash in the amount of $5,292 through a drawing account.
+In Leo v. Leo, supra, the supreme court said that an award of approximately fifty percent of the husband’s income as periodic alimony would not be excessive. In the instant case, appellee’s periodic alimony award was about $240 per month. This would amount to $2,880 on an annual basis. Based on the evidence before the trial court, we cannot say that the Leo rule was violated. No error here.
+No prejudicial error appearing in the record of this case, the judgment of the trial court is affirmed.
+Affirmed.
+WRIGHT, P. J., and HOLMES, J., concur.
