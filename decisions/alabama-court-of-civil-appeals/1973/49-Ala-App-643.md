@@ -1,0 +1,39 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 134"
+decided: "1973-03-21"
+citations: ["49 Ala. App. 643", "275 So. 2d 159"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["Vickie MIMS, a minor, by her father and next friend, Billy Mims v. Curtis O. BROWN."]
+source_url: "https://static.case.law/ala-app/49/cases/0643-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1727896
+cites_cases: ["124 So. 892", "220 Ala. 328", "239 Ala. 467", "257 Ala. 561", "268 Ala. 338", "276 Ala. 120", "288 Ala. 63", "290 Ala. 98"]
+---
+
+# Mims ex rel. Mims v. Brown
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+This suit was brought by a nine year old minor through her father and next friend. From the pleadings in this case it appears that the minor was injured while playing in a synthetic swimming pool located on the private premises of the defendant in Repton, Alabama.
+The complaint as last amended was as follows:
+“Count One-A: The Plaintiff claims of the Defendant the sum of Five Thousand & No/100 Dollars as damages, for that heretofore on, to-wit: The 22nd day of July, 1970, the Plaintiff was a minor child, nine years of age and the Defendant had at and before said date on his premises in Repton, Alabama, a synthetic pool with a small amount of water being allowed to stand therein causing the bottom thereof to be slippery, naturally attractive to children and not obviously dangerous in itself, in an open and accessible place where children resort to play, and the Defendant, knowing or having reason to believe that children resorted to or would resort to said synthetic pool to play in, and that it was in such condition, an instrument dangerous for children to play in, wantonly allowed or suffered the synthetic pool to remain unattended, uninclosed, and unguarded so that children could easily gain access to, and play in the same or step into the same and that on said day the Plaintiff, being a child of tender years, while playing in said pool was injured in that, to-wit; her elbow was broken, she was bruised, she was caused to require hospital treatment, she suffered great mental pain and anguish, she was permanently injured, thence this suit, and plaintiff avers that she was wantonly injured by the Defendant as a proximate result of the Defendant’s wanton[n]ess and conduct in allowing said pool to remain in the manner as aforesaid.”
+The defendant filed demurrers to the complaint which the learned trial judge sustained. From this ruling the plaintiff suffered a nonsuit and has appealed as authorized by statute. See Tit. 7, § 819, Code of Alabama 1940.
+Plaintiff below, appellant here, assigns as error the action of the trial court in sustaining the demurrers to the complaint.
+The law is well established under our present practice that in considering the sufficiency of a complaint on demurrer, allegations will be construed most strongly against the pleader, and the court will assume that the pleader has stated his case as favorably as the facts will justify. Ala.Dig., Pleading, ®::>34(4).
+Therefore, as seen from the complaint as set out hereinabove, for aught appearing the minor child plaintiff was a trespasser on the defendant’s premises at the time of her injury.
+The law has long been settled in this state that a child, as well as an adult, may be a trespasser. See Earnest v. Regent Pool, Inc., 288 Ala. 63, 257 So.2d 313, and cases cited therein. Furthermore, a toleration of trespassers does not alter their status. Earnest v. Regent Pool, supra., and cases cited therein.
+As stated earlier, in this instance, as seen from the averments of the complaint, the plaintiff for aught appearing was a trespasser, and therefore defendant owed her no duty save not to wantonly or intentionally injure her. Pollard v. McGreggors, 239 Ala. 467, 195 So. 736; Lovell v. Southern Ry. Co., 257 Ala. 561, 59 So.2d 807.
+Plaintiff, in this instance, by general terms has attempted to charge defendant with wantonness and sets up the facts upon which such charges are predicated. Mr. Justice Lawson stated in Lovell v. Southern Ry. Co., supra, when a complaint is so framed the facts set up must, in themselves, show wantonness. The mere characterization of an act as constituting wanton conduct is not sufficient where the facts upon which such a charge is predicated are set out. The facts set up must themselves show wantonness. “Wantonness” has been defined as the conscious doing of some act or omission of some duty under knowledge of existing condition and conscious that from doing of such act or omission of such duty injury will likely or probably result.
+The facts as averred, in this instance, to this court, do not show wantonness. See Alabama Great Southern Railroad Co. v. Green, 276 Ala. 120, 159 So.2d 823; Lovell v. Southern Ry. Co., supra; Earnest v. Regent Pool, Inc., supra; Pollard v. McGreggors, supra.
+Able counsel for the plaintiff attempts in brief to rely on the “attractive nuisance” or “turntable” doctrine. Counsel further attempts to distinguish this case from Earnest v. Regent Pool, supra, in that counsel contends the “pool” in this case was not a water hazard. The supreme court, in Earnest, supra, stated that Alabama recognizes no exception in the case of a child trespasser to the conventional rule that a landowner is not liable to a trespasser on his land when the trespasser is injured or drowns in a water hazard. See cases cited in Earnest, supra.
+While we do not necessarily agree with appellant that this is not a “water hazard” case, it is not necessary that we so find, for we can find no cases in Alabama or elsewhere that would indicate that the “attractive nuisance” or “turntable” doctrine could be extended to a synthetic swimming pool with only a-small amount of water contained therein located on a person’s private premises, and this court, in this instance, is unwilling to so extend this doctrine. As Mr. Justice Harwood stated in Alabama Great Southern Railroad Co. v. Green, supra, the Supreme Court of Alabama has been reluctant to extend the doctrine and the tendency is to deny it to new situations. See Alabama Power Co. v. Kirkpatrick, 268 Ala. 338, 105 So.2d 855. As the supreme court further noted in Green, supra, Dean Prosser, in his work on Torts, at page 439, observed:
+“ 'On the other hand the courts which accept the principle’ (attractive nuisance doctrine) 'are notably cautious in applying it, and have voiced occasional expressions of doubt about it * * *.’ ” (159 So.2d at 828)
+This court particularly notes that the Supreme Court of Alabama has stated the application of the “attractive nuisance” doctrine depends on the apparent probability of danger [emphasis added] and the measure of care of the author of the contrivance causing the injury not necessarily right of property. Williams v. Bolding, 220 Ala. 328, 124 So. 892. In this instance, under the facts as averred, it does not appear to us there is an apparent probability of danger.
+One of the demurrers sustained by the trial court to the complaint was that the complaint failed to state a cause of action. The trial court’s judgment sustaining the separate demurrers of the defendant was general, merely sustaining the demurrers without specifying any one of the numerous grounds assigned. If any ground of the demurrers interposed separately by the defendant was good, the judgment sustaining the demurrers must be affirmed. Versie Battles v. Pierson Chevrolet, Inc., 290 Ala. 98, 274 So.2d 281, (1973). As seen from above, the complaint did not state a cause of action; therefore, the trial court is due to be affirmed.
+Affirmed.
+WRIGHT, P. J., and BRADLEY, J., concur.
