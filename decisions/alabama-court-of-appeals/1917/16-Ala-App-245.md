@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 485"
+decided: "1917-11-27"
+citations: ["16 Ala. App. 245", "77 So. 243"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AUXFORD BROWN ORE CO. v. HUDSON."]
+source_url: "https://static.case.law/ala-app/16/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1635734
+cites_cases: ["112 Ind. 504", "131 Ala. 420", "14 N. E. 381", "149 Ala. 474", "153 Mass. 322", "16 Ind. 314", "166 Ala. 575", "169 Ala. 213", "17 N. W. 189", "2 Am. St. Rep. 213", "26 N. E. 872", "30 Am. St. Rep. 61", "30 South. 774", "32 L. R. A. (N. S.) 889", "42 South. 1019", "46 Ark. 207", "49 Am. Rep. 138", "55 Am. Rep. 575", "62 Iowa, 96", "9 South. 378", "93 Ala. 429"]
+---
+
+# Auxford Brown Ore Co. v. Hudson
+
+## Majority (BROWN, P. J.)
+
+BROWN, P. J.
+The liability of defendant in leaving exposed the slush pond depends upon the degree of probability of danger to stock allowed to run upon the commons, taken in connection with its usefulness in defendant’s business. If the probability is so strong as to make it the duty of the defendant as a member of the community to guard it from the danger to which the slush pond exposes its members, in person or property, it is liable to an action for a loss occurring through a failure to perform this duty. First Thompson on Negligence (2d Ed.) § 957; Hurd v. Lacy, 93 Ala. 429, 9 South. 378, 30 Am. St. Rep. 61; Sisk v. Crump, 112 Ind. 504, 14 N. E. 381, 2 Am. St. Rep. 213; Young v. Harvey, 16 Ind. 314; Haughey v. Hart, 62 Iowa, 96, 17 N. W. 189, 49 Am. Rep. 138; Jones & Norris v. Nichols, 46 Ark. 207, 55 Am. Rep. 575.
+The slush pond being located in a community where it was lawful to allow stock to run upon the commons, it was defendant’s duty to take notice of the natural propensity of domestic animals to seek pasturage where it was inviting, and if, as is averred in the complaint, the defendant had allowed the surface of the slush pond to become incrusted and covered with vegetation that was inviting to domestic animals grazing upon the commons, and the crust formed over the top of the slush was not of sufficient thickness to sustain the weight of any ordinary animal that might wander thereon, and it was probable that an animal grazing thereon would break through said crust into the quagmire and become injured or destroyed, it was the duty of the defendant to guard the members of the community against such injury, and it would be liable for damages proximately resulting from the breach of this duty. Hurd v. Lacy, supra; Sisk v. Crump, supra; and other authorities cited.
+When these principles are applied to the third and fourth counts of the complaint, it is apparent that these counts are subject to the objection that they do not aver that the death of the mule was proximately caused by the defendant’s negligence, in the respect above indicated, and that the court erred in overruling the demurrers. Weatherly v. N. C. & St. L. Ry., 166 Ala. 575, 51 South. 959; Southworth v. Shea, 131 Ala. 420, 30 South. 774; Creola Lumber Co. v. Mills, 149 Ala. 474, 42 South. 1019. While these counts are subject to other objections, the demurrers filed do not reach the defects, but, inasmuch as this case must be reversed, we call attention to the fact that the third count does not aver that the mule was the property of plaintiff. This count is likewise meager in its averments as to the nature of the growth on the slush pond, in respect to its character, as being enticing to grazing animals. The fourth count does not show the depth of the mud under the crust or that it was obviously dangerous for animals to go thereon.
+The necessity of the slush pond for use in defendant’s business, although it may be constructed and maintained in the same manner that well-regulated slush ponds of lik6 character are maintained, would not justify the defendant in disregarding the dangers arising therefrom to stock which were lawfully allowed to run upon the commons. Adler & Co. v. Pruitt, 169 Ala. 213, 53 South. 315, 32 L. R. A. (N. S.) 889; 29 Cyc. 1161 (8). Moreover, the evidence tends to show that the defendant had discontinued the use of the slush pond in connection with its business for such length of time that a crust had formed over the slush and mire, and that it had grown up in grass and weeds to such an extent that it was enticing to stock, and that there was a small branch of running-water near the middle of the pond. That beneath the crust was soft mud, murk, and mire, at some points ten feet and more in depth, constituting the place a veritable quagmire, and, more, “a baited trap,”, for the unwary animal in search of food -and drink.
+It was permissible for plaintiff to show that there were tracks of animals on the surface of the slush pond, indicating that other animals had strayed thereon, as tending to show that there was a growth on the pond that was attractive to such animals, or that there was running water which would attract animals to quench their thirst.
+The special charge given at plaintiff’s request in the following language: “If you find under all the evidence that the defendant maintained its slush pond in a negligent manner, then you must find for the plaintiff”— should have been refused. This charge pretermits the consideration that the negligence must be in respect to a duty the defendant owed the plaintiff as a member of the community, and that this negligence must be the proximate cause of plaintiff’s injury. Fales v. Cole, 153 Mass. 322, 26 N. E. 872.
+The affirmative charge for the defendant (vas properly ■ refused.
+Bor the error pointed out, the judgment is reversed, and the cause remanded. •
+Reversed and remanded.
