@@ -1,0 +1,43 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 500"
+decided: "1926-06-15"
+citations: ["21 Ala. App. 442", "109 So. 187"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BAIN v. J. A. LUSK & SON et al."]
+source_url: "https://static.case.law/ala-app/21/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651278
+cites_cases: ["107 Ala. 499", "109 Ala. 345", "11 Ala. 427", "129 Ala. 306", "160 Ala. 213", "18 So. 297", "19 So. 419", "202 Ala. 325", "29 Ala. 332", "30 So. 742", "43 Ala. 596", "56 Ala. 46", "62 Ala. 322", "75 Ala. 148"]
+---
+
+# Bain v. J. A. Lusk & Son
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+On April 16, 1914, Grizzell 6 Co., a partnership composed of Ewing Grizzell, Ferd Grizzell, and W. E. Bradford, recovered a judgment in the circuit court of Marshall county against one H. C. Kuykendall. An execution was issued on this judgment on November 12,1920, and levied by the sheriff on a well-drilling outfit. The property was sold under said execution, and at the sale appellant, W. N. Bain, became the purchaser at and for the sum of $524.16. The amount-due on the execution was $296.62. Appellant became the purchaser of this judgment from Grizzell & Oo. a short time before said execution sale.
+When levied on and sold said property was incumbered by a junior mortgage to the First National Bank of Guntersville. At the time of the sale it was agreed by and among Grizzell & Go., appellant, Bain, and the said First National Bank that out of the proceeds of said sale all over and above the amount due on tlie execution was to be paid to said bank, and this agreement was recognized at the trial by all the parties to this suit, and was confirmed by the judgment of the lower court.
+John A. Lusk & Son, attorneys, represented Grizzell & Go. in the recovery of said judgment, and it was said and is now admitted by all parties that out of the proceeds of said sale they are entitled to a reasonable fee, which was fixed by the court at $35.
+The real controversy arises over the right of appellees Nix and Hyde, former clerk and sheriff, respectively, to have the remainder of the amount due Grizzell & Oo. on said execution, and realized at said sale, applied to the satisfaction of alleged reversed executions against Grizzell & Oo. as plaintiffs in other cases where executions against the defendants had been returned “No property found.” In the spring of 1921 (prior to April 25th), precise date not shown by the'record, appellant, Bain, spread on the motion docket of said court a motion alleging that he was the owner of said judgment against Kuykendall, and asking for instructions to the sheriff as to the disbursement of said proceeds. The said bank joined in said motion.
+Later (precise date not shown), John A. Lusk & Son spread a motion on the docket asking that the sheriff be -instructed to pay, first, their fee; second, costs alleged to be due by Grizzell & Oo. to the clerk and sheriff in certain specified cases (15 in number), it being alleged in said motion that Grizzell & Co. has transferred the Kuykendall judgment to said Nix and Hyde, one or both, “to secure the costs the other cases named.”
+On April 24, 1SE5, all parties (Grizzell & Oo., W. N. Bain," E. Nix, I. B. Hyde, and John A. Lusk & Son) appeared, and by consent these motions were consolidated, treated as a single motion, and heard together.
+The judgment of the court was that the sheriff disburse the 'proceeds of said saie as follows: (1) $35 to John A. Lusk & Son; (2) costs owing by Grizzell & Co. to the clerk and sheriff (Nix and Ilyde); and (3) the remainder to the First National Bank of Guntersville.
+W. N. Bain appeals and assigns errors, and the bank joins in said assignment.
+The ease of Garrison v. Webb, 107 Ala. 499, 18 So. 297, together with other decisions of similar import, is ample authority to sustain the procedure followed in this case.
+It is admitted by all parties that after pa,yment of the court costs in the case from which the execution arose, the first payment of $35 out of the fund should be paid to John A. Lusk & Son as attorney’s fee in the original case. The controversy arises over the payment of costs due the clerk and sheriff in several other cases in which Grizzell & Co. were plaintiff, and in which execution had been returned “No property found.”
+The rights of the sheriff and clerk to fees due them, under and by reason of the judgments above referred to, so far as they relate to summary process, are governed by section 7805. of the Code of 1923, which provides for execution against'the plaintiff in certain cases, but does not provide for a lien, and no lien obtains in their favor, as against the property of plaintiff, until the execution has actually been issued and placed in the hands of the sheriff. Hullett v. Hood, Adm’r, 109 Ala. 345, 19 So. 419.
+From the foregoing it would appear that the claim of Nix and Hyde, the clerk and sheriff, to be paid tbeir costs in other cases, in which Grizzell & Co. were plaintiffs and executions had been returned “No property found,” depended upon authority given by Grizzell, the plaintiff in the suits, to Nix, prior to the issuance of execution in the case of Grizzell & Co. v. Kuykendall, which' authority was given subsequent to the mortgage to the First National Bank of Guntersville, although prior to the transfer of the Kuykendall judgment to Bain, which occurred by verbal transfer in 1920 and was confirmed in writing April 13,1921, which last transfer was obtained without notice of any latent equities in the judgment held by Nix and Hyde.
+“It is the generally recognized doctrine that tl^e assignee of a judgment is not affected by the latent equities of third persons, not parties to the judgment of which he had no notice at the time of the assignment.” 2 Black on Judgments, par. 956.
+It would appear therefore that any claim which Nix and Hyde might have had to the proceeds of the sale became, after the transfer to Bain, subject to Barn’s claim which he had under the transfer.
+Moreover, under the evidence in this case, there was not enough done between Grizzell and Nix to evince an intention to transfer or assign eo instanti the Kuykendall judgment to Nix, for the benefit of Nix and Hyde, as distinguished from a mere offer or purpose to do so. To constitute a transfer:
+“The owner must do or say something which would indicate a transfer of his claim or right to another.” Strickland & Co. v. Lesesne & Ladd, 160 Ala. 213, 49 So. 233.
+There was no transfer from Grizzell to Nix. At most the transaction between them had the effect of making Nix a licensee-to apply the money when it came into his possession. Where an assignment is claimed, such assignment must be definite and absolute. 2 Black on Judgments, par. 945. If under this license Nix and Hyde had come into possession of money the^proceeds of a judgment belonging to Grizzell & Co., they would have been authorized to apply the same to the extinguishment of costs due them by Grizzell & Co. in other cases, but, being only licensees, they would have no interest in the money or judgment until collected, and Bain having purchased the Kuykendall judgment without notice of the claim of Nix and Hyde, the proceeds of the judgment, subject to the admitted prior claim, belong to Bain.
+Another thing, Nix and Hyde gave to Grizzell & Co. no consideration and promised, no service except such as was their duty as clerk and sheriff.
+The trial of this motion was largely informal, it apparently being the desire of all the parties to get instructions from the court as to the disposition of the proceeds of the judgment freed, as far as possible, from all formalities, and yet, as we see it, the judgment is erroneous for the reason that there appears no proof of the judgments, or the amounts claimed as due by Grizzell' & Co. on the various judgments on which Nix and Hyde were claiming costs, and the judgment from which the appeal is taken does not of itself contain sufficient facts to enable the clerk to issue an execution thereon or to-carry out the order of the court in making distribution of the fund, by an inspection of its entry without reference to other entries. 33 Corpus Juris, 1190. But as this last is not necessary to a decision, the same is not decided.
+The rulings of the court were not in conformity to the foregoing rulings, and the judgment is reversed and the cause is remanded.
+Reversed and remanded.
+<@=?For other cases see same topic and KEY-NUMBER In all Key-Numbered Digests and Indexes
+@=>For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
