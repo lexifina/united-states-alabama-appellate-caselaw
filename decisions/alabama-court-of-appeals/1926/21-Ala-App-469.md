@@ -1,0 +1,56 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 113"
+decided: "1926-02-02"
+citations: ["21 Ala. App. 469", "109 So. 373"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CANTY v. SIMS."]
+source_url: "https://static.case.law/ala-app/21/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651077
+cites_cases: ["100 Ala. 275", "102 Ala. 212", "102 Ala. 317", "125 Ala. 644", "127 Ala. 657", "129 Ala. 305", "13 So. 941", "133 Ala. 341", "14 So. 786", "18 Ala. App. 538", "19 Ala. 32", "204 Ala. 549", "210 Ala. 557", "24 Am. St. Rep. 819", "27 So. 843", "29 So. 67", "30 So. 574", "32 So. 595", "4 Ala. App. 384", "5 L. Ed. 290", "56 Ala. 564", "59 So. 230", "6 Wheat. 398", "62 Ala. 305", "62 So. 977", "66 Ala. 511", "7 So. 808", "77 Ala. 326", "77 Ala. 571", "8 Ala. App. 590", "87 So. 87", "90 Ala. 391", "93 So. 223"]
+---
+
+# Canty v. Sims
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+On the 9th day of November, 1922, B. F. Sims (appellee) appeared before J. M. May, a justice of the peace for Pike county, and made an affidavit that Allen Canty (appellant) was justly indebted to the said Sims, “and that this attachment is not sued out for the purpose of vexing or harassing the said defendant, or other improper motives.”
+On said day said justice of the peace issued a general writ of attachment, commanding the sheriff, or any constable oí said county, to attach so much of the estate of Allen Canty as would be of value sufficient to satisfy the complaint and cost; an attachment bond having been executed by B. F. Sims and surety, and approved by said justice on said date. The writ of attachment bears the following indorsement:
+“Received in office- 19 — . J. E. Craft, Constable.
+“I have executed this writ this -day of 19 — , by attaching the following: One cow, white and dun, one bull calf, white and dun, 2 bar hogs, white and black, 2 bar hogs, solid black, 25 bushels of corn, more or less, one 2 roller cane mill and 1 kettle, and written notice of the above levy was this day given by me to the said-, defendant.
+“-, Constable.”
+Justices of the peace have jurisdiction to issue attachments in the cases mentioned in sections 6172 and 6173 of the Code of Alabama 1923 (section 2925 of Code 1907), where the amount claimed does not exceed $100.
+The affidavit made before the justice of the peace did not set out a single ground of attachment as provided in section 2925 of the Code of Alabama 1907.
+The writ of attachment, not being issued in any case authorized by law, was of course void. Furthermore, there is no signature of any officer showing that the attachment was ever executed. It does not appear from anything in this record that the justice of the peace ever acquired jurisdiction of the person of Allen Canty, the defendant in attachment. It must affirmatively appear that the justice had jurisdiction of the person and of the subject-matter of the suit. If the Writ of attachment had been a valid writ, then jurisdiction could have been acquired by the justice through a valid execution of that writ, and this the writ fails to show. Any judgment rendered in this proceeding was void for want of jurisdiction.
+The appeal from the justice of the peace court to the circuit court of Pike county did not admit jurisdiction. Burgin v. Ivy Coal & Coke Co., 127 Ala. 657, 29 So. 67.
+Under the record in this case we are unable to say whether there was an appeal to the circuit court of Pike county from the justice court of J., M. May or not. The appeal bond contains the statement: “Sealed with our hands and dated this-day of 1922.” .Just above the signatures of the obligors of said bond is the statement: “Taken and approved this 16th day of November, 1922.” Down in the left-hand corner of said bond appeal’s the following: “J. M. May, J. P. Filed April 16, 1923, J. H. Jinright, Clerk.” Whether this bond was tendered to, and approved by, the justice of the peace within five days from the rendition of any judgment by him we are unable to say.
+Section 8780 of Code 1923 (section 4716 of Code 1907) provides:
+“When an appeal is taken, the justice must return all the original papers of the cause, together with a statement, signed by him, of the case and the judgment rendered by him, to the clerk of the court to which the appeal was taken, within ten days after the taking of the appeal.”
+The appeal bond upon which the appeal to the circuit court of Pike county seems to have been founded was not filed in that court until the 16th day of April, 1923, some five months after the 16th day of November, 1922. No statement of the case and the judgment rendered by the justice was signed by him and filed in the circuit court of Pike county as required by law.
+No complaint was ever filed in the circuit court as required by law. Simmons et al. v. Titche Bros., 102 Ala. 317, 14 So. 786; Southern Express Co. v. Boullemet & Perkins, 100 Ala. 275, 13 So. 941; Richmond & Danville R. R. Co. v. Jones, 102 Ala. 212, 14 So. 786.
+In cases df appeal from a justice court, the jurisdiction of the circuit court is dependent on the statutes, and, when these statutes are not complied with, the circuit court acquires no right or power over them. All persons are entitled under the Constitution to demand due process, and courts of this state have no authority to render a judgment and deprive any person of his property except upon process authorized by law.
+The judgment of the lower court must, therefore, be reversed and the cause remanded.
+Reversed and remanded.
+<§n?For other cases see same-topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
+
+## Rehearing
+
+On Rehearing.
+The appellee has filed his application for a rehearing, strenuously insisting that the opinion of this court pronounced on the 2d day of February, 1926, is erroneous. This court did not say in its opinion “that an,attachment issued upon affidavit which does not set out grounds therefor is void.” This court did say that the affidavit appearing in the record in this ease did not set out a single ground of attachment. And this court further said that the writ of attachment that did issue in this case was not authorized by law, and was void. This court is not unmindful of the liberal construction to be placed upon attachments as provided under sections 6212 and 6213 of the Code of Alabama of 1923. And under the provisions of section 6213, Code 1923, supra, it is the duty of this court to liberally construe the attachment law. But, as was said in the case of Gunter v. Du Bose, 77 Ala. 326, 329:
+“We cannot add, by construction, to the statutory requisites, nor require greater certainty than is required by the'statute. An affidavit is sufficient, which sets forth the general jurisdictional facts, either hy express averments, or by necessary implications. If they are set forth with substantial accuracy, the affidavit need not negative conclusions, or inferences to the contrary. A substantial compliance with the terms of the statute is sufficient.”
+The affidavit in the instant case does not substantially comply with the statute, and the justice of the peace was without authority, therefore, to issue the writ of attachment.
+The foregoing observations are indulged in reply to the insistence of the appellee as to the validity or quasi validity of the writ of attachment presented in this record. We deem this question without substantial merit in this cause, for the all-sufficient reason that it does not appear that said writ of attachment was ever served, or that any notice of any levy made thereunder was ever given to the defendant. The record before us fails to show that the justice of the peace ever acquired jurisdiction of the person of the appellant, either by service of a summons or the attachment of his property. The record on appeal to the circuit court of Pike county affirmatively disclosed the jurisdictional infirmities above specified, so that the appellant did not elect to hazard the rendition of a valid judgment against him by the circuit court of Pike county, Ala., by taking an appeal on a record that did not disclose the jurisdictional infirmities which were apparent on the fact of the record from the justice court to the circuit court of Pike county. This will suffice to differentiate the case at. bar from Roach v. Privett, 90 Ala. 391, 7 So. 808, 24 Am. St. Rep. 819. It affirmatively appears from the record before us that the justice of the peace did not have jurisdiction of the person of the appellant in the’rendition of the judgment appealed from because this record shows the service of no summons, it shows the service of no writ of attachment. Under these circumstances we are brought face to face with the principles announced in Burgin v. Ivy Coal & Coke Co., 127 Ala. 657, 29 So. 67, and by this pronouncement we are bound. That case correctly states the law, and its principle is applicable with full force and vigor to the case at bar.
+In the ease of Cohens v. Virginia, 6 Wheat. 398, 5 L. Ed. 290, Mr. Chief Justice Marshall, speaking for the court, said:
+“It is a maxim, not to be disregarded, that general expressions, in every opinion, are to be taken in connection with the case in which these expressions are used. If they go beyond the ease, they may be respected, but ought not to control the judgment in a subsequent suit, where the very point is presented for decision.”
+This principle, as quoted, has been many times expressed and followed by our Supreme Court.
+It is next insisted that the appeal should have been dismissed in this court if the judgment in the court below was void. The judgment of the circuit court of Pike county, Ala., set out at page 3, is in due form, and upon its face is such a judgment as will’ support an appeal under the statute. It is quite true that, where the record shows that the court below did not acquire jurisdiction in the premises, its judgment or order in the premises will not support an appeal. In such cases it appears that our Supreme Court holds it sufficient to declare that, upon the record, the court below did not acquire jurisdiction in the premises, and that its judgment is void, and that such judgment will not support an appeal, and in that court the appeal is accordingly dismissed. Bowen v. Holcombe, 204 Ala. 549, 87 So. 87. In this court the practice has heretofore obtained to reverse and remand the cause, although the judgment appealed from is declared to be void. Courson v. State, 18 Ala. App. 538, 93 So. 223, and eases cited. Our attention being now called to the question, we hold that the judgment pronounced by the justice of the peace was void; that the judgment pronounced by the circuit court of Pike county was void, for reasons hereinabove expressed and apparent on the record. We therefore hold that the appeal in this cause must be dismissed at the cost of appellee. Bell v. King, 210 Ala. 557, 98 So. 796, and cases cited.
+The application for a rehearing is accordingly overruled.
+
+## Concurrence (SAMFORD, J.)
+
+SAMFORD, J.
+I concur in the conclusion that the application for rehearing should be overruled, but I do not desire to commit myself to the proposition that the appeal should be dismissed.
