@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1913-11-24"
+citations: ["11 Ala. App. 329", "66 So. 820"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bradley v. The State."]
+source_url: "https://static.case.law/ala-app/11/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 917280
+---
+
+# Bradley v. State
+
+## Majority (BROWN, J.)
+
+BROWN, J.
+The appellant was- indicted at the fall term, 1913, of the circuit court of Monroe county for murder in the second degree, and on the 23d of March, 1914, was convicted of manslaughter in the first degree, and, as a punishment for this offense, was sentenced to the penitentiary for eight years.
+The killing occurring in the month of July, 1913, at a house on the plantation of one Paul» Richardson, occupied by Aggie Davidson, Lorenzo Dubose, et al. At the time of the killing, Lorenzo Dubose was sick, and the defendant was staying in the house nursing him. On the night of the killing the deceased, Sam Mosely, and one Richardson went to the house of Aggie Davison, where a difficulty occurred between Richardson, Mosely (the deceased), and the defendant,.over Cora Dees, another woman who was at this place. There was no dispute that the defendant killed the deceased by shooting him with a shotgun in Monroe county before the finding of the indictment. The evidence on the part of the state tends to show that the killing was done by the defendant as a result of passion engendered through the interference of Richardson and the deceased with the woman Cora Dees, and without legal justification; while that on the part of the defendant tends to show that, at the time the defendant fired the shot that killed the deceased, the deceased was pursuing the defendant with a pistol presented, snapping it; and, after the pistol had snapped the second time, the defendant procured a gun aud shot the deceased in the face, inflicting a wound from which he died instantly. The defendant introduced as a witness in his behalf one Lorenzo Dubose, who testified on his examination in chief: That they (Richardson and Cora Dees) “came to the front door together, and Mr. Bill Richardson told the defendant to tell Cora Dees to get in the buggy and go with him up the road; that if she was scared to- come bach, the deceased would come a piece of the way with her. She replied that she could not go. Mr. Richardson then said, ‘Can’t we put her in the buggy?’ The deceased replied, ‘Yes; we can put her in the buggy.’ She said: ‘Turn me loose,’ and they did, and she came in the house. The deceased then said something' to the defendant; I do not know what he said. The defendant’s reply was, ‘Sam, what you keep picking at me for? I ain’t bothering you.’ Mr. Bill Richardson then called the defendant to where he was sitting in the buggy. Mr. Richardson in a minute or so said, ‘You damned black-, I will shoot- you into dollrags.’ And the defendant came back into the door running, with the deceased running after him about 15 feet behind him, cursing him as he ran, and holding his hand outstretched. The deceased said, ‘Stop, Mose, or I’ll shoot you into dollrags;’ and as he passed the door I heard something snap like a pistol, and in a moment I heard a gun fire.”
+On cross-examination the solicitor asked this witness the following question:
+“On the preliminary trial, did you not testify that Mose went to the buggy where Mr. Richardson was, and Mr. Richardson said, ‘I’ll shoot you into- dollrags, nigger.’ And then Mose left the buggy and came up to- the front door, and Sam was behind him, and said he would shoot him into dollrags. As he passed the door, I saw his hands out that way, but did not know whether there was anything in there or not; and after he passed the door I heard the gun fire.”
+The objection urged against this question is that there is nothing in it that tends to contradict the testimony of the witness. If this theory of the defendant is true — that the question did not tend to contradict the witness, but corroborated him — no injury could result to the defendant from this ruling of the court. Furthermore, the bill of exceptions does not show that the question was answered; and, while it shows that the state afterward offered the testimony of the witness given on the preliminary hearing in evidence, it does not set out what that testimony was; nor does it show that it was, in fact, read in evidence. There was no error in either of these rulings.
+As w;e have stated, the fact that the defendant killed the deceased by shooting him with a gun in Monroe county before the finding of the indictment was not controverted. There being evidence offered tending to support the theory of both the state and the defendant, the affirmative charge requested by the defendant was properly refused. The only other matter, complained of is the action of the court in overruling the defendant’s motion for a new trial. This ruling of the court is not reviewable on appeal in criminal cases, and can avail the appellant nothing.
+There being no error in the record, the judgment of the circuit court is affirmed.
+Affirmed.
