@@ -1,0 +1,40 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1966-08-16"
+citations: ["43 Ala. App. 550", "195 So. 2d 815", "4 Div. 541"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James BAKER v. STATE."]
+source_url: "https://static.case.law/ala-app/43/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1710482
+cites_cases: ["134 So. 815", "176 So. 382", "24 Ala.App. 249", "27 Ala.App. 505", "33 Ala.App. 451", "36 Ala.App. 606", "40 Ala.App. 613"]
+---
+
+# Baker v. State
+
+## Majority (PRICE, Presiding Judge.)
+
+PRICE, Presiding Judge.
+Appellant appeals from a conviction of manslaughter in the first degree, his punishment being fixed at imprisonment in the penitentiary for a term of eight years.
+The evidence tends to show that on December 12, 1964, in Pike County, Alatama, a collision occurring between an automobile operated by William S. McVay and one being driven by defendant, resulted in the death of Mr. McVay.
+For the state Mrs. Delma Jordan, Mrs. McVay’s sister, and a passenger in the McVay automobile testified the collision occurred between 1:30 and 2:00 in the afternoon. The McVay automobile was traveling in an easterly direction and defendant was proceeding in a westerly direction. The collision occurred as Mr. Mc-Vay was entering a left curve. The road was slightly upgrade from the opposite direction and the curve was to defendant’s right. The witness first saw defendant’s car when it was a very short distance away. It was traveling at a high rate of speed, approximately seventy or eighty miles per hour. Mr. McVay apparently saw the car about the same time, because he jerked his car to the right, but it was struck almost immediately by defendant’s automobile. Mr. McVay had slowed his car to about forty miles per hour before starting into the curve.
+Mr. Williams, a state trooper, testified debris and tire marks from which he determined the point of impact, were two feet ten inches from the center line in the eastbound traffic lane. The McVay automobile was thirty-four feet in an easterly direction from this point and was off the highway and headed in the opposite direction from which it was traveling. Defendant’s automobile was ninety-three feet from this point, in the direction it was traveling and was also off the highway. The witness stated on cross examination that there was dirt from both cars in both traffic lanes.
+There were faint tire marks, indicating that brakes had been applied, for a distance of sixty-three feet, beginning in the lane in which defendant was driving and coming over into the east lane of traffic to the point of impact. The witness stated when he arrived at the scene defendant was still under the wheel, one of his feet having been trapped in the car. Defendant sustained head and leg injuries. The witness’ smelled an intoxicating beverage in the' car and defendant was alternately cursing, and praying. From defendant’s actions' witness concluded he was intoxicated.
+Another state witness testified defendant’s automobile had a strong odor ol whiskey.
+The defendant testified he was not drinking and had not been drinking that day; that he was driving at the rate of forty-five to fifty miles per hour and that he never crossed the center line of the highway; that he sustained head injuries, was addled and didn’t know anything after the accident. Fourteen stitches were required to close the cut across his knee cap.
+If one drives an automobile in such a manner as to evidence a wanton and reckless disregard of human life at the time and place and under the circumstances, and such driving proxima'tely causes the death of another, the act would be manslaughter in the first degree, and it is not necessary to prove a positive intent to kill. Reynolds v. State, 24 Ala.App. 249, 134 So. 815; Graham v. State, 27 Ala.App. 505, 176 So. 382; Jones v. State, 33 Ala.App. 451, 34 So.2d 483; Gurley v. State, 36 Ala.App. 606, 61 So.2d 137.
+The evidence as to defendant’s intoxication, the speed of his automobile, and the way the collision occurred presented a jury question as to whether his conduct evidenced a reckless and wanton disregard of human life. No error resulted from the refusal of appellant’s requested affirmative charge.
+Other charges requested by defendant, requiring a finding from the evidence of an intention to kill before a conviction could be justified, were properly refused. Reynolds v. State, supra.
+During cross examination the defendant was asked if he had been convicted of assault with intent to murder in 1947. The witness answered that he had been placed on probation- about that time for assault to murder. On redirect examination he stated he was placed on probation because of a fight between himself and his wife. On recross examination he answered in the affirmative a question as to whether the charge was assault to murder. Again on redirect examination he testified that he and his wife continued to live together until her death.
+During argument to the jury this • comment was made by the solicitor:
+“He said he and his wife had a fight one time and that is the reason why he was charged with assault to murder. He didn’t tell you that his wife was fighting with her fists and he had a shotgun.”
+Defense attorney objected to this argument and moved to exclude it. The court sustained the objection and excluded the remarks of the solicitor. Defense counsel then moved for a mistrial. The court denied the motion but instructed the jury in the following language: “You will not consider that remark made by the solicitor, gentlemen. Anytime a matter is excluded from you, gentlemen, that means that you do not consider it at all and it is excluded from you. So, you will leave that as it is, leave that out of your consideration. * * You will exclude it, gentlemen, as explained to you.”
+Appellant admits that evidence of his former conviction of a crime involving moral turpitude was admissible for the purpose of attacking his credibility as a witness. White v. State, 40 Ala.App. 613, 119 So.2d 344, but insists that the solicitor’s argument showing the details of the former occurrence was reversible error. We cannot agree. Any error in the solicitor's argument was eradicated by the court’s admonition to the jury. Denial of the motion for mistrial was not reversible error. See 6A Ala.Dig.Criminal Law, <®=3730(1) for cases.
+State’s witness, Meadows, was allowed to testify over defendant’s objection that around twelve o’clock the day of the wreck, defendant’s automobile was sitting at an angle across a certain road, blocking the roadway. After the solicitor had concluded his questions on this point the court announced it was going to change its ruling, was sustaining the objection and would instruct the jury to such effect. Thereupon the defense attorney moved for a mistrial. The motion was denied. The court instructed the jury as follows:
+“Gentlemen, you will not consider that evidence. In the trial of all cases there are occasions whereby the court has to exclude certain things and that means the jury will not consider it any way in their deliberation. So, you would just forget that and it comes out of the case and it is not before you.”
+The jury was then excused from the courtroom and out of its presence the solicitor argued that the purpose of the foregoing testimony was to impeach the testimony of the defendant as to his whereabouts between 11:30 and 12:00. The court stated this testimony tended to show another violation and that defendant’s whereabouts two hours before the collision was immaterial; that the court was under the impression the solicitor’s questions were directed toward showing the defendant was drinking, and that he first overruled the objection because he didn’t know what the next question would be.
+We are of opinion the court’s forceful admonition to the jury eliminated any prejudicial error in the admission of the evidence complained of and the defendant was not entitled to a mistrial.
+The judgment is affirmed.
+Affirmed.
