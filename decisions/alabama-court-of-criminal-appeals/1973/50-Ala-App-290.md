@@ -1,0 +1,38 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "4 Div. 189"
+decided: "1973-05-29"
+citations: ["50 Ala. App. 290", "278 So. 2d 739"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All Judges concur."]
+parties: ["Leslie ATWELL v. STATE."]
+source_url: "https://static.case.law/ala-app/50/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1731043
+cites_cases: ["160 So. 270", "189 So.2d 580", "26 Ala.App. 374", "280 Ala. 715", "386 U.S. 738", "43 Ala.App. 287", "49 Ala.App. 207"]
+---
+
+# Atwell v. State
+
+## Majority (ERIS F. PAUL, Circuit Judge.)
+
+ERIS F. PAUL, Circuit Judge.
+Appellant, Leslie Atwell, was convicted in the Circuit Court of Houston County, Alabama, of second degree burglary. He was sentenced to imprisonment in the state penitentiary for six years, hence, this appeal.
+At arraignment, appellant was found to be indigent and the court appointed Honorable William L. Lee, III, of the Houston County Bar, to represent him. Mr. Lee was diligent in defense of the appellant and preserved his rights completely throughout the trial proceedings. After conviction and sentence on June 1, 1972, appellant filed a notice of appeal on June 12, 1972, at which time an order was entered by the court authorizing a free transcript of the proceedings and appointing the Honorable Douglas Bates, of the Doth-an Bar, to represent him on appeal. No motion for a new trial was filed. On behalf of the appellant, Mr. Bates filed a brief in which he enumerated the evidence submitted at the trial. In argument, the brief stated in substance that after lengthy study and research, no errors harmful to the appellant were found. This Court was requested to search the record for any prejudicial errors to appellant and render its opinion accordingly.
+The indictment charged appellant with burglary of a store or storehouse of Junior Cook. The evidence on behalf of the State tends to show that on the morning of Monday, March 6, 1972, it was discovered that Cook’s Gulf Service and Grill in Houston County had been burglarized during the weekend. Various items of personal property were missing which were there upon the closing of the business on Saturday night, March 4, 1972. The items enumerated were: 150 one-dollar bills; 13 silver dollars; 10 one-half gallon glass jugs of Domco cooking oil; one five-gallon can of Domco cooking oil; 10 cartons of cigarettes, of different brands; 2 rolls of quarters, 2 rolls of pennies, and 3 rolls of nickels and dimes. The five-gallon can of cooking oil had been opened and was bent.
+At about 12:30 A.M. on Monday, March 6, 1972, appellant went to the home of Joe Sanders who resides near Kinsey in Houston County, and took into the house 10 half-gallon jugs of Domco cooking oil, one five-gallon can of Domco cooking oil, which had been opened and bent, and 8 cartons of cigarettes, mixed brands. While appellant was in the home, he handed Sanders a handful of silver change and said, in substance, that he was paying Sanders the Five Dollars he had borrowed. Sanders promptly took the property to Dothan and delivered it to Sergeant Carl Knowles of the Police Department. Later, the same day, Sanders found 13 silver dollars on top of the refrigerator in his home. He delivered the silver dollars to Albert Padgett, son-in-law of appellant, who called the Dothan Police Department and reported the find. Mr. Cook viewed the property at the police station and testified on trial that the cooking oil and cigarettes belonged to him and came from the building which had been burglarized.
+The appellant did not testify in his own behalf, but presented witnesses who accounted for his presence with some of them on Sunday night, March 5, 1972, from about 6:30 P.M. until about 11:30 P. M.
+Certainly the evidence was sufficient to support a finding of guilty. The possession of goods recently stolen in burglary affords a logical inference that the possessor, without satisfactory explanation, was the burglar. Miller v. State, 43 Ala.App. 287, 189 So.2d 576, cert. den. 280 Ala. 715, 189 So.2d 580; Huie v. State, 26 Ala.App. 374, 160 So. 270.
+The duty of counsel in a case in forma pauperis comes under consideration in this appeal. In appellant’s brief, his court-appointed counsel stated that “no errors harmful to Appellant were found, and none were found which counsel could, in good faith and conscience, advance in his client’s behalf.” He advanced no argument in appellant’s behalf. This question seemed to have been before this Court in the case of Atwell v. State, 49 Ala.App. 207, 269 So.2d 920, in which we quoted from Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 pertaining to fundamental guidelines for attorneys handling indigent cases as follows:
+“ ‘The constitutional requirement of substantial equality and fair process can only be attained where counsel acts in the role of an active advocate in behalf of his client, as opposed to that of amicus curiae. The no-merit letter and the procedure it triggers do not reach that dignity. Counsel should, and can with honor and without conflict, be of more assistance to his client and to the court. His role as advocate requires that he support his client’s appeal to the best of his ability. Of course, if counsel finds his case to be wholly frivolous, after a conscientious examination of it, he should so advise the court and request permission to withdraw. That request must, however, be accompanied by a brief referring to anything in the record that might arguably support the appeal. A copy of counsel’s brief should be furnished the indigent and time allowed him to raise any points that he chooses; the court— not counsel — then proceeds, after a full examination of all proceedings, to decide whether the case is wholly frivolous.
+‡ ;jí ;fi ‡ ‡
+‘This requirement would not force appointed counsel to brief his case against his client but would merely afford the latter that advocacy which a nonindigent defendant is able to obtain. It would also induce the court to pursue all the more vigorously its own review because of the ready references not only to the record, but also to the legal authorities as furnished it by counsel.’ ”
+In considering Atwell under the guidelines suggested in Anders, this court said:
+“Neither another court-appointed lawyer, nor a succession of such lawyers, could be of benefit to appellant or an aid to this court in resurrecting an error where there is no error to be found. It would be vain and foolish to advise appellant that his court-appointed lawyer has been unable to find any errors harmful to his cause, and that this court has also been unable to find any errors affecting his substantial rights, and to invite him to pro se a brief if he so desires.”
+No lawyer, appointed or employed, could aid this Court in finding errors where there were none. We are unable to see how appellant’s position would have been helped by inviting him pro se to file a brief, or how his rights were affected by failure to give him that opportunity. We have carefully considered the entire record under the provisions of Title 15, Section 389, Code of Alabama 1940, and find no error affecting the substantial rights of this appellant.
+The foregoing opinion was prepared by Honorable ERIS F. PAUL, Circuit Judge, temporarily on duty on the Court pursuant to subsection (4) of Section 38, Title 13, Code of Alabama 1940, as amended; the Court has adopted his opinion as its own.
+The judgment below is hereby
+Affirmed.
+All Judges concur.
