@@ -1,0 +1,32 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 424"
+decided: "1924-08-19"
+citations: ["20 Ala. App. 243", "102 So. 535"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WINCHESTER v. STATE."]
+source_url: "https://static.case.law/ala-app/20/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1647793
+cites_cases: ["117 Ala. 140", "145 Ala. 61", "17 Ala. App. 469", "18 Ala. App. 281", "18 Ala. App. 358", "18 Ala. App. 430", "18 Ala. App. 453", "18 Ala. App. 557", "19 Ala. App. 16", "207 Ala. 382", "210 Ala. 657", "23 So. 653", "32 Ala. 149", "40 So. 660", "86 So. 133", "92 So. 206", "93 So. 79", "93 So. 83", "97 So. 117", "99 So. 158"]
+---
+
+# Winchester v. State
+
+## Majority (FOSTER, T.)
+
+FOSTER, T.
+Tom Winchester was indicted by the grand jury of Tuscaloosa county for tlie crime of selling or otherwise disposing of prohibited liquors, and was convicted in the circuit court by a jury. From this conviction he prosecutes this appeal.
+The state’s theory, which was evidently .believed by the jury, was that Claude Jones .and Monroe Garner went to a negro dance hall, where they met a negro named Ed Crowe, who, with another negro, and Claude Jones and Monroe Garner, went to the home of Tom Winchester, the defendant, and bought from him a quart of white liquor for $3.
+There are 20 assignments of error, which are all insisted upon by defendant’s counsel, but many of them raise the identical question. The more important of these assignments will be dealt with h.ere.
+It is insisted that it was error to permit the solicitor to question Ed Crowe as to what he had stated in the grand jury room, and also to permit the solicitor to propound leading questions to this witness. As to the first proposition, the law is well settled that a witness may be questioned as to his testimony before the grand jury, for the purpose of refreshing his recollection, and'this was the case here, and the solicitor explicitly stated to the witness that this was his purpose. As to the second proposition, it docs not appear that the trial court erred in permitting leading questions to Ed Crowe. It is well known that it frequently becomes necessary to lead a witness who is unwilling to testify, and the Code of Alabama (section 4018) rightly gives this discretion to trial courts. There would seem that no abuse of this discretion appears in this record.
+Defendant objected to the question propounded to Claude Jones, “If anybody in the car had drunk any of the liquor.” It is insisted that this was immaterial and irrelevant. The witness had- stated that the quart jar exhibited to him appeared to be the same as that bought on the night in question, and therefore it was not irrelevant or immaterial testimony that was elicited from this 'witness.
+On cross-examination the solicitor asked the defendant’s witness, Williamson, “You and he are- good friends; you just like to help him out when he was indicted for selling liquor?” Objection was interposed to this question by counsel for the defendant. This question, we consider, was relevant and proper in order to show the interest or bias of the witness. Arnold v. State, 18 Ala. App. 453, 93 So. 83; Cabel v. State, 18 Ala. App. 557, 93 So. 260; Knox v. State, 18 Ala. App. 358, 92 So. 206 and 920; Gilchrist v. State, 19 Ala. App. 16, 95 So. 197.
+Claud Jones, state’s witness, was asked, on cross-examination by defendant’s counsel, as to a conversation between himself and Ed Crowe and the officers when the arrest was made. On redirect examination the state sought to bring out further details of this conversation, which was objected to by defendant. Under the authority of Simmons v. State, 145 Ala. 61, 40 So. 660, we hold that the other parts of the conversation could be brought out by the state when defendant had questioned as to certain parts of the same conversation. After a consideration of the testimony of Willis Jones, we believe that there is no reversible error in anything admitted, as being contradictory to the testimony of defendant’s witness H. I. Huff.
+The affirmative charge was given as to count 1, and refused as to the three remaining counts. There was ample evidence, which if believed by the jury, justified the conviction, and hence the affirmative charge as to counts 2, 3, and 4, was properly refused. Counsel for defendant places especial stress on the alleged statement by the solicitor during the course of his remarks to the jury, “We are not going to let the name of Winchester besmirch this county.” It would appear that one Alf Winchester was then in the county jail of Tuscaloosa county, indicted for murder. Defendant’s counsel strongly contends that the effect of this statement so inflamed the minds of the jury that it was not possible for it to act in an unbiased manner. It would seem that as soon as the solicitor made the statement, counsel for the defendant promptly called his attention to the reference, and the solicitor immediately pointed to the defendant, and stated that it was defendant to whom he referred. Counsel for defendant appeared satisfied with this explanation.
+While this court never hesitates in a proper case to reverse for improper remarks made during oral argument by the solicitor, nevertheless, for aught that appears in the record, no injustice was done to defendant in this ease by the remark of the solicitor. Great latitude is permitted to attorneys in their arguments. Perhaps defendant could justly complain that all the solicitor said in his argument was prejudicial to the interests of the defendant. Alabama Power Co. v. Goodwin, 210 Ala. 657, 99 So. 158.
+The verdict of the jury was: “We, the jury, find the defendant guilty as charged in the indictment.” There was an adjudication of guilt, and the court assessed a fine of $50 and sentenced the defendant to hard labor for the county for 20'days to pay the fine, and to additional hard labor for 6 months as punishment. The trial court was without authority to assess a fine against the defendant, this being the province of the jury trying the case. The judgment of the circuit court is here corrected by striking that portion assessing a fine of $50 and sentence to hard labor for 20 days to pay the fine, and, as corrected, the judgment of the circuit court is affirmed.
+Affirmed.
+<g=»For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
