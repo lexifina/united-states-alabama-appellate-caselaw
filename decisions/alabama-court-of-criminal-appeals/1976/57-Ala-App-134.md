@@ -1,0 +1,42 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "8 Div. 651"
+decided: "1976-02-03"
+citations: ["57 Ala. App. 134", "326 So.2d 662", "326 So. 2d 662"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur, except CATES, P. J., not sitting."]
+parties: ["Anthony Reed VAUGHN, alias v. STATE."]
+source_url: "https://static.case.law/ala-app/57/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 427974
+cites_cases: ["104 So. 830", "174 So.2d 336", "213 Ala. 333", "228 Ala. 1", "251 Ala. 50", "267 Ala. 123", "280 Ala. 318", "283 So.2d 618", "284 Ala. 547", "296 So.2d 925", "38 Ala.App. 508", "42 Ala.App. 618", "51 Ala.App. 166", "51 Ala.App. 179", "53 Ala.App. 27"]
+---
+
+# Vaughn v. State
+
+## Majority (HARRIS, Judge.)
+
+HARRIS, Judge.
+Appellant was convicted of robbery and the jury fixed his punishment at ten years imprisonment in the penitentiary. With counsel present at arraignment a not guilty plea was entered. After sentence was imposed he gave notice of appeal and alleged that he was indigent. He was furnished a free transcript and trial counsel was appointed to represent him on appeal, but he failed to file a brief and this Court appointed counsel to represent him.
+Around 9:45 p. m. on July 10, 1974, a man entered the Paradise Motel located on the Jackson Highway in Sheffield, Colbert County, Alabama, and pointed a rifle at the night clerk and demanded the money. The night clerk, Donnie Golden, was on the telephone talking to the manager of the motel restaurant when the robber came to the registration desk and pointed the rifle at him and demanded the motel’s money. Donnie Golden dropped the receiver and went to the cash register and got all of the currency and handed it to the robber. The amount was f103.00 and according to Golden, the man gave him a real weird look because of the small amount of money and he asked him if he wanted the change and the man said no and walked out of the motel at a fast pace. Golden then picked up the receiver and told the manager that he had just been robbed. He then called the Police Department and reported the robbery.
+A detective was dispatched to the motel immediately and Golden gave him a description of the robber. He stated that the man was over six feet tall and had on dark blue clothes with a dark blue toboggan hat that had big eye holes and a mouth hole and that he was a young white male.
+Mr. Golden further testified that Douglas Aycock of the Sheffield Police Depártment called him the next morning and asked him to come to the Department and look at some photographs. When he arrived, the detective spread nine photographs on a table in his office. Mr. Golden immediately picked out appellant as the man who robbed him. The detective did not tell Golden the name of the man he identified from the photographs.
+Later that afternoon Mr. Golden called Detective Aycock and told him he knew the name of the man who had robbed him. He stated that he had looked at some old registration forms and came across one with Tony Vaughn’s name on it. He told the officer, “That’s the person that robbed me. His name in Tony Vaughn. I remember the night he stayed here.” The registration form showed that Tony Vaughn had stayed at the Paradise Motel on June 24, 1974, and it was introduced in evidence without objection. The card \vas signed “Tony Vaughn.”
+Golden further testified that he distinctly remembered Vaughn coming to the motel and checking in on the night of June 24, 1974, as there were several people present that Vaughn knew and he talked to them about twenty minutes before he went to his room and that during this time he had the opportunity to observe him and hear his voice. He stated that after Vaughn got to his room, he called him and asked to speak to the people in the office that he had been talking to.
+Golden made a positive in-court identification of appellant as the man who robbed him on the night of July 10,1974.
+The testimony of the victim in a robbery prosecution offered to establish the identity of the accused as the robber presented a jury question on that issue. Carpenter v. State, 42 Ala.App. 618, 174 So.2d 336.
+A fact may be established as firmly by the testimony of one witness as by the testimony of an entire community. Gray v. State, 38 Ala.App. 508, 88 So.2d 798; Smith v. State, 53 Ala.App. 27, 296 So.2d 925.
+Appellant did not testify but offered several alibi witnesses who testified that they were with appellant or had seen him at approximately the time of the robbery.
+The weight of the evidence, the credibility of witnesses, and inferences to be drawn from the evidence, where susceptible or more than one rational conclusion, are for the jury. Willcutt v. State, 284 Ala. 547, 226 So.2d 328; Braswell v. State, 51 Ala.App. 179, 283 So.2d 630.
+In Willcutt v. State, supra, the Supreme Court said:
+“The scintilla rule does not apply in criminal cases. There must be substantial evidence tending to prove all the elements of the charge. Ex parte Grimmett, 228 Ala. 1, 152 So. 263. The burden is on the State to prove beyond a reasonable doubt that the crime has been committed and that the defendant was the person who committed it. Jarrell v. State, 251 Ala. 50, 36 So.2d 336. The weight of the evidence, the credibility of the witnesses, and inferences to be drawn from the evidence, where susceptible or more than one rational conclusion, are for the jury alone. Byrd v. State, 213 Ala. 333, 104 So. 830.
+“We cannot say in the instant case that there was not enough evidence to allow the jury to draw the inference that the defendant was the person who committed this robbery. The defendant presented a strong case in support of his alibi. The testimony of his witnesses was in direct conflict with the testimony of the State’s witness. Yet the State’s witness made a positive identification of defendant as the person who robbed and burned him. The State presented substantial evidence and the jury had before it an adequate basis for drawing inferences and conclusions against the defendant. It is for the jury, not the trial court or this court, to find the facts and to determine guilt or innocence. The State presented sufficient evidence upon which the jury could base its verdict.”
+Appellant claims that the Court’s oral charge on the question of flight was highly prejudicial and misleading and he reserved an exception thereto. The record reflects that this exception was taken outside the presence of the jury. The rule is well settled that where the defendant and his counsel were present in court and heard the oral charge, they had the burden of stating the defendant’s objections to the Court before the jury retired to determine their verdict. Cox v. State, 280 Ala. 318, 193 So.2d 759.
+It is settled law that in criminal cases the flight or attempted flight of a defendant is a circumstance which the jury may take into consideration in determining guilt. Pierce v. State, 51 Ala.App. 166, 283 So.2d 618.
+Appellant claims that the trial court erred in permitting the police radio dispatcher, Willie Vance, to testify to a telephone conversation he had with appellant’s father, Thomas Vaughn, on the night of the robbery. Telephone conversations are admissible as substantive evidence against an accused where the identity of the party calling is established. Identity may be established by either direct or circumstantial evidence. Dentman v. State, 267 Ala. 123, 99 So.2d 50.
+The identity of the caller as Thomas Vaughn was established by Vaughn’s own testimony that he had called the Florence Police Department throughout the night of the robbery trying to ascertain if his son had been located. He had been on the bonds for other offenses committed by his son and had been forced to pay several fines assessed against his son. Vance’s testimony was not otherwise objectionable because it was offered solely for the purpose of impeaching the defense witness Thomas Vaughn as to the time and purpose of his telephone calls to the police station on the night of the robbery.
+We have carefully examined the record for errors injuriously affecting the substantial rights of appellant and have found none. Accordingly, the judgment of conviction is affirmed.
+Affirmed.
+All the Judges concur, except CATES, P. J., not sitting.
