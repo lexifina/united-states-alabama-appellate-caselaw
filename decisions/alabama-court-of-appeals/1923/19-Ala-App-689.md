@@ -1,0 +1,19 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1923-04-17"
+citations: ["19 Ala. App. 689", "95 So. 925", "4 Div. 853"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NELSON v. STATE."]
+source_url: "https://static.case.law/ala-app/19/cases/0689-10.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8832857
+---
+
+# Nelson v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+Affirmed.
