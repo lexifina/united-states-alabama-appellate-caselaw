@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 538"
+decided: "1929-04-02"
+citations: ["23 Ala. App. 102", "121 So. 452"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MEEKS v. GENERAL MOTORS ACCEPTANCE CORPORATION."]
+source_url: "https://static.case.law/ala-app/23/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657833
+cites_cases: ["10 So. 131", "17 Ala. App. 325", "204 Ala. 698", "208 Ala. 635", "216 Ala. 21", "85 So. 921", "94 Ala. 540", "95 So. 7"]
+---
+
+# Meeks v. General Motors Acceptance Corp.
+
+## Majority (RICE, J.)
+
+RICE, J.
+This was a claim suit involving four automobiles. The automobiles were attached by J. L. Meeks, appellant, for rent due by G. G. Abney, doing business as Abney Motor Company, for the use of a building by Mr. Abney in which he operated an automobile sales business.
+The automobiles had been sold in the usual course of business and a title retaining contract taken from the purchasers for the unpaid part of the purchase price and the automobiles delivered to the purchasers. These title retaining contracts were sold and transferred to the General Motors Acceptance Corporation, appellee. The General Motors Acceptance Corporation filed a claim bond and affidavit, and the issues were made up by the court, and the case was tried on an agreed statement of facts, which is set out in the bill of exceptions.
+After the sale of the automobiles, the purchasers were in possession thereof, and the automobiles were at no time thereafter in the storehouse of J. L. Meeks until default was made in the payments under the title retaining contracts, and the automobiles were repossessed by the General Motors Acceptance Corporation and temporarily stored in this building. The title retaining contract signed by A. J. Swain, and under which one of the automobiles was repossessed by the General Motors Acceptance Corporation, was not recorded, and it seems to be the contention of the appellant that the failure to record the contract made the Swain automobile liable to a lien of the appellant as landlord for the payment of the rent due by G. C. Abney. ■ It will be noted from the agreed statement of facts that at the time of the levy of the writ of , attachment on the automobiles, the automobiles were not stored with G. C. Abney, but were in the possession of the General Motors Acceptance Corporation and stored at another place. It is the contention of the appellant that the temporary storage of the Swain car by the General Motors Acceptance Corporation with the said G. C. Abney, after the General Motors Acceptance Corporation had asserted its right to repossess the property, gave the appellant a landlord’s lien on the automobile, although the agreed statement of facts shows that it was stored as the property of the General Motors Acceptance Corporation only temporarily.
+The sale of the automobiles by G. C. Abney in the usual course of business prevented any lien for rent that might have theretofore been asserted against the property from following the property. The appellant cannot claim any lien because of the protection the property received from the building prior to the sale thereof. Weil v. McWhorter, 94 Ala. 540, 10 So. 131, Leader v. Romano, 208 Ala. 635, 95 So. 7.
+Thus we see that the landlord (appellant) is forced to the contention that the temporary storage by the General Motors Acceptance Corporation with G. C. Abney, after the automobiles had been repossessed, served to attach the rent lien on the automobiles. The appellant secured no rights by this temporary warehousing of the automobiles with G. C. Abney, because the rent lien attaches only to the interest or property of the tenant, and the tenant had no right or property in the automobiles at the time of this warehousing.. This principle has been discussed by this court and the ruling affirmed by the Supreme Court, Alford v. Singer Sewing Mach. Co., 17 Ala. App. 325, 85 So. 584; Ex parte Alford, 204 Ala. 698, 85 So. 921.
+The contention of the appellant that the failure to record the contract gave the appellant a lien on this property superior to the title of the General Motors Acceptance Corporation . is without merit. The agreed statement of facts shows that the General Motors Acceptance Corporation had asserted its right to repossess and had made its title absolute by such repossession prior to the warehousing of the property with G. C. Abney, The title had always been in the General Motors Acceptance Corporation, and when they combined this title with actual possession by asserting the right to repossess the property, the title became absolute and the title retaining contract had been executed. Our courts have consistently held that the assertion of the right to repossess under such a contract was an abandonment of the right to recover the balance of the purchase price. Emerson v. B’ham. Imp. Co. v. Arrington, 216 Ala. 21, 112 So. 428.
+The unsoundness of the contention of the appellant is seen when it is recalled that the property was held with an unincumbered title by the appellee at the time of the levy and at the time of the temporary warehousing of, the automobiles with G. C. Abney; and when it is recalled that under the agreed statement of facts the repossession was by and for the General Motors Acceptance Corporation, and not for or because of any claim of G. C. Abney. The fact that G. O. Abney was used as the agent to possess this automobile for the General Motors Acceptance Corporation does not change the fact that it was agreed that such possession was for and by the General Motors Acceptance Corporation, thereby making its title and possession absolute.
+The judgment is affirmed.
+Affirmed.
