@@ -1,0 +1,37 @@
+---
+court: "Alabama Court of Appeals"
+docket: "2 Div. 864"
+decided: "1954-03-23"
+citations: ["38 Ala. App. 19", "81 So. 2d 318"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUISVILLE & NASHVILLE RAILROAD COMPANY v. Winston MOSELEY."]
+source_url: "https://static.case.law/ala-app/38/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1699437
+cites_cases: ["103 Ala. 661", "11 So. 423", "112 Ala. 533", "12 So. 801", "13 So. 377", "133 So. 33", "134 Ala. 388", "143 Ala. 149", "16 So. 10", "21 So. 819", "222 Ala. 499", "222 Ala. 557", "237 Ala. 471", "259 Ala. 358", "32 Ala.App. 551", "32 So. 744", "34 Ala.App. 644", "42 So. 108", "42 So.2d 837", "67 So.2d 49", "67 So.2d 51", "71 Ala. 487", "96 Ala. 262", "98 Ala. 326", "98 Ala. 395"]
+---
+
+# Louisville & Nashville Railroad v. Moseley
+
+## Majority (PRICE, Judge.)
+
+PRICE, Judge.
+Winston Moseley sued to recover damages -for the alleged negligent killing of two cows by one of defendant’s trains. Judgment was rendered for plaintiff in the lower court and his damages assessed at $265. Defendant appeals.
+The basis of defendant’s first assignment of error is the court’s action in denying the motion for a new trial, on the ground the verdict was contrary to the great weight .and preponderance of the evidence.
+It was stipulated between the parties that the cows were killed by defendant’s train No. 29, on November 14, 1949. The ;plaintiff testified on direct examination the value of the cattle was approximately $280 'but admitted on cross-examination that he valued the cows at $265 in the claim filed with the railroad company.
+A prima facie case for plaintiff being thus established, the burden then shifted -to defendant to acquit itself of negligence. Title 48, § 173, Code 1940; Louisville & N. R. Co. v. Green, 222 Ala. 557, 133 So.294; Louisville & N. R. Co. v. Holmes, 32 Ala.App. 551, 27 So.2d 878.
+Two photographs were introduced by agreement as defendant’s exhibits 1 and 2, each being a photograph of defendant’s track at the scene of the accident.
+For the defendant the engineer, J. V. White, testified the cows were struck about 1:50 a. m. The weather was fair and the .moon was shining. The train was a heavily loaded freight, running about thirty miles per hour on a descending grade, and it would have required a distance of half a mile to stop it. He was sitting on the right side of the cab maintaining a constant lookout as the train approached a curve in which there was a private crossing with a cattle guard. He first stated the fireman was sitting on the left side of the cab, also keeping a lookout, but on cross examination he said the fireman was supposed to be keeping a lookout but he didn’t know whether he was looking out or not. The track started a wide curve to the right about a mile before he got to the cows. The headlight came around and he saw the cows, quiet and standing at the right-of-way fence, when the train was fifty yards up the track. He applied the brake and just as he reached the crossing they rushed onto the track from the left side. The pilot struck them five or six feet from the cattle guard. The cows were about 50 feet ahead of the engine when they started onto the track. He rang the bell, blew the distress whistle, made a deduction of air preparatory to applying the brake, then he applied the brake but couldn’t stop the train before striking the cattle. He had been employed by defendant as an engineer since 1927 and there was nothing more he could have done, and nothing a skillful engineer could have done, other than what he did to avoid hitting the animals after he saw them. He stated on cross examination he could see ahead for about 50 yards, then said he could see further than that but didn’t see the cows until he was within fifty yards of them, due to the position the engine was in going around the curve. On redirect examination he stated that on this particular curve he could pick up an object in his headlights fifty yards away.
+The engineer and- fireman both testified the engine was of the -steam-type and was properly equipped with all standard mechanical devices for engines of this type, all of which were in good operating condition. The headlight shines straight ahead and doesn’t shine around the curve before the engine makes the curve.
+The engineer testified there was a cylinder cock to let off steam, but it is not logical to pull it to scare animals, its purpose being to relieve water pressure to keep from blowing the cylinder head off.
+The fireman testified the cylinder - cock is usually opened to scare animals away from the track but he didn’t recall it was done on this occasion.
+Albert Johnson, the fireman, also testified he was in the engine but didn’t recall what he was doing at the time. He never saw the animals and the engineer said nothing to him about them until they had passed,' and then he said “I think 1 hit the cows.” The engineer first blew for the private crossing and then blew the signal that something was in the way, and applied the brakes but never did stop the train.
+“The duty to take precaution against inflicting injuries arises not only when the engineer of a moving train sees an animal on the track or in dangerous proximity thereto, but also when by the exercise of due diligence he might have seen it. A failure in either of these respects is negligence.” Louisville & Nashville R. Co. v. Posey, 96 Ala. 262, 11 So. 423. See also Owen v. Southern Ry. Co., 222 Ala. 499, 133 So. 33, and cases there cited. Alabama Great Southern Ry. Co. v. Smelley, 237 Ala. 471, 187 So. 630.
+The fireman is also charged with the same duty of looking' ahead as is the engineer unless there is evidence that the engineer was alone charged with the duty of maintaining a vigilant lookout. Kansas City, Memphis & Birmingham R. Co. v. Wagand, 134 Ala. 388, 32 So. 744; Perry v. Atlantic Coast Line R. Co., 34 Ala.App. 644, 42 So.2d 837.
+Also, in tñis State, a railroad company injuring stock by the running of its train in the nighttime at ouch rapid rate of speed that it is impossible, by the use of ordinary means and appliances, to stop -the train and prevent the injury, within the distance in which the stock upon the track could be seen by the aid of the headlight is guilty of negligence, which, if it caused, the injury, entitled the owner to recover. Alabama Great Southern R. Co. v. Jones, 71 Ala. 487; Birmingham Mineral R. Co. v. Harris, 98 Ala. 326, 13 So. 377; Central Railroad & Banking Co. of Georgia v. Ingram, 98 Ala. 395, 12 So. 801; Louisville & Nashville R. Co. v. Davis, 103 Ala. 661, 16 So. 10; Louisville & Nashville R. Co. v. Kelton, 112 Ala. 533, 21 So. 819; Louisville & Nashville R. Co. v. King, Ala.App., 67 So.2d 49, certiorari denied 259 Ala. 358. 67 So.2d 51.
+Applying these applicable principles of law to the evidence adduced, and after allowing all reasonable presumptions in favor of the correctness of the trial court’s, ruling on the motion, we have reached the-opinion that the verdict was justified by the-evidence.
+There was no error in giving at plaintiff’s request written charges 1, 2, 7 and 8. They assert correct propositions of law under the authority of Central of Georgia Ry. Co. v. Main, 143 Ala. 149, 42 So. 108, and cases cited, supra.
+The judgment of the trial court is affirmed.
+Affirmed.
