@@ -1,0 +1,52 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "4 Div. 350"
+decided: "1975-10-01"
+citations: ["56 Ala. App. 439", "322 So. 2d 729"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur."]
+parties: ["Ulay Black GRIMES, alias v. STATE."]
+source_url: "https://static.case.law/ala-app/56/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1747206
+cites_cases: ["133 Ala. 1", "148 Ala. 434", "248 Ala. 259", "293 Ala. 204", "294 Ala. 738", "301 So.2d 78", "32 So. 158", "321 So.2d 227", "51 Ala. 171"]
+---
+
+# Grimes v. State
+
+## Majority (SIMMONS, Supernumerary Circuit Judge.)
+
+SIMMONS, Supernumerary Circuit Judge.
+Appellant-defendant, an indigent, was indicted whereby he was charged with assaulting Mildred Grimes, his wife, with intent to murder her. The jury convicted as charged, and the trial court fixed punishment at seven years imprisonment and entered appropriate judgment. Defendant promptly gave notice of appeal and made bond. Counsel for appellant is the same here as at nisi prius.
+We will allude only to such evidence which we think is necessary to illustrate the nature of the case and the contentions of the parties. A full narration of the evidence would unnecessarily lengthen this opinion.
+Mrs. Grimes and her husband, the defendant, had lived in Florida where they separated and she went to Georgia to live with her daughter. Defendant returned to the home of his father and mother in Covington County, near Andalusia, where the alleged assault occurred.
+It further appears that Mrs. Grimes came to Covington County to get “her things”, which were in possession of defendant. The separation occurred because defendant had drinking and financial problems.
+When Mrs. Grimes visited the home of her mother-in-law, by whom she was welcomed, she visited promptly with her husband who was there in the home. Words ensued with reference to a wedding ring and its surrender to defendant, who at the time was under the influence of alcoholic beverages. The alleged assault followed.
+Mrs. Grimes, the alleged victim, after being advised by the court of her right not to testify, elected to testify against her husband.
+The trend of this testimony was that defendant, without provocation on his wife’s part, committed a very aggravated assault and battery on her person by choking and beating her and by otherwise inflicting severe bruises and bodily injuries; that he once picked up a shot-gun, which was not loaded according to defendant’s evidence, and pointed it at her, but did not pull the trigger or beat her with it; that defendant called her a vile name that reflected on her moral character; and that in connection with the use of this vile name, defendant said, “I will kill you . . . ”
+Defendant took the stand in his own behalf and mitigated the severity of the assault and battery. He contended that the argument about the ring motivated a fight between them whereby he struck the first blow g,nd hit her several times, but at no time did he pick up or point a shot-gun at her. He also stated that his wife protected herself against his blows by scratching and kicking and that he did not blame her for that. Defendant admitted a drinking problem and that at the time of the physical confrontation he was under the influence of alcohol.
+The trend of the State’s contention and evidence was that the defendant was guilty of assault to murder as charged in the indictment.
+The trend of defendant’s contention and testimony was that he was guilty only of assault and battery, a lesser offense embraced in the indictment by operation of law, and that he was not guilty of the felony charged in the indictment.
+Pursuant to our duty, mandated in T. 15, § 389, Code of Alabama, Recompiled 1958, we reviewed the record and found on page 44, that defendant’s counsel on direct examination, asked his client, “Did you intend to murder her?” The trial court sustained the State’s objection to the question. The defense thereupon rested.
+We think that in the light of evidence adduced prior to this ruling that counsel for defendant expected his client to answer that he did not intend to murder his wife. The ruling precluded elicitation of this negative answer. This ruling was error.
+The major accusation in the indictment alleged defendant assaulted his wife with intent to murder her. Included therein was the lesser offense of assault and battery, a misdemeanor. The jury convicted for the major offense.
+The question of defendant’s intent at the time he was assaulting and beating his wife was an outstanding and material issue before the jury. If he was free of an intent to murder her, as that charge is known at common law, then he could not be guilty of the major charge in the indictment. The issue of intent was very material and relevant.
+Judge J. Russell McElroy, Birmingham, in an elucidating and erudite treatise of the point, appearing in the Alabama Lawyer, Vol. 1, No. 3, July, 1940, says that a large majority of the Alabama decisions concerning this point hold that a witness may not testify to his own intent or other state of his mind, notwithstanding the fact that the witness’ intent or other state of mind is material. “Whence came this peculiar doctrine that has found its sole abiding place in the Court of Alabama?”
+Prior to 1874, Judge McElroy says the point seems never to have been insisted upon in Alabama. In the case of Oxford Iron Company v. Spradley, 51 Ala. 171, (1874), the defendant in an action on a promissory note, pleaded that the consideration of the note was to be used for illegal purposes, to further the cause of the confederacy; and that plaintiff concurred in the defendant’s purpose; it was held that plaintiff could not testify what motives or purposes induced him to part with the consideration, as such testimony would “embarrass” the jury in their effort to find the plaintiff’s intention, and because the reception of such testimony would give the plaintiff an “advantage” over the other witnesses.
+Judge McElroy collates many cases and writes at length on the history and development of the point, better known as an exclusionary rule. Judge McElroy’s splendid article and his logical argument was not persuasive in subsequent efforts of a minority of the Supreme Court to abandon this rule and permit a witness to testify as to his mental operations.
+Another minority of the Supreme Court wrote in support of softening the rule and to permit the witness to testify as to his intent. We refer to McGuff v. State, 248 Ala. 259, 27 So.2d 241, wherein the majority of the Supreme Court prevailed over a scholarly opinion written by Justice Livingston (August 2, 1946) concurred in by Justice Stakely. Justice Livingston (later Chief Justice) went into the history of the rule, pointing out and collating, as well as discussing many cases that were incongruous and conflicting in applying and making exceptions to the rule.
+Despite the efforts of minority members df the Supreme Court, authorities on evidence as Judge McElroy, and the discussions in Wigmore on Evidence, referred to by both Justice Livingston and Judge McElroy, the Supreme Court remained adamant and adhered to the rule that such evidence was not admissible. The adherence clashed with all the other states which had repudiated the rule and permitted such evidence by a witness.
+But the Supreme Court of Alabama, in a pronouncement in Starr v. Starr, 293 Ala. 204, 301 So.2d 78, changed this rule of evidence and overruled all language in prior cases to the contrary. This was done on September 12, 1974, before the alleged commission on the instant offense. Starr, supra, was a civil case involving a witness’ testimony in a will contest. We will quote infra, from Starr.
+The Supreme Court in a recent criminal case, Ex parte Tolbert, 1975, 294 Ala. 738, 321 So.2d 227, reaffirmed Starr, supra, wherein it said that this evidentiary rule no longer exists in Alabama, and held that a defendant is free to testify as to his intent and mental process to rebut any presumption arising from the prima facie section of the Worthless Check Act, which was the subject of the prosecution to which the opinion was addressed. Thus the court applied the evidentiary change to criminal prosecutions.
+We quote from Starr, supra as follows:
+“. . . We therefore depart from the past and follow the dictates of conscience and the wisdom of noted writers and other members of this court. We now hold that a witness, on direct, examination, may testify as to his intention, motive or other physically unexpressed mental state, provided, that the testimony is material to the issues in the case. This is another area where the sound discretion of the trial judge will come into play. Thus we will not review the court’s ruling in either admitting or excluding such evidence in the absence of abuse. To the extent Low v. Low and other cases conflict with this point, they are hereby overruled.”
+In Robinson v. Green, 148 Ala. 434, 43 So. 797, (1906), holding that the plaintiff might testify that he was detained against his will, the court said, “It was the statement of fact capable of proof by no one so well as by the plaintiff, and was not the expression of an opinion, reason or conclusion.”
+That a person’s mental state is not a fact, the answer is that in Jacobi v. State, 133 Ala. 1, 32 So. 158, the court approved L. J. Bowen’s neat phrase, “The state of a man’s mind is as much a fact as the state of his digestion.”
+It is to be noted that in doing an act that is the basis of a criminal charge, evidence of intent should not be isolated and considered separate and apart from other evidence illustrating the same subject. In determining what weight should be given such evidence the jury or trier of fact will consider all the evidence on the issue of intent. It is advisable for court to instruct the jury relative to such evidentiary consideration.
+■ The judgment at nisi prius from which this appeal is taken is reversed and the cause remanded.
+The foregoing opinion was prepared by the Honorable Bowen W. Simmons, Supernumerary Circuit Judge, serving as a judge of this Court under § 2 of Act. No. 288, Acts of Alabama, July 7, 1945, as amended; his opinion is hereby adopted as that of the Court.
+The judgement below is reversed and the cause remanded.
+Reversed and remanded.
+All the Judges concur.
