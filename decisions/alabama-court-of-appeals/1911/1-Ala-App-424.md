@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1911-06-30"
+citations: ["1 Ala. App. 424", "55 So. 936"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Massey v. Fain."]
+source_url: "https://static.case.law/ala-app/1/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1611697
+cites_cases: ["103 Ala. 329", "107 Ala. 310", "109 Ala. 136", "109 Ala. 393", "124 Ala. 341", "128 Ala. 175", "135 Ala. 297", "135 Ala. 451", "139 Ala. 644", "156 Ala. 344", "19 South. 436", "20 Ala. 156", "27 South. 309", "3 South. 715", "33 N. J. Eq. 143", "33 South. 480", "68 Ala. 89", "75 Ala. 321", "83 Ala. 384"]
+---
+
+# Massey v. Fain
+
+## Majority (de GRAFFENRIED, J.)
+
+de GRAFFENRIED, J.
+This was an action in trover, and the evidence for the plaintiff established, if believed, the conversion by the defendant of a horse for which the defendant paid $225 when the conversion occurred. The plaintiff offered no evidence of the value of the horse other than the fact that, when he demanded the animal of the defendant, the defendant refused to give up the horse, saying that the horse was worth that to him. Upon motion of the defendant, the court excluded all the evidence of the plaintiff, to which action of the court the plaintiff excepted. There was a judgment for the defendant, and the plaintiff appeals.
+It is manifest that the action of the court in excluding the evidence of the plaintiff was erroneous.
+In actions of trover, where the plaintiff proves the Avrongful conversion of his property by the defendant, but. fails to prove that the property had any market value, the jury may nevertheless award him nominal damages.—Joyce on Damages, §§ 1106, 1145; Drum v. Harrison, 83 Ala. 384, 3 South. 715.
+The measure of the plaintiff’s damages in an action of trover is prima facie the fair market value of the property at the time of the conversion and interest thereon from the date of the conversion to the day of the trial. Under certain conditions he may recover more than that amount.—Boutwell v. Parker, 124 Ala. 341, 27 South. 309; Linam v. Reeves, 68 Ala. 89; 4 Mayfield’s Dig. p. 998, § 320.
+In the present case, the court beloAV excluded the eAÚdence of the plaintiff because it was of the opinion that the price paid by the defendant for the horse was no evidence of the market value of the animal. We cannot consent to such a construction of our laws.
+Evidence of recent actual sales in the same vicinity of similar articles of property to that in question may be admissible as evidence tending to establish the fair market value of the article in question.—Sutherland on Damages, § 449.
+' Certainly, if recent sales of similar property in the same neighborhood may be looked to in ascertaining the fair market value of an article at a particular time, an actual, bona fide sale of the article the subject of the litigation on the day and at the place inquired about can be shown. In the case of Louisville Jeans Co. v. Lischkof, 109 Ala. 136, 19 South. 436, the Supreme Court says: “What the goods cost at some indefinite time in the past could not be fairly looked to as determining their present market value.” And in the case of Central of Georgia Ry. Co. v. Main, 135 Ala. 451, 33 South. 480, the court said that evidence of what the plaintiff paid for the mule three months before the time the subject of inquiry and at a place different from the place the subject of inquiry was not admissible as evidence tending to establish the value of the mule at the time and place when it was killed by the defendant company. The reasoning of the Supreme Court in the above cases is founded upon the well-known fact that the market values of articles of merchandise are constantly changing and differ widely in different communities, dependent upon local conditions as to supply and demand, and also as to the manner in which they are used and kept. Whether a horse which sells today will be worth as much three months hence depends on the supply and demand three months hence, and the manner in which the horse is kept during the period, and his condition at that time. In this case, however, the defendant actually bought and paid for the horse, he agreed to the price, and thereby fixed the value of the horse a,t the time inquired about, and the value claimed by the plaintiff is the defendant’s own valuation of the horse.—Sutherland on Damages, § 504.
+The only true test of the value of an article is what it sells for. All other means of ascertaining the value of a merchantable article is at best to some extent speculative, resting in opinion which only approaches to the fact.—Budd v. Van Orden, 33 N. J. Eq. 143.
+This is especially true of the value of a horse. His appearance, height, weight, speed, condition, temper, age, and various other qualities which naturally suggest themselves all enter into the questiop of his true market value and form necessary elements of it. All of these subjects may cause differences of opinion among experts as to what a particular horse would reasonably bring in a certain market on a particular day, but, when the horse is actually and fairly sold in that market on a particular day at an agreed price, speculation is certainly as to the parties to the sale set at rest. In this case the payment by the defendant of $225 for the horse was a part of the res gestae of the conversion by the defendant of the horse', and as the defendant declared that the horse was worth that much to -him, refusing to give him up on demand of the plaintiff, and indicating thereby that the sale was, so far as he was concerned, a fair one, we are .of the opinion that the declarations of the defendant as to what he paid for the horse were admissible as evidence to which the jury had a right to look in determining the market value, certainly as against the defendant, of the animal on the day of the alleged conversion.
+For the error pointed out, this cause is reversed and remanded.
+Reversed and remanded.
