@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "1 Div. 955"
+decided: "1930-11-25"
+citations: ["24 Ala. App. 671", "131 So. 924"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James OWENS v. STATE."]
+source_url: "https://static.case.law/ala-app/24/cases/0671-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1661414
+---
+
+# Owens v. State
+
+## Majority (BRICKEN, P.J.)
+
+BRICKEN, P.J.
+Affirmed.
