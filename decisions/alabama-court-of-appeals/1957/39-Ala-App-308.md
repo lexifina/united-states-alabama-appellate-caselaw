@@ -1,0 +1,50 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 8"
+decided: "1957-11-19"
+citations: ["39 Ala. App. 308", "98 So. 2d 621"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Josephus PATTON v. STATE."]
+source_url: "https://static.case.law/ala-app/39/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1701475
+cites_cases: ["106 So. 52", "114 Ala. 20", "116 So. 903", "116 So. 905", "21 Ala.App. 61", "21 So. 947", "213 Ala. 697", "217 Ala. 491", "217 Ala. 516", "22 Ala.App. 415", "232 Ala. 129", "244 Ala. 79", "245 Ala. 490", "262 Ala. 420", "35 Ala.App. 511", "38 Ala.App. 156", "38 Ala.App. 64", "4 So. 275", "54 Ala. 221", "84 Ala. 13"]
+---
+
+# Patton v. State
+
+## Majority (PRICE, Judge.)
+
+PRICE, Judge.
+This prosecution for a violation of the provisions of Section 2, Title 36, Code 1940, originated in the Justice of the Peace Court on an affidavit and warrant. The charge in the affidavit was that the defendant did operate a motor vehicle upon a public highway while under the influence of intoxicating liquors or narcotic drugs. The affidavit further averred that “James Bradford claims that Josephus Patton also ran over him while riding his motorcycle upon the highways of this State and County.” From a judgment of conviction in that court an appeal was taken to the circuit court where a jury found him guilty as-charged.
+In the circuit court the Solicitor filed complaint charging that defendant did, “while intoxicated, unlawfully operate a motor vehicle on a public highway in Montgomery County, Alabama,” etc. The complaint further averred that the defendant had previously been convicted of á similar offense.
+Appellant insists there is a fatal variance between the Solicitor’s complaint and the original affidavit, in that, the statement in the affidavit that affiant claimed appellant ran over him with an automobile was omitted from the complaint.
+Aside from the fact that we are of the opinion the charge was the same and there was no fatal variance between the affidavit in the Justice of the Peace Court and the Solicitor’s complaint, no objection was made to the complaint or affidavit, and, not being void, the plea of not guilty waived' any alleged defect appearing in either or both. Carr v. State, 22 Ala.App. 415, 116 So. 903; certiorari denied 217 Ala. 516, 116 So. 905.
+In his opening statement to the jury the Solicitor said: “This is a DWI case, The State charges that Josephus Patton was driving on the public highway — it is an. appeal case from Judge Gardner’s court, from Hope Hull- — -it is not a case we are-familiar with — ”
+After defendant’s objection was over ruled the Solicitor continued his presentation to the jury in these words: “This is an-appeal case from Justice Court. It did not go through anything- the State represented until it got here. The defendant has a right if he wants to, to bring a case here to be tried by a jury and it is a de novo trial.”' Defendant’s objection to this further statement was overruled. We find no reversible-error in this ruling. Of course by statute: the case was to he tried de novo in the circuit court. “A trial de novo means a new trial 'as if no trial had ever been had, and just as if it had originated in the circuit court.’ ” Thompson v. City of Birmingham, 217 Ala. 491, 117 So. 406, 407. But in Channell v. State, 21 Ala.App. 61, 106 So. 52, certiorari denied 213 Ala. 697, 106 So. 52, it was held not error for the trial court to state to the jury that the prosecution originated in the county court and came to the circuit court by appeal.
+For the State, James Bradford testified as he was riding his motorcycle on Hunter Loop road about 7:00 P.M. on July 24, 1955, he met an automobile “wabbling” on the road. Although Bradford pulled completely off the road, the automobile struck and knocked him off the motorcycle. He gave chase and caught and stopped the car. Two men were in the automobile. Defendant was driving and he was drunk. Bradford told him he had hit him and defendant started the car again and drove it into the ditch.
+Mr. K. H. Rush, a highway patrolman, testified he was called to the scene. When he arrived appellant was lying in the front seat of the car, drunk, and he fell out on the ground when the door was opened.
+John Smith testified he was riding in the automobile when it struck the motorcycle. Defendant was driving and was sort of weaving across the road, but he didn’t know whether he had been drinking. James Bradford’s mother testified defendant asked her to tell James not to mention in court that defendant was driving the car.
+Defendant admitted on the stand that he had been drinking but stated it was John Smith, and not himself, who was driving the automobile.
+The evidence was sufficient to sustain the judgment of conviction, and the court properly overruled the motion for a new trial on the ground of the insufficiency of the evidence.
+' To sustain the averment in the complaint that defendant had theretofore been convicted of a like offense, the State called as a witness Mr. Bankhead Bates, assistant Chief of the Driver’s License Division, Department of Public Safety. Mr. Bates testified he was reading from a certified copy of Josephus Patton’s record in the Driver’s License Division. He read, over objection, from this record four prior convictions in the Recorder’s Court of Montgomery for the offense of driving while intoxicated.
+In Yates v. State, 245 Ala. 490, 17 So.2d 777, 779, the court said:
+“When there is an averment as to a former conviction in the indictment or complaint, it becomes an issue in the case, and evidence of it on the trial is necessary for it to have operation.”
+However, such prior convictions can only be proved by the court record of his conviction or a properly certified copy thereof or by the testimony of the defendant himself, and cannot be established by the oral testimony of another. Wright v. State, 38 Ala.App. 64, 79 So.2d 66, certiorari denied 262 Ala. 420, 79 So.2d 74; Ellis v. State, 244 Ala. 79, 11 So.2d 861.
+But we cannot say the trial court’s rulings here were error, since the question was not presented by pertinent ground of objection.
+The punishment prescribed for a violation of the provisions of Section 2, Title 36, Code, is:
+“Upon conviction, such person shall be punished by imprisonment in the county or municipal jail for not more than one year, or by fine of not less than one hundred dollars nor more than one thousand dollars, or by both such fine and imprisonment * *. On a second or subsequent conviction, such person shall be punished by imprisonment at hard labor for not more than one year, or by a fine of not less than one hundred dollars nor more than one thousand dollars, or by both such fine and imprisonment.”
+When the jury had brought in its verdict, the court stated: “You cannot render a verdiet like this. I read the verdict: ‘We, the Jury, find the Defendant guilty, and fix the punishment at one year imprisonment and fine of $500.00.’ You have to make it either one or the other. Like I explained to you in my charge. You have a right to fine him from $100.00 to $1,000.00, or if you think he is entitled to more punishment than that, you bring in a verdict in this wise: ‘We, the Jury, find the Defendant guilty as charged, and decline to fix the punishment,’ in which event it would be the duty of the Court to fix a hard labor sentence. I ask the Jury to take this back and see if you can arrive at another verdict.”
+The defendant reserved an exception and moved for a mistrial, which was overruled by the court.
+The jury withdrew and returned later with this verdict: “We, the Jury, find the Defendant Guilty as charged and decline to fix the penalty.”
+“When an offense is punishable by imprisonment in the penitentiary, or hard labor for the county, the court must impose the term of punishment, unless the power is expressly conferred on the jury.” Title 15, Section 328, Code.
+Section 336, Title 15, Code, leaves it discretionary with the jury to impose a fine or to return a general verdict of guilty, and leave the court to impose the punishment of imprisonment or hard labor. McPherson v. State, 54 Ala. 221; Bibb v. State, 84 Ala. 13, 4 So. 275, 276. And if the jury returns a general verdict of guilty and fails to assess a fine, the court is without authority to impose a fine. Section 335, Title 15, Winn v. State, 38 Ala.App. 156, 79 So.2d 75, and cases there cited.
+However, a verdict of guilty which attempts to assess a fine and impose imprisonment or hard labor is not void: The part of the verdict dealing with imprisonment or hard labor will be treated as surplusage. Taylor v. State, 114 Ala. 20, 21 So. 947.
+“When the verdict of a jury is not in proper form, the court may, before they are discharged, give them proper instructions and have them reconsider the matter and return a verdict, in due form.” City of Tuscaloosa v. Fair, 232 Ala. 129, 167 So. 276, 281.
+Certainly, there was no prejudice to defendant in the court’s action in having the jury reconsider the verdict here. The court imposed hard labor for a term of nine months. This was permissible under the evidence showing prior convictions. Under the first verdict returned such sentence could have been imposed in addition to the $500 fine assessed.
+Nor is there merit in defendant’s contention that the court erred in failing to again instruct the jury as to the form of verdict in the event they should acquit defendant, when they withdrew to correct the form of verdict. Morever, if defendant thought there was an omission in the court’s instructions, he should have tendered a written instruction covering such omitted principle. Waller v. State, 35 Ala.App. 511, 49 So.2d 232.
+Charges refused to defendant were covered by the court’s oral charge and charges given for defendant or were incorrect.
+We find no reversible error in the record and the judgment of the court below is affirmed.
+Affirmed.
