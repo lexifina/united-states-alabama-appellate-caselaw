@@ -1,0 +1,48 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 65"
+decided: "1937-06-29"
+citations: ["28 Ala. App. 1", "178 So. 549"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FEDERAL LIFE & CASUALTY CO. v. ROBINSON."]
+source_url: "https://static.case.law/ala-app/28/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674463
+cites_cases: ["130 Mich. 216", "15 Am.Rep. 612", "151 S.W. 1152", "152 N.W. 7", "171 Ala. 435", "171 Iowa, 309", "24 Ohio St. 345", "29 App.D.C 589", "3 Ala.App. 537", "37 N.W. 174", "54 F.2d 743", "71 N.W. 363", "74 Iowa, 233", "89 N.W. 702", "96 Wis. 390"]
+---
+
+# Federal Life & Casualty Co. v. Robinson
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+The policy in this case was issued by the Federal Casualty Company of Michigan on the 27th day of October, 1923, and by a reinsurance contract, or other legal transfer, became the obligation of the defendant prior to the loss now claimed.
+Plaintiff claimed indemnity under said policy for an injury caused by the jerk of a crane used in the business in which he was employed, and as a result of said jerk plaintiff suffered a hernia on his right side.
+The pleading and evidence for the plaintiff made out Iris case'except as will hereinafter appear.
+The policy issued in 1923 was continuous in its terms, conditioned upon the payment of premiums from year to year, and the right of the defendant to cancel same at any time it saw fit, by giving written notice delivered to the insured or mailed to his last address as shown by the records of the company, together with a check for unearned returned premiums.
+In 1927 the plaintiff suffered injury and hernia on his left side, whereupon, under the terms of the policy, the company adjusted the loss, satisfactory to the insured, and paid the amount of said loss to the insured, taking his receipts therefor; all of which axe in evidence.
+On the trial in this case, the defendant offered to prove, by a witness, then and there present and being examined, that the witness, acting for the company, delivered to the plaintiff a copy of a release executed by the plaintiff on the 14th day of May, 1927; at the time of the adjustment and settlement of the claim made by plaintiff for his first injury and in conjunction with such testimony, the defendant offered in evidence the release, a copy of which is as follows:
+“Release
+“Whereas the Federal Casualty Company of Detroit, Michigan, on account of my physical history, will not issue to me or continue in force Policy No. 449625 unless I execute this instrument and agree that the same shall constitute a part of the contract of insurance:
+“In consideration of the said insurance company agreeing to issue or continue in force said policy in my favor, subject to its provisions, and to assume all other liability imposed thereunder, I do hereby release and discharge said insurance company from all future liability to me, or to any other person who shall have or claim any interest in said policy on account of any disability or loss due wholly or in part to Hernia, Post-operative Hernia or Adhesions during the life of said policy.
+“And I do further agree to consider this instrument a part of the contract of insurance and to attach a copy hereof to said policy.
+“Executed in duplicate at Birmingham, Ala. this 14 day of May, 1927.
+“(s) J. Henry Robinson, “Policyholder.
+“In presence of
+“(s) M. C. Sylvan
+“Approved, attached to and forming a part of Policy No. 449625.
+“Federal Casualty Company, “(s) F. D. Cliff,
+“President.”
+It was admitted that the “Release” was never physically attached to the policy, but it was shown that the policy was at all times in the possession of the plaintiff, and the “Release” was delivered to him.
+The rulings of the trial court were to the effect: That since the “Release” was not physically attached to the policy, it was ineffectual, in view of section 8371 of the Code of 19.23, which provides: “No life, nor any other insurance company, nor any agent thereof, shall make any contract of insurance, or agreement as to policy contract, other than is plainly expressed in the policy issued thereon.”
+This ruling of the court presents the crux of this appeal, and raises the question as to whether or not section 8371' of the Code of 1923 is to have such literal and narrow construction as to require, in all cases, the physical attachment of contracts based on valuable considerations, when the same have been duly executed by the parties. The purpose of the statute is to help out inattentions and misapprehensions on the part of persons insured, who, in too many instances, are either careless or ignorant relative to the numerous conditions usually attached to insurance policies, and to put such persons in possession of the entire evidence of their contracts so they may become familiar with same at their leisure. The foregoing finds support in the opinion in Empire Life Ins. Co. v. Gee, 171 Ala. 435, 55 So. 166.
+We have found no direct authority on the question, but in the case of Maryland Casualty Co. v. Beebe, 54 F.2d 743, 745, in the Circuit Court of Appeals of the Tenth Circuit, the judge writing the opinion has this to say: “The plaintiff was not the beneficiary of the policy at the time of the death of the insured. The company had a contractual right to cancel the policy; it advised the insured that it would exercise that right, unless the beneficiary was changed. Grudgingly, it is true, but without restraint or intimidation, the insured signed an indorsement changing the beneficiary. He retained one copy, and two copies were delivered to the company. When this was done, the beneficiary was changed. The plaintiff asserts that the change was not effective until the insured performed the physical act of pinning or pasting this indorsement on the policy, and relies upon two of the standard provisions; one of them is that ‘this policy includes the endorsements and attached papers, if any, and contains the entire contract of insurance’; the other is ‘no change in this policy shall be valid unless approved by an executive 'officer of the Company and such approval be endorsed hereon.’ But, where the parties have agreed upon a change, and have signed a memorandum thereof, the change is effective, even though by neglect or oversight the memorandum is not physically attached to the policy. It is a matter of common knowledge that indorsements on insurance policies such as vacancy permits, mortgage clauses, and the like, are often sent to the insured through the mail; the insured does not “forfeit his insurance because he neglects to paste or pin the rider on the policy. This common sense view has been taken whenever the question has arisen. Black v. Grain Shippers’ Mut. Ins. Ass’n, 171 Iowa, 309, 152 N.W. 7; Mattocks v. Des Moines Ins. Co., 74 Iowa, 233, 37 N.W. 174; Bennett v. Western Underwriters’ Ass’n, 130 Mich. 216, 89 N.W. 702; American Central Ins. Co. v. Hardin (Tex.Civ.App.) 151 S.W. 1152; Cosmopolitan Fire Ins. Co. v. Gingold, 3 Ala.App. 537, 57 So. 266; Emery v. Lord, 29 App.D.C 589. It is well settled that if an authorized agent of the insurer has custody of the policy, and agrees to attach a rider thereto, but neglects to do so, the insurer is bound. Cooley’s Briefs on Insurance, p. 4200, and cases there cited. The rule works both ways. Where the insured has access to the policy, the rights of the insurer are not altered by the failure of the insured physically to attach an agreed indorsement to a policy.”
+The principles announced in the foregoing seem to settle the instant case. The plaintiff was in possession of the original policy of insurance; he entered into a contract with the defendant relative to the policy, for which he received a valuable consideration. He retained, and for ought appearing still retains, possession of that contract, in which, according to its terms, he agreed to attach to said policy. If, indeed, the plaintiff executed and received the “Release” as claimed by the defendant, he thereby had in his possession the entire contract, and, to all intents and purposes, it became attached to the original policy. Fox v. Masons’ Fraternal Acc. Ass’n of America, 96 Wis. 390, 71 N.W. 363.
+Whether considered as a modification of the original contract, or a waiver of indemnity as to hernia, the “Release” was admissible in evidence, and if proven to the reasonable satisfaction of the jury, constituted a complete defense to this action, either as a part of the contract or as an estoppel to claim indemnity under the policy, after having contracted not to do so, upon a valuable consideration given by the company and received by the insured. Dayton Insurance Co. v. Kelly, 24 Ohio St. 345, 15 Am.Rep. 612.
+In 1 Cooley’s Briefs on Insurance, p. 903, it is stated: ’ “The theory of such cases is that parties to a contract cannot disable themselves from making any contract allowed by law in any mode which the law recognizes as proper.” And, further, the observation is made that the decisions cited rest on the principles of estoppel, rather than modification.
+But, whether resting upon a modification of the contract, or an estoppel, if the “Release” was duly executed, and delivered to the plaintiff upon his agreement to attach the same to the policy, he cannot recover in this case.
+In view of the foregoing it becomes unnecessary for us to pass upon the other questions presented.
+■The judgment is reversed and the cause is remanded.
+Reversed and remanded.
