@@ -1,0 +1,49 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 540"
+decided: "1948-06-29"
+citations: ["34 Ala. App. 62", "37 So. 2d 235"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARGER v. STATE."]
+source_url: "https://static.case.law/ala-app/34/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1690388
+cites_cases: ["100 So. 917", "100 So. 922", "135 So. 410", "139 So. 575", "17 Ala.App. 539", "178 N.Y. 400", "18 Ala.App. 467", "18 Ala.App. 614", "19 Ala.App. 124", "19 Ala.App. 311", "19 Ala.App. 642", "20 Ala.App. 102", "20 Ala.App. 62", "207 Ala. 444", "211 Ala. 574", "24 Ala. App. 352", "24 Ala.App. 601", "43 Wash. 278", "70 N.E. 919", "86 P. 590", "97 So. 158"]
+---
+
+# Barger v. State
+
+## Majority (HARWOOD, Judge.)
+
+HARWOOD, Judge.
+The indictment against this appellant contained two counts. The first count charged distilling, and the second count charged possession of a still or appartus to be used for the purpose of manufacturing' prohibited liquors or beverages.
+His jury trial resulted in a verdict of guilty under the second count, i. e., possessing a still, etc. Judgment was duly entered pursuant to the jury’s verdict.
+On or about April 23, 1947 four law enforcement officers interviewed appellant in a field near a house in which appellant was then staying. During this interview the appellant told the officers of a still located in the woods several hundred yards away,, and further told the officers that the still was his and that he had operated the same: within the past few previous weeks.
+Following directions of the appellant, who accompanied the officers part of the-way, the still was located.
+All of the essential parts of a still necessary for its operation were present except the condenser, or “worm.”
+Several of the officers, after first establishing their qualifications by experience- and knowledge gained from years of law enforcement work, particularly in the field of law concerning illegal beverages, testified that the parts of the still found on this occasion were suitable for and commonly used in the manufacture of prohibited beverages.
+Two of the officers further testified that ■“spent” mash, still emitting an odor, was on the ground near the still.
+The appellant was arrested and taken into Tuscaloosa where he signed a written statement admitting the ownership of the still and its operation by him within recent weeks.
+The appellant did not testify in the trial below. Witnesses introduced in his behalf however testified to the effect that the alleged still was very old, incomplete, and had not been operated for a long time.
+The second count of the indictment, under which this appellant was convicted, charges a violation of Section 131, Title 29, Code of Alabama 1940, (originally Section 1 of the Prohibition Act, Acts 1919, p. 1086), which is as follows: “It shall be unlawful for any person, firm or corporation in this state to manufacture, sell, give away, or have in possession, any still, apparatus, appliance, or any device or substitute therefor, to be used for the purpose of manufacturing any prohibited liquors or beverages.”
+Since the still was not full and complete, Section 131, supra, must be considered with Section 132, Title 29, Code of Alabama 1940 (formerly Section 2 of the Prohibition Act, supra) as a background. Section 132, supra, provides : “The unexplained possession of any part or parts of any still, apparatus, or appliance, or any device or substitute therefor, commonly or generally used for, or that is suitable to be used ■ in, the manufacture of prohibited liquors and beverages shall be prima facie evidence of violation of this article.”
+In effect Section 132 merely creates a rule of evidence and provides that the unexplained possession of any part or parts of any still, apparatus, etc., commonly or generally, used, or suitable, in the manufacture of prohibited beverages shall be prima facie evidence of the possession of a complete still in violation of Section 131, supra. Brock v. State, 19 Ala.App. 124, 95 So. 559; Pate v. State, 19 Ala.App. 642, 99 So. 833; Berry v. State, 20 Ala.App. 102, 100 So. 922.
+It has been uniformly held that when the prosecution relies upon the rule of evidence created by Section 132 to show a violation of Section 131 it is encumbent upon the state to show (1) that the articles designated, i. e., a part or parts of a still, were in the possession of the defendant, and (2) that such article or articles were commonly or generally used or suitable for the manufacture of prohibited beverages, and in the absence of evidence tending to establish either of said elements the defendant is entitled to the affirmative charge. Griggs v. State, 18 Ala.App. 467, 93 So. 499; Masters v. State, 18 Ala.App. 614, 94 So. 249; Brock v. State, 19 Ala.App. 124, 95 So. 559; Wilson v. State, 20 Ala.App. 62, 100 So. 914, certiorari denied 211 Ala. 574, 100 So. 917; Tinker v. State, 24 Ala.App. 601, 139 So. 575; Echols v. State, 24 Ala. App. 352, 135 So. 410.
+Appellant’s counsel argues that the lower court erred in admitting the confessions of the appellant into evidence prior to proof of the corpus delicti.
+The finding by the officers of a still, complete except for a condenser, with odorous spent mash, on the ground nearby, and their testimony to the effect that the parts of the still found were commonly used and suitable for the manufacture of prohibited beverages fully established the corpus delicti.
+Without conceding merit to appellant’s contention that the state had failed to prove the corpus delicti prior to the introduction of appellant’s confession, any alleged error that may have resulted was cured by the subsequent proof of the corpus delicti, which rendered the confession admissible. Carr v. State, 17 Ala.App. 539, 85 So. 852.
+The accused’s' confession tended to implicate him as the owner of the still, and thus the state sufficiently completed and met its burden to prove to the jury’s satisfaction beyond a reasonable doubt that the crime charged had been committed and that the accused was the criminal agent in its commission. Hill v. State, 207 Ala. 444, 93 So. 460; Arthur v. State, 19 Ala.App. 311, 97 So. 158.
+Appellant further contends that the court erred in the admission of appellant’s confession because the same contained allusions to other offenses, which ground accompanied appellant’s objection to the admission of the confession, and also accompanied his motion to exclude same after it had been admitted.
+The confession recites that the appellant had twice previously been arrested for being drunk, and had paid a fine in each instance; that after setting up the still about six weeks before his arrest he had operated same and made 5 gallons of whiskey. The whiskey was bartered to three men for 25 gallons of syrup and $8.75 in cash. These men, it later turned out, were officers.
+After the above statements the appellant admitted in the confession “This was my still and my whiskey and I operated the still all by myself. No one else had anything to do with it.”
+That portion of the above confession pertaining to the sale or barter of the liquor produced on the still was in our opinion necessarily related to the offense of distilling charged under Count one of the indictment, and so interwoven with the offense charged in Count one that the appellant cannot justifiably complain of the admission of this portion of the confession even though it tends to show a sale of prohibited liquors, a separate offense from the one charged. People v. Loomis, 178 N.Y. 400, 70 N.E. 919; State v. Dalton, 43 Wash. 278, 86 P. 590.
+The references to appellant’s two prior arrests for drunkenness, and his payment of fines as a result of such arrests, of course have no possible relevancy to the issues of this case. However, the record shows that in connection with the appellant’s motion to exclude the confession, and after considerable colloquy between counsel, and court, the court instructed the j ury that the only issues before them was whether the defendant was guilty of distilling, or of possessing a still, and “any evidence of other matters, unless it throws light on the issue of distilling, or having a still in possession, as charged in this indictment would not be admissible. So, any evidence that has been given, if any, that refers to any other crime, or separate and distinct crime, of course would not be admissible, and the jury would not consider it, and with that explanation, I will overrule the defendant’s motion.”
+Exception to the above ruling was duly reserved by the appellant.
+The record further shows, that at the request of the appellant the court gave the following written charges:
+“(19). I charge you, gentlemen of the jury, that you will disregard all evidence not pertaining to the possession of a still or all evidence not pertaining to the manufacture of prohibited liquors at the time and place set forth in the indictment.”
+“(24). I charge you gentlemen of the jury, that you are to exclude all statements in the purported confession of defendant related to any matters other than charged in the indictment.”
+By the above cautionary instructions the court properly limited the confession to its relevant parts. Finding in the record abundant evidence to support the verdict we are unwilling to assume that the jury ignored the court’s instructions and efforts to remove from the jury’s consideration the irrelevant portions of the appellant’s confession.
+No other rulings in the trial below warrant discussion. The record, in our opinion, is free of error substantially affecting the material rights of the appellant, and this cause should stand affirmed. It is so ordered.
+Affirmed.
