@@ -1,0 +1,62 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 925"
+decided: "1951-03-27"
+citations: ["35 Ala. App. 631", "51 So. 2d 559"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IVORY et al. v. CITY OF MONTGOMERY."]
+source_url: "https://static.case.law/ala-app/35/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1692526
+cites_cases: ["111 Utah 94", "112 S.E. 423", "114 N.E. 722", "124 A. 273", "140 A.L.R. 1054", "148 S.E. 747", "154 Kan. 387", "16 N.E.2d 584", "179 Minn. 12", "183 N.C. 630", "209 Ala. 635", "209 P. 253", "212 Ala. 202", "212 N.W. 952", "225 Mass. 387", "228 N.W. 170", "235 N.W. 221", "237 Mich. 632", "243 Ala. 162", "246 Ala. 416", "250 Ala. 295", "253 Mich. 465", "26 A.2d 366", "279 Pa. 549", "32 A.L.R. 981", "40 Ga.App. 63", "52 A.L.R. 185", "58 Cal.App. 666", "58 Ohio App. 335", "67 App.D.C. 322", "92 F.2d 473", "92 N.H. 142", "96 So. 771", "96 So. 772"]
+---
+
+# Ivory v. City of Montgomery
+
+## Majority (CARR, Presiding Judge.)
+
+CARR, Presiding Judge.
+The plaintiffs in this cause seek to recover damages to personal property on account of alleged negligence of agents or employees of the City of Montgomery while engaged in their duties of collecting trash or garbage.
+The court below sustained demurrers to the complaint, and the plaintiffs suffered a non-suit and perfected this appeal. Title 7, Sec. 819, Code 1940.
+There is a conflict among the authorities in the various jurisdictions as to whether or not the collection of garbage by a municipality is a governmental or corporate function.
+The Supreme Court of our State has adopted what seems to be the majority rule and has held that such a function is governmental. City of Tuscaloosa v. Fitts, 209 Ala. 635, 96 So. 771.
+Appellants’ attorney in brief concedes this, but he insists that this immunity should be lifted in the case at bar. He stated his reason in this succinct manner:
+“The sole question for determination may be stated thus: Is a municipal corporation immune from liability for the negligence of its employees in collecting and disposing of garbage and rubbish from the backyards of its citizens, from which activity the corporation receives a substantial and regular income ?”
+To the allegation that plaintiffs’ damages resulted from the negligence of defendant’s employees engaged in collecting garbage “from the public streets and alleys, and back yards in the City of Montgomery” is added this averment:
+“Plaintiffs aver that pursuant to an ordinance adopted by the Commissioners of the City of Montgomery on, towit, April 4th, 1949, and effective May 1, 1949, the City of Montgomery regularly levies and collects a quarterly fee or service charge from every person or corporation for whom it collects or removes trash, refuse or garbage, and Plaintiffs further aver that a very real, substantial and regular income has been realized by the Defendant from the collection of said fee or service charge since the passage of said ordinance. Plaintiffs aver that Defendant also received said real, substantial and regular income from the operation of its garbage or sanitary department at the time of said negligence, carelessness or unskillfulness of its agents, officers or employees engaged in work therefor while acting in the line of their duty, which is complained of hereinabove.”
+Against demurrers the complaint must be construed most strongly against the pleader. City of Tuscaloosa v. Fitts, supra; Tyler v. Brown-Service Funeral Homes Co., 250 Ala. 295, 34 So.2d 203; Moseley v. Alabama Power Co., 246 Ala. 416, 21 So.2d 305; McSheridan v. City of Talladega, 243 Ala. 162, 8 So.2d 831.
+' Title 37, Secs. 491 and 496, Code 1940, provide:
+“491. All cites and towns in this state shall have the power to maintain the health and cleanliness of the city or town within its limits and within the police jurisdiction thereof.”
+“496. All cities and towns of this state shall have the power to establish and maintain crematories for the destruction of garbage and like substances, either within or without the city limits, and to haul or cause to be hauled to such crematories trash and garbage of all kinds, and cause the destruction of the same therein, and to fix and collect such reasonable fees as may be necessary to carry out the provisions of this section.”
+Many of the courts, including our own, have held that the underlying test of whether or not a municipality is acting in a governmental or corporate capacity is dependent upon whether the act performed is for the special benefit or profit of the corporate entity or for the common good of all. If the latter conditions appear, the act is deemed governmental. 38 Am.Jur., Municipal Corp., Sec. 574, p. 267; McSheridan v. City of Talladega, supra; Bolster v. City of Lawrence, 225 Mass. 387, 114 N.E. 722, L.R.A.1917B, 1285.
+And, “The test is the service in which the officer is engaged, and not his title or relation to the governing body.” City of Bessemer v. Barnett, 212 Ala. 202, 102 So. 23, 24.
+One of the reasons for holding that a function is governmental, so as to render a municipality immune from liability for a tort, is that the function is performed on behalf of the State, or for the benefit of the general public.
+In this aspect it is generally regarded that the protection and safety of public health is a governmental function. Gathering and disposing of garbage is primarily a health measure. It is, therefore, unquestionably a matter of general concern.
+It follows that whatever powers a city possesses to remove waste and refuse from its streets and alleys are predicated on the assumption that a failure in this respect would result in a menace and danger to the health of the community. The authority to prevent such endangerment stems from the police power of the State.
+The fact that the legislature delegates this essential preventive obligation to the various municipalities does not change the primary character of the function, nor does it divorce the health measure from the undertaking. It is nonetheless a public or governmental function stemming from the police power of the State.
+The Supreme Court in City of Tuscaloosa v. Fitts, supra, predicated its holding on the premise that this performance is for the protection and promotion of public health. The court said:
+“The defendant is a municipal corporation. To 'it has been delegated the right to establish and maintain crematories for the destruction of garbage and like substances, either within or without the city limits, and to haul or cause to be hauled to such crematories 'trash and garbage of all kinds,’ and cause the destruction of the same therein. Section 1282, Code 1907 (now Title 37, Sec. 496, Code 1940). These are governmental functions, delegated by the Legislature to municipalities, designed primarily to promote public health and comfort to the public as a whole, and the municipality is not liable for the torts of its agents or employees occurring while in the exercise and in the performance of that governmental function.” [209 Ala. 635, 96 So. 772.]
+There are some authorities from other jurisdictions which seem to support the position of the appellant. A few of these which we have examined express the view of the form of dictum. Others are based on facts quite dissimilar to those allegedi in the instant complaint.
+Our attention is directed to the case of Scibilia v. City of Philadelphia, 279 Pa. 549, 124 A. 273, 276, 32 A.L.R. 981. Without citing any authorities the court makes this observation:
+“Where the authority exercised or thing done is on the border line between the private and the governmental capacities in which municipalities may act, and has features suggestive of both, charges made for, and commercial income derived from, the rendition of the services involved have been given decisive influence as elements which determine the case to be of a kind where damages for injuries may be recovered, and the absence of these elements has been allowed force the other way.”
+However, there immediately follows this statement:
+“Here, however, no evidence of income received from the activity under consideration appears, and even though it be considered, for the purpose of deciding the present appeal, that some small incidental revenue may be derived through the disposal of refuse gathered by the municipality, this would not have the effect of changing' the duty of collecting and disposing of such refuse from a purely public to a corporate, or business, function.”
+Appellants urge us to follow the holding in the case of Foss v. City of Lansing, 237 Mich. 632, 212 N.W. 952, 52 A.L.R. 185.
+It appears that the city council submitted the following resolution to the vote of the electors of the City of Lansing:
+“Shall a municipal garbage collection service be inaugurated and conducted by the city of Lansing, the initial cost of equipment not to exceed $10,000 as prescribed by resolution of city council of said city of Lansing adopted October 2, 1916, the maintenance of such garbage collection service to be defrayed by general taxation.”
+This resolution was duly adopted and pursuant thereto the council enacted the following ordinance:
+“The cost of the collection and disposal of the garbage of the city of Lansing, except for can service as hereinafter provided, shall be paid from the general city funds; the city shall provide the garbage cans or containers required by ordinance, and the superintendent of garbage shall collect, in advance, from the users of such cans a service charge to help pay the cost and maintenance of the same as follows: $1 for the period of any fiscal year, provided that the service charge for the balance of any fiscal year after November 1, shall be but 50 cents.”
+The council purchased a farm and experimented with different methods of disposing of the city garbage. It finally settled on a plan of raising and purchasing hogs, feeding the collected garbage to them, and when they were fit for market they were sold.
+While engaged in conveying garbage cans the city truck collided with plaintiff’s automobile.
+On the basis of these facts the Michigan Supreme Court concluded: “Whatever the holdings may be elsewhere, we are of the opinion that the rule in Michigan is that, if a municipality is engaged in a governmental work with an incidental profit, it is liable the same as a private corporation would be.”
+An analysis is not required to demonstrate the fact that we are confronted with an entirely different factual situation in the case at bar.
+It is interesting to note that the Michigan Supreme Court four years later pronounced this holding:
+“On this phase of the case it may also be noted that municipal corporations and other governmental agencies when performing a purely governmental function do not lose their immunity from liability for its negligent performance merely because they derive an income therefrom, provided the income is only incidental to the main purpose of so functioning and aimed at covering the cost of the undertaking.” Johnson v. Board of County Road Com’rs of Ontonagon County, 253 Mich. 465, 235 N.W. 221, 223.
+In the same opinion the court referred to the Foss case by observing: “* * * in the Foss Case * * ' * defendant was engaged in buying, fattening, and selling hogs.”
+Very clearly in the instant case the City of Montgomery is not engaging in the collection of its garbage for a profit.
+We cannot see how the fee charged for this service, under the circumstances alleged in the complaint, could take the case out of the influence of the Fitts case, supra. There is no logical basis for this distinction.
+The following authorities support this view: Loube v. District of Columbia, 67 App.D.C. 322, 92 F.2d 473; Bolster v. City of Lawrence (Mass.), supra; Manning v. City of Pasadena, 58 Cal.App. 666, 209 P. 253; Imes v. City of Fremont, 58 Ohio App. 335, 16 N.E.2d 584; Griffin v. Salt Lake City, 111 Utah 94, 176 P.2d 156; James v. City of Charlotte, 183 N.C. 630, 112 S.E. 423; Shoemaker v. City of Parsons, 154 Kan. 387, 118 P.2d 508; Fournier v. City of Berlin, 92 N.H. 142, 26 A.2d 366, 140 A.L.R. 1054; Petty v. City of Atlanta, 40 Ga.App. 63, 148 S.E. 747; St. John v. City of St. Paul, 179 Minn. 12, 228 N.W. 170.
+It follows that the judgment below must be affirmed. It is so ordered.
+Affirmed.
