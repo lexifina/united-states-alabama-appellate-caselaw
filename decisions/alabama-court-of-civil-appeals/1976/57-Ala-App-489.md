@@ -1,0 +1,79 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 735"
+decided: "1976-03-24"
+citations: ["57 Ala. App. 489", "329 So.2d 547"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["Sheryl Y. MARTIN, a minor suing by and through her father and next friend, Willie C. Martin v. AUTO-OWNERS INSURANCE, a corporation, and Adolph Reese."]
+source_url: "https://static.case.law/ala-app/57/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 428092
+cites_cases: ["270 Ala. 126", "274 Ala. 88", "293 Ala. 686", "299 So.2d 333", "309 So.2d 818", "53 Ala.App. 287"]
+---
+
+# Martin v. Auto-Owners Insurance
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+This is an appeal from the Circuit Court of Coffee County. The trial court granted defendant-insuror’s motion for summary judgment, and plaintiff appeals.
+The issue is whether the evidence before the learned trial court presented a genuine issue of material fact. We find that the evidence does present a genuine issue of material fact, and reverse the cause.
+The pertinent facts as revealed by the record before this court are as follows:
+Defendant Adolph Reese was insured by defendant Auto-Owners Insurance Company. The insurance policy contained the following provisions:
+“If claim is made or suit is brought against the insured, the insured shall immediately forward to the Company every demand, notice, summons or other process received by him or his representative . . .
+“Under Coverages A, B and D, no action shall lie against the Company unless, as a condition precedent thereto, the insured shall have fully complied with all the applicable conditions hereof,
+On November 20, 1971, Reese while driving his automobile was involved in a collision in which the minor plaintiff Sheryl Y. Martin was injured. Negotiations ensued between defendant-insuror and plaintiff’s father. These negotiations continued on an intermittent basis through the following November, during which time plaintiff’s medical records were obtained by defendant-insuror. The parties were unable to reach an agreement, and on November 20, 1972, plaintiff filed suit against Reese. Plaintiff on March 6, 1973, obtained a default judgment against Reese in the amount of $4,500.
+Plaintiff attempted to collect this judgment from defendant-insuror, but was unable to do so. Plaintiff then, on October 3, 1973, filed this lawsuit against defendant-insuror, seeking to collect her default judgment against Reese. Defendant-insuror asserted the defense that Reese failed to immediately forward to defendant-insuror plaintiff’s summons and complaint in the action against him, as is required by the policy provisions quoted above.
+Both parties moved for summary judgment under Rule 56, ARCP. Rule 56 provides in pertinent part:
+“The judgment sought shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law. . . . ”
+Defendant-insuror supported its motion with an affidavit by one of its adjusters attesting that it had not received the summons and complaint in plaintiff’s action against Reese until April 18, 1973, over one month after the default judgment was entered. Rule 56(e), ARCP, provides that when a motion for summary judgment is supported by affidavits, the adverse party may not rest upon the allegations of his pleading, but must produce documents showing that there is a genuine issue for trial. If he does not do so, summary judgment may be entered against him.
+The only such document produced by plaintiff was the deposition of Adolph Reese. The portions of Reese’s deposition which are critical here are set out below. On direct examination Reese testified as follows:
+“Q At the time these suit papers were served on you what did you do with them?
+“A Carried them to the insurance office.
+“Q Now, how long after receiving those suit papers was it before you carried them down to the insurance agency ?
+“A It wasn’t long. I probably got them that week, see I was working out of town and when I would get home that Monday I would stay off and carry them to the insurance office.
+“Q So it wasn’t more than a week then?
+“A No, sir, it wasn’t over a week.”
+On cross-examination, the testimony was:
+“Q Mr. Reese, as a matter of fact didn’t you deliver these suit papers to Mr. Dunn and Mr. Dunn carried the suit papers to the Farmers and Merchants Insurance office on April 18th, 1973?
+“A I don’t know about that now, boss man.
+“Q Did you deliver the suit papers or did Mr. Dunn deliver the suit papers?
+“A Mr. Dunn might have delivered that, I mean them for me. Been so long I disremember, you know.
+“Q Well, you testified earlier that you delivered them. Were you mistaken when you said that ?
+“A I must have been on that case then.”
+The pertinent testimony on redirect examination was as follows:
+“Q Then are you positive that you took the suit papers that were first served on you to the insurance agency’s office?
+“A Right.
+“Q What is your answer to the question?
+“A I carried them.”
+On recross Reese testified:
+“Q . Now, did you carry them by or did Mr. Dunn carry them by or do you know.
+“A I know about all the suit papers. That there one now I don’t—
+“Q The first suit papers, which is the only one we are talking about right now,
+“A (No answer.)
+“Q You don’t know ?
+“A No, sir, I don’t know about that.”
+On redirect Resse testified:
+“Q . . . I am asking you right after the suit papers were served on you did you take some papers that were served on you down to the ladies in the Farmers Insurance agency?
+“A Yes, sir, right after I was served.”
+On recross:
+“Q . Mr. Reese, the first set of suit papers that were delivered to you did you take them by yourself to Farmers and Merchants or did Mr. Dunn take them by ?
+“A I told you I don’t know, boss man.”
+On redirect:
+“Q When you were first sued and the sheriff left some papers with you did you within a week take all or some of those suit papers to the Farmers and Merchants Bank—
+“Q The insurance agency and leave it with some ladies there ?
+“A All I got I carried them. All I can remember I carried them to the insurance office.”
+The learned trial judge denied plaintiff’s motion, and granted the motion for summary judgment of defendant-insuror.
+Counsel for plaintiff-appellant contends in brief that the portions of Reese’s deposition set out above present a scintilla of evidence that Reese complied with the policy provisions, and thus raise a genuine issue of fact for trial. Appellee-insuror argues that the testimony shows Reese did not know what happened to the summons and complaint, and that therefore, in view of the other evidence noted above, no genuine issue of a material fact is presented thereby.
+It is the law of Alabama that notice is a condition precedent to the liability of the insuror where the insurance policy contains provisions such as those pertinent here. American Fire and Casualty Co. v. Tankersley, 270 Ala. 126, 116 So.2d 579.
+We initially note that summary judgment cannot be granted if there is a scintilla of evidence supporting the position of the party against whom the motion is made. Folmar v. Montgomery Fair Company, Inc., 293 Ala. 686, 309 So.2d 818.
+As seen from the above, Reese contradicts himself in his testimony as to whether he promptly delivered the suit papers to defendant-insuror. One view of the evidence is he has stated that he did so, that he cannot remember having done so, and that he was mistaken when he (Reese) testified he did deliver them. To find as the trial court found, and as defendant-insuror contends, would require this court to reach the conclusion that Reese’s contradictory statements are testimony that the summons and complaint were not in fact delivered. However, to make such a finding is to weigh the opposing statements and choose between them, which is not the function of the court on motion for summary judgment. Wright and Miller, Federal Practice and Procedure: Civil § 2728.
+Contradicting evidence making out a jury case may be presented by the direct-and cross-examination of one witness. Dean v. Mayes, 274 Ala. 88, 145 So.2d 439. The fact that a witness’s testimony is contradicted furnishes no basis for rejecting that testimony. Otinger v. State, 53 Ala.App. 287, 299 So.2d 333. As such, the contradiction in Reese’s statements presented a genuine issue for trial. The, learned trial judge in effect gave weight to one version of Reese’s testimony over the other, and by so doing resolved the conflict presented by that testimony. The trial judge’s role is not to resolve such factual issues, but to determine if a triable issue exists. Wright and Miller, supra, § 2728.
+In view of its contradictory nature, we cannot say Reese’s testimony did not present a scintilla of evidence that Reese promptly delivered the suit papers. A triable issue therefore existed, so that the learned judge erred by granting defendant-insuror’s motion for summary judgment.
+In view of our disposition of the above issue, it is not necessary nor do we deem it appropriate that we discuss other matters raised in appellant’s brief.
+The case is accordingly due to be reversed and remanded.
+REVERSED AND REMANDED.
+WRIGHT, P. J., and BRADLEY, J., concur.
