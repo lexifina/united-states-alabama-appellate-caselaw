@@ -1,0 +1,23 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1911-11-21"
+citations: ["2 Ala. App. 574", "56 So. 594"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wells Amusement Co. v. Means."]
+source_url: "https://static.case.law/ala-app/2/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1613586
+cites_cases: ["11 Ohio St. 114", "114 U. S. 224", "126 Ala. 616", "180 Ala. 344", "28 South. 620", "59 N. H. 55", "65 Ala. 88"]
+---
+
+# Wells Amusement Co. v. Means
+
+## Majority (WALKEN,. P. J.)
+
+WALKEN,. P. J.
+The defendant introduced evidence tending to show that,the plaintiff was drunk and disorderly on the occasion of his being put out of the defendant’s theater. S. F. Cunningham, a witness introduced in rebuttal by the plaintiff, stated: “I have known this negro Tom Means [the plaintiff] for several years, hut I cannot say exactly how long — for several years.” The plaintiff’s counsel then asked the witness the following question: “I say, have you ever known of him drinking any or being under the influence of intoxicating liquors in any way?” The defendant objected to the question on the ground that it called for immaterial, irrelevant, and incompetent testimony, and duly excepted to the action of the court in overruling the-objection. The witness ansAvered: “I have never seen him under it.” On cross-examination this witness stated: “I have known Tom Means for several years. He never did work for me. I do not know. AAdiat he does after, dark Avhen he goes to show's. I have never been thrown with him any.’,’ The appellant assigns the above-mentioned ruling as error. Another assignment of error is based on a similar ruling on an objection to a question on the same line propounded to another witness.
+We are of opinion that the evidence called for by the questions Avas not legally relevant, and that the objections to the questions should have been sustained. “As a general rule, facts are deemed releAmnt as evidence AArhich logically tend to prove or disprove the fact in issue, yet the rule does n.ot. require the admission of facts bearing so remotely upon the issue that they afford merely a conjectural inference concerning the main fact.” Steen v. Swadley, 126 Ala. 616, 28 South. 620. “There must- be a plain and manifest connection between the issue in controversy and the collateral facts introduced to sustain or rebut it. The evidence must have a proximate tendency to establish the proof or disproof of this principal issue, and must not be- so indefinite or speculative as to be incapable of affording the jury a reasonable presumption or inference of its truth or falsity.”—Brewer v. Watson, 65 Ala. 88; First National Bank v. Stewart, 114 U. S. 224, 5 Sup. Ct. 845, 29 L. Ed. 101. In the case at bar the purpose of the evidence objected to was to furnish the basis for an inference by the jury that the plaintiff was not drunk on the occasion in question. The issue raised was on that question of fact, and not as to the plaintiff’s habit of indulging in or refraining from the use of intoxicants, nor as to his character or reputation in that regard. It cannot with reason be said that the mere fact that a person whose knowledge of the plaintiff’s life was as meager as that of the witness Cunningham had not seen him under the influence of intoxicating liquor could logically tend to rebut the proof that he was drunk on the occasion in question. Such an inference from such proof would be the merest conjecture. The conclusion that a person who is charged by the testimony of an eyewitness to have been drunk at a certain time was in fact, then sober hardly could be said to be a logical or permissible deduction from the bare fact that another witness who had been acquainted with him for several years, but who ivas not present on the occasion in question, and was not even shown to be familiar with his course of life, testifies that he had not seen such person under the influence of intoxicating liquor. Certainly the connection between that proof and tbe fact sought to be established by it could not be said to be plain and manifest. On the contrary, such an inference from such proof would be the merest surmise or conjecture. The law does not permit decisions of fact to be made on mere conjectures or remote inferences, and excludes evidence the real tendency of which would be to mislead the jury to a conclusion for which the evidence furnishes no substantial support.
+The court was in error in the rulings above mentioned.
+Reversed and remanded.
