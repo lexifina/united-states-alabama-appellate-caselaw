@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-01-21"
+citations: ["12 Ala. App. 64", "67 So. 752"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nail v. The State."]
+source_url: "https://static.case.law/ala-app/12/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8819709
+cites_cases: ["10 South. 667", "130 Ala. 13", "14 South. 864", "143 Ala. 13", "182 Ala. 67", "188 Ala. 5", "30 South. 379", "38 South. 216", "39 South. 406", "40 South. 144", "52 Ala. 313", "59 South. 573", "63 Ala. 129", "66 South. 128", "66 South. 81", "68 Ala. 500", "74 Ala. 26", "74 Ala. 9", "78 Ala. 12"]
+---
+
+# Nail v. State
+
+## Majority (THOMAS, J)
+
+THOMAS, J
+Section 7278 of the Code of 1907 provides that: “On the trial for any offense which may be punished capitally, or by imprisonment in the penitentiary, it is a good cause of challenge by the state that the person * * * thinks that a conviction should not be had on circumstantial evidence/’ etc.
+The policy of the law, as thus declared, is to place positive and circumstantial evidence on the same basis of equality, so as to abolish all prejudice or discrimination against the latter, as a means or instrumentality for arriving at truth, in the process of judicial investigation of felonies against the state.—Jackson v. State, 74 Ala. 26.
+The court committed no error, therefore, in sustaining, over the objection of defendant, the state’s “challenge for cause” of the juror Montgomery, who, on his voir dire examination by the court, had stated that he would not convict on circumstantial evidence unless it was so strong as to be sufficient to remove all possible doubt of defendant’s guilt. The law requires that circumstantial, like positive, evidence be strong enough to convince only beyond all reasonable doubt; consequently, the juror, having exacted, as a prerequisite to his joining in a finding of a verdict of guilty, a higher degree of proof than the law deems necessary to a conviction, was disqualified and was properly challenged by the state for canse. — Code, § 7278; O’Rear v. State, 188 Ala. 5, 66 South. 81.
+It appears from the evidence for the state that, on the night of the killing, the defendant (Jesse Nail), his brother (Fayette Nail), the deceased (Noah Wood), one Ambrose, and one Prince, were all walking together in returning from Brookside to Cardiff in Jefferson county; that they were all drinking; — that during the course of the journey the defendant, shortly before he killed the deceased (Noah Wood), had a difficulty with said Prince (one of his above-mentioned companions on the journey), in which he (defendant), not acting in self-defense, knocked said Prince down with his pistol, then shoved him down a high embankment, and, as he was falling down it, shot at him in the dark several times with his pistol; that nothing more was heard from Prince, but that he was left where he fell, and that none of the parties went down the embankment to see about him or to ascertain Avhether he was dead or alive, but they all proceeded on the journey for some distance, when deceased remarked that he was going back to hunt for Prince, which he did without avail; and that later, on overtaking his companions (comprising defendant, defendant’s brother, and said Ambrose), he Avas killed by the defendant and defendant’s brother without provocation, justification, or excuse. It was the theory of the state that defendant’s act in killing deceased was prompted by a motive to silence him, and thereby to prevent any discloseure on his part of the alleged crime Avhich defendant had committed in assaulting Prince, and which apparently had resulted fatally, though, as a matter of fact, as was afterwards learned, Prince was uninjured except to the extent of having been knocked unconscious for a long time by tbe blow administered by'defendant and the resultant fall down the embankment. If defendant believed, however, that he had committed a homicide in assaulting Prince, then, although he had not, such belief could furnish as strong an incentive on his part to suppress or conceal the crime as could the reality itself.
+It is always competent for the state to prove facts which tend to show a motive for the commission of the offense charged; and this is true even though such facts' show the commission of a previous crime, provided that crime is so connected by the evidence with the crime under investigation that it may be fairly inferred from such evidence that a desire to conceal such previous crime by destroying a person who had knowledge of it furnished the motive for doing the crime in question.—Miller v. State, 130 Ala. 13, 30 South. 379; 21 Cyc. 916-917; 12 Cyc. 410; Gassenheimer v. State, 52 Ala. 313, and cases cited in the report of this case in the annotated Alabama Reports; Shorter v. State, 63 Ala. 129; Collier v. State, 68 Ala. 500, 6 Mayf. Dig. 627; 1 Mayf. Dig. 646.
+We are of opinion that the connecting facts and cir--cumstances in this case, though weak, were sufficient to justify the court in permitting proof of the difficulty between defendant and Prince, the character, violence, and circumstances of the assault bn Prince, and the apparent condition in which he was left as a result there of.—Authorities supra; Nordan v. State, 143 Ala. 13, 39 South. 406.
+Charge 2 requested by the défendant is identical with charge 1, which was condemned by oúr Supreme Court in the recent case of McClain v. State, 182 Ala. 67, 62 South. 241.
+Charge 32 was properly refused as singling out and giving undue prominence to a part of the evidence. Besides, tbe facts which would justify defendant in taking life must be such as not only impressed the defendant, but such as would impress the mind of a reasonable man, that defendant was in danger of losing his own life or suffering grievous bodily harm.
+The other refused charges were amply covered by given charges.
+We have discussed all questions urged in brief. As we find no error in the record, the judgment appealed from is affirmed.
+Affirmed.
