@@ -1,0 +1,33 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 703"
+decided: "1921-04-19"
+citations: ["18 Ala. App. 135", "90 So. 57"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MORRIS v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645181
+cites_cases: ["1 Ala. App. 140", "10 Ala. App. 66", "14 South. 327", "17 Ala. App. 684", "172 Ala. 379", "178 Ala. 412", "200 Ala. 569", "204 Ala. 232", "65 South. 262", "88 South. 197", "97 Ala. 18"]
+---
+
+# Morris v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The defendant was indicted, tried, and convicted of the offense of assault with intent to murder and an indeterminate sentence of not less than 7 nor more than 10 years’ imprisonment in the penitentiary was imposed upon him.
+There is but one question presented on this appeal, and this relates to the rulings of the court upon the motion of the defendant to quash the venire serving for the week of court during which this cause was tried. The motion to quash was based upon alleged irregularities upon the part of the jury commissioners in preparing or selecting names for the jury roll and in refilling the jury box for the county. This motion was based upon three substantive grounds, which, in substance, were as follows: First: that the jurors composing the venire were drawn from an illegal jury box, in this: In September, 1919, the then presiding judge of the lower court issued an order to the jury commission in words as follows:
+“State of Alabama, Shelby county in the circuit court of Shelby county, Ala. It appearing to the court that the jury box of Shelby county, Ala., is badly in need of revision on account of many errors in the names of jurors, and on account of the names of many persons being placed in said jury box in duplicate, it is ordered that the jury commissioners of Shelby county revise said jury box, and that the clerk of this court give notice to the jury commissioners of this order. Witness my hand this the 25th day of September, 1919. Hugh D. Merrill, Judge.”
+That when said order was issued there were 1,400 names in the jury box, and the names in the jury box were not exhausted or so far depleted that they would probably be exhausted at the next drawing of jurors; that after notice of said order the jury commissioners met and tools from said jury box the names.of said 1,400 jurors and destroyed them and made a new jury roll containing the names of only 600 jurors, and from it prepared new cards, which were placed in said jury box. It is then averred that said .order above set out was without authority of law and of no legal effect, and the jury box as last filled was illegal, and that the jurors composing said venire were drawn from said illegal jury box.
+The second ground of the motion is practically the same as the first, with this exception:
+“In this ground the order to the jury commissioners to revise the jury box is treated as legal, whereas in the first ground of the motion it is treated as illegal. In this ground the order being treated as legal and valid, it is shown that the jury commissioners did not revise the jury box, but, on the contrary, destroyed the names therein contained, and then refilled it. If the order was valid and legal, then the jury commissioners, in destroying the contents of the jury box and refilling the same, certainly and beyond peradventure transcended any legal authority given to them by the order, which was to revise the box — to take out duplicate names, if any, and to correct errors in names, if any — not to destroy the names in the box and replace the same with new names. The only authority to go into the box at all was the order of the court, and having transcended the authority vested in them by virtue of the order in destroying its contents and refilling it, instead of revising it, their whole action in the matter was illegal, and it results that the jury box as last filled is illegal. Therefore the court erred to the prejudice of defendant in sustaining the demurrers to said ground of the motion.”
+The third ground of the motion is different from the first and second grounds. In this ground of the motion it is averred:
+“That * * * at a time when the jury box * * * contained the names of 1,400 jurors, and at a time when the names in said jury bps were not exhausted or so far depleted that they would probably be exhausted at the next drawing of jurors, the jury commissioners, * * * without authority of law or any legal authority from the court, met and took from said jury box the names of said, to wit, 1,400 jurors, and destroyed them, and proceeded to make and certify a new jury roll, and deposited cards bearing the names contained on or in said jury roll, to wit, only 600 in number in the jury box of said county, and defendant says that said jury roll as last prepared aforesaid and said jury box as last filled aforesaid by the jury commissioners * * * was illegal, as the said jury roll was prepared and said jury box filled by said jury commissioners of said county without authority of law or any legal order from court. Defendant avers that the jurors composing the venire serving in this court the present week were drawn from said illegal jury box.”
+Demurrers by the state to this motion were sustained. This was a collateral attack upon the action of the jury commission to establish the invalidity of the venire for the week of the court in question, and in our opinion is not sufficient for that purpose, as the provisions of the jury law (Gen. & Local Acts, Sp. Seas. 3909, p. 317) were manifestly intended by the Legislature to prevent such collateral matters having this effect. Section 29 expressly provides that no objection can he taken to any venire of jurors except for fraud in drawing or summoning the jurors. Beeves v. State, 17 Ala. App. 684, 88 South. 197. As pointed out by the demurrers the motion did not allege “fraud in drawing or summoning the jurors.” The ruling of the court in sustaining the demurrers was free from error.
+The appellant relies principally upon the case State ex.rel. Denson v. Miller, 204 Ala. 232, 85 South. 698, which was a mandamus proceeding to require the commission to fill the jury box as required by statute. This of course was a direct attack, and it was held that the petitioner was entitled to relief. The ease is without analogy here, as this was a collateral and not a direct attack.
+No error appears; the judgment is affirmed.
+Affirmed.
+<&wkey;>For other oases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
