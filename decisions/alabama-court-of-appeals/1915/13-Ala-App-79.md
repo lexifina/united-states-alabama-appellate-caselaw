@@ -1,0 +1,34 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-06-03"
+citations: ["13 Ala. App. 79", "69 So. 333"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McConnell v. The State."]
+source_url: "https://static.case.law/ala-app/13/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1628459
+cites_cases: ["105 Ala. 31", "16 South. 716", "2 Ala. App. 25"]
+---
+
+# McConnell v. State
+
+## Majority (PELHAM, P. J.)
+
+PELHAM, P. J.
+Defendant’s counsel have assigned 19 errors on the record, but have furnished no brief in support of the errors thus assigned. A motion was made to quash the special venire, and copy served upon the defendant, on numerous grounds, which are either not well taken as matter of law, or are unsupported as matter of fact, by the recitals in the record. An examination of the record shows a strict compliance with the provisions of the law in every particular pertaining to the matters complained of, and no question is raised by the motion or presented by the court’s 'ruling thereon that merits discusión, or that would serve any beneficial purpose, or justify extending this opinion in pointing out and reiterating well-known, established rules of law, that have heretofore often been declared and applied to similar questions or identical propositions in other cases.
+The question propounded by the solicitor to the state’s witness Dr. P. S. Hollis, “Did you examine, the deceased’s pockets?” elicted nothing prejudicial to the defendant, and no reversible error is shown in the court’s action in overruling the defendant’s objection to the question, or in refusing to exclude the answers on motion of the defendant.
+The witness Boot Hawkins is shown to have subsequently answered the question, “I will ask you if the' negro, Homer Leach, was close enough to cut Robert, if Robert had turned to run,” to which an objection interposed by state’s counsel was sustained. The witness, testifying on this subject immediately after the court sustained an objection to the question, stated without objection:
+“The distance the deceased (Homer Leach) was from the defendant (Robert), I really don’t know whether he could have reached him or not, but it looked to me that he was close enough, if the defendant had turned, to have cut him before he could have got out of the way.”
+The witness Henry Fox was permitted to narrate in great detail the position and actions of deceased and defendant at the time of the fatal difficulty, their distance apart, and the" movements of each, and what was said and done by them, and the court properly sustained the solicitor’s objection to the questions propounded by the defendant’s counsel, seeking to elicit the opinion of the witness as to whether the defandant could have turned and gotten away from the deceased without getting cut. This was a matter for the jury — an issue in the case upon which the witness was properly allowed to state the facts, but the conclusion to be drawn from them was for the jury.
+The witness Lee Quinn is shown to have answered the question as to whether or not the defendant “did or said anything to bring on the difficulty,” notwithstanding that the court sustained the solicitor’s objection to it. Even had the question not been answered, objection to it was properly sustained, as seeking an opinion of the witness.
+The court was not put on notice of anything showing the relevancy of testimony tending to prove that some white men were playing a game of cards or dice in the neighborhood of where the fatal difficulty occured between the deceased and the defandant, and cannot be put in error for refusing on the solicitor’s objection to permit the defendant to make proof of facts wholly irrelevant to any issue in the case, so far as appears from anything shown by the testimony set out in the bill of exceptions.
+The defendant’s witness Houston Burgiss had, just previous to the question asked him by the defendant, “He was in cutting distance, was he?” stated that the deceased, to whom the question referred, was in cutting distance of the defendant, and the court properly sustained the solicitor’s objection to a question that merely called for a repetition of what the witness had already stated immediately before the question was asked— aside from the fact that the ruling might well be sustained because of its leading form.
+No abuse of the court’s discretion is shown in the range of cross-examination permitted-by the court in the solicitor’s cross-examination of. the witness Houston Burgiss, or the défendant, when being examined as a witness in his own behalf. It was permissible to show the defendant’s flight as a criminating circumstance.—4 Ency. Dig. Ala. Reps. 130, § 205, and authorities there cited. It was not improper to show by the defendant that he had left the state, as well as the neighborhood, and had gone to the state of Arkansas'. Any conduct of the defendant tending to show flight as a consciousness of guilt, though weak and inconclusive, is admissible. The weight of the evidence is for the jury.—Montgomery v. State, 2 Ala. App. 25, 56 South. 92.
+It was competent to show by the defendant on cross-examination that he had a pistol, and carried it with him to the scene of the difficulty, where he went, confessedly looking for the deceased, to demand repayment of a loan of money that was in dispute.
+The defendant had been examined as a witness in his own behalf, and his general character in the community in which he lived before the-homicide was admissible, and the court correctly overruled the defendant’s objection to the question propounded to the witness M.- Brothers on rebuttal seeking an answer as to such matter.—Byers v. State, 105 Ala. 31, 16 South. 716.
+The question asked the defendant’s witness Banks Hyde on cross-examination by the solicitor as to the defendant’s general character, and to which the defendant objected, and reserved an exception to the action of the court in overruling the objection, is not shown to have been answered.
+The charge refused to the defendant was •bad, in that there are degrees of guilt comprehended within the terms of the indictment, of which the jury could find the defendant guilty, without believing that the defendant acted with malice. The charge is also bad in predicating an absolute, unqualified belief in the minds, of tbe jury that the defendant shot the deceased unlawfully and with malice, as a condition precedent to a verdict of guilty, while the jury is only required to entertain a belief .beyond a reasonable doubt to justify a finding of guilt.
+We have treated all of the matters assigned as error, and examined the entire record, and find no reversible error.
+Affirmed.
