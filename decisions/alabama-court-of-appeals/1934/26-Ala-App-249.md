@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 4"
+decided: "1934-10-30"
+citations: ["26 Ala. App. 249", "157 So. 264"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RANKIN v. LILE et al."]
+source_url: "https://static.case.law/ala-app/26/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1667015
+cites_cases: ["131 So. 450", "24 Ala. App. 110", "65 Ala. 232", "79 Ala. 91"]
+---
+
+# Rankin v. Lile
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+The suit is on the common count for money had and received and special counts 2 and 3, which allege, in substance, that plaintiffs (appellees) and defendant (appellant) entered into an agreement whereby defendant agreed to act as agent for plaintiffs in the sale of certain real property of the plaintiffs; that defendant did undertake to so act as agent for the sale of said land, and, while acting as such agent, procured a purchaser for said land, viz., one Scruggs, who agreed to pay for the said property $2,350, and who paid to defendant the sum of $350' as partial payment of the' purchase price of said 'land, which sum the plaintiffs on, to wit, August 15, 1926, and frequently thereafter, demanded of defendant, but defendant failed or refused on demand to pay said sum to plaintiffs.
+Defendant demurred to the special counts and pleaded in short by consent. The trial was before the court without a jury. There was judgment for plaintiffs, and defendant has appealed, assigning as error the overruling of demurrer to the complaint and the rendition of judgment in favor of plaintiffs and against the defendant.
+The burden of the demurrer is that the complaint fails to show the sale of the property was concluded, and the argument is that defendant would be liable to plaintiffs only if the sale was actually consummated for the agreed consideration, and this actually paid to defendant for plaintiffs.
+The demurrer is not well taken. If the agent, acting as such, received the money for his principal, then, obviously, he is due to account to his principal therefor.
+The evidence shows the listing of the property for sale by plaintiffs with defendant. The minimum sale price was fixed at $2,250, defendant’s commission to be 5 per cent. Defendant procured as a purchaser one Scruggs, who agreed to pay $2,350 for the property and gave defendant a check for $350 as part payment. Defendant notified one of the plaintiffs of the sale, and she returned to her home for the purpose of completing the sale. Defendant informed her of the foregoing arrangement, but that Scruggs had backed down and had stopped payment of the check. He further informed plaintiff that he had deposited the check any way and that it had been paid. As a reason for not then turning over to plaintiff the amount paid to him,less his commission, defendant stated that the bank was demanding a refund. It appears further that the cheek was paid through error or mistake of the drawee bank, in disregard of its depositor’s stop order, and that the bank restored the amount to his credit. It also appears that the bank instituted an action against the defendant for the recovery of the amount paid to him on this cheek, but failed in its suit. See Bank of Moulton v. Rankin, 24 Ala. App. 110, 131 So. 450. Some expense was incurred by defendant in defense of that action.
+Defendant would deny plaintiffs’ title to the fund, first, because the contract of' sale was void under the statute of frauds, and, second, because the money was received,, not from the purchaser, but from the bank, with which plaintiffs had no privity, and by reason of the bank’s negligence. Neither contention can avail. First, defendant is es-topped to deny the title of his principal, and, as against his principal, set up title in himself to money collected by him in the course of his agency. 2 C. J. 744; Shields v. Sheffield, 79 Ala. 91; Hungerford v. Moore, 65 Ala. 232. And it does not lie in his mouth to question the validity of a contract made by him for his principal, the fruits of which he has received and withheld from his principal. Second, the fact, if so, that the bank rendered itself liable to its depositor, the purchaser, in such wise that the bank and not the purchaser actually paid out the money, cannot serve to introduce a new and independent transaction, separable from the transaction in which defendant acted as sales agent. The faét is that it was upon the purchaser’s check, and that alone, that he came into possession of the money.
+Finally, defendant insists that plaintiffs were chargeable with the aggregate of the expense incurred by him in defending the suit instituted by the bank, in addition to the amount of his commission. He contends that these two items more than consume the amount received by him, and that plaintiffs are thus entitled to nothing. To sustain his contention in this regard, defendant must have shown by his evidence to the reasonable satisfaction of the trior of the fact that his retention of the money, his assumption of title to and dominion over it, and the course pursued by him in defense of the litigation by the bank, were with the authority of the plaintiffs, his principals, either express or implied. The evidence is ample to justify a finding that plaintiffs in no manner authorized or agreed to the course pursued by defendant. His interest in the fund was limited to his commission. His voluntary conduct, his course of conduct, the expense he may have incurred, are referable to his limited interest.
+More than six years elapsed between the receipt by defendant of the money — as a first payment on plaintiffs property — and the rendition of judgment in the trial court. The judgment, as we analyze it, allowed defendant credit for the full amount of his commission, on the apparent theory that plaintiffs agreed, as found from the evidence, for ■him to retain same. This, in our opinion, was .all he was entitled to.
+The judgment is due to be, and it is here, rffirmed.
+Affirmed.
