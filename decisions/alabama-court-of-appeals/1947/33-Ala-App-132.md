@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 999"
+decided: "1947-04-22"
+citations: ["33 Ala. App. 132", "31 So.2d 144"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROGDEN v. STATE."]
+source_url: "https://static.case.law/ala-app/33/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1687960
+cites_cases: ["19 Ala. App. 77", "197 Ala. 610", "20 Ala.App. 181", "21 Ala.App. 103", "21 Ala.App. 227", "29 Ala.App. 220", "73 So. 72"]
+---
+
+# Brogden v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The prosecution in this case was begun under the provisions of a local act, wherein prosecutions for misdemeanor may be instituted on affidavit sworn to before the Clerk of the Circuit Court. Local Acts of Alabama 1927, p. 64.
+The offense charged was for the violation of Section 95, Title 3, Code of Alabama 1940. Said statute reads as follows: “Sec. 95. Permitting live stock to run at large in stock law districts, penalty for.— Any person or persons owning or having the possession, custody or control of any live stock, who unlawfully and knowingly permit the same to run or be at large in any stock law district or territory wherein live stock are prohibited by law to run at large, shall be guilty of a misdemeanor, and on conviction, shall be fined not less than double the damages sustained by the injured party or parties, but in no case more than fifty dollars, one-half the fine to go to the injured party or parties, the fine to be paid in lawful money of the United States; and may also be imprisoned in the county jail, or sentenced to hard labor for the county for a term not exceeding six months, at the discretion of the court or jury trying the case.”
+The affidavit and warrant were dated on the 4th day of October 1943. After the arrest of fibe defendant a jury trial was demanded and accorded. The case was tried as shown by the transcript on the 28th day of October 1946, three years after the affidavit and warrant were issued. The trial resulted in the conviction of the defendant, and judgment of conviction was duly pronounced and entered. From said judgment this appeal was taken, and the cause was here submitted on March 27, 1947.
+The evidence in this case was in sharp conflict, this being true, the defendant was not entitled to a directed verdict, and the insistence by his earnest counsel to the effect that the court erred in refusing to defendant the affirmative charge cannot be sustained.
+T. S. Spears, the prosecutor, and his wife, were the principal witnesses for the State, and it is insisted that ill will existed between them and the defendant. This the defendant undertook to show, and one of the main insistences of error is to the effect that the trial court erred in its rulings by unduly abridging his right to cross-examine witness Spears, by showing, or trying to show, the extent of this witness’ interest in the case. Spears had testified that after a settlement between himself and defendant for the damages the defendant’s hogs had done to his peanut crop, that he, Spears, went immediately to the county seat .and started this prosecution, as above stated. On cross-examination he admitted that he had employed an attorney, Mr. Gillis, to assist the solicitor in the prosecution of this case. The record shows: “He was then asked the following question: ‘How much have you paid him?’ The State objected to this question, the Court sustained the objection, and the defendant duly and legally excepted to the action of the Court. Appellant then asked the witness, ‘Have you paid him?’ The State objected to this question, and appellant duly and legally excepted.”
+It is insisted that the foregoing questions called for legal evidence. It seems, under the authority of the following cases, this insistence must be sustained, and that reversible error is manifest in said rulings. Williams v. State, 21 Ala.App. 227, 107 So. 37; Dickey v. State, 197 Ala. 610, 73 So. 72; Davidson v. State, 19 Ala. App. 77, 95 So. 54; Hembree v. State, 20 Ala.App. 181, 101 So. 221; Ham v. State, 21 Ala.App. 103, 105 So. 390; Tyson v. State, 29 Ala.App. 220, 194 So. 699.
+Under the Statute, Section 95, Title 3, Code of Alabama, witness Spears, the prosecutor, had a pecuniary interest in the verdict of the jury.
+Witness Spears, on his direct examination by the State, testified that defendant’s hogs, on several occasions, were running at large on his crops, and in this connection he was asked the following question, “Will you tell the jury, how much damage, in your judgment, that these hogs did, the amount in dollars and cents.” Spears answered, “I believe it would be $15.00.” The testimony discloses that on two separate occasions, the defendant had paid to Spears the sums of $6 and $2 in cash as damages. The first payment in accordance with the finding of three arbitrators selected by mutual consent; and the second payment of $2 the amount claimed by Spears as damage for the last occasion. Said amounts were received by Spears. Thus $8 of the $15 damages had been paid and accepted by Spears, leaving a balance due for damages of $7 only. On this question the jury after having deliberated for some time, appeared before the trial judge for further instructions, and wanted to know if they could deduct from the amount of damage of $15 the amount of $8 which defendant had admittedly paid to Spears. The court instructed the jury that said deduction could not be made, and the jury’s verdict as to the fine was in line with the court’s instructions, thus requiring defendant to pay double damages to that extent. This matter was made the basis of ground 5 of defendant’s motion for a new trial. We are of the opinion said motion should have been granted.
+The controlling question involved in this case was whether or not the defendant did unlawfully and knowingly permit his hogs to run at large, as complained. On this question the evidence, as stated, was in sharp conflict.
+For the errors indicated the judgment of conviction from which this appeal was taken is reversed and the cause remanded.
+Reversed and remanded.
