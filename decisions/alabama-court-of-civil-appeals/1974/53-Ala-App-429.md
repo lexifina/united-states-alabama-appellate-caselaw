@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 386"
+decided: "1974-10-04"
+citations: ["53 Ala. App. 429", "301 So. 2d 193"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BRADLEY and HOLMES, JJ., concur."]
+parties: ["EXCHANGE SECURITY BANK, a corporation v. Thomas R. KING and Johnnie Faye King."]
+source_url: "https://static.case.law/ala-app/53/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1738766
+cites_cases: ["139 Colo. 262", "175 S.W.2d 1017", "201 Miss. 336", "207 Or. 253", "25 A.2d 412", "295 Ky. 850", "338 P.2d 1032", "92 N. H. 89"]
+---
+
+# Exchange Security Bank v. King
+
+## Majority (WRIGHT, Presiding Judge.)
+
+WRIGHT, Presiding Judge.
+This is an appeal from verdict and judgment-in favor of defendants and the refusal of a motion for judgment notwithstanding the verdict in a suit on a note.
+The evidence tended to show that in April, 1967, plaintiff purchased a note secured by a title retention contract on a mobile home. On May 31, 1968, the mobile-home was sold to defendants and they assumed the balance on the note under a written agreement with plaintiff. The note was payable in monthly installments. Defendants paid the installments until March of 1971. At that time they traded the home in on a larger one to Allison Mobile Homes. Defendants informed Allison of the indebtedness to plaintiff and the balance due on the note was determined. Defendants then financed the new mobile home and paid to Allison the unpaid balance on the note. The coupon or payment book used in making payments to plaintiff was given by defendants to Allison.
+Plaintiff was not informed of the deal between defendants and Allison at the time it occurred and it did not agree to either the sale or an assumption of the note by Allison. Someone, presumably Allison, made several monthly installment payments to plaintiff subsequent to the trade, using the coupons issued by plaintiff. Payments were late beginning in September, 1971, and late notices were sent to defendants. They contacted Allison, who told them not to worry, that the note was paid. Defendants did not contact plaintiff about the note until March, 1972. At that time, defendants sent a letter to plaintiff inquiring why they were receiving late notices about the note. They stated to plaintiff that the note had been paid off and they wanted to be informed as to why they were receiving late notices. No payments were received by plaintiff after March, 1972.
+On June 21, 1972, plaintiff sent a letter to defendants informing them that since the home had been traded and payments had not been made that the balance was declared due and pay-off was expected.
+On August 7, 1972, a representative of plaintiff called defendants and learned to whom the trailer had been traded and the fact that Allison had agreed with the defendants to pay the note. On August 14, 1972, plaintiff called Allison about the defendants’ representations. Allison professed no recollection of the deal, but promised to get in touch with plaintiff in a few days. Allison’s wife was contacted in south Alabama. She told plaintiff she was divorced from Allison and had nothing to do with his business. Efforts by plaintiff to collect from Allison were unfruitful. The matter was turned over to counsel and suit was filed.
+After the evidence was in, plaintiff moved for directed verdict. Ruling on the motion was reserved. Arguments were made and the court orally charged the jury.
+The court charged the jury that one of the defenses of defendants was that plaintiffs had ratified the actions of Allison by accepting payments on the mobile home from Allison and that defendants’ special defense was that of ratification. The court then stated to the jury that as a matter of law, Allison was not an agent of plaintiff. There followed a lengthy charge as to the definition of ratification.
+Plaintiff excepted to the court’s oral charge on ratification on the ground that there was no evidence of ratification by plaintiff. Objection and exception to the charge were overruled.
+After return of verdict and judgment for defendants plaintiff moved for judgment notwithstanding the verdict. The motion was denied. We find the refusal of this ruling of the trial court to be in error.
+There is contained in the court’s pre-trial order a statement to the effect that defendants do not deny that some amount owed on the note was never paid but as a defense to the action against them, they say that they paid the amount due to Allison and that Allison was the agent of plaintiff to receive such money or that plaintiff subsequently ratified Allison as its agent.
+In its oral charge, the court stated to the jury that the act of ratification contended by defendants was that of plaintiff in accepting payments on the mobile home from Allison. We were not favored with a brief by defendants-appellees in this case and are not informed as to their contentions.
+The court defined ratification in its charge as “the adoption or affirmance by a person of a prior act which did not bind him, but which was done or professed to be done on his account.” Such definition perhaps is a correct general statement, but we are unable to determine its application to the evidence in this case. There is no evidence that Allison ever represented to defendants that he was acting on behalf of' plaintiff in collecting the unpaid balance on the note as of the date of the trade-in. The evidence is clear and undisputed that plaintiff did not know Allison nor had he had any dealings or connection with him. If there was any agency involved, it was that Allison was to be defendants’ agent in paying defendants’ obligation to plaintiff.
+There was no evidence that plaintiff knew of such a deal until more than a year thereafter. The undisputed evidence was that plaintiff did not know of any relationship between Allison and defendants. Though there was inference from the evidence that payments were made on the note by Allison after the trade-in and accepted by plaintiff, such inference, if true in fact, did not of itself constitute a scintilla that plaintiff accepted Allison as its debtor and released defendants from their obligation under the note. The mere acceptance from one of payments on another’s indebtedness does not indicate of itself release of the original debtor nor assumption by the payor of such indebtedness. Credit Bureau Adjustment Dept. v. Cox, 207 Or. 253, 295 P.2d 1107.
+The evidence that plaintiff sought payment from Allison after learning that he had collected the amount due on the note from defendants more than a year before did not constitute a substitution of debtors nor release defendants. The definition of ratification by the court received no support from the evidence. There was no evidence which indicated that the act of Allison was done for the benefit of plaintiff nor professed to be so committed.
+Ratification can occur only after full knowledge of the facts and acceptance of any benefits by the one to ratify. Gulf Refining Co. v. Travis, 201 Miss. 336, 29 So.2d 100. Fidelity & Deposit Co. of Maryland v. McComas’ Adm’r., 295 Ky. 850, 175 S.W.2d 1017.
+Ratification is in legal effect the adoption of the act of one who has assumed to be an agent without grant of authority. Hayutin v. Gibbons, 139 Colo. 262, 338 P.2d 1032.
+The court charged the jury that Allison was not an agent of plaintiff as a matter of law. As we understand the authority we have read, ratification can arise only where there is the relationship of principal and agent, either actual or adopted. “Ratification * * * is a doctrine of agency, and, where there is no agency and no attempt to act as agent, there is nothing to which the doctrine can apply.” Connolly v. Manchester Sav. Bank, 92 N. H. 89, 25 A.2d 412.
+Plaintiff having established by its evidence without conflict that the sum of $1,498.32 plus interest at 8% from March 6, 1972, together with $400.00 attorney fees were due plaintiff from defendants, the court erred in refusing plaintiff’s motion for judgment notwithstanding the verdict of the jury. For such error the case is reversed and remanded.
+Reversed and remanded.
+BRADLEY and HOLMES, JJ., concur.
