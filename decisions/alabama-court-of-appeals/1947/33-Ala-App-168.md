@@ -1,0 +1,44 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 835"
+decided: "1947-06-24"
+citations: ["33 Ala. App. 168", "31 So.2d 151"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GARRETT v. STATE."]
+source_url: "https://static.case.law/ala-app/33/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1688199
+cites_cases: ["1 Ala.App. 235", "10 So. 433", "107 So. 327", "124 So. 125", "139 Ala. 56", "149 Ala. 11", "152 Ala. 38", "155 Ala. 105", "16 Ala.App. 119", "16 Ala.App. 123", "16 Ala.App. 47", "16 Ala.App. 89", "169 Ala. 10", "193 Ala. 12", "197 Ala. 185", "21 Ala.App. 277", "23 Ala.App. 273", "247 Ala. 600", "248 Ala. 239", "27 Ala.App. 499", "27 So.2d 48", "28 Ala.App. 52", "30 Ala.App. 99", "31 Ala.App. 423", "31 Ala.App. 62", "32 Ala.App. 439", "32 Ala.App. 657", "35 So. 1011", "43 So. 10", "46 So. 464", "6 So. 420", "63 So. 11", "8 Ala.App. 98", "87 Ala. 121", "94 Ala. 50"]
+---
+
+# Garrett v. State
+
+## Majority (CARR, Judge.)
+
+CARR, Judge.
+In the court below the appellant was tried on an indictment which charged murder in the first degree. This appeal follows a judgment of conviction for manslaughter in the first degree.
+If the testimony of the State’s witnesses, and more particularly the dying declaration of the deceased, is to be accepted, the defendant inflicted a mortal knife wound in the abdomen of the dead person, and this without legal excuse or. justification.
+The appellant’s testimony tended otherwise. According to her delineation of the facts, the deceased had her down on the floor and was making an effort to attack her with some weapon, the description of which she was unable to accurately disclose. It was during this scuffle that the former received the wound from which she died eight days later. The accused denied that she had a knife or other weapon, or that she willfully or intentionally cut the deceased. In other words, she attempted to convey the impression that the deceased came to her death from an injury inflicted by the instrument which she (the deceased) had in her hand, and this while the appellant was endeavoring to ward off threatened harm to herself. The two participants were young white women. It can be said with a degree of certainty that excessive consumption of whiskey played an important part in the tragedy.
+The difficulty occurred on November 13th, and the injured person died on November 21st just following. Dr. Leyden saw the deceased forthwith after the affray and he gave testimony at the trial concerning the nature and extent of the wounds; It appears that the doctor left for New York the following morning and did not again see the 'patient. After his departure, the case was committed to the professional care of Dr. Planck. Over objections Dr. Leyden was allowed to answer that the cause of death was “peritonitis following the cutting of the intestines.”
+It is evident that the doctor was not in position to make this disclosure and his reply was necessarily based on hearsay. However, the cause of death never became a disputed issue. Dr. Planck was subsequently called as a witness, and he stated, in response to a question by appellant’s counsel, that the cause of death was “general peritonitis.”
+It is obvious, therefore, that the unauthorized answer in the first instance was made harmless to appellant by the undisputed facts in reference thereto. Hurst v. State, 1 Ala.App. 235, 56 So. 18; Hornsby v. State, 16 Ala.App. 89, 75 So. 637.
+Where a State’s witness went when he left the hospital after accompanying the deceased there was not a material inquiry. Neither was it error to disallow an answer to a question propounded to the same witness which sought to elicit whether or not he pleaded guilty for public drunkenness later that night.
+The record discloses that the deceased made a dying declaration to two persons on separate occasions. The first of these was made to Mrs. Craig on Thursday following the injury on Sunday. As a predicate for its admission the court relied on this testimony of Mrs. Craig: “She just said ‘Mama’ — she always called me Mama — . She said ‘Mama, I won’t ever live to get home any more and I want you to know just how this all taken place.’ ”
+The other indicated declaration was made to Mrs. Winn on Monday before demise on the next day. The predicate here we take from Mrs. Winn’s testimony: “Well, when this officer came up to get her statement she said she was going to die, and another time when the nurse went out of the room she told me she wanted to tell me all about how it happened, that she would never get up from there; she said, ‘Sister, I want to tell you about how it happened.’ ”
+Following these disclosures the trial court permitted, over the objections of appellant’s counsel, each of the witnesses just named above to give evidence of the declarant’s statements to them, with reference to the circumstances and particulars of the difficulty in question.
+It is clearly apparent that it is not required that we enter into a discussion of the applicable rules to illustrate our conclusion that no error can be charged here. The following authorities support our view. Hussey v. State, 87 Ala. 121, 6 So. 420; McQueen v. State, 94 Ala. 50, 10 So. 433; Walker v. State, 139 Ala. 56, 35 So. 1011; Logan v. State, 149 Ala. 11, 43 So. 10; McEwen v. State, 152 Ala. 38, 44 So. 619; Johnson v. State, 169 Ala. 10, 53 So. 769; Gibson v. State, 193 Ala. 12, 69 So. 533; Carmichael v. State, 197 Ala. 185, 72 So. 405; Shikles v. State, 31 Ala.App. 423, 18 So.2d 412; Brooks v. State, 248 Ala. 239, 27 So.2d 48; Collins v. State, 27 Ala.App. 499, 176 So. 219.
+At the conclusion of the oral charge counsel for appellant stated: “If the court please, we object to that part of the oral charge which defines manslaughter in the second degree.” This court held in Horn v. State, 23 Ala.App. 273, 124 So. 125, that an “objection” to a portion of the court’s oral charge is not equivalent to an “exception” and the former approach does not present any question for review. See also Abrams v. State, 155 Ala. 105, 46 So. 464.
+Be this as it may, the “objections” were too general to invite our attention to the particular portion of the charge in which error is claimed. In other words, it is descriptive only. Cowart v. State, 16 Ala.App. 119, 75 So. 711; Gipson v. State, 21 Ala.App. 277, 107 So. 327; Brock v. State, 28 Ala.App. 52, 178 So. 547; Allford v. State, 31 Ala.App. 62, 12 So.2d 404.
+We come now to consider written charges which were refused to appellant.
+Charges numbered 1, 4, and 5 are general affirmative instructions.
+As we have indicated the factual issues relating to the homicide were in irreconcilable conflict. A jury question was clearly posed. The deceased deposed in her dying declaration that, while she was standing, unarmed, the accused stabbed her without any previous warning and while she was unaware that an assault was in contemplation.
+Refused charge numbered 2 is affirmative as to murder in the first degree; number 3 is to the same effect as to murder in the second degree; number 21 instructs that without malice the defendant would not be guilty of a higher degree of homicide than manslaughter. The accused having been adjudged guilty of manslaughter in the first' degree, the indicated charges are moot and without application. Brake v. State, 8 Ala.App. 98, 63 So. 11; Shikles v. State, 31 Ala.App. 423, 18 So.2d 412.
+Charges numbered 23 and 27 are in exact counterpart and are covered by given instruction number 16. Number 26 does not differ in verbiage from number 22. The latter was given at the instance of appellant. Number 28 is an exact copy of given charge 24.
+Each of the above was, of course, refused without error. Title 7, Sec. 273, Code 1940; Smith v. State, 16 Ala.App. 47, 75 So. 192; Langston v. State, 16 Ala.App. 123, 75 So. 715.
+Instruction numbered 35 is involved and misleading.
+The motion for new trial presents only the question of the sufficiency of the evidence to support the verdict. We would do serious violence to the rules appertaining if we should disturb the judgment of the court below in his action in denying the motion for new trial. Booth v. State, 247 Ala. 600, 25 So.2d 427; Freeman v. State, 30 Ala.App. 99, 1 So.2d 917; Peterson v. State, 32 Ala.App. 439, 27 So.2d 27; Summers v. State, 32 Ala.App. 657, 29 So.2d 431.
+This opinion has been prepared without the aid of briefs from either the appellant’s counsel or the Attorney General. We have endeavored, nevertheless, to comply fully with the task imposed upon us by Title 15, Sec. 389, Code 1940.
+We find no prejudicial error presented by the record. We order, therefore, that the judgmert of the nisi prius court be affirmed.
+Affirmed.
