@@ -1,0 +1,47 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "4 Div. 8"
+decided: "1970-01-12"
+citations: ["45 Ala. App. 354", "230 So. 2d 744"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William C. FOWLER v. Edith W. FOWLER."]
+source_url: "https://static.case.law/ala-app/45/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716120
+cites_cases: ["22 S.W.2d 853", "239 Ala. 407", "273 S.W. 1081"]
+---
+
+# Fowler v. Fowler
+
+## Majority (THAGARD, Presiding Judge.)
+
+THAGARD, Presiding Judge.
+The appellant, William C. Fowler, and the appellee, Edith W. Fowler, were married on January 19, 1952. During their marriage, they had two children, Steven Gregory Fowler and William Mark Fowler. The appellee was living with the appellant in Afton, Missouri, when they separated and she moved to Houston County, Alabama, bringing her two children with her.
+On July 10, 1967, the appellee filed a bill of complaint in the Law and Equity Court of Houston County, Alabama, In Equity, seeking temporary and permanent child custody of the children and a restraining order to prevent the appellant from taking the children from the appellee who had the custody and to restrain the appellant from harassing, molesting, calling on the phone, or going into the presence of the appellee. Temporary custody of the children to the appellee and the restraining order were awarded on July 1C, 1967, with permanent custody of the children being awarded by decree dated September 22, 1967.
+The appellant, on May 1, 1968, filed a bill for divorce and visiting rights with his two sons in the Circuit Court of St. Louis County, Missouri. The appellant and the appellee appeared in person with their attorneys, both parties submitting to the jurisdiction of the court, and on June 6, 1968, the Missouri court awarded to the appellee on her cross bill a full divorce, custody and control of her two sons, $125.00 per month as support and maintenance for her sons, but decreed visiting rights to the appellant with his sons one day out of each month.
+The appellee and her sons returned to Houston County, Alabama, and on January 6, 1969, the appellant filed his petition in the Law and Equity Court of Houston County, Alabama, In Equity, asking that court to enter a decree giving him the right to see his children, and also asking the court to invalidate its decree of September 22, 1967, since the Circuit Court of St. Louis County, Missouri, had taken jurisdiction of the parties and of the subject matter.
+The appellee filed an answer and cross petition and the cause was heard on April 22, 1969, with testimony taken orally before the court. By decree dated April 28, 1969, the lower court granted the appellant-petitioner the relief prayed for in his bill subject to the following conditions:
+“(1) Pay to the Register of this Court the sum of $1,000.00 as and for delinquent child support, which was to have been paid at the rate of $125.00 a month, for the months of September, October, November and December, 1968, and the months of January, February, March and April, 1969;
+"(2) Pay to the Register of this Court as and for child support the sum of $125.00 a month, commencing on May 1, 1969 and continuing on the 1st day of each month thereafter;
+“(3) Execute a bond payable to the Plaintiff in the penal sum of $2,000.00, conditioned to deliver the said children to the Plaintiff at the times and places designated and provided for in and by this decree. Said bond shall also be executed by good and sufficient sureties who are to be approved by the Register of this Court; or in lieu of such sureties, said bond may be secured by a cash deposit with said Register, in the sum aforesaid, and the Register shall deposit said sum in a savings account of a bank or savings institution, fully insured by the United States Government, and the interest earned by said account shall be payable by the Register to the Plaintiff upon her request as additional child support for said children;
+“(4) Notify the Plaintiff not less than 48 hours in advance of the day that he wishes said children to visit with him;
+“(5) Receive said children at the proper time at their home in Dothan, Alabama and return them to said home at the proper time, and shall at all times during said periods of visitation conduct himself in a proper and courteous manner, and refrain absolutely from the use of alcoholic beverages, drugs or other intoxicants ; and
+“(6) Do nothing to interfere with said children’s education or school attendance.”
+Appellant made a motion for rehearing which motion was denied and thus this appeal.
+The principal question raised by this appeal is whether or not the lower court gave full faith and credit to the St. Louis, Missouri, decree of June 6, 1968, by allowing appellant visiting rights with his sons only after having complied with the aforementioned conditions precedent.
+There is no question that the decree of Circuit Court of St. Louis County, Missouri, was entitled to full faith and credit in Alabama. The appellant and appellee herein both appeared personally before that court and submitted to its jurisdiction. Therefore, unless a change of conditions •was shown, the Law and Equity Court of Houston County, Alabama, was duty bound to give full faith and credit to the Missouri decree. •
+We think that full faith and credit was given. The lower court decreed that the appellant was entitled to visiting rights with his two sons as provided under the Missouri decree. The Houston County Court went even further and interpreted the Missouri decree as to the visitation right as meaning for a period of 24 hours. Needless to say, the appellant did not object to interpretation of the court nor question its power to make such an interpretation.
+The appellant does question that part of the decree of the Houston County Court which provides for the payment of $1,000.00 for delinquent child support. The decree of the Circuit Court of Missouri, dated June 6, 1968, provided that the appellant pay $125.00 per month as child support. Was this provision of the decree also entitled to full faith and credit by the Houston County Court?
+As authority on this question, the court in Green v. Green, 239 Ala. 407, 195 So. 549, cited the text from 17 Am.Jur, 537, as follows :
+“ ‘The question whether a provision and support of a child is, under the full faith and credit provision of the Federal Constitution, entitled to recognition and enforcement in a suit other than the one in a divorce decree for the maintenance in which the decree is rendered is dependent upon the further question as to whether such a provision of such a decree may be regarded as final. If final, it is protected by the full faith and credit clause of the Federal Constitution and is enforceable in another state. * * * (239 Ala. at page 408, 195 So. at page 550)
+* * * * * *
+“ ‘Where, by the law of the state where rendered, the decree is not subject to modification at the discretion of the court as to installments which are already due, then the judgment as to such installments is final and must be given full faith and credit in another state. * * * ” (239 Ala. at page 409, 195 So. at page 550)
+The Missouri law as to past due alimony installments was stated by the St. Louis Court of Appeals in Meyers v. Meyers, 22 S.W.2d 853, as follows:
+“ * * * It is true that the trial court has no power to annul or modify judgments with respect to alimony past due. * * *" (Citing Schneider v. Schneider (Mo.App.) 273 S.W. 1081.)
+Therefore, rules applying to child support past due would be the same as the above-mentioned rule applying to alimony.
+The provisions of the Missouri Court’s decree of June 6, 1968, providing for child support and maintenance of $125.00 per month was final as respecting the installments which were and are now in arrears. This provision was entitled to full faith and credit. The lower court in Houston County, Alabama, did not change or modify the child support provision of the Missouri Court, but instead followed it precisely in arriving at the amount of child support past due using the rate of $125.00 per month.
+As to that portion of the Houston County lower court’s decree providing for the appellant’s execution of a $2,000.00 bond payable to appellee to insure return of the children to the appellee, we think this requirement was within the court’s power. A court of equity has very broad discretionary powers where the welfare of children is concerned. Such a bond would help insure that the children would be returned to their mother and to the environment to which they have grown accustomed. For the children to be taken back to Missouri would, in our opinion, be harmful to their welfare.
+The appellant in this case invoked the jurisdiction of the Law and Equity Court of Houston County, Alabama. He filed the petition asking that court to enforce the visitation rights granted him by the Circuit Court in Missouri. In his petition he offered to do equity and pay the child support. But, appellant in effect was asking the lower court to give full faith and credit to the visitation provision of the Missouri decree but overlook the provision as to child support and his nonpayment of the same. We do not feel that appellant has cause for complaint. The judgment of the lower court is affirmed.
+Affirmed.
