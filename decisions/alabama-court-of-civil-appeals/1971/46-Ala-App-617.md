@@ -1,0 +1,74 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "8 Div. 35"
+decided: "1971-02-10"
+citations: ["46 Ala. App. 617", "247 So. 2d 123"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Barbara Darlene MUERY v. Robert Wilburn MUERY. Ex parte Robert Wilburn MUERY."]
+source_url: "https://static.case.law/ala-app/46/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1719683
+cites_cases: ["162 Ala. 272", "20 Ala.App. 514", "229 Ala. 501", "25 Ala.App. 577", "263 Ala. 487", "278 Ala. 344", "42 Ala.App. 485"]
+---
+
+# Muery v. Muery
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+Robert W. Muery was incarcerated in the Madison County jail pursuant to a contempt citation handed down by the Honorable John W. Green, Jr., Judge of the. Madison County Circuit Court, in Equity, Family Division.
+He petitioned said court for the writ of habeas corpus, and, after a hearing, the petition was denied. An appeal from said order was taken to this court with security for costs of the appeal being filed several days later.
+Bail was sought from the Circuit Court for appellant pending the appeal of the denial of the writ of habeas corpus, but same was denied. Application for bail was then made to this court, and it was granted. Appellant was thereupon released from custody pending disposition of the appeal.
+Appellant’s imprisonment resulted from a determination by Judge Green that appellant was in contempt of the court for having violated an ex parte order issued by Judge Green shortly after appellant’s wife had filed a bill seeking a divorce.
+The ex parte order, among other things, enjoined appellant, pending further orders of the court, from making use of, or disposing of, concealing, converting, or in any other manner using, any property acquired by appellant during his marriage to complainant, other than in the customary manner of supporting and maintaining himself.
+Subsequent to the injunction which was issued on January 22, 1970, several additional pleadings were filed by both parties. Among these was a motion filed by the complainant on May 27, 1970 seeking to have the court hold the appellant in contempt for violating previous orders of the court. As a result of this motion, testimony was taken by the court on June 5 and June 8, 1970. On June 8, 1970 an order was entered holding appellant in contempt of court and ordering that appellant he committed to the Madison County j ail.
+Appellant on July 1, 1970, and while still in jail, filed his pétition for the writ of habeas corpus.
+The testimony taken at the contempt hearing came largely from the appellant, and he stated that he worked at Brown Engineering Company, Redstone Arsenal, where he earned a net income of $220 per week, or about $306 per week gross.
+Appellant testified that at one time he had $42,000 in First Federal Savings and Loan. He stated, however, that in January 1970, just before the court order of April 27, 1970 froze his assets, he withdrew the money and bought $42,000 worth of treasury bills. He then went to Fayettville, Tennessee where he placed the bills in a bank safety deposit box. Appellant stated that he thereafter withdrew one of the $10,000 treasury bills, cashing the same. He deposited $2,000 of the $10,000 in a checking account in Nashville, Tennessee, taking a check for the remaining $7,800. He then wrote a $1,025.89 check on the Nashville account for a court-ordered reimbursement for his wife. The remainder of the $2,000 account went to his attorney for fees, closing out the Nashville account.
+About the first week in April of 1970 appellant broke the $7,800 he had left into five $1,000 checks, paying $3,000 to the attorney, Mr. Smith, and $2,000 to a Mr. Metz of Chicago for divorce counseling. He further paid $500 for additional attorney’s fees, leaving him with about $2,300 out of the $10,000 treasury bill.
+Further, as of January 1970, he had $3,144 worth of company stock acquired through a stock purchase plan.
+Of this sum, he sold $1,000 worth of stock. He stated that he has spent this money, $400 of it going for income tax.
+Appellant testified that he removed all of the treasury bills from the Fayettville bank in the early part of April, keeping them at his house until he went to Dallas, Texas on June 1, 1970.
+He stated that he went to Dallas, Texas to sell the remaining $32,000 worth of treasury bills. He further stated that he chose Dallas because he could get the money faster, as he wanted to invest part of it in the stock market. Appellant admitted at this time that he knew there was a court order requiring him to place such securities in a Huntsville bank.
+Appellant testified that he arrived in Dallas on Jrtne 1, spending that night and the next there. He cashed the treasury bills at the Republican Bank on June 2, 1970, receiving two checks, one for $25,000 and one for $7,000. Appellant placed $7,-200 in a deposit box in the Republican Bank, stating that this was the children’s money. Appellant states that this money is still there.
+Appellant testified that he was going to invest the other $25,000 in the stock market. He kept the $25,000 in cash in his brief case. He stated that he went to a brokerage firm in downtown Dallas, but was not satisfied. He stated he left the firm discouraged. He said that he was “real discouraged and despondent.”
+Appellant testified that he decided not to invest the money. He stated that he began to drink, buying whiskey at a liquor store and at the motel where he stayed. He testified that he decided to leave Dallas Tuesday afternoon (June 2, 1970) and go to Las Vegas to have some fun, as he was despondent and discouraged over the domestic situation.
+He testified that he arrived in Las Vegas on Wednesday, and left the next morning. He states that he was drunk when he arrived in Las Vegas, and when he left Las Vegas.
+Appellant admits that he had about $27,000 in cash when he left for Las Vegas. This sum consisted of the $25,000 from the treasury bills, plus the $2,300 he had left from the $10,000 treasury bill he had cashed earlier.
+Appellant testified that he was drunk the entire time he was in Las Vegas, and does not know what happened to the money. He stated that he gambled a great deal, and may have lost some or all of it through gámbling. He also stated that he thinks that he invited two men into his hotel room for a drink after he had finished gambling. He testified that when he awoke Wednesday morning, all he had left was a-little over $300. He did not call the police, as he is not sure if he lost the money or if it was stolen.
+He used part of the $300 to purchase a plane ticket back to Huntsville that Wednesday morning (June 3, 1970.) He stated that he carried the money ($27,000) in his pockets while he was in Las Vegas.
+He finally asserted that his present salary is his only source of income, and the only money he has, with the exception of $160, which is the remainder of the $300 with which he awoke in Las Vegas, and which his son now holds for him for groceries. He then admitted that he is a member of the deferred compensation plan where he works, and as a result thereof, he has accumulated about $2,000. He testified, however, that the plan is a retirement plan, which he does not get until he retires.
+There are seven assignments of error set out in the record established below, two of which — assignments one and two — assert that the finding of the trial court that appellant was in contempt was not supported by the evidence.
+After a careful examination of the record, we are satisfied that there is no ' merit in this contention. The evidence clearly shows that appellant had full knowledge of the April 27, 1970 order ' freezing securities, etc. The evidence further shows that appellánt, with said knowledge (and in violation of said court order), did remove the treasury bills to Dallas, Texas, where he cashed them; also, that appellant took the $25,000 received from the treasury bills to Las Vegas, where he either gambled away or had stolen from him, all but $300 of the said $25,000.
+We are satisfied from the foregoing evidence that appellant did wilfully and knowingly violate a court order, and thereby placed himself in contempt of the court, as found by the trial court in its order of June 8, 1970.
+The trial court in its June 8, 1970 decree confined appellant in the Madison County jail for a minimum of three days, with the further provision that he could purge himself of the contempt at any time after the expiration of the three days by placing $25,000 — not including the $7,200 in a Dallas, Texas bank — in a local bank in Huntsville, Alabama.
+The trial court apparently was proceeding on the theory that appellant was guilty of both criminal and civil contempt, as it sentenced appellant to both a fixed minimum number of days, and an indefinite maximum number of days, depending upon compliance with its order.
+Appellant, in his assignments of error three, four, five, six and seven, argues in essence that, if anything, he is guilty only of criminal contempt, and the court’s action in committing him to jail until he produced $25,000 was excessive, in view of Title 13, Sections 9 and 126, Code of Alabama 1940, as Recompiled 1958, which limits punishment in circuit court for criminal contempt to a fine not exceeding fifty dollars and imprisonment not exceeding five days.
+The cases in this jurisdiction have tried to make clear the distinction between a criminal contempt and a civil contempt. The cases hold that the statutory limitations on punishment for contempt (Sections 9, 126 and 143 of Title 13, Code of Alabama 1940, as Recompiled 1958) apply only to criminal contempt, and not to civil contempt. Ex parte King, 263 Ala. 487, 83 So.2d 241; Ex parte Dickens, 162 Ala. 272, 50 So. 218.
+In Ex parte Dickens, supra, it is stated:
+“A civil contempt consists in failing to do something, ordered to be done by a court in a civil action, for the benefit of the opposing party therein.”
+In Ex parte Hill, 229 Ala. 501, 158 So. 531, it was also said:
+“A criminal contempt is one in which the purpose of the proceeding is to impose punishment for disobedience to the orders of the court. A civil contempt invokes the power of the court to commit one who is continuing to violate his orders until he complies with them.”
+In Ex parte Griffith, 278 Ala. 344, 178 So.2d 169, the Alabama Supreme Court quoted with approval 17 Am.Jur.2d Contempt, Section 4, wherein it is stated:
+“A criminal contempt involves no element of personal injury. It is directed against the power and dignity of the court. * * * Civil contempt proceedings look only to the future. And it is said that in civil contempt proceedings, the contemnor must he in a position to purge himself " (Italics ours.)
+The appellant in the present case had already been in prison for longer than the maximum five day sentence allowed by the statute for criminal contempt. Therefore, it is evident that the only purpose of the court’s order holding the appellant in contempt until he produced the $25,000 was for the advantage of the party injured by his refusal to so produce, i. e., appellant’s wife and children.
+The court’s order was coercive, and provided in effect, that appellant could purge himself at anytime after serving the minimum three days, by complying with the court’s order to produce the money.
+The law in Alabama is settled on the proposition that imprisonment for contempt should never be imposed by a judge where thé failure to pay alimony, etc. is not from contumacy, but from inability to comply with the order. Ex parte Gunnels, 25 Ala.App. 577, 151 So. 605; Robertson v. State, 20 Ala.App. 514, 104 So. 561.
+In the case at bar the only material facts relating to appellant’s past' and present financial condition and appellant’s use of the $25,000 came from the appellant himself. He in essence testified that he took the money in violation of the court order and either lost it gambling or had it stolen from him, and there was no evidence in the record suggesting otherwise. He further testified that his financial worth consists solely of his present net salary of $220 per week.
+In the case of Stone v. State, 42 Ala.App. 485, 168 So.2d 266, the Court of Appeals was faced with an appeal from an order granting a motion to dismiss the appellant’s petition for a writ of habeas corpus. .The writ was based on the fact that the appellant was financially unable to purge himself. The court, in Stone, supra, in deciding that no appeal lies from a granting of a motion to dismiss a habeas corpus petition, said:
+“Were this matter properly before us for review, we would be constrained to hold that the evidence presented in the court below established that appellant was financially unable to comply with the decree requiring him to pay alimony and, therefore, the appellant was entitled to be discharged from custody.”
+The case at bar is properly before us for review, and based on the evidence set out in the record established in the trial court, we can come to no other conclusion than that appellant was unable to purge himself of his contempt. Had the evidence been otherwise, it should go without saying that our conclusion would have been different from what it now is.
+The appellant, being unable to purge himself of the civil contempt citation, and having served the maximum period of imprisonment authorized for a criminal contempt citation, is due to be discharged from custody.
+This case is reversed and remanded with directions to discharge appellant from custody resulting from the contempt citations which were reviewed by this court.
+Reversed and remanded with directions.
+
+## Rehearing (BRADLEY, Judge.)
+
+ON REHEARING
+BRADLEY, Judge.
+On application for rehearing it is contended that this court erred in releasing the appellant from custody arising out of a contempt citation because appellant had the burden of proving that he does not have the $25,000, and having failed to carry this burden, is unable to purge himself of the contempt, and further that the trial judge heard appellant’s testimony ore tenus and was better able to determine therefrom if appellant was stating the truth.
+There is no merit in this contention. Robertson v. State, 20 Ala.App. 514, 104 So. 561; Ex parte Gunnels, 25 Ala.App. 577, 151 So. 605. The undisputed testimony indicated the appellant did not have the money to deposit in a local bank.
+Furthermore, there was no brief on the merits filed in opposition to appellant’s brief, thereby precluding an application for rehearing as a matter of right. Supreme Court Rules 34 and 12. As a result thereof, the application for rehearing is due to be dismissed.
+Application for rehearing dismissed.
