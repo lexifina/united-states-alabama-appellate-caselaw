@@ -1,0 +1,81 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "1 Div. 48"
+decided: "1972-05-01"
+citations: ["48 Ala. App. 60", "261 So. 2d 893"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COCA-COLA BOTTLING CO., Inc., a Corp. v. Eva Mae HAMMAC."]
+source_url: "https://static.case.law/ala-app/48/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1724812
+cites_cases: ["111 Ala. 303", "166 Ala. 519", "18 So. 666", "204 Ala. 667", "210 So.2d 793", "219 Ala. 112", "226 Ala. 526", "243 Ala. 1", "247 Ala. 22", "280 Ala. 236", "281 Ala. 658", "282 Ala. 231", "284 Ala. 174", "285 Ala. 223", "6 So. 291", "87 Ala. 277"]
+---
+
+# Coca-Cola Bottling Co. v. Hammac
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+The appeal is from a judgment in the amount of $8,000 awarded in favor of appellee for the negligence of appellant in producing and bottling a Coca Cola which exploded and injured appellee. A plea of the general issue was filed and a jury trial ensued resulting in a judgment for appellee.
+During the empaneling of the jury appellee was allowed to challenge for cause a prospective juror on the ground that said prospective juror had been acquainted with one of appellant’s lawyers for about twenty years. Upon being asked by the court if such acquaintance would, in any way, interfere with his being able to render a fair and impartial verdict, he replied:
+“Your Honor, I don’t want to get off into a psychological thing but it is alleged that nearly a few of us are completely impartial and you can’t help but be swayed by things.”
+Appellant objected to the court’s sustaining of the challenge for cause.
+After judgment had been rendered appellant moved for a new trial, principally on the ground that the verdict and judgment were excessive. The motion was overruled and shortly thereafter an appeal was taken to this court from the judgment on the merits and from the judgment overruling the motion for new trial.
+The record on appeal contains twelve assignments of error, but appellant argues only assignments one, six, ten, eleven and twelve. Those assignments not argued are deemed waived. Rule 9, Supreme Court Rules.
+In examining the record we notice that assignments eleven and twelve do not refer us to the page or pages of the record whereon said errors occurred.
+Rule 1, Supreme Court Rules, provides, in part, that: “each assignment shall list the page or pages of the transcript of the record on which the ruling is recorded.”
+It has been held by our Supreme Court that Rule 1 is mandatory. Jones v. Miller, 282 Ala. 231, 210 So.2d 793; National Finance Company, Inc. v. Rowe, 281 Ala. 658, 207 So.2d 133; and Wiggins et al. v. Stapleton Baptist Church, 284 Ala. 174, 223 So.2d 519.
+This court is therefore precluded from considering assignments eleven and twelve.
+Assignment of error one contends that the trial court erred in overruling the motion for new trial. The motion contained nine grounds directed mainly to the contentions that the verdict was contrary to the law, contrary to the evidence, or was excessive. Appellant argued only the ground of excessiveness, hence we will consider the other grounds waived.
+We think a short rendition of the evidence here would be helpful to an understanding of the issue presented to this, court.
+Appellee was employed as a waitress at “Mr. Steak,” a restaurant located in Mobile, Alabama.
+Should a patron wish to drink a soft drink with his meal, he would give the waitress his choice made from a list consisting of Coca Cola, Sunrise Orange or Seven-Up. Coca Cola and Sunrise Orange were bottled and supplied to customers by appellant.
+The evidence revealed that there were two soft drink machines in the restaurant, one supplied by appellant.
+The machines were filled by the manager or assistant manager of Mr. Steak from, racks of drinks placed next to the machines by the deliverymen of the two companies supplying the soft drinks.
+The soft drinks purchased from appellant came in ten ounce “throw-away” bottles.
+When a patron ordered a soft drink, the waitress would go to a machine, insert a coin, retrieve the bottle, open it on an opener on the machine and then take it to the customer.
+Should the machine be empty and no time to refill it — this happens at rush hours — the waitress would insert a coin and remove a drink from the rack next to the machine.
+On the day in question — a Saturday — appellee was given an order for several soft drinks. The Coca Cola machine was empty. She removed an orange drink from the rack, opened it, and then transferred it to her left hand. She repeated this process with two Cokes; then when she removed the third Coke from the rack and started to open it, but before reaching the opener with the bottle, it exploded, propelling a piece of glass into her left wrist.
+The manager of Mr. Steak was nearby, heard the noise, and went to appellee’s aid. He removed the piece of glass from her wrist, applied a cold compress and called a doctor. The doctor came to the restaurant and then drove appellee to a nearby hospital where she received treatment for her injury.
+Appellee testified that since the injury, whenever a certain area of her left arm is touched, she receives a sensation similar to an electric shock, and whatever she is holding in that left hand is dropped. She further stated that since returning to work she has dropped several plates of food and other items, all caused by touching this ■sensitive area on her left arm.
+Appellee stated that this defect has reduced her efficiency as a waitress, causing a decline in her earnings. She said that :she was earning, at the time of the injury, $3.00 a day plus tips, which averaged .around $15 to $17 per day; whereas after the injury she has earned only about $12 per day.
+The attending physician stated that the •sensitive area is called a “neurofibroma” and will permanently afflict appellee, causing a 10% to 15% disability. He stated additional surgery might or might not help .appellee.
+Appellant says that appellee’s doctor bill was $50 to $100, her hospital bill was only $18.80, and she missed just a few days from work. Appellant also showed that appellee’s earnings for the last four months of 1969 were only $195, of which $3.00 a ■day was base pay, leaving $54 earned as tips.
+Appellee countered by saying that she ■now earns $4 a day in tips less than she did before the injury. The argument was that she lost $1,000 in tips from the date of the injury to the date of trial.
+Appellant says that the $8,000 verdict was the result of passion, prejudice, partiality, or mistake, and the trial court erred in not ordering a new trial.
+In reviewing the evidence to determine its sufficiency to support the verdict, we are required to view that evidence in a light that is most favorable to appellee, Cooper v. Watts, 280 Ala. 236, 191 So.2d 519; and, after having done so, we cannot say that the verdict is not supported by the evidence.
+In deciding whether the verdict is excessive or not, we are governed by another principle of law which provides that when the trial court overrules the motion for new trial, the verdict and judgment are strengthened. Westbrook v. Gibbs, 285 Ala. 223, 231 So.2d 97.
+In the instant case the trial court overruled the motion for new trial and we think rightfully so. We find no error in assignment one.
+Assignment six is based on the proposition that the trial court erred in allowing appellee to strike for cause the prospective juror who had stated that he had known one of the appellant’s attorneys for twenty years.
+Appellant says that the statement made by the prospective juror did not show absolute bias and was therefore insufficient to support a challenge for cause.
+Appellee, in reply, says the test is probable prejudice, and that in this case the statement made by the prospective juror indicated he was probably prejudiced.
+In Brown v. Woolverton, 219 Ala. 112, 121 So. 404, the Supreme Court said:
+“A challenge for favor or bias is to be determined by the trial court as any other question of fact, tried without a jury, and is reviewable on like principles. 35 Corpus Juris, 312, 403, 404; 16 R.C.L. 279, 282, 288; Calhoun v. Hannon, 87 Ala. 277, 6 So. 291; Larkin v. Baty, 111 Ala. 303, 307, 18 So. 666. The decision of the trial court on such question founded on oral evidence is entitled to great weight and will not be interfered with unless clearly erroneous, equivalent to an abuse of discretion. 35 Corpus Juris, 404, 405; 16 R.C.L. 289.”
+It has also been held that each party is entitled to an impartial jury, Wilson v. State, 243 Ala. 1, 8 So.2d 422, and probable prejudice for any reason will disqualify a prospective juror. Mutual Building & Loan Assn. v. Watson, 226 Ala. 526, 147 So. 817.
+We do not consider that the trial court abused its discretion in permitting the prospective juror to be challenged.
+Assignment ten is based on the contention that the trial court erred when it overruled the objection made by appellant to a question asked of one of appellant’s witnesses, its plant manager, while being cross-examined.
+The evidence showed that several cases of soft drinks were delivered to Mr. Steak by one of appellant’s routemen and placed in their usual position next to the drink machine two days before the injury occurred to appellee. The routeman stated that the bottles would rattle in their cartons during delivery, but that he had never heard one break, although he had found cases containing broken bottles.
+Appellant’s plant manager stated that the bottles of the type in question were purchased from four different firms which produced the bottles according to appellant’s specifications. The bottles were required to withstand pressures of 225 pounds per square inch. He stated that pressure inside a filled Coke bottle ordinarily runs around 55 to 60 pounds per square inch, although in the summertime the pressure might go as high as 70 pounds per square inch.
+The manager also said that they would run 460 Cokes per minute on their No. 1 line, the same line that ran Cokes of the type which exploded and injured appellee, and in a four hour run, maybe four Cokes would explode.
+While still on cross-examination and after having testified that bottles broke and exploded in the plant, this witness was then asked: “Have you ever heard of one of your bottles that you put out, exploding after it got out of the machine?” There was an objection from appellant’s counsel on the ground that it called for hearsay testimony. The objection was overruled. The witness answered in the affirmative.
+Appellant argues that the testimony sought to be elicited by the question above set out called for rank hearsay, and the mere fact that a bottle had exploded at some other time and place would not be evidence that appellant was guilty of negligence in this instance. It is also stressed in brief that appellant was very careful in purchasing bottles that met its specifications. Its standards required the bottles it used to withstand much higher pressures than an ordinary bottle of Coke would generate. Appellant also reminded us of the controls that were scrupulously followed in bottling Coke for sale.
+Appellee contends that the question was asked on cross-examination for the purpose of testing the knowledge of the witness concerning the operating efficiency of appellant’s bottling plant.
+In support of her argument appellee cites us to the following quote from Vinson v. State, 247 Ala. 22, 22 So.2d 344:
+“ A character witness may be impeached, or his credibility tested on cross examination, by being asked if he had not heard of specific acts of bad conduct of defendant, but he may not be interrogated as to the facts of particular acts.”
+General character or reputation evidence is permitted as an exception to the hearsay rule, 1 McElroy on Alabama Evidence, Sec. 25.01(1), p. 23, but we do not consider that the plant manager was testifying as a character witness for appellant at the time of the objection in question.
+Appellant, through this witness, was trying to show that it had not dispensed a defective product.
+And, in order to show that the bottle of Coke was not defective, the witness was asked to relate the procedures followed in bottling the Coke and to spell out the high specifications required of the bottle manufacturers.
+Yet, the witness admitted that bottles broke while being processed, and also broke while stored in the warehouse.
+It was in this state of the evidence that the question to which objection was made was asked of the witness, and we have been called on to decide whether or not this question sought to elicit hearsay testimony.
+It has been said that hearsay evidence is what the witness says he heard another person say. Williams’ Alabama Evidence, Sec. 94, p. 190. Also, it has been declared that a statement by a witness of a fact not within his own knowledge is hearsay. Sovereign Camp, W.O.W. v. Adams, 204 Ala. 667, 86 So. 737. Furthermore, extra-judicial assertions offered to prove the truth of the assertion are rejected as hearsay. McCormick on Evidence, Section 227, p. 462.
+But it has also been held that where there is an attempt to prove out-of-court statements for the purpose of showing notice, knowledge or motive, or to show that information within the knowledge of a witness bore on his subsequent conduct, such proof does not constitute hearsay. McCormick on Evidence, Sec. 228, pp. 464-65.
+Also, in Pace v. Louisville & Nashville Railroad Co., 166 Ala. 519, 52 So. 52, our Supreme Court decided that where the purpose of a question was not to show that a piece of machinery was defective, but to show that the person making a statement about its operating condition had notice of a defect in it, the testimony sought by such question would be admissible. The court also said that the question in controversy sought also to shed light on the alleged negligence of the defendant on two grounds: One, that the agent of defendant had the responsibility of repairing the equipment and, two, he was entrusted with the superintendence over defendant’s repair shops and that his conduct in both instances depended on his notice or knowledge of the alleged defect.
+The question asked of the witness in the case at bar clearly called for a response that he had either heard from one or more persons that Coke bottles had exploded after they left the bottling machine, or that he had not heard such reports.
+The issue to be decided here, however, is whether or not the question asked of the witness sought to elicit the truthfulness of the statements that bottles of Coke had exploded outside of the plant, or whether the question sought to ascertain that the plant manager for appellant had notice that bottles of Coke had reportedly broken after they left the plant.
+Considering the context in which the question in controversy was asked, i.e., the witness, appellant’s plant manager, testified on direct examination as to the high standards maintained in its bottling methods and procedures and related the rigid specifications required of the bottle manufacturers, then on cross-examination admitted that bottles did break on the line and in the plant but offered an explanation for this occurrence, then was asked if he had heard of bottles exploding after they left the line and plant, we conclude that the purpose of such a question was not to elicit the truth of assertions that bottles had in fact exploded, but to establish whether or not the witness had received reports that bottles had exploded outside the plant.
+Showing that appellant’s plant manager had notice of bottles of Coke exploding after they left the plant would be relevant and material to appellee’s contention that appellant dispensed a defective product.
+We conclude that the evidence sought by the question in controversy falls within the previously discussed exception to the hearsay rule. There was no reversible error in the overruling of the question made the subject of assignment of error ten.
+There being no reversible error argued in brief, this case is affirmed.
+Affirmed.
