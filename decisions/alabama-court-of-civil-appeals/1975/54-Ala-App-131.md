@@ -1,0 +1,60 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 370"
+decided: "1975-01-08"
+citations: ["54 Ala. App. 131", "306 So. 2d 1"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and HOLMES, J., concur."]
+parties: ["STATE of Alabama v. ILLINOIS CENTRAL GULF RAILROAD, a corp. (formerly Gulf, Mobile and Ohio Railroad Co.)"]
+source_url: "https://static.case.law/ala-app/54/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741211
+cites_cases: ["108 F.2d 991", "11 So. 381", "116 F.2d 969", "166 So.2d 865", "261 Ala. 318", "277 Ala. 25", "281 Ala. 246", "8 So. 803", "91 Ala. 555", "96 Ala. 295"]
+---
+
+# State v. Illinois Central Gulf Railroad
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+The State Revenue Department (hereinafter referred to as State) entered a final use tax assessment against the Illinois Central Gulf Railroad (hereinafter referred to as Railroad) in the amount of $54,171.57 for the purchase of three hundred rebuilt railroad boxcars. This amount included interest and penalty. The audit period covered by the assessment was from October 1, 1968 through March 31, 1972. Railroad appealed this assessment to the Circuit Court of Montgomery County and, after a hearing thereon, that court rendered judgment holding the assessment invalid, illegal and void. Appeal to this court is from that judgment.
+The facts which are undisputed show that during the period covered by State’s audit, Railroad sold to Southern Iron & Equipment Company of Atlanta, Georgia two hundred and fifty unserviceable freight cars. These cars had been fully depreciated by Railroad and were sold for salvage. The manner of recording the disposition of these old boxcars meets ICC bookkeeping regulations required of all railroads.
+Also during the audit period, Railroad purchased, as evidenced by a bill of sale, three hundred rebuilt boxcars from Southern Iron. The cost of each car was between $11,300 and $11,445. Had the car been purchased “new” it would have cost $13,000.
+The American Association of Railroads treats these rebuilt boxcars as new cars for per diem rental purposes, for income tax purposes, and for depreciation. Lending institutions also treat them as new cars for borrowing purposes.
+Southern Iron buys used railroad boxcars that have some salvage value, strips them down to the basic underframe and then rebuilds them. In the process of rebuilding, Southern Iron examines the center sill, which is the heavy steel backbone of the car, to see if it is serviceable, i. e., it is not so twisted or bent that it cannot be used. After being satisfied that the center sill can be used, the sill and underframe is then annealed, i. e., the unit is placed in a furnace where the heat reaches 1650° to 1800°. The heating process has the effect of revealing flaws and also eliminating fatigue by rearranging the molecular structure of the metal. New sides and top metal are then applied to the car along with wooden flooring and inside walls. Doors are then added and the car is painted. The rebuilt body is then placed on rebuilt trucks, and the unit is ready for use.
+The evidence made clear that the rebuilt car is purchased from Southern Iron and no used car is given or sold in exchange for the rebuilt car.
+It was also made clear that when Southern Iron buys old, used boxcars, it strips them down to the center sill, saving usable parts and disposing of unusable parts, and, in the rebuilding process, the usable parts along with new parts are put in the rebuilt car.
+Southern Iron also built “from scratch” new boxcars using all new parts but as pointed out earlier, these units sold for $13,000 as compared to $11,300 for the rebuilt cars.
+The issue before this court is whether or not the boxcars obtained by Railroad were purchased from a “manufacturer or builder thereby exempting the transaction from Alabama use tax.
+Title 51, Section 789 (q), Code of Alabama 1940, as Recompiled 1958, provides in part as follows:
+“The storage, use or other comsumption in this state of the following tangible, personal property is hereby specifically exempted from the tax imposed by this article:
+“(q) The storage, use or consumption of railroad cars, . . . when purchased from the manufacturers or builders thereof.”
+State argues that Southern Iron is not a “manufacturer or builder” within the meaning of Section 789 (q), but is at most a repairer of boxcars. Railroad counters by saying that Southern Iron was a “manufacturer or builder” within the meaning of Section 789 (q) and its purchase of the rebuilt boxcars is thereby exempt from the payment of use taxes.
+The trial court found that Southern Iron manufactures new and rebuilt boxcars and concluded that the rebuilt cars were for all intents and purposes new cars.
+For Railroad to be exempt from the payment of use taxes in the situation presented, Southern Iron not only must be classified as a manufacturer or builder of railroad boxcars, but it must also appear that Southern Iron sold the boxcars to Railroad. See State v. Union Tank Car Co., 281 Ala. 246, 201 So.2d 402.
+There is no dispute over the question of a sale of the boxcars to Railroad; the evidence fully supports the finding that Railroad purchased the boxcars from Southern Iron and received a .bill of sale therefor.
+The real question is whether Southern Iron was a manufacturer or builder of boxcars within the meaning of Section 789(q), supra.
+In State v. Ben R. Goltsman & Co., 261 Ala. 318, 74 So.2d 414, the supreme court said:
+“ . . . [T]he one and only question is whether the taxpayers are ‘manufacturers or compounders’ within the meaning of § 787(d), supra; and whether the listed articles are subject to the use tax depends upon a determination of that question. If the taxpayers are ‘manufacturers or compounders’ then, of course, the listed articles were purchased at wholesale and are not subject to the use tax, since that tax is imposed on ‘the storage, use or other consumption in this state of tangible personal property purchased at retail’, Code 1940, Tit. 51, § 788, as amended by Act No. 209, appvd. July 17, 1951, Gen.Acts 1951, p. 472.”
+The court then quoted approvingly from Beggs v. Edison Electric Illuminating Co., 96 Ala. 295, 11 So. 381:
+“The word manufacture means the making of anything by hand or artifice. L & N R. Co. v. Fulgham, 91 Ala. 555, 8 So. 803. Mr. Worcester’s Dictionary defines Manufacture’ as ‘the process of making anything by art, or of reducing materials into a form fit for use by the hand or by machinery.’ The definition that the word is given by the Century Dictionary is as follows: ‘The production of articles for use from raw or prepared materials, by giving these materials new forms, qualities, properties, or combinations, whether by handlabor or by machinery.’ ”
+In United States v. Armature Exch., 116 F.2d 969, the U. S. Court of Appeals for the Ninth Circuit had before it a question of whether a company that purchased used armatures, stripped them down to the core, and then rewound them, could be classified as a manufacturer. The court said:
+“ . . . [T]he discarded armatures purchased by the taxpayer, having lost their function as a useful article as well as their commercial value as such, when acquired for use in the manufacturing and production of an article of commerce, bear the same relation to the completed armature as the purchase of unused materials would bear to the completed article. (Citation omitted.) The article resulting from the use of the discarded core with new materials, and through the employment of skill, labor and machinery, is, as it seems to us, a manufactured and produced article of commerce. Such an article produced in quantities under a trade name and placed in stock for future sale must be classified as a manufactured or produced article. It is our opinion and we hold that these operations constituted ‘manufacture or production’ within the meaning of the statute involved. See Opinion in Clawson & Bals, Inc. v. Harrison, 7 Cir., 108 F.2d 991.”
+In the case at bar Southern Iron stripped the boxcar down to the center sill, annealed it and the underbody, added new and used parts to make a rebuilt boxcar. By the application of labor and new and reusable materials to the center sill, there was obtained a rebuilt boxcar which for all practical and worthwhile purposes was considered new.
+We conclude that the rebuilt boxcar is a manufactured product and that Southern Iron was a manufacturer within the meaning of Section 789 (q), supra.
+But, State says that Southern Iron was a xepairer of boxcars, not a manufacturer. The undisputed evidence is that repaired boxcars were not considered to be in the category of new cars, whereas rebuilt cars were considered to be in the new car category.
+The supreme court in Sparks v. Louisville & N. R. Co., 277 Ala. 25, 166 So.2d 865, had before it a case involving the application of the use tax law to the repair of wheels and journal bearings from railroad cars.
+Worn wheels and journal bearings would be sent to the American Brake Shoe Company for repair and there the wheels and bearings would be melted down and recast. A small amount of materials would be added during the process, i. e., .44 percent. The great majority of the melt, 99% percent, was from the old wheels and bearings.
+The court held that essentially the only thing purchased by the railroad was service. The railroad sent used wheels and bearings to be repaired and it received back new wheels and bearings. Trade usage considered one wheel and bearing just like any other, i. e., it was a fungible commodity.
+The court further concluded that the railroad had paid for a labor or service charge for a repair of wheels and journal bearings, and the attempt by the State to impose a use tax thereon was illegal because there was no purchase of tangible personal property as required by the use tax statutes. In the case at bar there was no question but that there was a purchase of tangible personal property; the unanswered question was whether such purchase was from a manufacturer.
+In Sparks the court concluded that the recasting of a wheel and journal bearing amounted to no more than a repair. It said that all that was purchased was labor or service. There was no sale of the old wheel to American Brake Shoe Company and a sale of the new wheel back to the railroad as in the instant case. There was merely a consignment of the old wheel and bearings for repair, and, according to trade usage, the wheel and bearings were repaired rather than manufactured or rebuilt.
+In the case at bar trade usage considers a rebuilt boxcar the same as if it were new.
+In Clawson & Bals, Inc. v. Harrison, 108 F.2d 991, the U. S. Court of Appeals for the Seventh Circuit, in concluding that a company which reconditioned automobile connecting rods was a “manufacturer” rather than a “repairer,” said:
+“ . . . Ordinarily a repairer furnishes labor and material to the owner of some article for the purpose of restoring the article to its normal condition. The article remains the property of the one for whom the service is performed. . In the transactions between the taxpayer and its vendees the connecting rods, whether prepared from new forgings or from old connecting rods, are treated as newly and freshly produced automobile accessories. Neither taxpayer nor the trade recognizes that the finished connecting rods are repaired rods. Looked at from the standpoint of production and distribution in the trade the taxpayer is performing the function of a manufacturer rather than a repairer.
+Likewise in the case at bar, trade usage considered rebuilt boxcars to be just like new ones.
+We therefore conclude that Southern Iron was a manufacturer within the meaning of Section 789(q) and that the purchase of the rebuilt boxcars in question was exempt from Alabama use tax.
+The judgment of the trial court is affirmed.
+Affirmed.
+WRIGHT, P. J., and HOLMES, J., concur.
