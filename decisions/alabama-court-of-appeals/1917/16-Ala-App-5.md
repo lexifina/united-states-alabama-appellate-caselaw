@@ -1,0 +1,38 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 140"
+decided: "1917-02-06"
+citations: ["16 Ala. App. 5", "74 So. 841"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MINOR v. COLEMAN."]
+source_url: "https://static.case.law/ala-app/16/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1635657
+cites_cases: ["115 Ala. 277", "115 La. 457", "12 Ala. App. 485", "121 Ga. 679", "129 Ala. 98", "138 Ala. 614", "192 Ala. 480", "2 Ala. App. 547", "20 Pick. (Mass.) 220", "22 Ala. 568", "22 South. 439", "29 South. 838", "35 South. 701", "37 Ala. 154", "39 South. 443", "41 L. R. A. 650", "49 S. E. 694", "61 Ala. 9", "67 Am. St. Rep. 32", "68 L. R. A. 601", "7 South. 302", "88 Ala. 37"]
+---
+
+# Minor v. Coleman
+
+## Majority (BROWN, J.)
+
+BROWN, J.
+The rules of law applicable to this case were announced in the following cases: Kershaw v. McKown, 12 Ala. App. 485, 68 South. 559; Means v. Morgan, 2 Ala. App. 547, 56 South. 759; Crow v. McKown, 192 Ala. 480, 68 South. 341, L. R. A. 1915E, 372. In Kershaw v. McKown, supra, it was held that a complaint alleging the “wrongful”' shooting and killing of plaintiff’s dog, of the “value of $100,” stated a good cause of action.
+If, therefore, the appellant’s contention that the averments of the complaint that the defendant “willfully and. intentionally” killed the dog in question imports that the act of the defendant was wrongful, the ruling of the court on the demurrers only resulted in the plaintiff amending both counts of his complaint by adding the word “wrongful” before “willful and intentional,” and was without injury.
+The second count of the complaint as originally filed avers that:
+“The .defendant did, by and through one Jim Ward, who was the agent pf the defendant and acting tmder Ms instruction, willfully and intentionally shoot and kill one dog, the property of the plaintiff, of the value of, to wit, $150.”
+The word “willful,” in the connection here used, imports more than that the act was intentional. It has been held by our court that “ ‘willfully’ is a strong word, much stronger than the word ‘intentionally.’ * * * It means governed by the will, obstinate, perverse.” Johnson v. State, 61 Ala. 9. And again, that an act, to be willful, must be “without lawful excuse.” Harrison v. State, 37 Ala. 154. “Willful means governed by the will, without yielding to reason.” Hawes v. State, 88 Ala. 37, 7 South. 302. And by others that it carries the meaning that the act was “with bad or evil purpose, without ground for believing the act to be lawful.” Roby v. Newsom, 121 Ga. 679, 49 S. E. 694, 68 L. R. A. 601; State v. Fairbanks, 115 La. 457, 39 South. 443; Commonwealth v. Kneeland, 20 Pick. (Mass.) 220. See also Words and Phrases. 40 Cyc. 938:
+“The words ‘willful’ and Villfully’ are of somewhat varied significance, according to the context in which they are used in particular cases, and the nature of the subject under discussion or treatment. They are frequently used in the sense of ‘intentionally,’ or in other words implying purpose or design, or proceeding from a conscious motive of the will, as distinguished from accidental or involuntary, and they are accordingly used in the sense or as equivalent to willingly, designedly, purposely, obstinately, stubbornly, inflexibly, perversely, voluntarily, deliberately with set purpose, being governed by the will, without regard to reason, or without yielding to reason.”
+“Willfully” and “intentionally,” as used in the complaint in this case, import that the act of killing the dog was not only intentional, but wrongful'.
+While, as we have said, the ruling on the demurrer presenting this phase of the question was error without injury, a decision is hex-e made necessary by the court’s sustaining to the second count the demurrer taking the point “that it is not alleged in •said count that Jim Ward was acting within the scope of his authority when he’shot the dog,” in the face of the avex-ment that Ward “was acting under his [defendant’s] instructions.” If the specific act was directed or commanded to- be done by the defendant, as this averment imports, he was liable. Williams v. Hendricks, 115 Ala. 277, 22 South. 439, 41 L. R. A. 650, 67 Am. St. Rep. 32; Smith v. Causey, 22 Ala. 568.
+The defendant’s, third plea was not subject to the objections pointed out in the demux-rers to the plea, and the ruling of the court thereon was free from error. Code 1907, § 5340.
+The point, argued in brief, that the value of the property being destroyed by the dog was so greatly disproportionate to the value of the dog that the defendant was not justified in killing the dog was not made a ground of demurrer, and that question is not presented.
+The evidence is without dispute that the dog was killed by Wax-d on the defendant’s premises and aceox-ding to the defendant’s instructions, and tends to show that this dog, with two others, at the time it was killed, was in the act of chasing the defendant’s guineas. When first «seen by Ward, the guineas were flying away from the dogs, and this dog was rurming in the same, or practically the same, direction that the guineas were flying. After the dog was shot, Ward found a dead guinea near where he first discovered the dogs.
+Under the issues formed by the pleadings, the evidence offered by the defendant tending to show that defendant’s guineas in this same inclosure had been depredated on by dogs was competent, as’ this evidence tended to illustrate and give character to the act of the dog on the occasion it was killed, and to illustrate the danger in • which the fowls were placed by the conduct of the dog.
+The defendant, over the objection of the plaintiff, was allowed to show that, after the plaintiff’s dog was killed, the defendant suffered no further depredations on his property by dogs. The only theory that could justify the admission of this evidence is that it afforded an inference that the plaintiff’s dog was the one guilty of the depredations. We are of opinion that this evidence affords no such legitimate inference; that at best it affords room for mere conjecture that plaintiff’s dog was the guilty agent. A fortiori, after the killing of this dog, the owner of the guilty dog or dogs, to save them from like doom, confined them. The court erred in admitting the testimony.
+The issues were properly submitted to the jury, and the affirmative charge was refused without error.
+Charge C possessed misleading tendencies, and was properly refused.
+There is no positive evidence that the dog in question had been guilty of previous depredations on .the defendant’s guineas, nor was there any positive evidence that it killed the guinea found by Ward soon after the dog was shot. These were questions for the jury, under the evidence in the case. “Previous conduct,” as used in charge 8 given at the defendant’s instance, can refer to nothing except the previous depredations by the dogs on the defendant’s guineas, and in assuming that the plaintiff’s dog was the guilty agent the charge invaded the province of the jury. The charge also assumes that the dog, when1 killed, was in pursuit of the guineas, and for these reasons it was error to give the charge. Birmingham Ry. Co. v. Mullen, 138 Ala. 614, 35 South. 701. The charge is also subject to the vice of giving undue prominence to the fact of previous depredations. Huskey v. State, 129 Ala. 98, 29 South. 838; 5 Mayf. Dig. 128, § 16.
+Por the errors pointed out, the judgment is reversed, and the cause remanded.
+Beversed and remanded.
