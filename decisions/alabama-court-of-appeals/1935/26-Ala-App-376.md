@@ -1,0 +1,48 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 73"
+decided: "1935-03-26"
+citations: ["26 Ala. App. 376", "160 So. 727"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SPEARS v. STATE."]
+source_url: "https://static.case.law/ala-app/26/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1667540
+cites_cases: ["101 So. 321", "102 So. 462", "105 So. 425", "159 Ala. 59", "19 Ala. App. 359", "20 Ala. App. 221", "20 Ala. App. 346", "21 Ala. App. 111", "21 Ala. App. 266", "21 Ala. App. 67", "22 Ala. App. 536", "25 Ala. App. 262", "61 Ala. 172", "62 Ala. 201"]
+---
+
+# Spears v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+This appeal is from a purported judgment of conviction for the offense of assault and battery, a misdemeanor. The offense complained of grew out of a difficulty between this appellant and one Simon P. Benson, the alleged injured party. It affirmatively appears that said difficulty between the above parties took place at their home on April 12, 1930. It is without dispute that this prosecution was not commenced until the indictment was found by the grand jury and returned into open court on March 3, 1932, and the capias or writ of arrest was issued on that day; which, as will be seen, was nearly. two years after the alleged commission of the offense. The indictment charged the appellant with the offense of assault with intent to murder.
+By the verdict of the jury, supra, the accused was acquitted of the offense of assault with intent to murder; and, as it affirmatively appears, without dispute, that the statute of limitations had run as to the other offenses ordinarily included under the charge in the indictment, the charge of assault with intent to murder was the only actionable offense in this indictment. Under this status the court was wrong in charging the jury to the effect that this indictment included also the charges of assault and battery and assault, and that the jury would be warranted in finding him guilty of assault and battery, or an assault. The rule providing that every lesser offense is included in the one charged in the indictment applies and has reference only to every actionable offense and not the offenses which upon the face of the proceedings are barred by the statute of limitations, the operation of which rendered the court without jurisdiction to try and determine the so-called lesser offenses. In other words, the misdemeanor of which the defendant was convicted was not embraced in the major charge of assault with intent to murder. Nor could it have been as the running of the statute of limitations had rendered the charge unactionable. The time when an offense was committed need not be alleged in the indictment, but it is essential it must be proved on the trial that it was committed within the period, which is prescribed as a bar against the prosecution for it. If this is not done, the prosecution fails. Why? Because, when the period of limitation elapsed, the act ceased to be a punishable offense. No court was then authorized to pronounce sentence against the person who committed it. McDowell v. State, 61 Ala. 172. In said case the Supreme Court continued and said: “And presuming that every court having jurisdiction acts according to its duty in such a case, — the law considers its judgment as properly rendered upon the just verdict of a jury to whom the requisite evidence had been submitted with proper instructions — unless the contrary be shown by a bill of exceptions.” As stated, the contrary clearly appears in this case.
+In 3 Corpus Juris, p. 580, § 649, it is said: “Consent of parties cannot give a court jurisdiction over the subject matter of an action; and, therefore, the question of jurisdiction of the subject matter may, as a rule, be raised for the first time in the appellate court, or the court may on its own motion, take notice of such want of jurisdiction.”
+In Whorton’s Case, 62 Ala. 201, Chief Justice Briekell, for the court, said: “The jurisdiction of a court over the subject matter is at all times open to inquiry, either on appeal or when the judgment rendered is collaterally assailed; and no consent, laches, or solicitation of the parties can cure such a defect.”
+Other authorities could be cited, but the foregoing appears conclusive upon the question.
+The lower court acted without jurisdiction of the subject-matter; its purported judgment is therefore void and will not support an appeal. This appeal is accordingly dismissed, and, as no conviction of this appellant can be had or sustained in this proceeding, it is here ordered that he be discharged from further custody in this proceeding.
+Appeal dismissed. Appellant discharged.
+
+## Concurrence (SAMFORD, Judge)
+
+SAMFORD, Judge
+(concurring).
+I am concurring in the conclusion reached by the PRESIDING JUDGE for the following reasons: Where the bill of exceptions fails to disclose any evidence as to time or venue, circuit court rule 35 obtains, and the trial court will not be put in error for a refusal to give at the request of defendant the general charge unless the point is brought to the attention of the trial judge. This point has many times been decided by this court and the Supreme Court. Green v. State, 22 Ala. App. 536, 117 So. 607; Houk v. State, 21 Ala. App. 111, 105 So. 425; Harris v. State, 21 Ala. App. 67, 105 So. 389; McGrew v. State, 21 Ala. App. 266, 107 So. 328; Ray v. State, 25 Ala. App. 262, 145 So. 325; Webb v. State, 19 Ala. App. 359, 97 So. 246; McGee v. State, 20 Ala. App. 221, 101 So. 321; Morgan v. State, 20 Ala. App. 346, 102 So. 462.
+In the instant case a very different proposition is presented. Here the evidence is without dispute that the difficulty resulting in the indictment for assault to murder occurred some two years before the beginning of the prosecution. This fact rendered the charge of assault and battery, included in the indictment charging assault to murder, a nonpunishable offense, and no court was authorized to pronounce judgment against the person who committed it. McDowell v. State, 61 Ala. 172, 174. While the time is not required to be stated in hsec verba in the indictment, the charge is inferentially there as much so as if it had been so written, and because it is one of the material averments to be proven before a conviction may be had, and, when it affirmatively appears that the offense charged was committed beyond the time limit as fixed by the statute, the trial court was without jurisdiction to pronounce judgment; the act charged having ceased to be a punishable offense. McDowell’s Case, supra.
+The point is not raised by a request for the affirmative charge as to the offense charged in the indictment, and therefore error cannot and is not predicated on the court’s refusal to give such charge in this case. Letcher’s Case, 159 Ala. 59, 48 So. 805, 17 Ann. Cas. 716.
+But, being a ease where the trial court has no authority or power to pronounce judgment by reason of its lack of jurisdiction over the subjecft-matter, the question may not be waived and may be raised at any time. 16 Corpus Juris, 184 (256). Not for error in refusing the general charge as to the charge in the indictment, nor for other rulings insisted upon as error during the trial, but because the court had no power to pronounce judgment on the verdict for assault and battery, the judgment is held to.be void and of no effect.
+
+## Dissent (RICE, Judge)
+
+RICE, Judge
+(dissenting).
+Appellant, tried under an indictment charging him with assault with intent to murder (Code 1923, § 3303), was convicted of the offense of assault and battery (Code 1923, § 3299).
+It appears that the offense of which he was convicted was barred by the statute of limitations (Code 1923, § 4931), though the one for which he was indicted was not (Code 1923, § 4930). However “the point [i. e. that a conviction of the_ offense was barred by the Statute .mentioned] was raised only by the general charge, which did not separate the misdemeanor from the felony, and, as there was proof authorizing the jury to convict for the felony, ^ the trial court properly refused the general charge.” Letcher v. State, 159 Ala. 59, 48 So. 805, 806, 17 Ann. Cas. 716.
+We have carefully examined each exception reserved on the taking of testimony, but in each instance we deem it obvious that the ruling concerned was either correct or innocuous.
+The written refused charges have likewise been closely considered. No discussion of any one of same seems necessary. In each instance, if the charge asserts a correct, applicable principle of law, we find the substance of same to have been fully included in and covered by some other charge given to the jury.
+AVe find nowhere a prejudicially erroneous ruling nor action by the court; and the judgment of conviction must be, and is, affirmed.
+Affirmed.
+The above was written as and for the opinion of the court. But my associates do not agree. They may be right; though I cannot see where we may do more than review rulings which appear; and none such that are erroneous are apparent. Practically, at least in substance — leaving out the matter of here and now discharging the appellant — all that is said by the PRESIDING JUDGE was said by Mr. Justice McOlellan as a dissent in the Letcher Case I have cited, and upon which I rely for my views. Code 1923, § 7318. The Supreme Court would not accept it then and, so far as I can find, its decision there remains unaltered. I therefore respectfully dissent. Code 1923, § 7318, supra.
