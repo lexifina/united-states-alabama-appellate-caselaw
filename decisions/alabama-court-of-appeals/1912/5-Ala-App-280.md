@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1912-06-13"
-citations: ["5 Ala. App. 280", "59 So. 718", "5 Ala. App. 283", "59 So. 719", "5 Ala. App. 194", "59 So. 720"]
+citations: ["5 Ala. App. 280", "59 So. 718"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Carson v. The State."]
 source_url: "https://static.case.law/ala-app/5/cases/0280-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1619624
-cites_cases: ["114 Ala. 11", "136 Ala. 131", "138 Am. St. Rep. 66", "146 Ala. 124", "147 Ala. 118", "150 Ala. 95", "159 Ala. 437", "16 Am. St. Rep. 31", "164 Ala. 631", "165 Ala. 268", "169 Ala. 472", "22 South. 110", "31 Am. Rep. 13", "31 South. 351", "41 South. 290", "43 South. 194", "51 South. 415", "51 South. 676", "59 Ala. 164", "59 South. 718", "7 South. 268", "79 Ala. 45", "88 Ala. 169"]
+cites_cases: ["146 Ala. 124", "147 Ala. 118", "16 Am. St. Rep. 31", "31 Am. Rep. 13", "41 South. 290", "59 Ala. 164", "7 South. 268", "79 Ala. 45", "88 Ala. 169"]
 ---
 
 # Carson v. State
