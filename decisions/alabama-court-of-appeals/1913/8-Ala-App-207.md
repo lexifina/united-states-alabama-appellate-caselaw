@@ -1,0 +1,25 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1913-05-20"
+citations: ["8 Ala. App. 207", "62 So. 328"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johnson v. The State."]
+source_url: "https://static.case.law/ala-app/8/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820137
+cites_cases: ["100 Ala. 272", "105 Ala. 123", "116 Ala. 471", "116 Ala. 481", "122 Ala. 97", "14 South. 109", "140 Ala. 137", "159 Ala. 14", "16 South. 706", "22 South. 662", "28 Ala. 248", "37 South. 223", "54 Ala. 263", "54 Ala. 265", "62 Ala. 154", "90 Ala. 600"]
+---
+
+# Johnson v. State
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+The defendant was tried for and convicted of assaulting one Arthur Stoddard. The evidence showed that Stoddard had knocked the defendant’s hat off, and that words accompanied by mutual cursing followed, finally resulting in the defendant’s shooting Stoddard. The evidence for the state tended to show the guilt of the defendant, and the evidence introduced in behalf of the defendant tended to show that he acted in self-defense. The witness Stoddard testified that the defendant’s hat was knocked off, not in anger, but in play; that prior to that time he and the defendant had been friends; and that he had not had any trouble or misunderstanding of any sort with the defendant. There was other evidence brought out on the cross-examination of a state’s witness going to show that just before the trouble came up the defendant apprehended having trouble with Stoddard.
+The defendant, on the cross-examination of . Stoddard, nought to bring out the fact that just before the difficulty in question the defendant and Stoddard’s brother had had trouble. This line of inquiry was pertinent for the purpose of shedding light on the transaction and as explanatory of the conduct of the parties, and to show a motive for their acts, and as having a tendency to show who was the aggressor, and who was at fault in bringing on the difficulty under the particular circumstances shown by the evidence in this case, and we think the court improperly curtailed the cross-examination (on the objection of the solicitor) so as to exclude this legitimate field of inquiry on a matter within the proper bounds of cross-examination. The defendant undertook to show this same fact on the cross-examination of other state’s witnesses, but the court sustained objections to all questions seeking to bring out this matter.
+The defendant reserved an exception to the following portion of the court’s oral charge: “It shows what we might say a sad condition of affairs, we see the man who was assaulted in this case go on the car intoxicated, and it is proven without conflict that he was intoxicated and had a knife in his hand; on the other end of the car -.we see the defendant get on, and it is proven without .conflict that he had whisky in his bosom and a pistol in his pocket, and going in the coach where ladies and children must stay and travel.” The bill of exceptions purports to set out all of the evidence. There is nothing to show that the “chair car” where the difficulty took place had in it at the time any ladies or children, or that it was a coach on the train in which they must stay and travel. Moreover, the commentary of the judge in the oral charge that a sad condition of affairs was presented by the case was an invasion of the province of the jury that was calculated to prejudice the defendant’s case in tbeir eyes, coming from that source. “It is of the highest importance in the administration of justice that the court should not invade the province of the jury, should give them no intimation of its opinion on the facts, etc. We cannot shut our eyes to the fact that juries watch with anxiety to gather from the court some intimation as to what the judge thinks should be their finding,” etc. — Fuhrman v. Mayor, etc., 54 Ala. 263, quoting approvingly from the opinion in Hair v. Little, 28 Ala. 248-249. See, also, McIntosh v. State, 140 Ala. 137, 37 South. 223; Singer Mfg Co. v. Greenleaf, 100 Ala. 272, 14 South. 109; Linnehan v. State, 116 Ala. 471, 22 South. 662; Spicer v. State, 105 Ala. 123, 16 South. 706.
+In charging the jury, a judge should not by the matter or manner of his charge indicate what his own views are as to the effect of the testimony; he should not give his impression of the testimony or its effect as produced upon his mind, for under our practice this is an invasion of the province of the jury. — Andrews v. State, 159 Ala. 14, 48 South. 858. We do not think it was the purpose of the judge below to influence the finding of the jury against, the defendant or that he had any idea of doing so by making the statement, but it was nevertheless an invasion of the province of the jury that was calculated to prejudice the defendant’s case in the minds of the members of the jury.
+For the errors we have above discussed, the judgment of.the court below must be reversed.
+Reversed and remanded.
