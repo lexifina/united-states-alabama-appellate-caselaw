@@ -1,0 +1,24 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-05-16"
+citations: ["5 Ala. App. 64", "59 So. 518"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Parker v. The State."]
+source_url: "https://static.case.law/ala-app/5/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1619663
+cites_cases: ["1 South. 577", "102 Ala. 78", "107 Ala. 1", "108 Ala. 305", "115 Ala. 1", "12 Ala. 764", "123 Ala. 50", "152 Ala. 38", "153 Ala. 13", "155 Ala. 21", "165 Ala. 1", "46 Am. Dec. 276", "58 Ala. 74", "59 South. 331", "78 Ala. 441", "81 Ala. 20", "81 Ala. 21", "88 Ala. 1"]
+---
+
+# Parker v. State
+
+## Majority (PELHAM, J. —)
+
+PELHAM, J. —
+A statement of this case is sufficiently shown by the report on the former appeal. — Parker v. State, 165 Ala. 1, 51 South. 260. On that appeal the only criticism made of charge No. 3, upholding the lower court’s ruling in refusing the charge on that trial, was that it instructed in effect that, if any one of the jury had a reasonable doubt of the guilt of the defendant, the jury must acquit the defendant, instead of stating tha't the jury could not find the defendant guilty, so long as one juror had a reasonable doubt of his guilt. Charge No. 10, requested on the trial of the case we now have under consideration on appeal, is practically a copy of charge No. 3 on the former appeal, except that the jury is not instructed that they must acquit if one of their number entertains a reasonable doubt of the guilt of the defendant, but only that they cannot convict under such a circumstance. The only other difference in the charge as it appears in the record before us (charge No. 10) and the charge as set out in the report of the case on the former appeal (charge No. 3, Parker v. State, supra) is that the present charge is more accurate, if anything, in predicating any offense charged in the indictment, and not merely the offense charged. We do not find any given charge or charges substantially covering this charge (No. 10), and, as it states the law correctly, its refusal is error that must occasion a reversal of the case.
+Counsel for appellant insists that other refused charges are substantial copies of charges approved by the Supreme Court in other cases; but, as the case must be reversed for the refusal to give this charge, it can serve no beneficial purpose to discuss these charges that may or may not be among the class of charges that have heretofore been passed upon and approved, and may or may not be requested upon another trial. Nor is there any necessity of our discussing on this appeal rulings on the evidence that probably will not occur upon another trial.
+The dying declarations of the deceased were properly admitted, and, being in writing and having reference to facts constituting the res gestae, we are inclined to the opinion that when the state introduced extracts from the statement the defendant was entitled to have the entire written declaration go before the jury, for the purpose of determining the weight and credibility they would give to the declarations. For, while the court passes on the admissibility of dying declarations and the prerequisite facts going to show a proper predicate, the jury alone must pass upon the weight and credibility to be accorded the declarations. — Ex parte Elbert Key, Infra, 59 South. 331; Ward v. State, 78 Ala. 441; Jordan v. State, 81 Ala. 21, 1 South. 577; Faire v. State, 58 Ala. 74; Moore v. State, 12 Ala. 764, 46 Am. Dec. 276.
+For the purpose of having the judgment entries corrected to make them speak the facts before another trial of the case, we call attention to the confused and contradictory state in which they appear as set forth in the transcript. The defendant is shown by the judg"meat entries of a former trial to have been tried on an indictment charging murder in the first degree, and to have been convicted of murder in the second degree. After an appeal and reversal of the case by the Supreme Court, the judgment entry shows that the defendant entered a plea of autrefois acquit as to murder in the second degree, and that this plea was confessed by the state. No judgment entry is shown on this plea and confession. At a subsequent term the defendant is shown to have been tried and convicted of murder in the second degree (the judgment from which this appeal is taken), without a day having been set for the trial or special venire provided, as required in cases that may be punished capitally. Evidently the defendant was tried for murder in the second degree, and the plea of former acquittal should properly have set up a prior acquittal of murder in the first, and not in the second, degree, and a judgment should be entered on a proper plea of former acquittal of murder in the first degree.
+Reversed and remanded.
