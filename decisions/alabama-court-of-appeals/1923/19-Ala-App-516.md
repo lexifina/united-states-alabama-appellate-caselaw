@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1923-12-18"
-citations: ["19 Ala. App. 516", "98 So. 488", "6 Div. 341", "19 Ala. App. 518", "98 So. 489", "6 Div. 342", "19 Ala. App. 517", "6 Div. 339"]
+citations: ["19 Ala. App. 516", "98 So. 488", "6 Div. 341"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["COLLINS v. STATE."]
 source_url: "https://static.case.law/ala-app/19/cases/0516-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8827017
-cites_cases: ["123 Ala. 86", "16 Ala. .App. 62", "16 Ala. App. 553", "16 Ala. App. 581", "16 Ala. App. 62", "16 Ala. App. 653", "16 Ala.' App. 62", "17 Ala. App. 430", "17 Ala. App. 80", "17 Ala. App. 9", "18 Ala. App. 426", "203 Ala. 699", "26 South. 516", "42 Ala. 546", "5 Ala. App. 167", "83 South. 927", "84 South. 859", "93 South. 56"]
+cites_cases: ["123 Ala. 86", "16 Ala. App. 553", "16 Ala. App. 581", "16 Ala. App. 62", "16 Ala. App. 653", "17 Ala. App. 430", "17 Ala. App. 80", "17 Ala. App. 9", "18 Ala. App. 426", "203 Ala. 699", "26 South. 516", "42 Ala. 546", "5 Ala. App. 167", "83 South. 927", "84 South. 859", "93 South. 56"]
 ---
 
 # Collins v. State
