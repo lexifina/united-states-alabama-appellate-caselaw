@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1928-03-20"
-citations: ["22 Ala. App. 380", "115 So. 853", "7 Div. 421", "22 Ala. App. 383", "115 So. 855", "8 Div. 655"]
+citations: ["22 Ala. App. 380", "115 So. 853", "7 Div. 421"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
