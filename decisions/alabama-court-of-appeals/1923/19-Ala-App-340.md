@@ -1,0 +1,48 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1923-06-12"
+citations: ["19 Ala. App. 340", "97 So. 772", "8 Div. 995"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHUMATE v. STATE."]
+source_url: "https://static.case.law/ala-app/19/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8825085
+cites_cases: ["11 Ala. App. 333", "11 South. 255", "118 Ala. 125", "124 La. 1054", "13 Ala. App. 156", "13 Ala. App. 181", "15 Ala. App. 304", "15 Ala.' App. 57", "159 Ala. 33", "16 Ala. App. 140", "16 Ala. App. 174", "16 Ala. App. 47", "161 Ala. 25", "17 Ala. App. 464", "17 Ala. App. 49", "183 Ala. 1", "197 Ala. 180", "2 South. 683", "201 Ala. 512", "206 Ala. 416", "210 Ala. 252", "24 South. 111", "4 Ala. App. 144", "48 South. 689", "5 Ala. App. 290", "8 South. 130", "82 Ala. 16", "90 Ala. 523", "96 Ala. 24", "97 South. 777"]
+---
+
+# Shumate v. State
+
+## Majority (SAMirOI-tD, J.)
+
+SAMirOI-tD, J.
+When the jury was being selected to try this case it developed that two of the jurors comprising the regular panel for the week, and from which the jury to try defendant was to be selected, had been members of a jury which tried a damage suit involving the same facts as the case then on trial. The court sustained a challenge by the state for that cause, and defendant excepted. This was a reasonable exercise of the discretion of the court under section 7280 of the Code of 1907. Curtis v. State, 118 Ala. 125, 24 South. 111.
+The testimony o# the witness Beal as to threats or expression of ill will towards the dead man ahd his brother were admissible to show malice on the part of defendant, and mere lapse of 18 months’ time does not render them inadmissible. Rector v. State, 11 Ala. App. 333, 66 South. 857; Tennison v. State, 183 Ala. 1, 62 South. 780; 8 Mich. Digest, 243, par. 114 (3).
+The testimony of the witness Otis Wilson as to what was said an,d done by the parties engaged in the difficulty was obviously admissible as a part of the res gestse, and, as to the questions being leading, that was in the discretion of the court. .
+The court did not commit reversible error in sustaining the state’s objection to defendant’s question asked the witness Bentley on cross-examination:- “For all you know and what you saw there as you were walking on, Tom Haney might have been cutting at him with a knife?” This witness had already been and afterwards was thoroughly cross-examined on this point, and had already answered that he did not know whether Tom Haney was cutting at defendant or not. The fullest latitude will be allowed on cross-examination to test witness as to i the source and accuracy of his knowledge and to bring out any fact affecting the credibility of his testimony, but trial courts will not be put in error for refusing to permit reiterations and repetitions of questions where the witness has already given straightforward answers to the questions asked.
+There could not be any possible injury to defendant in the ruling of the court overruling defendant’s objection to the offering of the testimony of the state’s witness Dewey Erwin, taken on preliminary trial, for the very good reason the testimony was never read in evidence.
+The court did not err in permitting the solicitor to cross-examine defendant’s witness Jim Allen as to the conversation already testified to by him in his direct examination. There is no rule better known than that, when one party has brought out a part of a conversation, the other side is entitled to all of it.
+After the defendant had rested, the court, over the objection of defendant, permitted the state to examine Tom .Haney, after it had been shown that the rule had been invoked and Haney had been in the courtroom during a- part of the examination of other witnesses. This was in the sound discretion of the court. 4 Mich. Dig. 293, par. 433 (3).
+The state’s counsel was permitted to ask- Tom Haney, “when you and Hugh started off did you- make any statement where you were going?” to which witness replied, “I told Hugh and the whole crowd I was going home.” 'This was just prior to the difficulty, which occurred at a point in the public road towards the home of Haney, in which Haney was one of the participants, and, in fact, was one of the principals. This testimony was admissible- as part of the .res gestee of the journey; as tending to show his motive in being at the place of the difficulty. Kilgore v. Stanley, 90 Ala. 523, 8 South. 130; Maddox v. State, 159 Ala. 33, 48 South. 689; Mayo v. State, 15 Ala. App. 304, 73 South. 141; Hardaman v. State, 17 Ala. App. 49, 81 South. 449; Harris v. State, 96 Ala. 24, 11 South. 255.
+The testimony of Dr. Huckaby, a state’s witness, as to the extept of the wounds inilicted by defendant on Tom Haney during thp fatal difficulty, was relevant and admissible. The killing was a part of a difficulty in which defendant was attempting to arrest Tom-Haney. One of the main contentions of defendant was that Tom Haney was guilty of public drunkenness, and that defendant was executing a duty in arresting Tom for a misdemeanor committed in his presence, and, following the contention of defendant, the court properly held the deceased brother of Tom accountable for Tom’s acts and conduct on that' occasion. It was therefore relevant as a part of the res gestae to show what wounds Tom received and the extent of his injuries as a result of the conflict. 8 Mich. Dig. 281, par. 158.
+The question propounded by defendant to Dr. Barnard, “If you know or have heard any information that Tom Haney has in the last few years been in several scraps or fights,” called for hearsay testimony, and for that reason was objectionable.
+Charges A, B, C, and D were given by the court at the request of the state, and thereby beca^me a part of the court’s charge, to be- taken and considered by the jury in connection with the general charge of the court. When so taken and considered they each announce correct propositions of law. Code 1907, § 6267; Tarwater v. State. 16 Ala. App. 140, 75 South. 816; Code 1907, § 6770.
+Charge marked Vz is faulty, and properly refused, in that it fails to say “wilfully sworn falsely.” So hold all of the authorities cited by appellant in brief. It is not the accidental or unintentional falsity of testimony that authorizes a rejection of all the testimony of a witness, but the intent to swear falsely impeaches the integrity of the witness, and for that .reason may render his entire testimony unworthy of credence.
+There was evidence that the defendant was acting as deputy sheriff, but there was no evidence that he was “duly qualified” as such, and hence charge 1 was properly refused.
+Charge 2, being the general charge, the evidence being'in conflict, was properly refused.
+The plaintiff in this case, if there can be Said to be a plaintiff in a criminal case, is the state of Alabama. There was no evidence of the bad character of the state for peace and quiet, and hence charge 3 was properly refused.
+There are 38 refused charges in this case bearing on the different questions involved. Charges 4, 5, 6, 8, 11, 12, 13, 14, 15, 18, 19, 20, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, and 38 are covered by tbe very able charge of the court and by the written charges given' at the request of the defendant. The oral charge of the court ably, correctly, and clearly covers and fully explains every phrase of the law of homicide applicable to this ease and the law of evidence and burden of proof under every phase of ihe testimony and contentions of the parties. It must be said, there is seldom seen in a record a more complete and understandable charge than is here set out.
+Under the facts in this case, it was a question for the jury, under appropriate instructions from the court, to say whether the attempted arrest of Haney was made in a proper or legal manner, and therefore charge 7 was properly refused.
+Charge 9 refused, is duplicated in given charge 22.
+The principle of law embraced in refused charge 10 is embraced in given charge 22. But, aside from that, this charge undertakes to lay down a rule for making arrests to the exclusion of other ways just as effectual and just as lawful.
+Refused charge 16 is misleading. The ordinary doctrine of self-defense is not applicable to an officer while making a lawful arrest; none the less the officer is bound by certain rules with which he must comply before he will be justified in taking the life of the party whom he is taking into his custody.
+Refused charge 17 was properly refused. The question of, the drunkenness of Tom Haney was in dispute. Moreover, the question was not, Was Haney drunk? but Was he drunk, and did he manifest such condition as prohibited by statute?
+Charges 21 and 22 have so often been held to be bad by both this court and the Supreme Court as not to here need citation of authority.
+Refused charge 19 is covered by given charge 2.
+Refused charge 22% gives undue prominence to the testimony of defendant, and was properly refused. Lawson v. State, 16 Ala. App. 174, 76 South. 411; Smith v. State, 16 Ala. App. 47, 75 South. 192.
+Charge 23 is elliptical. Moreover, even if the omitted words could be supplied, it would still be bad, in that it requires an acquittal of defendant if one of the -jury have a reasonable doubt of guilt.
+Refused charges 35 and 36 do not give a correct definition of public drunkenness as defined by the statute.
+There was no error in refusing the motion for new trial.
+We find no error in the, record, and the judgment is affirmed.
+Affirmed.
