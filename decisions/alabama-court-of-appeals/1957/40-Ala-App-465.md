@@ -1,0 +1,97 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 978"
+decided: "1957-08-13"
+citations: ["40 Ala. App. 465", "115 So. 2d 262"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lester Bemay DIXON v. STATE."]
+source_url: "https://static.case.law/ala-app/40/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1703786
+cites_cases: ["1 So.2d 314", "101 So. 354", "104 So. 674", "105 So. 431", "136 So. 831", "16 Ala. 431", "17 Ala.App. 506", "173 So. 397", "18 Ala.App. 539", "18 Ala.App. 91", "19 Ala.App. 403", "20 Ala. App. 254", "20 Ala.App. 627", "21 Ala.App. 81", "22 Ala.App. 516", "22 Ala.App. 523", "22 Ala.App. 648", "24 Ala.App. 192", "24 Ala.App. 403", "245 Ala. 448", "249 Ala. 372", "25 S.E. 252", "269 Ala. 548", "27 Ala.App. 374", "30 Ala.App. 104", "30 Ala.App. 346", "33 Ala.App. 502", "39 Ala.App. 161", "39 Ala.App. 400", "73 Ala. 47", "9 Port. 126", "90 So. 54", "93 So. 325", "96 So.2d 582", "97 Ga. 76", "97 So. 682"]
+---
+
+# Dixon v. State
+
+## Majority (CATES, Judge. CATES, Judge.)
+
+CATES, Judge.
+The facts in this case can be summarized by an answer given by a Federal Alcohol Tax Unit investigator on cross examination, 'T only saw Mr. Dixon carrying a 100 pound sack of sugar and a five gallon can.”
+Dixon was, on March 23, 1956, indicted by the Grand Jury of Marshall County of (1) distilling, and (2) possessing a still. He was tried on June 5, 1956. The jury rendered a verdict of guilty. The court, adjudging him guilty, sentenced him to the penitentiary for two years.
+The tendency of the evidence for the State, which was adduced by two Federal Alcohol Tax Unit investigators, was that on January 25, 1956, the two investigators and the high sheriff and his deputy proceeded along a country road in the neighborhood of Mt. Pleasant in the Bucksnort Beat (Beat 19) of Marshall County. They stopped the car in the vicinity of the top of a high bluff (also variously described as a hill or mountain), and having come into the woods near the edge of the bluff at a distance of approximately' 75 yards from the highway, discovered a “stash” of several five-gallon jugs and metal cans, and three 100 pound sacks of sugar, together with some fuel. The investigators proceeded down the mountainside about 150 yards from this stash, and upon hearing voices down below in a little ravine, stopped and withdrew from the path a distance of some 15 yards. They then noticed two men coming up the trail. It was beginning to get dark and both witnesses testified that they were unable to identify the men who came up the trail. A short time later, they noticed two men coming back down the trail, and, closing in, they apprehended the defendant and another man, each carrying a 100 pound sack of sugar and an empty five-gallon tin can.
+Some 60 yards below the point of capture, out of sight, they discovered a still at the end of the path. Around the still were some 22 barrels of mash, the still was in operation, and a man named James Martin was arrested there.
+There was no evidence as to the ownership of the land on which the still or the stash was located. A later visit to the stash showed two of the sacks of sugar gone and two five-gallon jugs of whiskey added.
+The contention of the State was that the evidence as to the stage of manufacture and evidence of skimming off the contents of the 22 barrels of mash made Dixon’s conduct a part of an integrated operation. The sugar inferentially was to be used to “recharge” the barrels. With this theory there would be no difficulty had there been any evidence at all that Dixon and the other man arrested coming down the path were also the men who went up the path. Without this evidence, however, we have only the outward trappings of a man on his way to what the jury might well find would, in the probable course of events, have been the commission of a statutory crime, viz., distilling, but also a crime which he was only about to commit, and which, under the evidence here, was purely putative.
+Statutory crimes, unless employing such expressions as “willfully,” “intentionally,” or “knowingly,” do not ordinarily require proof of mens rea. Thus, a violation of the speed limit occurs when the rate prescribed is passed, regardless of the state of mind of the operator. Likewise, in statutory rape, the belief that the female is of the age of consent is immaterial. Conversely, since there is, in the instant charged offense, no element of intent, there must be some act of commission. As in death bed salvation, the person about to commit a statutory crime has until the last minute to change his mind. Accordingly, as to the distilling count, there was no sufficient proof of the corpus delicti. See Hudson v. State, 249 Ala. 372, 31 So.2d 774.
+As to the possession of a still, there was sufficient evidence to indicate that Dixon and his companion had obtained the sugar from the stash located on the plateau above the still. We cannot, however, say that the stash was an integral part of the manufacturing establishment at the foot of the hill as, on the contrary, was a dam in a branch to divert water to a pipe running to a still in Milam v. State, 24 Ala.App. 403, 136 So. 831. Thus, in Tennessee, Coal, Iron & R. Co. v. Martin, 33 Ala.App. 502, 36 So.2d 535, this court held that the various components of an industrial complex comprising U. S. Steel Company’s operations in Jefferson County did not constitute a single establishment. No more do we think that a hiding place, warehouse, barn, or other cache located out of sight and at some considerable distance from a still (i. e., not a part of the “still yard”) is in anywise to be considered a part of a still when no manufacturing operation or preparation of raw materials actually takes place at that point.
+The mere possession of an ingredient, a raw material, cannot alone, unless expressly so stated by statute, give rise to illegality. No more can its legal' possession give rise to an inference of having it for a future illegal purpose. This-distinction was clearly brought out in the recent stink bomb ingredient case, Bolin v. State, 39 Ala.App. 161, 96 So.2d 592, on a certified question from this court, Ala., 96 So.2d 582.
+The affirmative charge having been requested in writing by Dixon, it was due to have been given; and, accordingly, the judgment below should be reversed and the cause remanded.
+Reversed and remanded.
+After Remandment
+CATES, Judge.
+On original consideration we saw no need to review the remainder of the record.
+The trial judge refused the following requested written charge:
+“B-l I charge you gentlemen of the jury that under the law the person or officer furnishing the proof in a case of Distilling or for Possession a Still are entitled to collect a fee for such services under the law from the State of Alabama and you have a right to take into consideration any interest that the evidence shows any witness in the case may have in the out come of the case in arriving at your verdict in this case.”
+In Layton v. State, 22 Ala.App. 523, 117 So. 610, this court, per Rice, J., said:
+“Charge 4, refused to defendant is as follows:
+“ T charge you, gentlemen of the jury, that you are authorized to take into consideration any pecuniary interest any witness may have in the result of your verdict, as to what weight you will give the testimony of such witness.’
+* * * * * *
+“Appellant was convicted of the offense of unlawfully distilling prohibited liquors, etc. We know judicially that there is a statute providing, in effect, that some one of the witnesses for the state, in this case, would receive a reward of $50 in the event the defendant was convicted. Code 1923, § 4626. Consequently it was prejudicial error for the trial court to refuse appellant’s written charge which we have numbered 4. Shepard v. State, 20 Ala.App. 627, 104 So. 674; Brown v. State, 18 Ala.App. 91, 90 So. 54.
+“The substance of the charge was not, in our opinion, sufficiently included in the oral charge of the court, or in the written charges given at appellant’s request, to render its refusal harmless error.”
+See also Bowlin v. State, 24 Ala.App. 192, 132 So. 600, and Shepard v. State, 20 Ala.App, 627, 104 So. 674.
+The pecuniary interest of a witness in the outcome is a permissible enquiry, since such an interest can go to the witness’ credit or the weight which may be attached by the jury to his testimony on the facta probanda or matters preliminary thereto or explanatory thereof. Beverly v. State, 27 Ala.App. 374, 173 So. 397, McElroy, Law of Evid. in Ala., § 150.
+Evidence of a reward held out may be admitted under proper conditions. Anderson v. State, 39 Ala.App. 400, 103 So.2d 796, Turney v. State, 18 Ala.App. 539, 93 So. 325.
+Thus, in Myers v. State, 97 Ga. 76, 25 S.E. 252, 261, we find:
+“It appears from the record that a reward had been offered for the apprehension Of the accused. The fact that this reward had been offered had been widely advertised by the police officers of the city of Atlanta. The accused was apprehended by officers in a distant city, and they were brought here to testify against him. Upon the trial of the case, they being introduced as witnesses, the judge charged, among other things, as follows: ‘The mere fact that a reward was offered is not any evidence against the credit of the witnesses. There must be something in connection therewith to show that the witnesses testified in view of the reward.’ We think this charge was error. The fact that a reward had been offered for the apprehension and conviction of the accused, standing isolated and alone, is a circumstance which goes to the credit of any witness, who, being interested in the apprehension and conviction of the prisoner, might have an interest in the reward. Whether or not he testified with a view to the reward is another circumstance which may be proven to affect his credit. The weight and effect of the circumstance first above referred to may be completely destroyed by showing that the witness did not testify with a view to the reward, or did not know of the existence of the reward, but as to whether the one circumstance is overcome by proof of the other is at least a question for the jury; and therefore it was error to charge the jury that the mere circumstance that a reward had been ■offered was not any evidence to be considered by the jury. However .slight might have been its bearing on the case, it was competent, and ■ought not, by this instruction, to have been withdrawn from the consideration of the jury.”
+Code 1940, T. 29, § 102 (as amended by .Act, No. 699, approved September 17, 1953), provides:
+“Whenever any person is convicted in the circuit court of unlawfully distilling or manufacturing or making any of the prohibited liquors or beverages as defined by this title, there shall be charged to the Alabama alcoholic beverage control board to be paid by them the sum of fifty dollars out of the funds used by the board for the purchase of alcoholic beverages, to be allowed the sheriff or other officer or person who furnished the evidence and brought about the conviction, and who shall satisfy the presiding judge that he is the person entitled to said sum, and shall receive from the judge a certificate to that effect.”
+Code 1940, T. 29, § 134, contains a like fee or reward with respect to convictions for possessing a still.
+We have looked at the oral charge in the Layton case, supra, and find the reference to the possibility of interest affecting a witness’ credit was of the same tenor and •effect as the verbiage used by the trial judge in his oral charge in the instant case.
+Accordingly, on the authority of Layton v. State, supra, and Bowlin v. State, supra, the judgment below is reversed and the •cause remanded for new trial.
+Reversed and remanded.
+
+## Rehearing (CATES, Judge.)
+
+On Rehearing
+CATES, Judge.
+•Code 1940, T. 15, § 306, reads in part:
+“There shall be no exclusion of a witness in a criminal case because, on conviction of the defendant, he may be entitled to a reward, * * * such objection is addressed to the credibility, not to the competency, of the witness.”
+For prior law, see Bohannon v. State, 73 Ala. 47.
+The State urges us to affirm on authority of Wells v. State, 19 Ala.App. 403, 97 So. 681; Brown v. State, 22 Ala.App. 648, 119 So. 512, and Harmon v. State, 20 Ala. App. 254, 101 So. 353.
+In Wells refused Charge T read [19 Ala.App. 403, 97 So. 682]:
+“The court charges the jury that, if you believe the evidence in this case, the sheriff will receive the sum of $50 in the event of a conviction, and you may look to the fact that J. V. Andrews is deputy sheriff, weighing his evidence.”
+That case was reversed under an opinion of Bricken, P. J., delivered on rehearing so that with the ratio decidendi being set out in Judge Bricken’s opinion, the comment of Judge Samford on original deliverance is left stranded and can only be dictum. However, in Brown v. State, supra, Judge Samford used the same reason alluded to by him in Wells. In Brown refused Charge 13 was as follows:
+“The court charges the jury that in weighing the testimony of the witnesses O. M. Campbell and Tom Logan you may look to the fact, if it be a fact, that said witnesses expect to receive a reward if the defendant is convicted under the indictment in this case.”
+Of which the court said:
+“Refused charge 13 was covered by the court in his oral charge. Moreover, this requested charge gives undue prominence to a part of the testimony.”
+The “singling out” — Wells, supra— (which, of course, is virtually identical with “giving undue prominence to”) seems to lie in the mention of named witnesses rather than in framing the instruction so as to embrace the testimony of all witnesses within the ambit of the reward statutes.
+This vice does not apply here since Dixon’s refused charge covers precisely the offerees named by the Legislature, i. e., persons or officers. See Mosely v. Kennedy, 245 Ala. 448, 17 So.2d 536.
+Harmon v. State, supra [20 Ala.App. 254, 101 So. 354], presented refused Charge L which read:
+“I charge you, gentlemen of the jury, that you can take into consideration, in addition to the evidence adduced from the witness stand, the fact that the statute provides a reward of $50 to be allowed the sheriff or other officer or person who furnished the evidence, and brings about a conviction in distilling cases.”
+Thus, in Harmon, we have three reasons to justify the trial judge’s refusal of Charge L:
+(1) it was covered by the oral charge;
+(2) it pretermitted the steps to se- . cure the statutory reward; and
+(3) it was abstract under the evidence of that case.
+Of these three only the second would have influence here.
+The Harmon case was in 1924, Layton in 1928, and Bowlin in 1931, a span of almost seven years. This seems too short a time to ascribe any primacy to the Harmon opinion over Layton and Bowlin under the principle of, “The older the case, the better the law.”
+In Layton and Bowlin, there is no description of the pecuniary interest being inchoate or contingent at the time of testimony because the reward is available (as are most rewards) to the person furnishing information leading to the arrest and conviction of the culprit.
+The Harmon opinion attaches significance to the fact that Charge L did not point out that the trial judge is the final awarding authority, T. 29, § 102, as amended. Our understanding is that in our circuit courts where the evidence is clear as to who is entitled to the reward — as it is here — the trial judge’s certificate issues as a matter of course, and is recorded not as a separate proceeding but on the docket sheet of the case in which the testimony was given.
+The Layton case, we think, correctly points out that the mere existence of the statute affords the potentiality of a witness consciously or even subconsciously trimming, altering or even fabricating his testimony, and hence is sufficient to require, on proper request by the defendant, the giving of an instruction regarding the pecuniary interest of a witness as it might affect his credibility. No subsidiary requirement of the procedure to get the reward after the defendant’s conviction is pertinent under such a view. To this extent, the second reason referred to in the Harmon opinion must be taken as being superseded by the principle of Layton and Bowlin where there is no question under the evidence as to who furnished the proof.
+In Thomas v. State, 22 Ala.App. 516, 117 So. 498, it was reversible error to sustain the State’s objection to a question going into the pecuniary interest of a State witness in the proceeds of an insurance policy on the life of the deceased — proceeds which, if the defendant had been convicted of murder, might have gone, at least, in part, to the witness. See also Weaver v. State, 17 Ala.App. 506, 86 So. 179, and Lock v. State, 21 Ala.App. 81, 105 So. 431.
+Smith v. State, 30 Ala.App. 346, 5 So.2d 648, dealt with a question put a deputy sheriff as to how much the sheriff would get if Smith were convicted. The deputy was assumedly on a salary basis, hence the .•court held his interest too remote, Mosely v. Kennedy, supra.
+Here the State’s two principal witnesses who, under the undisputed evidence, would be entitled to the reward were neither the sheriff nor his deputies. Thomas, Weaver, Lock and Smith are all cases touching proper cross-examination.
+Moreover, the earlier strictness relating to competency of witnesses because of pecuniary interest has not carried over with the advent of § 306, supra.
+In Crawford v. State, 30 Ala.App. 104, 1 So.2d 314, a prosecution for selling a choking mule [now Code 1940, T. 3, § 18], it was held reversible error to refuse the following charge:
+“I charge you that the lowest fine in a case of this kind of a prosecution is one hundred dollars and one-half this goes to the prosecuting witness Noel Smith, and you are entitled to consider this fact in considering Smith’s testimony in this case.”
+We have compared the oral charge in the record in the Crawford case; and, based on that opinion, on Layton v. State, supra, and on Bowlin v. State, supra, in the light of T. 15, § 306, we adhere to our former view.
+Application overruled Oct. 20, 1959
+PER CURIAM.
+Affirmed on authority of Dixon v. State, 269 Ala. 548, 8 Div. 983, 115 So.2d 270.
+. Harwood, P. J., and Price, J., disagree with this principle.
+. See State v. Truss, 9 Port. 126, and Williamson v. State, 16 Ala. 431.
+. The oral charge here reads:
+“ * * * You have heard the testimony of the witnesses and you can take into consideration the manner in which they testified, any interest that they might have, and the reasonableness or unreasonableness of their testimony in determining what weight or credibility you give to that testimony. * * * ”
+The oral charge in Crawford reads:
+“ * * * You take the testimony as you have heard it from the witness stand on both sides and thoroughly consider all of the testimony and arrive at what the facts in the case are. Where there is a conflict in the testimony, it is up to you to reconcile it and arrive at who is right and who is wrong. You have had an opportunity to observe the witnesses on the stand their demeanor and their interest in the case or their lack of interest as the case may be. *• * * ”
