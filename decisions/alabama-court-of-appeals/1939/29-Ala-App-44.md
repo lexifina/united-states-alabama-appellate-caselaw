@@ -1,0 +1,34 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 454"
+decided: "1939-06-20"
+citations: ["29 Ala. App. 44", "191 So. 647"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALLDREDGE et al. v. BAILEY."]
+source_url: "https://static.case.law/ala-app/29/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1677580
+cites_cases: ["137 Ala. 636", "186 Ala. 552", "191 Ala. 96", "200 Ala. 532", "218 Ala. 120", "233 Ala. 180", "34 So. 684"]
+---
+
+# Alldredge v. Bailey
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+Paraphrasing a part of the opinion in the case of Board of Revenue of Montgomery County v. So. Bell Tel. & Tel. Co., 200 Ala. 532, 76 So. 858, as the same is applicable to this case, we have to say: The trial court did not err in declining to quash the preliminary writ to show cause. Such preliminary writ met every requirement for its issuance. It is unlike the one considered in the case of Longshore v. State ex rel. Turner, 137 Ala. 636, 34 So. 684. There the writ commanded the respondents to appear and show cause why they have neglected and refused to discharge the duties enjoined upon them under the ordinance of the constitutional convention. It did not command them to show cause against the issuance of a peremptory writ coercing the action desired, but the command was that they show cause not why they should be compelled to act, but why they have not acted as if the purpose and end of the proceeding was to punish them for past pretermission of duty, and not force them to discharge of duty in the future. Here the writ commands that cause be shown why they may not be compelled to act, and not why they have not acted.
+The above and foregoing is paraphrased from the language used by Anderson, Chief Justice, in the above cited case, and is applicable to the case at Bar.
+Where the petition shows an executed contract, for a definite price, imposing a clear legal duty on the part of an official to draw a warrant upon the treasury for the payment of the amount due, and such official fails, or refuses, to perform the act, or duty, mandamus is the proper remedy. State Board of Administration v. Roquemore, 218 Ala. 120, 117 So. 757; Board of Revenue of Montgomery County v. So. Bell Tel. & Tel. Co., 200 Ala. 532, 76 So. 858; Bigbee Fertilizer Co. v. Smith, 186 Ala. 552, 65 So. 37; Lovelady et al. v. Loveman, 191 Ala. 96, 68 So. 48; Helms v. Alabama Pension Comm., 233 Ala. 180, 170 So. 651.
+The one question controlling in this case is, whether or not the certificate of the Judge of Probate, issued in accordance with Section 402 of the Code of 1923, for services rendered as required by Sections 387 and 388 of the Code of 1923, is the subject of audit by the Board of Finance and Control of Cullman County.
+Section 402 of the Code of 1923, as amended by the Acts of the Legislature, T927, pp. 274, 277, reads qs follows: “The judge of probate may employ such assistants and clerical help as may be necessary to complete and properly prepare the list of qualified eledtors which the judge of probate is required to furnish the election inspectors. Such assistants shall be paid out of the county treasury by warrants drawn by the commissioners court, board of revenue, or other governing body, on certificate of the probate judge, accompanied by the certificates of the person being paid, showing the amount is due under the provisions of this article; but the entire amount spent for such assistants and clerical help shall not exceed a sum equal to the amount obtained by multiplying the number of names on said list by five cents.”
+The petition avers that in accordance with the foregoing Section, the petitioner was employed by the Judge of Probate to complete and properly prepare a list of qualified electors for the Judge of Probate to furnish the election inspectors for the special Senatorial Election which was to be held on January 4, 1938. That the petitioner completed and properly prepared such list of qualified electors, and that there were 7383 names, and all of said names were listed by the petitioner; that the Judge of Probate agreed with the petitioner as a part of said employment that petitioner be paid for his work for preparing said list at a sum to equal 5 cents per name. Multiplying the number of names on said list by 5 cents, the amount due the petitioner would total $369.15.
+The petitioner presented on the 28th day of June, 1938, the original certificate of the Judge of Probate, accompanied by the petitioner’s certificate, each certificate being properly sworn to, and together with the .claim, to the Board of Finance and Control of Cullman County, showing the amount due him for making said list, copies of said certificates and claim were attached to the petition. The Board of Finance and Control of Cullman County failed and refused to pay said amount, or to issue a warrant therefor.
+The demurrer to the petition, the overruling of the demurrer, the filing of pleas, the demurrers to the pleas and the refusal of the respondents to plead further, fixes the above as the facts governing this case.
+Section 402 of the Code of 1923, as amended, authorizes the Judge of Probate to employ such assistants as may be necessary to complete and properly prepare the list of qualified electors which the Judge of Probate is required by statute to furnish the election inspectors. Such assistants and clerical help will be paid out of .the' county treasury by warrants drawn by the commissioners’ court, board of revenue, or other governing body (in the instant case the Board of Finance and Control) on certificate of the Probate Judge accompanied by the certificate of the person being paid showing the amount due. The only limitation placed on the Probate Judge is that he cannot contract such assistants and clerical help for more than 5 cents per name. The Legislature, whether wisely or not, left the discretion in making this contract and fixing the amount with the Probate Judge of the County, and his is the responsibility.
+There is nothing left for the Board of Finance to do but to pay the amount ascertained and certified by the Probate Judge and the person doing the work. State Board of Administration v. Roquemore, 218 Ala. 120, 117 So. 757.
+The certificates of the Probate Judge and the petitioner were conclusive on the Board of Finance and Control, and therefore all of the pleas set up by the respondents were irrelevant and demurrers to same were properly sustained.
+There being no answer to the petition, the facts as alleged therein will be taken as true; and, based upon those facts, the writ was properly issued.
+The judgment of the lower court is therefore affirmed.
+Affirmed.
