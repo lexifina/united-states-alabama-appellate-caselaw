@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 175"
+decided: "1926-08-31"
+citations: ["21 Ala. App. 487", "109 So. 523"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WINSLETT v. STATE."]
+source_url: "https://static.case.law/ala-app/21/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651022
+cites_cases: ["101 So.' 300", "18 Ala. App. 268", "18 Ala. App. 335", "18 Ala. App. 524", "20 Ala. App. 201", "20 Ala. App. 542", "200 Ala. 180", "205 Ala. 197"]
+---
+
+# Winslett v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+This ap>peal is from a judgment of conviction, under a general verdict of guilty, upon an indictment which charged this appellant with distilling, etc., prohibited liquors, also the possession of a still to be used for that purpose.
+There was no motion for a new trial, and, as the oral charge of the court is not set out, we must indulge the presumption that such of refused charges as contained correct statements of the law were covered by the court’s oral charge. Also, not being informed as to the oral charge, the exceptions purported to have been reserved thereto cannot be considered. This leaves us only with rulings of the court upon the admission of evidence to which proper exceptions were reserved and the exceptions reserved to certain portions of the argument by the state in presenting the case to the jury.
+The corpus delicti was fully proven without dispute, and the state offered direct evidence which tended to show that this appellant and another were in charge of and operating the still. The question of time and venue is not involved.
+We have examined the several excerpts from the argument by counsel for the state which were objected to, and which the court declined to exclude upon motion of defendant. Each of these alleged,objectionable statements was within the confines of legitimate argument and did not transcend the rules. The statements complained of were based upon the evidence adduced upon this trial, and therefore there was no error in overruling the defendant’s objections in this connection, and in declining to exclude the remarks from the jury. Price v. State, 20 Ala. App. 201, 101 So. 300.
+There were numerous exceptions to the court’s rulings upon the admission of the evidence. Many of the objections came too late and were therefore properly overruled, as objections to evidence should be addressed to the questions and not allowed to speculate as to answers. In other words, an objection to testimony must be addressed to the questions when propounded, and, if not interposed until after the answer which is responsive to the question, the objection is properly overruled, for the reason a party cannot speculate on the answer of a witness and claim the benefit of it, if favorable, and discard it, if prejudicial to him. Other objections and exceptions on the admission of evidence were trivial and frivolous. What has been said applies to the 12 or more exceptions reserved to the court’s ruling upon the testimony of state witness G. M. Gardner. No merit whatever in any of them.
+State witness George Edwards gave evidence of alleged inculpatory statements made by one Jeff Winslett in the presence and hearing of the witness, and the witness testified: “I had a conversation with Jeff Winslett and the defendant Aubrey Winslett was there at the time.” And being asked: “Iri your best judgment he was there and heard it?” he answered: “Yes, in my best judgment he was there.” On this question the defendant testified that he was not present and did not hear what Jeff Winslett said to witness Edwards and others at the time Edwards testified about. This conflict on this question was for the jury to determine. The well-settled rule, in relation to evidence of this character, is that the statement must he of a character which naturally calls for a reply, and the party to be affected by it must be in a situation in which he would probably respond to it. Whether the incriminatory statements alleged to have uttered by Jeff Winslett were so uttered in the presence or hearing of defendant or not was a question for the jury. There is no insistence that a denial of the statement was made by defendant. His contention is, as stated, that he was not present at the time such alleged statements were made. Witness Edwards testified that he was. No reversible error appears in any of the court’s rulings as to the evidence of witness Edwards.
+The cross-examination of defendant’s witness R. M. Honeycutt was unfair and improper, and should not have been indulged in the manner this record discloses. However, the trial court tools this view of it also, and ruled with the defendant upon each of the objections interposed in this connection. Having thus ruled we cahnot place the court in error. The court did decline the requests ot' defendant to withdraw the ease from the jury and declare a mistrial, on account of the improper remarks and improper statements of the solicitor; but the court stated to the jury “that these statements of Mr. Haynes (solicitor) are not' intended for the jury, and the jury is not to consider that at all,” etc. We will not put the. court in error for this ruling, as we are of the ppinion that error prejudicial to defendant as a result of the improper statements of the solicitor is not sufficiently injurious to cause a reversal of the judgment of conviction. The improper statement of the solicitor and the improper questions tended merely to reflect upon the witness Honeycutt, and it may be said that his testimony given in behalf of defendant was to that extent impaired; but this witness was one of several who testified as to the alibi of defendant, and it does not appear that any aspersion was attempted or cast upon the evidence of the several other witnsses who gave evidence similar in substance to that given by witness Honeycutt.
+This disposes of all the questions presented for our consideration. The judgment of conviction appealed from will stand affirmed.
+Affirmed.
+<@3^>For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
+<§=>For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
