@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 554"
+decided: "1919-06-17"
+citations: ["17 Ala. App. 91", "82 So. 630"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOLCOMBE v. STATE."]
+source_url: "https://static.case.law/ala-app/17/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1641649
+cites_cases: ["107 Ala. 40", "113 Ala. 43", "12 Ala. App. 314", "124 Ala. 621", "14 Ala. App. 136", "151 Ala. 634", "177 Ala. 338", "19 South. 37", "2 South. 150", "21 South. 356", "27 South. 508", "59 Am. St. Rep. 97", "71 Ala. 377", "71 Ala. 383", "75 Ala. 9", "79 Ala. 51", "82 Ala. 25"]
+---
+
+# Holcombe v. State
+
+## Majority (BRICKEN, J.)
+
+BRICKEN, J.
+At the spring term, 1918, of the circuit court of Blount county, the defendant was indicted for the offense of assault with intent to murder, the injured party, or the party assaulted being one Bellah. • At the following September term of said court the defendant was tried upon said indictment, was convicted as charged, and a sentence of five years’ imprisonment in the penitentiary imposed upon him. Erom this judgment, he appeals.
+The evidence for the state tends, to show that shortly previous to the difficulty the defendant caused a piece of mail matter to be deposited in the post office at Oneonta. This matter was insufficiently stamped, and was sent to Washington, as required by the rules of the post Office Department.. This apparently angered the defendant, and on the morning of November 28,1917, as Bellah, who was the postmaster, was coming down the. street in Oneonta, the defendant, who, it was contended, was on the lookout for him, and had made inquiry as to whether he had passed or not, stepped out from behind one of the brick pillars of the new garage, the place where he was working, and at the time he had a spirit level in his hand, and called to Bellah to stop. Instead of doing so he (Bellah) attempted to walk around the defendant, and, observing that he was very angry, asked the defendant, “What in the world is the matter with you?” whereupon the defendant replied, “God damn you; I’ll show you what is the matter;” and he thereupon struck the postmaster (Bellah) a very heavy blow with the spirit level. The blow was a severe one; it being sufficient to crush in both sides of a gold watch carried by Mr. Bellah at the time. The blow felled him to the ground, whereupon Bellah got up and ran out towards the middle of the street, or across the street, looked back, and saw the defendant was pursuing him with the spirit level still in his hand. He ran into the garage, at which time -defendant struck him again in the small of the hack with the level and knocked him down again. Bellah testified that at this time, as a result of the blow, he was unable to move; and the state’s testimony tended to show that the defendant started to kicking him in the side, and on the head while he was lying helpless, and raised the spirit level again in the attempt to inflict further injury upon him, but was at this juncture prevented from so doing by an outsider, wbo caught the defendant and took the spirit level away from him. It was shown that this spirit level wa's some three or four feet long, and weighed about eight pounds.
+The defendant introduced no evidence except liis own statement, in which he admits that Mr. Bellah was running from him, and that he, the -defendant, was about eight-or ten feet behind him (Mr. Bellah), that he was pretty close, and that he threw the level at him and hit him in the back, and he stumbled and fell and “hollered and tried'to scramble under a car there,” etc.
+In addition to this admission, there is a total lack of evidence, other than that of the defendant, that shows any justification for the very serious assault that was committed upon Mr. Bellah, and the testimony of Dr. Denton tended to show that such an assault, inflicting the injuries described, might produce death.
+There were several exceptions to the rulings of the court on the admission and rejection of the evidence. We have examined each of the rulings of the court, and are of the opinion that no error appears which injuriously affected the substantial rights of the defendant.
+Under well-recognized rules, it is permissible for a witness to testify that a person was “angry looking.” Jenkins v. State, 82 Ala. 25, 2 South. 150; Miller v. State, 107 Ala. 40, 56, 19 South. 37; B. R. & E. Co. v. Franscomb, 124 Ala. 621, 27 South. 508; Thornton v. State, 113 Ala. 43, 21 South. 356, 59 Am. St. Rep. 97; Barlow et al. v. Hamilton, 151 Ala. 634, 44 South. 657; Long v. Seigel, 177 Ala. 338, 58 South. 380. Furthermore, the objection was not made until after the witness Bains had testified, “I saw Mr. Holcombe come in, angry looking.” The objection therefore came'too late.
+The court did not err in overruling the objection to the question propounded to the witness Turley, as the grounds stated in the objection amounted to a waiver or an abandonment of all other grounds, and the question was clearly not subject to any of the grounds of objections which were assigned. Birmingham Fuel Co. v. Stocks, 14 Ala. App. 136, 68 South. 568.
+There was no error in the' ruling of the court in not permitting the defendant to state what his intent was. The law presumes that every person intends to do what he does, and that the natural, necessary, and probable consequences of his acts were intended. It has been repeatedly held that intention or motive is an inferential fact for the jury tc determine, and cannot be testified to by a witness or by a defendant. McElroy v. State, 75 Ala. 9; Burke v. State, 71 Ala. 377; Whizenant Case, 71 Ala. 383; Brown’s Case, 79 Ala. 51; Talley v. State, 12 Ala. App. 314, 68 South. 567.
+Charges 1 and 2, requested by tbe defendant were properly refused. These charges were argumentative, and were also an invasion of the province of the jury. The principles of law undertaken to be embodied in these charges were fairly and substantially covered by the oral- charge of tbe court and by the given charges requested by the defeudant.
+No error of a reversible nature appearing in the record, the judgment of the circuit court is affirmed.
+Affirmed.
