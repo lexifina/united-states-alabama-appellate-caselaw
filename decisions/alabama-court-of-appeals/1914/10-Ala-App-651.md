@@ -1,0 +1,24 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-06-09"
+citations: ["10 Ala. App. 651", "65 So. 846"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grimes v. City of Florence."]
+source_url: "https://static.case.law/ala-app/10/cases/0651-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626517
+cites_cases: ["102 Ala. 7", "123 Ala. 39", "145 Ala. 17", "148 Ala. 576", "149 Ala. 28", "16 South. 99", "169 Ala. 131", "2 Ala. App. 139", "26 South. 521", "43 South. 575", "70 Ala. 420", "71 Ala. 377", "71 Ala. 383", "79 Ala. 497"]
+---
+
+# Grimes v. City of Florence
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+In the argument of the counsel for the appellant (the defendant below), complaint is made only of the action of the trial court in sustaining the plaintiff’s objection to the following question asked by the defendant’s attorney on the cross-examination of one Freudenthal, the only witness who testified to a sale of prohibited liquor by the defendant:
+“You bought the whisky for the purpose of ascertaining whether or not Mr. Grimes, the defendant, would sell you liquor, and for the purpose of reporting him to the authorities and having him arrested, did you not?”
+Under rulings in this state which it is our duty to follow, it seems that the question, though asked on cross-examination, was objectionable as calling for the uncommunicated purpose or intention of the witness. Williams v. State, 123 Ala. 39, 26 South. 521; Carwile v. State, 148 Ala. 576, 39 South. 220; Wheless v. Rhodes, 70 Ala. 420; Burke v. State, 71 Ala. 377; Whizenant v. State, 71 Ala. 383; Johnson v. State, 102 Ala. 7, 16 South. 99; Alabama Fertilizer Co. v. Lee, 79 Ala. 497; Smith v. State, 145 Ala. 17, 40 South. 957; Wright v. State, 149 Ala. 28, 43 South. 575; Wray v. State, 2 Ala. App. 139, 57 South. 144; Western Union Telegraph Co. v. Cleveland, 169 Ala. 131, 53 South. 80, Ann. Cas. 1913B, 534. But, assuming that it was per-
+missible, on the cross-examination of the witness, to interrogate him as to the motives or purposes by which he was actuated in the dealings with the defendant which he claimed to have had, yet it seems clear that the defendant could not have been prejudiced by the ruling complained of, as the witness had already, in response to questions asked on his cross-examination, made such admissions as to the capacity in which he was acting in participating in the transaction about which he had testified as to leave no room for a doubt that his purposes were such as were suggested in the question. In the part of his-cross-examination which preceded the asking of that question the facts had been clearly brought out that at the time of the alleged sale testified to by the witness his business was that of a private detective, employed by a Nashville detective agency; that he was sent by his employer to Florence, and reported to the chief of police of that city; that he had been in Florence about two months or more before the day on which he said that he bought the whisky from the defendant; that while there he professed to be in the business of repairing old furniture; that he left Florence right after several cases for selling liquor had been tried in the city-court; that he.made no arrangement with any official! of the city of Florence about his compensation in the liquor cases, and received no compensation from that city, but was paid by the firm be represented; and that be turned the bottle of whisky which he claimed he bought from the defendant over to one Bailey, who as a witness for the plaintiff, identified a bottle shown him as the one delivered to him by Freudenthal. An affirmative answer to the question would not have made it any plainer than it already was that the witness in the transaction about which he testified was acting as a paid detective, that he was seeking to get evidence of a sale of liquor by the defendant, and that he sought such evidence with the purpose of reporting the defendant to the authorities and having him arrested. The effect of the ruling was to exclude additional evidence of something already disclosed by the admissions of ■the witness. It is not to be supposed that the jury failed .to infer from the facts and circumstances proved by evidence which remained uncontroverted that the witness was actuated by such motives or purposes as the question suggested, or that in weighing his testimony they were unmindful of the fact, as to which the evidence left no room for dispute, that his motives in becoming a witness and in giving his testimony were subject to influences that might affect his credibility. We are not of opinion that the effect of the ruling, made in the circumstances stated, was to deprive the defendant of the opportunity of proving anything sought to be proved.
+Affirmed.
