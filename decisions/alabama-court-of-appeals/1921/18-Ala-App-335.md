@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "1 Div. 403"
+decided: "1921-12-20"
+citations: ["18 Ala. App. 335", "92 So. 87"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PATRICK v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645232
+cites_cases: ["104 Ala. 472", "11 Ala. App. 211", "110 Ala. 48", "113 Ala. 102", "13 Ala. App. 79", "146 Ala. 66", "153 Ala. 113", "157 Ala. 618", "16 Ala. App. 239", "16 Ala. App. 541", "16 South. 638", "169 Ala. 287", "17 Ala. App. 155", "17 Ala. App. 527", "171 Ala. 112", "20 South. 468", "21 South. 404", "39 South. 675", "41 South. 282", "45 South. 226", "6 South. 296", "74 Ala. 16", "79 South. 677", "8 Ala. App. 187", "87 Ala. 14"]
+---
+
+# Patrick v. State
+
+## Majority (MERRITT, J.)
+
+MERRITT, J.
+The appellant, together with her son, Joe Saffren, was indicted for arson in the first degree. She demanded a severance, which was granted, and upon her trial was convicted and sentenced to the penitentiary for a term of 10 years.
+The bill of exceptions does not contain a recital that it contains all or substantially all of the evidence offered in the case. Any state of the evidence will therefore be presumed to uphold the rulings as to the evidence or charges requested. Terry v. State, 17 Ala. App. 527, 86 South. 127.
+The testimony of the -witness Lee as to how much of the house was burned was clearly competent. The witness testified that the house was still burning when he arrived. The testimony tended to establish the corpus delicti, and constituted a part of the res gestas.
+The solicitor asked the state’s witness Lee the following question, “Do you know when she [defendant] left there?” The witness answered, “The last I saw of her was the Saturday night before the fire.”
+The defendant moved to exclude the answer on the ground that it was not responsive to the question, which motion was overruled. This ruling was free from error. Only the party asking a question may move to exclude the answer, on the ground that it is not responsive to the question. Ala. City v. Bullard, 157 Ala. 618, 47 South. 578; Central of Georgia Ry. Co. v. Chicago Co., 169 Ala. 287, 53 South. 832; Shriner v. Meyer, 171 Ala. 112, 55 South. 156, Ann. Cas. 1913A, 1103. Moreover, it may have been relevant to the issue in the case as to when the defendant left.
+Many questions were asked the witness Lee as to what was said and done by Joe Saffren and other parties after the fire, which were permitted to be answered over the timely objection of the defendant. The court, however, later on specifically excluded this testimony from the jury, and while the better practice would be not to allow illegal testimony to be introduced, it appears from the record that its relevancy vel non could hardly have been earlier determined, and that under the instructions of the court no injury was done the defendant.
+Appellant cannot complain at the trial courts overruling her objection to the question propounded to the witness Lee as to when Mamie Patrick told him her mother was in Cincinnati, for the reason that the question was not answered at that time, but afteb other and further testimony was given by the witness, and when the answer was later made no objection appears thereto in the record.
+The insistence of the state was that there was a conspiracy on the part of the defendant and her son Joe Safliren to burn the house, in order that the defendant might recover on an insurance policy that the evidence showed had been issued to her on the furniture located in the house. It was therefore competent for the state to show that the defendant had moved out of the house a few days before the fire; that-after she left some of the furniture was shipped to her, and some of it sold, all, as tending to show that there was such a conspiracy, and that these things were in furtherance of it. Smith v. State, 8 Ala. App. 187, 62 South. 575.
+The witness testified that shortly after the fire he received a letter addressed to Lee Patrick, the husband of defendant, which letter the defendant admitted that she wrote. Its introduction was objected to by the defendant, on the ground that it was in the nature of a confession. The defendant having admitted that'she wrote the letter, it was clearly competent to go to the jury, and for the jury to consider as to whether its contents tended to show guilt on the part of the defendant. The explanation offered by the defendant, as to the use of certain terms used in the letter, cannot be complained of by the defendant, as her explanation of these terms tended rather to exculpate than inculpate her in the commission of the crime. If her explanation was believed by the jury the letter, instead of being unfavorable to her, tended to show that no adverse inferences could be drawn therefrom. It was also competent to show that this letter was addressed to Lee Patrick, at a place other than his home. While this circumstance was slight, it was proper to be considered by the jury along with the other evidence in the case.
+It was clearly incompetent for the defendant to ask the witness Hurdle on cross-examination if he had not been arrested for burning this house. If answered affirmatively, it could have thrown no light on the guilt vel non of the defendant, and the fact as to whether the witness was a married or single man at the time of the fire could have had no possible bearing on the case.
+The defendant cannot complain at the overruling of her objection to the question propounded to the witness Mcllwain, as to whether he had heard that the defendant rented another house, took out insurance on the furniture, and that she and her son burned it for the insurance, for the reason that witness stated that he had never heard of any such transaction.
+It was a matter entirely discretionary with the trial court as to whether further cross-examination of the witness was had. We find no error in the rulings of the trial court on the cross-examination of the defendant. The cross-examination of witnesses involves necessarily a wide latitude which must rest in the discretion of the court. Many questions are proper on cross-examination that would not be permissible on direct examination. May v. State, 16 Ala. App. 541, 79 South. 677; Evans v. State, 17 Ala. App. 155, 82 South. 645.
+The argument of the solicitor, which was objected to, and the refusal to give the affirmative charge, cannot be made the basis for a reversal of this case. If the ruling of the court in these particulars should appear erroneous, we cannot so declare, for the record does not purport to set out all or substantially all of the evidence, and for aught that this court may know there may have been ample evidence to uphold the ruling of the court. Anyway the presumption will be so indulged, the record not reciting that it contains all the evidence. Bridgeforth v. State, 16 Ala. App. 239, 77 South. 77.
+We find no error in the record, and the judgment appealed from is affirmed.
+Affirmed.
+<©=s>For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
