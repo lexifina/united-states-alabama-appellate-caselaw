@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 538"
+decided: "1952-10-28"
+citations: ["36 Ala. App. 677", "62 So. 2d 606"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE NAT. BANK OF DECATUR AT ONEONTA v. TOWNS."]
+source_url: "https://static.case.law/ala-app/36/cases/0677-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1695290
+cites_cases: ["122 So. 311", "122 So. 312", "138 Ala. 342", "173 Ala. 272", "186 Ala. 405", "218 Ala. 163", "219 Ala. 366", "224 Ala. 511", "23 Ala.App. 23", "231 Ala. 204", "242 Ala. 105", "242 Ala. 132", "27 Ala.App. 60", "35 So. 355"]
+---
+
+# State Nat. Bank v. Towns
+
+## Majority (HARWOOD, Judge.)
+
+HARWOOD, Judge.
+Appellee, a judgment creditor of one Ernest Ryan, obtained a writ of garnishment in the Circuit Court against the State National Bank of Decatur at Oneonta, Alabama, setting forth that he had recovered judgment against Ernest Ryan in the amount of $1,629.80 and that $948.45 was then due on said judgment. This garnishment writ was served on the garnishee on 1 June 1951. The Bank answered denying indebtedness to judgment debtor and admitting that judgment debtor had on deposit in said Bank $1,104.77- at the time of the service of the writ of garnishment. Said answer further averred that said Bank at the time the garnishment was served and before, held a mortgage note dated 14 October 1950 against the judgment debtor with a balance due thereon of $3,090.90, which was an amount greater than the funds said judgment debtor had on deposit; that while said mortgage .note was not due, the said judgment debtor specifically agreed in said mortgage note that the bank was authorized to apply before, or -after maturity, to the payment of the indebtedness, any funds in said bank belonging to the maker; that said bank after receiving the garnishment writ, on .to wit: 12 June 1951, applied the deposit of the judgment debtor in said Bank to the mortgage note of the said judgment debtor. Appellee, in response to said answer, filed motion to require appellant, garnishee, to appear before the court and make oral answer, which said motion was granted by the court. On the day fixed for hearing of the oral answer, the Bank through its Vice President answered orally in substance the same as the previous written answer showed. The mortgage note with appellee’s contract lien was made part of the answer. The court entered judgment for plaintiff against the garnishee bank on the oral answér, and from that judgment this appeal was taken.
+While it is often stated that a bank has a lien on a general deposit of a depositor as to matured' debts owed by the depositor to the bank, the term, as applied to a general deposit is inaptly used. The actual legal title to a general deposit is in the bank, with the relation of debtor and creditor existing as to the amount of the deposit. Simmons v. State, 242 Ala. 105, 4 So.2d 905; Enzor v. State, 27 Ala.App. 60, 167 So. 336. The word “lien” is properly applied as to deposit of specific chattels, choses in action, valuables, etc. As to a general deposit the bank has a right to set off as for the balance of the general account of the depositor. Tallapoosa County Bank v. Wynn, 173 Ala. 272, 55 So. 1011.
+It is well settled by our decisions'that a bank cannot set off a general deposit against a debt of the general depositor' where the debt is not matured. Citizens Bank & Trust Co. v. Turner, 23 Ala.App. 23, 122 So. 311, certiorari denied 219 Ala. 366, 122 So. 312.
+By the garnishment, the plaintiff (appellee) acquired only such rights as the defendant could have maintained in a suit at law against bank. Cadick Milling Co. v. Dothan Bank & Trust Co., 242 Ala. 132, 5 So.2d 101. These rights are to be determined as of the date of the service of the writ of garnishment. First National Bank of Birmingham v. Minge, 186 Ala. 405, 64 So. 957.
+On the date of the service of the garnishment writ in this case the garnishee bank held a note of the defendant which contained the following clause: “or should the holder of this note deem the debt insecure, the full amount evidenced hereby shall become due and payable immediately at. the election of the holder of this note.”
+An indebtedness from a garnishee to a judgment debtor subject to garnishment is such debt as will sustain an action of assumpsit by the judgment debtor. Coosa Land Co. v. Stradford, 224 Ala. 511, 140 So. 582; Pettus v. Dudley Bar Co., 218 Ala. 163, 118 So. 153. Further, the garnishee is entitled to the benefit of any set off, which, in his hands, could be made available by way of set off in any of the modes provided by law, if the proceedings were one directly against the garnishee by its creditor for the enforcement of the liability. Jefferson County Savings Bank v. Nathan, 138 Ala. 342, 35 So. 355.
+It is clear that under the terms of the note that the bank would have had a right to set off the amount of the note had there been a suit against it by the judgment defendant. This contract right to accelerate the due date of the note was not revocable by the judgment defendant, as maker of the note, since the power was coupled with an interest. Nor was this right to accelerate the note affected by the service of the writ of garnishment. See Norris v. Commercial Nat. Bank of Anniston, 231 Ala. 204, 163 So. 798. By the garnishment the judgment plaintiff acquired only the rights of the judgment defendant. As to the judgment defendant the hank, as a result of the acceleration clause in the note, had a right of set off against any claim of the judgment defendant in a suit against it.
+It follows that the lower court erred in entering the .judgment in favor of the plaintiff in the proceedings 'below. .
+Reversed and remanded.
