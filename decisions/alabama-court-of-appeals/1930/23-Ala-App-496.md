@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 990"
+decided: "1930-04-08"
+citations: ["23 Ala. App. 496", "129 So. 305"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOTZ v. STATE."]
+source_url: "https://static.case.law/ala-app/23/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657041
+cites_cases: ["10 Ala. App. 241", "20 Ala. App. 195", "20 Ala. App. 478"]
+---
+
+# Lotz v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The offense charged by indictment against this appellant was burglary. The store of A. M. Cottrell was the building in question, and by the undisputed evidence the corpus delicti was fully proven, and to this extent the burden resting upon the state was fully met. No question is raised upon this proposition.
+On arraignment this appellant interposed a plea of not guilty, and upon the trial he strenuously insisted that he was at home with his mother and family and one or more ¡visitors, at the time the burglary complained •of was committed; that he had no knowledge of the crime or connection therewith. Several witnesses testified to the same effect, but the evidence offered by the state tended to connect this appellant with the burglary. He (appellant) -is alone indicted for the offense, but the state’s evidence tended to show that three other boys were with appellant and participated in the burglary. By their own statements and admissions while testifying in this case, each of said persons were admitted accomplices, and one.of the principal insistences of error here urged is that the conviction of this appellant was had upon their testimony alone and there was no other evidence tending to connect this defendant with the commission of the offense. If this were true, it would be conclusive of this appeal, for by express terms of the statute a conviction of felony cannot be had on the testimony of an accomplice, unless corroborated by other evidence tending to connect the defendant with the commission of the offense; and such corroborative evidence, if it merely shows the commission of the offense or the circumstances thereof, is not sufficient. Section 5635, Code 1923. The fact of more than one accomplice having testified against appellant does not change the rule as to corroboration necessary to connect the defendant with the commission of the offense. The rule provided by statute, supra, contemplates “other evidence” than that given by an accomplice or any number of accomplices.
+Generally, the rule is, as to whether there is any evidence on a given subject is a ques- ' tion for the court; its weight, probative force, and sufficiency are for the jury.
+In submitting this ease to the jury, the trial court manifested thereby in the court’s opinion there was evidence given upon the trial, other than that .of the accomplices, which tended to connect this appellant (defendant) with the commission of the offense.
+State witness Poole, an admitted accomplice, gave evidence as to where some of the stolen articles had been hidden by him and the defendant; and witness Gilbert testified . that he found the articles thus hidden at the place indicated by witness Poole. In this connection the court in the oral charge held in effect that this was such corroboration as the law required. In our opinion this is not the proper construction to place upon this evidence, for the reason that the defendant’s connection therewith is shown only by the testimony of this accomplice, who may himself have placed the stolen articles in the place designated, and there is no fact or circumstance or other evidence, other than his bare statement, which tended in the least to connéet this appellant therewith, and the material inquiry as to 'Whether the defendant did in fact commit such act, or participate therein, cannot be substantiated upon the testimony alone of the accomplice; the admitted thief and burglar. Motes v. State, 20 Ala. App. 195, 101 So. 286. The exception to this portion of the oral charge is well taken.
+Upon the trial numerous exceptions were • reserved to the rulings of the court, and several written charges requested by defendant were refused. The points of decision thus presented are included in the motion for a new trial which was overruled by the court. We are of the opinion that the court erred in overruling said motion.
+Some of the charges refused to appellant were fairly and substantially covered by the oral charge and by given charges. But this does not apply to the refused charges which deal with the question of the necessity of a unanimous verdict by the jury. By. innumerable decisions of the appellate courts of this state, it has been held there can be no verdict of conviction or finding by the jury without unanimity, and this being the law which applies to both criminal and civil cases, a defendant upon trial is entitled to have the jury thus instructed. It was therefore error to refuse to defendant the following two charges:
+The court charges the jury that .“defendant cannot be convicted in this case unless each and every juror is not only reasonably satisfied from the evidence of defendant’s guilt, but if satisfied from the evidence, and the evidence alone, beyond all reasonable doubt, and to a moral certainty, of his guilt.” McDade v. State, 10 Ala. App. 241, 64 So. 519.
+“The court charges you that -the only foundation for a verdict of guilty in this case is that the entire jury shall believe from the evidence, beyond a reasonable doubt and to a moral certainty, that the defendant is guilty as charged in the indictment, to the exclusion of every probability of his innocence, and every reasonable doubt of his guilt, and, if the prosecution has failed to furnish such measure of proof, and to so impress the minds of the jury of his guilt, they should find him not guilty.” Veasey v. State, 20 Ala. App. 478, 103 So. 67.
+Reversed and remanded.
