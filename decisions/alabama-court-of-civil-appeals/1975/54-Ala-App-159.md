@@ -1,0 +1,57 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 408"
+decided: "1975-01-08"
+citations: ["54 Ala. App. 159", "306 So. 2d 25"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["MIDWESTERN WELDING COMPANY, LTD., a partnership, F. E. Stanley and Charles Stanley v. COOSA TOOL AND DIE, INC., a corporation."]
+source_url: "https://static.case.law/ala-app/54/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741122
+cites_cases: ["153 Ala. 295", "17 Ala.App. 17", "184 Ala. 518", "212 Ala. 206", "25 Ala.App. 494", "288 Ala. 245", "289 Ala. 255", "291 Ala. 347", "71 ALR 5"]
+---
+
+# Midwestern Welding Co. v. Coosa Tool & Die
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+Appellant, Midwestern Welding Company, Limited, a partnership, appeals from a jury verdict in the amount of $1,388.52 and a judgment thereon entered by the Circuit Court of Etowah County.
+The complaint filed by appellee, Coosa Tool and Die, Inc., consisted of two counts. One count was based on an open account and the other count was for the breach of an oral contract.
+The named defendants in the complaint as received by the jury were the appellant Midwestern Welding Company, Limited, Midwestern Coating Corporation, and F. E. Stanley and Charles Stanley, partners in the appellant. The verdict returned by the jury was against Midwestern Welding Company, Limited, appellant before this court.
+Appellant, through able counsel, brings to this court twenty-three assignments of error, but the arguments presented for reversal fall into two main contentions. The first contention is that the verdict is against the weight of the evidence. The second contention is that the trial court erred to reversal in allowing appellee to testify to a telephone conversation between appellee and the alleged purchasing agent of defendant.
+There is evidence from the record to reveal the following:
+In 1970, appellee provided a piece of equipment for appellant pursuant to receiving a purchase order from appellant. Appellant was billed and, after some apparent disagreement over the bill, paid for the equipment.
+In 1972, Ford, the president of appellee company, was approached by a man whom appellee could not identify who wanted appellee to build ten “butterfly” samples. Ford testified that the next step he took after being approached by the unidentified man was to call the appellant for assurance that appellee would be paid. Ford testified that he called the office of appellant as listed in the telephone directory and asked to speak with the purchasing agent. Ford was unable to remember the name of the person with whom he spoke, but he did remember that the man identified himself as the purchasing agent for Midwestern Welding. Mr. Ford testified that the purchasing agent told him that he would get his money from this undertaking.
+This original order was for ten parts, which appellee made. This order was picked up at appellee’s plant by an unidentified person.
+Ford testified that the purchasing agent for appellant, the same individual with whom Ford had spoken "earlier, then ordered additional parts. Ford informed him that appellee was loaded to capacity and would have to “farm out” the work. The men agreed to this arrangement. Appellee did “farm out”' the work and has since paid for it.
+The purchase order sent appellee for the ordered parts however was from Midwestern Coating Corporation rather than appellant. The appellant is contending that the debt owed was not owed by appellant but was actually the debt of another as is evidenced by the purchase order from Midwestern Coating. Appellant attempted to prove this at the trial by cross-examination of Ford and also by introducing the purchase orders, shipping memorandum, and invoices arising out of the transaction, all of which were between appellee and Midwestern Coating Corporation, rather than Midwestern Welding.
+After not being paid by Midwestern Coating Corporation, or Midwestern Welding, or any other person or entity, appellee turned the files over to his attorney to collect. His attorney also billed Midwestern Coating Corporation and actually received $373.52 payment on the bill from them.
+From the testimony of Mr. Ford the explanation given for Midwestern Coating being billed rather than appellant was due to the fact that the purchase orders sent to appellee had on them the name of Midwestern Coating Corporation rather than that of appellant. The billing then was done by someone other than Mr. Ford, and the invoice was sent to Midwestern Coating Corporation, the name on the purchase orders, rather than to appellant, the actual party with whom Ford testified he formed the oral contract.
+The evidence in the record also reveals that Midwestern Coating Corporation is an Oklahoma corporation, some of whose stockholders are limited or general partners in appellant. Also, that F. E. Stanley, president of Midwestern Coating Corporation, is also a general partner in appellant. Furthermore, a comparison of the company symbol used on the letterhead of the purchase orders of both appellant and Midwestern Coating Corporation are indistinguishable — both being an “M” over a “W”.
+At the outset, we note the often stated principle that jury verdicts are presumed correct and when, as is the case here, the trial court refuses to grant a motion for a new trial, such presumption is strengthened. Gleichert v. Stephens, 291 Ala. 347, 280 So.2d 776.
+Additionally, a jury verdict will not be set aside unless, after allowing for this presumption of correctness, the preponderance of evidence is against the yerdict and is so decidedly so as to clearly convince the court that it is wrong and unjust. Kilcrease v. Harris, 288 Ala. 245, 259 So.2d 797.
+Keeping in mind these attendant presumptions of correctness, a thorough search of the record does not clearly convince this court that the verdict is wrong and unjust. In fact, there is evidence to support the verdict.
+As indicated by the evidence, Mr. Ford testified that he called appellant and was assured that he would be paid and thereby the oral contract was created. As will be seen from our discussion regarding it, such testimony was properly before the jury and the court, and as such is credible and supportive evidence.
+We also find supportive evidence in Mr. Ford’s testimony as to his explanation for the invoices having been sent to Midwestern Coating Corporation rather than appellant. Mr. Ford testified that he provided ten pieces of equipment for appellant. He then said he was contacted by the purchasing agent for appellant with whom he had dealt earlier and more pieces were ordered by this agent. Two purchase orders were forwarded to appellee. It was these purchase orders sent by the party who solicited the contract which created the problem inasmuch as the name on the purchase orders was not that of appellant, the party with whom Ford testified he contracted, but that of Midwestern Coating Corporation. The billers for appellee, without discussing it with Mr. Ford, billed the party listed on the purchase orders. It was only later that the error was realized.
+As to appellant’s other contention of error, to wit, allowing the telephone conversation held between Mr. Ford and the alleged purchasing agent to be introduced into evidence, appellant contends that the conversation should be inadmissible because it is self-serving hearsay and also because it failed to show the authority of the unnamed person to contract for Midwestern Welding Company, Limited.
+In brief, appellant makes the following statement in regard to his argument as to the inadmissibility of the telephone conversation: “The defendant’s timely objection prior to the introduction of the testimony reached this evidentiary error.” We cannot agree.
+The record reveals there was no objection to the introduction of the conversation itself. The record is as follows:
+“Q All right. Now, did you have a discussion with this gentleman over the telephone converning these parts ?
+“A Yes, sir.
+“MR. COGGIN: Your Honor, we would object until we identify who he is talking about. We have no way of knowing who he is talking about.
+“THE COURT: Overrule. He called the Company office and identified the purchasing agent. I am going to overrule.
+“MR. WRIGHT: We take exception to the Court’s ruling.
+“Q Tell us what was said by you and by him on that occasion, please, sir.
+“A I had explained to the gentleman that on the prior prototype that we had done for Midwestern Welding Company that their engineering drawings were not correct, that the drawings were made backwards and we had billed them in excess of what the original purchase order stated and I had to come to their office and get with Mr. Majors and we sat down and went over the details of what I had to do over from their engineering drawings and after all this was agreed to that it was sometime in getting my money, and I told him that my shop was completely loaded with work; that they seemed to be in a bind for the parts that they were doing; that the way I understood it they could not operate without them. This gentleman assured me on the telephone that there was no problem; that I would get my money.”
+It is clear from the above that no objection was interposed as to the contents of the discussion. The objection made was to the question of whether or not a discussion took place.
+The law in Alabama is that the trial court will not be put in error unless the matter complained about was called to its attention by objection or by other appropriate method. Colburn v. Mid-State Homes, Inc., 289 Ala. 255, 266 So.2d 865.
+We note, however, that it appears to this court, in this instance, that the conversation in question is admissible. As stated in McElroy, Law of Evidence in Alabama 2d, § 329.01:
+“Where the witness has himself called the telephone number of a specific person or business concern as listed in the telephone directory, and the person answering says that he is the person called for, or that he represents the business concern, the identity of the person answering and also his authority to represent the business concern is sufficiently authenticated, even though the caller does not recognize the voice of the person answering the call. Western Union Tel. Co. v. Rowell, 153 Ala. 295, 45 So. 73; Morris v. State, 25 Ala.App. 494, 149 So. 359; Monarch Livery Co. v. Luck, 184 Ala. 518, 63 So. 656; Ala. Livery Co. v. Hairston, 17 Ala.App. 17, 81 So. 353; Ala. Power Co. v. Jones, 212 Ala. 206, 101 So. 898; Anno: 71 ALR 5.”
+See also McCormick, Law of Evidence, Chapter 22, § 193.
+All properly argued assignments of error having been considered and being disposed of by the above, the case is therefore due to be and is accordingly affirmed.
+Affirmed.
+WRIGHT, P. J., and BRADLEY, J., concur.
