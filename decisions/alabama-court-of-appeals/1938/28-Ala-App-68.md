@@ -1,0 +1,43 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 344"
+decided: "1938-01-11"
+citations: ["28 Ala. App. 68", "180 So. 110"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOTE v. STATE."]
+source_url: "https://static.case.law/ala-app/28/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1675176
+cites_cases: ["37 Ala. 148"]
+---
+
+# Mote v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+• The Act of Alabama approved June 6, 1935, General Acts of Alabama, Regular Session 1935, page 159, among other things,' provides :
+“Section 1. Any person who, in the night time, with intent to steal or to commit a felony, breaks into and enters any inhabited dwelling house, or any other house or building which is occupied by any person lodged therein, is guilty of burglary in the first degree, and must on conviction be punished . at the discretion of the jury, by death or by imprisonment in the penitentiary for not less than ten years.”
+This appellant, defendant below, was indicted for the violation of the above-quoted statute. The indictment properly alleged that the offense complained of was committed before the finding of the indictment, and since the 1st day of January, 1937, which, as stated, brings the crime charged within the terms and under the provisions of the statute, supra, the act itself provides that it shall take effect immediately upon its due passage and approval by the Governor.
+The trial in the court below resulted in the conviction of the defendant, the jury returned the verdict: “We, the jury find the defendant guilty and fix his punishment at ten years’ imprisonment.” Judgment of conviction was duly pronounced and entered and the court, in accordance with the verdict, sentenced appellant to ten years’ imprisonment in the penitentiary. From the judgment of conviction, this appeal was taken.
+To effect a reversal, appellant relies upon two insistences of error, both of which are referred to by counsel of appellant as being “purely technical,” to which we are in accord.
+The points of decision referred to are rested upon the refusal of the trial court to give, at the instance of the defendant, the general affirmative charge which was requested in writing. Appellant insists he was entitled to said charge for the reason the state failed to meet the necessary burden of proof, and that the corpus delicti was not proven by the evidence adduced upon the trial.
+After a careful and attentive consideration of the evidence in this case, which evidence was confined to that offered by the state, we are of the opinion that the contentions of the appellant on this appeal are wholly fallacious, hence cannot be sustained.
+As stated, there is no conflict in the evidence. By such undisputed proof it was shown that W. A. Crowder, the injured party, operated a store, and also lived in the building alleged to have been burglarized.
+A portion of the facts attendant upon the trial is set out in appellant’s brief as follows:
+“The appellant was convicted in the Circuit Court of Russell County, Alabama, on an indictment drawn under the first section of the Acts of 1935, page 159, charged with burglary in the ‘night-time.’
+“The evidence showed that one Crowder lived in one end of a store house called the ‘Okee Dokee.’ The north end was used for the sale of cold drinks and to store scrap iron, also there was a counter on which a slot machine (commonly called ‘Roscoe’ or one armed bandit) was located. K
+“On the night of the alleged breaking, the defendant in company with another, went to this place about eleven o’clock and waked up Crowder. He got up and let them in and they bought drinks and the defendant Mote went up front out of the sight of the witness Crowder and got the drinks. The witness Crowder could not see Mote, this was in the northern part of the store where the slot machine was. They stayed quite a while with Crowder and built a fire in the stove and finally left. Crowder got up and fastened the door behind them.
+“Later he (Crowder) heard the door up in the north end slam and got up and finally overtook the boys with the slot machine. Yeaman got away. The evidence shorys that the door alleged to have been entered was barred with an iron bar. This door was not injured or defaced in any way.”
+In addition to the foregoing the evidence disclosed that the machine stolen from the store contained at the time some “six, eight or ten dollars.”
+Crowder also testified:
+“I don’t know what condition the door was in, I don’t know whether they had left it open or not. It wasn’t standing open, the weight of it closes it.” (Italics ours.)
+And further:
+“When they left they went out through the door in my bedroom, in the back room. After they left I locked the door and went back to bed. They had agreed, talking to each other, to go up to Jesse’s and sleep. That was while they were in the store, about a quarter to one. I saw them when they left, they undone the door themselves at my bed and said they were going, and the fastening is on the inside of the door, it’s a slide fastener, and after they had been left a few minutes I got up and fastened the door and I looked out and seen them, and in place of going towards Jesse Mote’s, they came back towards the store; there’s a church up there and they turned around the vacant lot and went around the church. The next thing that attracted my attention I heard this door on the East side, I heard it slam and make a slight knock. 'That is the glass door that I said was locked. When I heard it slam I got up and went around the partition and went towards the front and looked out and I couldn’t see anybody at all. The door was unlocked and the slot machine was missing. * * * I hurriqd back then behind the partition and got my clothes on as quickly as I could and called Haws Wright and sent him after the police; I went out the side door and went up around this church looking, and a little dog commenced harking up in an alley in negro town and I walked over there and O. D. Horn lives at the end of the alley, and I could see two persons walking about two feet apart and I tore out to run and I run on up the alley and they heard me coming and went up under a negro house with the machine. The men I saw were the two defendants, Mote and Yeaman. I didn’t see Mote and Yea-man go under the house, but when I turned and was walking back slow they came out .from under the house with the machine and ran right into me; there was one on each side toting it; I reached and caught both of them in their coats, and they dropped the slot machine, and I held to them some little bit; they rared and bucked. After a while Yeaman broke loose and ran, but I held on to Mote and brought him on to the store and met the police and turned him over to them; and I got in the back seat with him and we went up there in the alley where they left the. slot machine. I got the machine back and the money had not been taken .out.” (Italics ours.)
+• The foregoing evidence tends to establish, without dispute, the fact that the door of the building in question was securely fastened and made secure, when Crowder retired for the night; that no .person or. persons, except defendant, and his accomplice, also indicted and convicted, were in or about the burglarized building oh the night in question, and that without dispute also, they feloniously took and carried away from the store the machine and money contents as aforesaid.
+The trial court properly held that a jury question was presented.
+We refrain from a reiteration of the principles of law as to burglary. The rules applicable to a crime of this nature are announced in innumerable decisions of the appellate courts of this state. It is elementary, of course, in order to constitute burglary there must be a “breaking into and entering” of the building in question. It is not essential that the breaking and entering shall be simultaneously done. If in the nighttime with intent to-steal or commit a felony, a person breaks into any inhabited dwelling house, or any other house or building which is occupied by any person. lodged therein, and after so breaking into such building enters therein for said purpose, the crime is complete, and all such questions are for the determination of the jury trying the case, under’ proper instructions from the court. Point v. State, 37 Ala. 148.
+There are no errors apparent upon the trial of this case in the court below. The judgment of conviction in said court will stand affirmed.
+Affirmed.
