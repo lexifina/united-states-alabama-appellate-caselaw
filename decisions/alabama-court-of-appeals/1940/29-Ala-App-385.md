@@ -1,0 +1,38 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 598"
+decided: "1940-05-21"
+citations: ["29 Ala. App. 385", "196 So. 290"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DRAUGHON v. STATE."]
+source_url: "https://static.case.law/ala-app/29/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1677739
+cites_cases: ["16 Ala.App. 496", "17 Ala.App. 178", "183 Ala. 30", "192 So. 425"]
+---
+
+# Draughon v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The undisputed facts in this case, as to the transaction involved, and upon which this prosecution was predicated, disclosed that this appellant acting for and on behalf of W. S. Chancy, the alleged injured party, delivered to his own father six tons of fertilizer and upon the delivery of said fertilizer collected of and from his father the sum of ninety-six dollars, the price thereof. That this money, then and there, became the property of, and belonged to, said Chancy cannot be questioned. Further, the evidence discloses that neither on that day, nor at any time, was said money turned over or delivered to Chancy by appellant, or by anyone for him. From said undisputed facts the jury was justified in determining by its verdict that the defendant converted said money to his own use.
+The facts adduced upon the trial of this case, under the law, constituted defendant the agent of Chancy in the ■ transaction involved.
+One of the principal insistences of error upon this appeal is that the State failed to prove the venue. We do not accord to this insistence, and agree with the trial court that this .question was for the determination of the jury. To hold otherwise would cast upon the State an impossible burden in cases of this character, and would require direct proof by the State as to where and how the accused used or spent the money which admittedly came into his possession as agent of the injured party, and at no time was ever paid to the owner.
+The law is, when an offense is committed partly in one county and partly in another, or the acts, or effects thereof, constituting, or requisite to the consummation of the offense occur- in two or more counties, the jurisdiction is in either county. Section 4894, Code 1923. Here, the money in question was admittedly and without dispute paid to the defendant for Chancy, by defendant’s own father, at his home in Houston County. As to this and immediate subsequent events we quote the following statement of the testimony from the brief of appellant’s counsel, viz:
+“As has been stated, -the Appellant received the $96.00 in Houston County and six miles from the nearest point of the Geneva County line. The testimony is in conflict as to whether or not the appellant went directly from his father’s house where he received the money to Hartford in Geneva County. All the witnesses for the Defendant testify positively that the Appellant went to Beckham’s store on the Enterprise and Dothan highway and from there to Dothan in Houston County, Alabama. Mr. W. S. Chancey and Mr. E. E. Durdin, two of the witnesses for the State, testify that the Appellant was in Hartford around 7:00 or 8:00 in the morning of April 1, 1936 — the same date that he received the money from his father at his home in Houston County. Whether the Appellant came to Dothan in Houston County and then went to Hartford in Geneva County from his father’s home on the morning that he- received the $96.00 is in conflict; but there is certainly no testimony in the record to the effect that the Appellant went directly from his father’s home where he received the money to Hartford. However, all the testimony of the witnesses who were with the Appellant on that date, is to the effect that the Appellant did in fact come to Dothan on the morning that he received the money and before he went to Hartford, if, in fact, he did go to Hartford on that date.”
+On redirect examination the alleged injured party testified, among other things: “On the morning of April 1, 1936 Comer Draughon came to my office or place of business in Hartford and reported to me the delivery of- some fertilizer to his father. At that time he gave me this invoice and signed the delivery ticket. After he handed it to me, when I entered it on the ledger I made the notation there ‘Delivered to George Draughon.’ G. W. is his initials. Comer Draughon come there between 8:00 and 9:00 o’clock in the morning. Nobody else was there besides me and him except the man that worked for me, E. E. Durden. At the time he delivered this order and told me that he had delivered that fertilizer to his father, he signed the delivery ticket and I give him the white one. That is the truck delivery ticket. He signed this, Number 89, W. S. Chancy, Hartford, -Alabama, April' 1, 1936, delivered to G. W. Draughon for account G. W. Draughon, 60 sacks 3-8-5 burlap,signed by C. R. Draughon, in my presence, on the morning of April 1st.”
+Witness Chancy also further testified on that occasion he did not pay me any money, he did not say anything about any money; and said, “He didn’t turn any money over to me for the fertilizer he signed this , truck ticket for.”
+As stated, from the foregoing, the conflicting evidence presented a jury question.
+From the foregoing we are clear to the opinion that the jury were fully warranted in returning their verdict. Ray v. State, 16 Ala.App. 496, 79 So. 620; Chambers v. State, 17 Ala.App. 178, 84 So. 638.
+There were several exceptions reserved to the court’s rulings upon the admission of testimony, all of which have been considered and no error of reversible nature appears.
+This appellant was accorded a fair and impartial trial, and the judgment of conviction from which this appeal was taken is affirmed.
+However, in sentencing the defendant to imprisonment in the penitentiary for the fixed period of one year the court fell into error.
+It is not the province of the jury in a case of this character to designate by its verdict the place of confinement; as the Statute (Section 5265, Code 1923) specifically provides the manner and place of punishment. Said Statute is as follows i “* * * And in all cases in which the period of imprisonment in the penitentiary or hard labor for the county is more than two years, the judge must sentence the party to imprisonment in the penitentiary; and in all cases of conviction for felonies, in which such imprisonment or hard labor is for more than twelve months, and not more than two years, the judge may sentence the party to imprisonment in the penitentiary, or confinement in the county jail, or to hard labor for the county, at his discretion, any other section of this Code to the contrary notwithstanding; and in all cases in which the imprisonment or sentence to hard labor is twelve months or less, the party must be sentenced to imprisonment in the county jail, or to hard labor for the county.”
+In returning its verdict the jury followed the instructions of the court, and the verdict reads as follows: “We the jury find the defendant guilty as charged in the indictment, and fix Ms punishment at one year imprisonment in the penitentiary.”
+The foregoing italicized words were mere .surplusage, and upon remandment are to be so treated, hence disregarded.
+As stated, the judgment of conviction of this appellant is affirmed. The cause is remanded for proper sentence under Section 5265 of the Code 1923. Wade v. State, ante, p. 115, 192 So. 425; Ex parte Robinson, 183 Ala. 30, 63 So. 177.
+Affirmed.
+Remanded for proper sentence.
