@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 358"
+decided: "1947-03-18"
+citations: ["33 Ala. App. 54", "29 So.2d 570"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CONNER v. HAMLIN."]
+source_url: "https://static.case.law/ala-app/33/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1688255
+cites_cases: ["216 Ala. 138", "225 Ala. 579", "240 Ala. 383", "242 Ala. 628", "53 A.L.R. 840"]
+---
+
+# Conner v. Hamlin
+
+## Majority (HARWOOD, Judge.)
+
+HARWOOD, Judge.
+The appellant sued the appellee in the court below claiming damages for an assault and battery allegedly committed by appellee on the appellant. The jury returned a verdict in favor of the appellant, and assessed his damages at one dollar. Judgment was entered by the lower court pursuant to said verdict.
+The appellant timely filed a motion to set aside the verdict and judgment based on the inadequacy of the damages awarded. From the lower court’s order denying such motion the appellant perfected his appeal to this court.
+In his complaint the appellant claimed damages in the amount of $10,000 for time lost from work, medical expenses, physical and mental pain, and punitive damages, all as the proximate result of said assault and battery.
+The plea was in short by consent.
+The evidence as it pertained to the assault and battery was in hopeless conflict. That introduced by the appellant (plaintiff below) was to the effect that as he was driving home in his truck late in the afternoon on 20 April 1945 he found the road blocked by a school bus driven by appellee (defendant below). When he got out of his truck the appellee asked appellant if he had not caused a prosecution for setting a fire to be instituted against him, to which appellant replied that would be settled in court. Appellant then walked toward the front of the school bus, when he was attacked by appellee, knocked down, and beaten and kicked by appellee after he was on the ground. After the attack appellant drove to his home. He alleges he was in great pain, particularly his right shoulder. Later medical examination revealed that the tip of a bone in the right shoulder had been broken off.
+The tendency of the evidence introduced by the appellee in the trial below was to show that the school bus only partially blocked the road, and that another car had driven around it; that appellant stopped behind the bus, and being observed by appellee was asked if he had caused appellee to be prosecuted for setting out a fire. Thereupon appellant got out of his truck, cursed appellee and hit at him. Appellee struck back, knocked appellant to ground, and struck him two or three times when he tried to rise. Appellee denied kicking appellant. After the fight appellant was observed driving off using both hands in the operation.
+We have set out only a thumbnail sketch of the evidence relating to the assault and battery, as the sole question in our opinion raised by this record is the adequacy of the damages awarded.
+In the trial below appellant introduced evidence showing that on the day after the fight he consulted Dr. Murphy, who took appellant to Dr. Parker’s office where, after X-raying, he was anesthetized in an attempt made to reduce a supposed shoulder dislocation. The doctors then decided that appellant’s shoulder was not dislocated and sent him to Tuscaloosa. In Tuscaloosa appellant consulted Dr. John Shamblin at the Druid City Hospital. There he was Xrayed and his shoulder taped by Dr. Shamblin. Thereafter appellant consulted Dr. Parker and Dr. Shamblin once a week for several weeks.
+Appellant testified that he had paid Dr. Murphy $2.00, and Dr. Parker $10.00 for the original consultation, and he thereafter paid Dr. Parker $5.00 for a second consultation, and $2.50 per visit thereafter for three visits. This would make a total of $22.50 paid Dr. Parker.
+Appellant introduced a receipt for $7.00 paid the Druid City Hospital for medical services rendered there, and a receipt for $5.00 paid Dr. Shamblin for the first visit. Appellant testified that he had made additional payments to Dr. Shamblin for subsequent visits, and that in all he had paid Dr. Shamblin “somewhere around $25.00.” At the least there was definite proof that he had paid Dr. Shamblin and the Druid City Hospital $12.00.
+Appellant also testified that he had bought $8.90 worth of medicines with which to treat his injuries, and the evidence showed that his bus fare to and from Tuscaloosa to consult Dr. Shamblin had amounted to $9.24.
+Thus by undisputed testimony appellant showed that he had expended $54.69 for medical services necessitated by the injuries received in his difficulty with the appellee.
+Dr. Murphy testified as to the reasonableness of his fee, and the appellee admitted the reasonableness of Dr. Parker’s charges. No testimony was introduced as to the reasonableness of the other medical expenditures. However, the appellee made no motion to exclude the evidence as to the sums paid Dr. Shamblin and the hospital, nor did he request any instructions against recovery for such amounts. Such procedure should have been followed if appellee is to have advantage of failure of proof of the reasonableness of expenses not of common knowledge. Birmingham Amusement Co. v. Norris, 216 Ala. 138, 112 So. 633, 53 A.L.R. 840. The expenses for bus fare and medicines were in our opinion within the realm of common knowledge, and the sums appellant alleges he paid therefor could properly serve as some evidence of reasonable value in the absence of evidence to the contrary. Norris Case, supra; Opelika Coca Cola Bottling Co. v. McEachern, 242 Ala. 628, 7 So.2d 570.
+The appellant and his wife testified as to appellant’s physical suffering resulting from appellee’s assault on him. Both testified that appellant had not been able to sleep for more than a few minutes at a time, or possibly for as long as an hour when he would be awakened because of ensuing pain. Dr. Murphy testified that at the time he examined appellant he was suffering intense pain, and that it was his opinion that because of the injuries suffered by appellant there would be reason to believe that pain would be present on the day the doctor testified.
+Though not set out specially in his complaint as an item of damages, appellant introduced without objection some evidence attempting to establish damages resulting from crop loss because of appellant’s physical inability to continue cultivation. The testimony along this line was however too vague and uncertain to furnish any basis for determination of such damages by the jury.
+The appellant’s evidence seeking to establish damages for loss of time from work is likewise tainted with the same defect.
+Regardless, the jury did find in favor of the appellant, but awarded nominal damages only.
+Nominal damages are proper where there has been a breach of a legal duty, and either no damages are suffered, or there is a failure of proof of actual damages. See Vol. 7 Ala.Dig., Damages, ®=,9.
+In this case the appellant, by undisputed evidence, established damages in the amount of $54.64, resulting proximately to-him because of appellee’s assault on him, which assault and battery we must conclude from the jury’s verdict was unjustified-Having found that appellee’s conduct was-illegal, the jury’s action in failing to assess properly established damages proximately resulting therefrom can be viewed in no other light than being capricious.
+Viewed in the light of the verdict the-conclusion is inevitable that the damages-awarded by the jury did not cover the substantial medical expenses incurred by the appellant. It is equally clear that the damages in nowise covered any award for physical and mental pain and suffering. To affirm this verdict and judgment awarding only nominal damages for substantial damage suffered by appellant according to the great preponderance of the evidence would, we are convinced, be wrong and unjust. Yarbrough v. Mallory, 225 Ala. 579, 144 So. 447; Sturdivant v. Crawfords 240 Ala. 383, 199 So. 537, and cases cited in each of above cases.
+Reversed and remanded.
