@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 977"
+decided: "1951-01-23"
+citations: ["36 Ala. App. 725", "52 So. 2d 889"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nep McDANIEL, alias McDonald v. STATE."]
+source_url: "https://static.case.law/ala-app/36/cases/0725-04.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1695444
+---
+
+# McDaniel v. State
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Affirmed.
