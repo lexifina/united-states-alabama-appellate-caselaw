@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1913-12-18"
+citations: ["9 Ala. App. 9", "64 So. 200"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hooten v. The State."]
+source_url: "https://static.case.law/ala-app/9/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1623583
+cites_cases: ["1 Ala. App. 35", "114 Ala. 42", "12 South. 301", "120 Ala. 274", "126 Ala. 20", "133 Ala. 109", "134 Ala. 84", "136 Ala. 47", "140 Ala. 10", "142 Ala. 14", "146 Ala. 8", "147 Ala. 57", "148 Ala. 566", "155 Ala. 2", "165 Ala. 1", "167 Ala. 4", "174 Ala. 94", "175 Ala. 1", "176 Ala. 1", "177 Ala. 1", "178 Ala. 10", "30 South. 422", "39 South. 329", "40 South. 314", "42 South. 829", "5 Ala. App. 43", "52 Ala. 348", "58 South. 379", "59 South. 577", "59 South. 708", "6 South. 395", "64 South. 537", "68 Ala. 515", "7 Ala. App. 30", "76 Ala. 26", "90 Ala. 602", "92 Ala, 9", "94 Ala. 50", "96 Ala, 69", "96 Ala. 28", "98 Ala. 6"]
+---
+
+# Hooten v. State
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+The judgment entry shows that the jury was drawn in open court, and that the order setting the case, fixing and drawing the venire, and arraigning the defendant is in strict compliance with the law. The fact-that it was made to appear, on a motion to quash the venire, that on the list served on the defendant one of the jurors drawn to serve on the special venire was the same person as one of the regular jurors drawn and summoned for the week the case was set for trial was not a sufficient ground upon which to grant the motion to quash the venire under the present jury law. No more so than if there was no such person, or that the juror drawn on the special venire had been disqualified from serving on the jury to try the defendant for any other reason, as for instance had he been related to the parties within the degree that disqualifies, or a member of the grand jury that found the indictment, or because there had been a mistake in the name of the person summoned, so long as the number of jurors was not reduced below the number required by law in the trial of capital cases. — Acts 1909, p. 305 .et’seq.; Savage v. State, 174 Ala. 94, 57 South. 469; Sims v. State, 176 18, 58 South. 379, opinion on rehearing; Gibbs v. State, 7 Ala. App. 30, 60 South. 999; Costello v. State, 176 Ala. 1, 58 South. 202; Perry v. State, 177 Ala. 1, 59 South. 150; Johnson v. State, 5 Ala. App. 43, 59 South. 708; Lewis v. State, 64 South. 537.
+Whether or not the deceased was drinking or drunk at the time he fell out of the wagon at a time several months after he was shot by the defendant, and three or four weeks before his death, was no part of the res gestae and could have no possible tendency to prove or disprove any issue before the court, and there was no error in refusing to alloAV the defendant to make proof of such fact, if it Avas a fact.
+The three- charges given at the instance of the state, state correct propositions of laAv, as applied to the evidence in the case, and no error resulted from the court’s having given them in charge to the jury. It needs no discussion to sIioav that the first charge, stating the familiar proposition that there must be a unanimity as the basis for the rendition of a verdict, is correct. He who evinces a willingness to enter the conflict, or, as predicated in the second charge, “enters the fight willingly,” is held to have produced the necessity of slaying his adversary and cannot invoke self-defense. — Stallworth v. State, 146 Ala. 8, 41 South. 184. Charge 3 is a correct statement of the law. — Parham v. State, 147 Ala. 57, 42 South. 1; Gregory v. State, 148 Ala. 566, 42 South. 829.
+Charge No. 2, refused to the defendant, is faulty in failing to predicate that the killing was in a sudden rencounter or affray (Code, § 7086), and is misleading in that the defendant must not only not have been the assailant (the aggressor) and provoked the difficulty, but must have been entirely free from fault in having brought it oh (Smith v. State, 142 Ala. 14, 39 South. 329) notwithstanding the use of the word “assailant” in the statute. The charge as part of its predicate improperly requires the state to prove that the deceased did not know that the defendant had the pistol when the fight commenced, hypothesizing a fact, too, of which there was no evidence (Lewis v. State, 178 Ala. 10, 59 South. 577) and raising a question which was not an issue .on the trial (Washington v. State, 155 Ala. 2, 46 South. 778). The. charge is also misleading in not stating the conditions under which the state is required to prove freedom from fault. — Crumpton v. State, 167 Ala. 4, 52 South. 605.
+Refused charge No. 3 directed the attention of the jury to a particular phase of the testimony of the witness and instructed them to weigh the evidence on that subject (Coates v. State, 1 Ala. App. 35, 56 South. 6) and a charge which singles out a particular feature of the evidence is properly refused. — Savage v. State, 174 Ala. 94, 57 South. 469; Parris v. State, 175 Ala. 1, 57 South. 857.
+Other charges refused to the defendant are palpably bad or are fully covered by the 57 charges given at his request.
+We have examined the rather voluminous, but well prepared, record and find no reversible error or other question presented that we deem of sufficient merit to necessitate discussion.
+Affirmed.
