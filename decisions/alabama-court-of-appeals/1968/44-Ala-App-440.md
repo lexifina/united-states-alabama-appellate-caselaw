@@ -1,0 +1,49 @@
+---
+court: "Alabama Court of Appeals"
+docket: "5 Div. 687"
+decided: "1968-04-02"
+citations: ["44 Ala. App. 440", "212 So. 2d 605"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Calvin BAKER v. STATE."]
+source_url: "https://static.case.law/ala-app/44/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1713151
+cites_cases: ["116 U.S. 616", "187 So.2d 294", "20 Cal.Rptr. 165", "230 N.Y.S.2d 822", "278 Ala. 145", "278 Ala. 437", "35 Misc.2d 699", "369 P.2d 714", "39 Ala.App. 572", "42 Ala.App. 578", "42 Ala.App. 646", "43 Ala.App. 239", "57 Cal.2d 415"]
+---
+
+# Baker v. State
+
+## Majority (JOHNSON, Judge.)
+
+JOHNSON, Judge.
+Appellant was indicted by the Grand Jury of Lee County, Alabama, on the charge that he “did, in the nighttime, with intent to steal, break into and enter a shop, store or warehouse known as Baker’s Grocery and Studio in possession of Thomas H. Baker, which is specially constructed or made to keep goods, wares or merchandise and in which goods, wares or merchandise was kept for use, sale or deposit * * * and feloniously took and carried away from a store building one .38 caliber colt automatic pistol of the value of $40.00 and one Aliva portable transistor radio of the value of $20.00, of the aggregate value of $60.00, the personal property of Thomas H. Baker; against the peace and dignity of the State of Alabama.”
+Appellant pled not guilty and in open court, before the case was tried before a jury, moved to suppress certain evidence which he alleged was obtained by illegal search and seizure, which motion was granted in part and denied in part. Appellant was found guilty as charged and sentenced to ten years in the State penitentiary as punishment therefor.
+The State’s first witness was Thomas H. Baker who testified that he ran a grocery store and studio on the Birmingham Highway, in Lee County, Alabama; that at about 1:30 or 2:00 A.M. on August 9, 1965, he was called by the police and told to come to his store because something had happened there; that he went to his store and observed that there were some “chip marks” on the door right even with the lock; that he knew appellant but had never given him permission to enter his store or use his pistol; that there were boxes and papers on the floor; mud tracks around the store, the cash register was open and empty and his pistol, transistor radio, “a book of stamps”, and a box of cigars were missing; and that he then accompanied the officers to police headquarters where he identified the pistol and transistor radio as belonging to him. The witness stated that the value of the pistol was $40.00 and that of the transistor radio was $20.00.
+The State’s next witness was OpelikaPolice Officer Dan Davis who testified that he, accompanied by Officer Lewis Cherry, was on duty on August 9, 1965, and during the early morning they noticed a car driven by Terry Lee Goodson with appellant riding as a passenger, which car “went off the roadway a couple times” and they stopped the car “to check it out.” At this point, the jury was taken out of the courtroom while testimony was given relative to the search and seizure of the automobile and the arrest of appellant
+Officer Davis testified that he and his partner pulled the automobile • over to investigate the two men because they had run off the road several times; that they observed that the driver, Terry Lee Good-son, appeared to be intoxicated and arrested him on a charge of driving while intoxicated. While the automobile was stopped after the arrest, the Officers observed in open view to them a flat iron bar, a radio and a box of cigars in the back floorboard of the car. They took appellant and Good-son and the car to the police station where Goodson was placed in jail and appellant was questioned without promise, threats, or hope of reward, regarding a charge of escaping from prison. However, it later developed that appellant was on parole and did not escape from prison.
+Officer Florence testified on cross-examination by defense counsel in part as follows :
+“Q. * * * Now, at any time while you were there around the car — and by the way this car was Calvin Baker’s automobile was it not?
+“A. We didn’t know right at the exact time until he told us that it was his.
+“Q. Well, later you learned it to be his car?
+“A. Yes, sir, later we learned that it was his.
+“Q. And he owned it. All right. * * * 99
+The testimony that the car was Calvin Baker’s was uncontroverted.
+During the detention of appellant, his car was searched arid the articles on the floorboard were discovered and appellant was thereafter charged with burglary.
+Before appellant’s trial, he moved to suppress certain evidence. The court ruled that only those items in plain view at the time the car was first stopped could be introduced into evidence; which items were the radio, a box of cigars, and a flat iron bar.
+Appellant’s claims of error all center around the legality of the search and seizure of the articles admitted into evidence.
+The search of appellant’s automobile at the police station was made while, appellant was in custody but not under arrest. The record reflects that this search was made without the knowledge or consent of appellant. The police had no probable cause to believe that the automobile contained articles subject to seizure; nor was there a showing that a search warrant was impractical because of an imminence of escape or loss of evidence. As Goodson' was already under arrest and incarcerated, and as the search of appellant’s automobile took place at a different time and place, such search could not in any way be considered incident to his arrest. Therefore, evidence discovered as a result of that search is inadmissible. Boulden v. State, 278 Ala. 437, 179 So.2d 20; McCurdy v. State, 42 Ala.App. 646,176 So.2d 53.
+Appellant contends that, since the items-admitted into evidence were - seized along with those items discovered as a result of the illegal search, they were inadmissible. He cites Knox v. State, 42 Ala.App. 578, 172 So.2d 787, wherein it is stated in part:
+“When a police officer arrests without a warrant, and the defendant objects to-the introduction of evidence claimed to be incident to such an arrest, the burden is on the State to show that the arrest was lawful. See People v. Cassone, 35 Misc.2d 699, 230 N.Y.S.2d 822. If the arrest without a warrant is unlawful, evidence seized incident thereto is inadmissible.”
+However, the Knox case can be distinguished from the case at bar in that in Knox a police officer entered Knox’s trailT er without a search warrant or warrant for his arrest, and while in the trailer he saw a rope lying out in open view. He then arrested Knox for “suspicion of burglary” and confiscated the rope. This court stated in the Knox case: ■
+“In Kelley v. State, 39 Ala.App. 572, 105 So.2d 687, this Court held that ‘[a] mere observation of that which is in full view is not a search.’ In Boyd v. United States, 116 U.S. 616, 6 S.Ct. 524, 29 L. Ed. 746, the court stated, in effect, that the doctrine of the Fourth and Fifth Amendments 'apply to all invasions on the part of the government and its employees of the sanctity of a man’s home and the privacies of life. It is not the breaking of his doors, and the rummaging of his drawers, that constitutes the essence of the offense; but it is the invasion of his indefeasible right of personal security, personal liberty, and private property * * *.’ Thus, we are of the opinion that ‘in plain view’ as used in the Kelley case, supra, cannot he construed to mean in plain view of a police officer within a private residence only after the officer’s entry therein without legal authority — i. e., as a trespasser.” (Emphasis ours.)
+In the case at bar the “viewing” was not the result of an illegal entry or the result of an illegal search. It was in fact made at the time of the arrest of Terry Lee Goodson.
+The question also arises as to whether the “viewed” evidence would be subject to the doctrine of the “fruit of the poisonous tree.” We think not. In Duncan v. State, 278 Ala. 145, 176 So.2d 840, the Supreme Court of Alabama stated:
+“The rule * * * does not extend to facts which, although actually discovered by a process initiated by the unlawful act, were obtained independently from a source sufficiently distinguishable to be free of the taint of illegality.
+# ijí % ‡ íjí
+“ ‘Thus, the Court should exercise great care to determine whether the asserted “fruits of the poisoned tree” were in fact a product of the unlawful search —as they were held not to be in People Ditson, 57 Cal.2d 415, 20 Cal.Rptr. 165, 369 P.2d 714 (1962).’ ”
+The items “viewed” in the case at bar, were “seized” along with those items discovered as a result of the illegal search. However, they were sufficiently distinguishable from those illegally discovered so as to not create a situation such as that in Sheridan v. State, 43 Ala.App. 239, 187 So.2d 294, wherein the conviction was reversed and remanded because the State “put all its apples in one basket; failing to separate the various pieces of evidence as to whence they were plucked.”
+We conclude that the'language employed in Knox, supra, as to the inadmissibility of evidence seized where the arrest without a warrant is unlawful, is to be applied only to the particular circumstances then prevailing. Therefore, the evidence which was “viewed” prior to the illegal search in the case at bar was properly admitted into evidence. Duncan v. State, supra; Sheridan v. State, supra; and Kelley v. State, 39 Ala.App. 572, 105 So.2d 687.
+We have diligently searched the record and find no error therein. Therefore, the judgment in this cause is due to be and the same is hereby
+Affirmed.
