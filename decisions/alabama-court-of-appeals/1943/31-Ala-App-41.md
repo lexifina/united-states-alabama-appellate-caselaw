@@ -1,0 +1,51 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 721"
+decided: "1943-01-12"
+citations: ["31 Ala. App. 41", "13 So.2d 200"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WASHINGTON v. STATE."]
+source_url: "https://static.case.law/ala-app/31/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1683068
+cites_cases: ["18 Ala.App. 569", "58 Ala. 335", "93 So. 69"]
+---
+
+# Washington v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+At the October 1940 term of the circuit court, the grand jury found, and returned into open court, an indictment against this appellant wherein he was charged with the offense of murder in the second degree. Specifically, that he unlawfully and with malice aforethought killed Paul Purifoy by cutting him with a knife, but without premeditation or deliberation, etc.
+The record discloses that the trial of this case was had in the circuit court on December 16, 1941, and that said trial resulted in the conviction of the defendant of murder in the second degree as charged in the indictment, and the jury fixed his punishment at imprisonment for ten years. In accordance with the verdict of the jury, the court duly adjudged the defendant guilty and pronounced and entered judgment of conviction with sentence to imprisonment in the penitentiary for a period of ten years. From said judgment the defendant appealed to this court.
+Upon this appeal it is apparent that the prinicipal controversy between the parties is the question as to the sufficiency of the evidence in the court below, to authorize or require the court to submit the case to the jury for determination.
+The State, through its counsel, the Attorney General, makes the insistence “that the evidence makes a case purely for the consideration of the jury, and further, the case presents a state of facts which perhaps makes it murder in the first degree, and certainly, at least murder in the second degree.”
+To the contrary, counsel for appellant earnestly insists there was no such evidence and in his brief on this question the following appears:
+“In the Attorney General’s brief he insists that the case presents a question of fact for the jury. We are unable to agree with him.
+“The Attorney General did not point out any testimony whatever in the transcript which tended to incriminate the defendant even in the least, so we invite the Court to search the transcript very rigidly for such incriminating testimony. The Attorney General could not find it and we believe the Court will not find it because such testimony exists only in the imagination and not in the transcript.
+“At least one witness for the State should have sworn to facts tending to place the blame on defendant, but this did not happen as the transcript will show.
+“The so called scintilla of evidence rule which has been so severely criticized by leading jurists is the law in Alabama. It is also the law in Alabama that a verdict contrary to the great weight of testimony should be set aside upon timely application for a new trial. However, neither of these principles of law has any bearing on this case at bar whatever since there was not so much as one scintilla — not a jot or a tittle of evidence against the defendant, and the verdict was not contrary to the great weight of evidence but contrary to the sum total of the evidence- — one hundred percent of the testimony.”
+After a thoughtful and careful consideration of all the evidence adduced upon the trial in the court below, we are clear to the conclusion that the quoted argument and insistences, supra, of counsel for appellant are wholly untenable and cannot be sustained.
+The fatal difficulty, as shown, was between two negro youths, both approximately about 17 or 18 years of age. That the deceased died as a result of a knife wound inflicted upon him by this appellant is without dispute or conflict. All the testimony relative to the fatal difficulty tends to show that both of the parties fought willingly, thus eliminating all question of self defense. They each used knives in the difficulty and both parties were in consequence wounded, the deceased fatally. The evidence further shows the two negro boys were on bad terms with each other and that on the night before the killing they had had trouble between them. All this without conflict, and, furthermore, there was evidence tending to show that on the morning of the killing and only a short period of time before the fight, this appellant, armed with a stick, was searching for and inquiring as to the whereabouts of the deceased. And in this connection stated emphatically, “he was going to kill him.” As to this, State witness, Willie Ellis, testified as follows:
+“My name is Willie Ellis. I live here in town. I knew Paul Purefoy in his lifetime. I know Boyzelle Washington here, the defendant. I knew him back in 1940 when it is said that Boyzelle cut Paul and killed him. I recall that occasion. On that same day, early in the morning he come to the drug store where I worked. I was working at Mr. Max’s barber shop, that is right under Thagard’s Drug Store here in Andalusia. That was on Monday morning. It was somewhere between 8:30 and 9 o’clock.
+“Here the state asked the following question:
+“And at that time did the defendant have anything to say to you with reference to Paul Purefoy?
+“The witness answered: He asked me had I seen Paul, and I said yes I had seen him, and he said he had it on that night coming from Opp and that he was going to kill him that morning. He had in his hand a stick about like that (indicating). I didn’t see the fight, but he did say he was going to kill him.
+“Cross examination by Mr. Cook:
+“He didn’t have anything in his hand but the stick. At that time he didn’t have a basket of bread. I had that conversation between 8:30 and 9 o’clock in the best of my judgment. Nobody else was present. I was sweeping the sidewalk off at the time he come up there.”
+In furtherance of the foregoing the State introduced a witness by the name of Maude Kitt, who -testified as follows:
+“My name is Maude Kitt. I live in the quarters here in Andalusia. I know Boyzelle Washington. I knew Paul Purefoy in his lifetime. I recall back in August, 1940, when it is said Washington cut Purefoy— stabbed him. I recall.hearing about that. I didn’t see the fight or any part of it. That happened on Monday. I saw Boyzelle that morning. I saw him on the corner by the City Drug Store. No one was present but he and myself. He said that he and Paul had it that night and Paul made him cut his finger, and he said that they were going to have it that day.
+“Cross examination by Mr. Cook:
+“I am not related by blood or marriage to Boyzelle Washington. Paul Purefoy, the boy that got killed is my nephew. Boyzelle told me that Paul had made him cut his finger. He didn’t say which finger, but he did say Paul made him cut it. I was talking to Boyzelle I imagine around 8:30 on the City Drug Store corner. He did not have anything in his hand. He came from across the street over toward Bermans going that way.”
+The above quoted testimony was without dispute or conflict. The defendant elected to' testify, and did so testify at length as to the facts and circumstances of the difficulty itself, but at no time did he contradict or deny the quoted testimony of the two witnesses named above, hence, as stated, all of said testimony was before the jury for its consideration, and the jury, even if they were so inclined, were without authority to capriciously refuse to consider this testimony, especially since it was without conflict or denial.
+From what has been said, and the testimony quoted, it is clearly manifest that the urgent insistences of earnest counsel for appellant, in this connection, cannot be sustained. The evidence in the case, as insisted by the State, presented material questions for the determination of the jury, and this evidence, in our opinion, was amply sufficient to warrant and support the verdict returned by the jury.
+Pending the trial, several objections were interposed, and exceptions reserved to the court’s rulings upon thé admission and rejection of the testimony. Each of the exceptions is so patently without merit we see no necessity to discuss them.
+The affirmative charge was not requested. .Had it been, it of necessity, under the evidence, would have properly been refused.
+There were two written charges refused to defendant. The action of the trial judge in refusing said charges is approved and upheld. Said charges were not predicated upon the evidence, which was fatal of itself. Moreover, the propositions of law attempted in said charges were fairly and substantially covered by the full, explicit and able oral charge of the court.
+Appellant advances, and insists upon another proposition, to the effect that if the knife wound inflicted upon Purifoy, the deceased, by defendant was erroneously or improperly treated the accused should not be held accountable for the death of Purifoy. In this, earnest counsel for appellant is mistaken. The law is, where the wound is in itself dangerous to life, mere erroneous treatment of it, or of the wounded man suffering from it, will afford the defendant no protection in a charge of unlawful homicide. Bowles v. State, 58 Ala. 335.
+In the Bowles case, the Supreme Court said: “Where death is caused by a dangerous wound, the person inflicting it is responsible for the consequences, though the deceased might have recovered with the exercise of more prudence and with better nurses.” See also Lawman v. State, 18 Ala.App. 569, 93 So. 69; and numerous cases cited in 11 Alabama Digest, Title, Homicide, ®=> 5, pp. 272, 273.
+From what has been said it is clearly evident there was no error in the action of the court in overruling and denying defendant’s motion for a new trial.
+No error appears in any of the rulings of the trial court to which exceptions were reserved. The record proper is also without error apparent thereon; it therefore follows that the judgment of conviction from which this appeal was taken must be affirmed. It is so ordered.
+Affirmed.
