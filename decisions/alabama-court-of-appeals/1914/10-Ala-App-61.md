@@ -1,0 +1,26 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-02-10"
+citations: ["10 Ala. App. 61", "64 So. 639"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vinson v. The State."]
+source_url: "https://static.case.law/ala-app/10/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626582
+cites_cases: ["108 Ala. 366", "147 Ala. 5", "18 South. 831", "2 Ala. App. 38", "20 Ala. 65", "48 Ala. 478", "56 Am. Dec. 182", "6 Ala. App. 564"]
+---
+
+# Vinson v. State
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+There was evidence tending to prove that after dark the defendant shot the deceased. Jesse Bailey, as the latter was coming towards him with a gun, the defendant at the time being in his own residence and under a mistaken, but not wholly unfounded, belief that it was another man who was- approaching and about to commit a murderous assault upon him. There was other evidence which tended to prove that before the fatal shot was fired the defendant Avas informed that the man he saw in his yard was Jesse Bailey. Zack Bailey, a brother of the deceased, on his direct examination as the first witness for.the state, testified that he was in the road something like 50 or 75 feet from the defendant’s house when the shot was fired, and that when he got to where the deceased was lying, the defendant said, “I have killed Jesse Bailey.” The court sustained the objection of the state to a question asked this witness on his cross-examination, which sought to elicit proof as to what else the defendant said at the same time and in connection with the statement, “I have killed Jesse Bailey.” This ruling was erroneous. The state haying, on the direct examination of the witness, brought out a part of what was said by the defendant on the occasion in question, the latter was entitled to bring out the remainder of the statement then made by him. The true meaning and significance of one’s statement may be concealed by dissociating it from other explanatory or qualifying statements in connection with which it was made. The statement as a whole may have a materially different import from that indicated by an isolated fragment of it. — Ray v. State, 147 Ala. 5, 41 South. 519; Addison v. State, 48 Ala. 478; Jones on Evidence, § 822.
+It was not error for the court to- refuse to permit the defendant, on the cross-examination of the same witness, to prove what the defendant did after he discovered that he had killed Jesse Bailey. This was not a part of the res gestee, the incident which is under investigation then being a thing of the past (Lundsford v. State, 2 Ala. App. 38, 56 South. 89), and the state had not opened the door to such evidence by proving a part of what the defendant did at the time inquired about.
+The statements of the witness Woodall as to what the defendant’s wife, some time after the shooting and
+in his presence, said to the witness as to what she and her daughter saw and did just before the shooting occurred should have been excluded; the question which elicited that testimony having been duly objected to. It is plain that this testimony was subject to exclusion as mere hearsay, unless it was admissible on the theory that the defendant’s failure to deny what was asserted in his presence was an implied admission of the truth of the assertion. Great caution should be exercised in admitting on such a theory testimony which otherwise’would be subject to objection as hearsay, and it cannot properly be admitted unless the statement made in the party’s presence was of a character naturally calling for a reply from him, and he was in a situation in which he Avould probably respond to it. — Lawson v. State, 20 Ala. 65, 56 Am. Dec. 182; Shelton v. Hacelip, 6 Ala. App. 564, 60 South. 471; Jones on Evidence, § 289. The statements of the defendant’s wife, the evidence as to which was sought to be excluded, were not as to what he saw or did, but as to what she and her daughter saw and did. They were not addressed to the defendant, and we discover nothing in them to call for an admission or contradiction of them by him.. The effect of the court’s lulling Avas to let in hearsay testimony of statements made by a person who was not competent as a Avitness for or against the defendant.
+The fact that before the argument to the jury was entered upon the defendant’s counsel had submitted to the court a number of written charges, some of which were given and some refused, did not justify the court in refusing to consider other written charges separately requested by the defendant’s counsel upon the conclusion of the court’s oral charge, and before the jury retired, or to write “Given” or “Refused” on such charges. This action of the court, which was duly excepted to, was a denial of a right conferred upon the defendant by statute. — Code, § 5364; Barnewall v. Murrell, 108 Ala. 366, 18 South. 831.
+The judgment appealed from must be reversed because of the errors above pointed out, and no useful purpose would be served by going into a detailed review of other rulings made on questions, proper solutions of which may readily be found in the reported decisions of Alabama courts.
+Reversed and remanded.
