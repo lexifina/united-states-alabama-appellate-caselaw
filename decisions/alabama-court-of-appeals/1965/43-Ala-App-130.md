@@ -1,0 +1,46 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1965-12-21"
+citations: ["43 Ala. App. 130", "181 So. 2d 515", "6 Div. 76"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SECURITY MUTUAL FINANCE CORP. v. C. B. WALKER, d/b/a H. H. Motors."]
+source_url: "https://static.case.law/ala-app/43/cases/0130-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1710438
+cites_cases: ["121 N.E.2d 657", "197 Tenn. 661", "208 Iowa 573", "210 Ala. 200", "221 N.W. 486", "273 Ala. 416", "277 S.W.2d 368", "32 Ala. 536", "51 S.E.2d 575", "78 Ga.App. 616", "96 Ohio App. 256"]
+---
+
+# Security Mutual Finance Corp. v. Walker
+
+## Majority (PRICE, Presiding Judge.)
+
+PRICE, Presiding Judge.
+This is a suit by plaintiff (appellant) against defendant (appellee) charging him as an endorser of a promissory note. Judgment for defendant. Plaintiff appeals.
+The original complaint consists of five counts. All counts except the fifth were withdrawn. Count V. is as follows:
+“COUNT V. The plaintiff claims of the defendant $525.83 due on an indorsement of a promissory note drawn by J. W. Bailey and J. H. Bailey on August 1, 1962, for payment of $978.80 to the defendant, by whom the said note was indorsed to the plaintiff, as is shown by a copy of said note, attached and made a part of this count as Exhibit “C”, and the said note being in default, the motor vehicle or car as described in the contract (Ex. A) which was executed concurrently with the note having been repossessed or recovered by the Plaintiff which has complied with all the conditions of the said dealer protection agreement number one (Exhibit “B”) and having tendered said car to defendant’s place of business within 90 days after maturity of the earliest installment still unpaid and the defendant has still failed to purchase from the Plaintiff the motor vehicle involved herein and the purchase price, payable on demand, being the unpaid balance due on the car in the amount of $525.83, with interest thereon, still unpaid.”
+The defendant is a used car dealer. The plaintiff financed automobiles sold by defendant.
+On August 1, 1962, one Bailey purchased an automobile from defendant. The defendant received from the purchaser an instrument termed by the parties an Alabama conditional sales contract retaining title to the automobile. The price for the automobile was $908.00. After allowing credits for a trade-in and cost paid there remained a balance of $603.00. Carrying charges and insurance were added, making the total amount of the retention of title contract $978.00. A promissory note payable to defendant for said amount was executed.
+On August 2nd defendant transferred and assigned the retention of title contract and note to plaintiff. The indorsement of the note reads:
+“Full Repurchase. Pay to Security Mutual Finance Corporation, without recourse, except that undersigned agrees to purchase from it the motor vehicle described in the contract executed concurrently with this note in accordance with its dealer protection agreement number one.”
+Under the “Automobile Dealer’s Protection Agreement” entered into between the parties on April 18, 1959, the defendant agreed to repurchase from plaintiff each repossessed or recovered car tendered at defendant’s place of business. “The purchase price, payable on demand shall be as follows: The unpaid balance within 90 days after maturity of the earliest installment still unpaid, * *
+The plaintiff paid defendant $603.00, the original amount due on the automobile, for the contract and note. Thereafter Bailey made payments to plaintiff amounting to $299.65. $222.48 of said amount was applied to finance charges and insurance. $77.17 was applied against the $603.00. Upon default of a monthly installment the automobile was repossessed by plaintiff on May 29, 1963. The plaintiff offered the car to defendant for the sum of $525.83. The defendant lefused to buy the car. The automobile was in the possession of plaintiff at the time of trial.
+In view of the conclusion reached, we regard any detailing of the evidence unnecessary.
+The exact question presented does not seem to have been before our courts previously. We have found no Alabama case, nor case in any other jurisdiction, involving an indorsement identical to the one before us.
+In Ballinger v. Delta Loan & Finance Company, 197 Tenn. 661, 277 S.W.2d 368, the court said:
+“The indorsement on these notes is what has come to be known in the conditional sales contract field as a ‘repurchase agreement’, under a repurchase plan, as here, the automobile dealer sells the note to the Finance Company with the understanding that in the event of the conditional vendee’s default, the dealer will repurchase the note from the finance company for the amount stated in the face of the note, less instalments paid if any, and less unearned insurance premiums and less unearned finance charges. The automobile, of course, follows the note as its security for payment.”
+In Lightsey v. First National Bank of Birmingham, 273 Ala. 416, 142 So.2d 681, Mr. Justice Merrill summarized the facts in McMullan v. Community Acceptance Corp., 78 Ga.App. 616, 51 S.E.2d 575, involving a repurchase agreement similar to the one in the case at bar. The Georgia Court held that the contract was one of suretyship on the part of assignor McMullan. Justice Merrill observed: “These authorities support the principle that the assignor of a conditional sales contract who waives statutory conditions as to liability by endorsement occupies the position of a surety * *
+The Ballinger and McMullan cases did not involve a “Without recourse” endorsement as is here presented.
+As stated hereinabove, the defendant here is charged upon the contract of indorsement. One who indorses a note without recourse is a qualified indorser. He is not liable for the payment of the note but is a mere assignor of the title to the instrument. Title 39, Sec. 40, Code of Alabama, 1940. He warrants the four items enumerated in Section 67, Title 39, Code.
+“No action lies on the indorsement for by his written contract he expressly declines to assume such responsibility.” First Discount Corp. v. Sutton, 96 Ohio App. 256, 121 N.E.2d 657.
+See also Hailey v. Falconer, 32 Ala. 536.
+In Hawkeye Securities Fire Insurance Company v. Central Trust Company, etc., 208 Iowa 573, 221 N.W. 486, the Iowa Supreme Court had before it a suit in. equity seeking to recover upon a promissory note and to foreclose the real estate mortgage securing the payment of the note. The Central Trust Company indorsed the note without recourse and assigned the mortgage to Hawkeye at the same time signing a repurchase agreement. This agreement was in part: “We further agree that we will repurchase this loan for face plus accrued interest in event of the interest becoming delinquent or the principal not being paid promptly when the loan matures.” Plaintiff introduced evidence to the effect that the trust company repudiated the agreement to repurchase, denied any liability on account of it, and refused to return what it had received from plaintiff.
+A part of plaintiff’s argument was that it was entitled to enforce the liability of an indorser against the Central Trust Company. The court held:
+“Clearly, there was neither an indorsement without qualification, nor any intention or agreement expressed to make such indorsement or assume the liability of an indorser. * * * The agreement is to repurchase in the event of default, not to pay the debt; to reacquire the paper with the rights of a holder thereof, not to pay another’s debt with the merely implied right to reimbursement. See 28 C.J. 886, 1039. The instrument is wholly lacking in evidence of intention to assume the obligation of a guarantor.
+“The relationship between the parties to the contract before us is that of buyer and seller. * * * By indorsing without recourse the trust company indicate a purpose not to assume a liability on the paper. * * *.
+“The agreement is on the happening of the required condition to ‘repurchase this loan’ for the stipulated price. * * * The breach claimed is that such conditions happened and on demand the trust company refused to take back the paper and pay for it.”
+The Iowa court observed that the plaintiff had failed to select one of the three remedies available to the seller when the buyer declines to take and pay for the property. See Brenard Mfg. Co. v. Sullivan, 210 Ala. 200, 97 So. 692, for this applicable principle of law.
+The interpretation of the contract here, and the rights and remedies of the parties, are questions not properly before us for determination in this proceeding.
+In none of the cases cited above did the court have under consideration a suit on a qualified indorsement of a promissory note. We are of opinion the decision in the case of Hailey v. Falconer, supra, is controlling here. To paraphrase the language of the court in that case the plaintiff relies only upon the endorsement hereinabove considered. As it is clear it never can recover upon it, it has not been injured by any rulings of the trial court, even if they are erroneous. In such cases a plaintiff is not entitled to a reversal.
+Affirmed.
