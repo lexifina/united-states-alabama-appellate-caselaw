@@ -1,0 +1,45 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 501"
+decided: "1975-04-30"
+citations: ["54 Ala. App. 703", "312 So. 2d 396"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and HOLMES, J., concur."]
+parties: ["Roger Dale WILLIAMS v. Cynthia Glenn WILLIAMS."]
+source_url: "https://static.case.law/ala-app/54/cases/0703-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741212
+cites_cases: ["215 Ala. 487", "269 Ala. 344", "275 Ala. 364", "275 Ala. 613", "280 Ala. 506", "283 Ala. 704", "45 Ala.App. 461", "50 Ala.App. 583"]
+---
+
+# Williams v. Williams
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+The marriage of appellant, Roger Dale Williams, and appellee, Cynthia Glenn Williams, was dissolved by the Circuit Court of Marshall County for incompatibility of temperament. The custody of their only child, a three year old boy named Jason, was awarded to its mother, and its father was directed to support the child by paying $100 per month to the Register of the court. Appellant is permitted to have the child one week out of each month, plus the time from December 26 to January 1 of each year, plus one month during the sum-mer, to be selected by him. Appellant is to be responsible for picking up and returning the child at those times when he is entitled to custody. There was a division of the personal property of the parties that had been accumulated during their marriage, and appellant was directed to pay all outstanding indebtednesses, including those notes or other security agreements where the signatures of both parties appeared thereon.
+In his appeal to this court appellant contends that the trial court erroneously awarded custody of the child to appellee; that the periods of visitation accorded him are grossly unfair; that the child support in the amount of $100 per month is excessive ; and that the court erred in requiring him to pay the family debts.
+A court in this state when confronted with a question of the custody of a minor child should never lose sight of the fact that its primary concern is the best interest and welfare of the child. Skipper v. Skipper, 280 Ala. 506, 195 So.2d 797. To assist it in'making that decision, the court may consider the financial condition of the parties contending for its custody. Parks v. Parks, 275 Ala. 613, 157 So.2d 212. Furthermore, where the child is of tender years, the mother is generally considered better fitted to exercise custody, unless she is unfit for the trust. Lansdell v. Snoddy, 269 Ala. 344, 113 So.2d 151.
+The facts show that the parties were separated for about five months prior to trial and for two months of that time appellee had been living with her grandmother in Mobile and was working. She stated that her grandmother was getting old and soon would be unable to see after the child while she was working. This will necessitate placing the child in a day-care center which would cost $22.50 per week. Appellee said she was earning take-home pay of $230.00 every two weeks. She has a car which she uses to travel to work and she has a rider who shares expenses. The grandmother does not charge for room and board.
+Appellant for most of the time during the separation did not have a regular job. He drew unemployment compensation and worked at parttime jobs. Just prior to the trial he obtained employment with the State Highway Department in Fort Payne, Alabama. His take-home pay is $153 every two weeks. He lives in Arab, Alabama and he testified his commuting expenses were $15 per week when he drove his 1961 Comet, but when he went in his 1970 Chevrolet his expenses were higher.
+Appellant stated that he is presently living in the house formerly occupied by him and appellee, for which he pays $50 per month rent and $40 a month for utilities. Subsequent to the separation, but before appellee moved to Mobile, he lived with his mother and father. He contributed nothing toward his living expense while he lived with them.
+There was no testimony that appellee was an unfit mother; to the contrary the evidence supported the conclusion that she not only worked to support the child and her husband, but she was attentive to the child’s needs and gave him loving care. The only hint of unfitness was cast by appellant, who said that he did not approve of appellee’s two women friends.
+The trial court in deciding custody matters has wide discretion and this court will not change the trial court’s decision unless there has been abuse of that discretion. Johnson v. Johnson, 215 Ala. 487, 111 So. 207.
+After carefully assessing the evidence, we are of the opinion that the trial court did not abuse that discretion by awarding custody of the child to appellee.
+Appellant also says that the trial court erred in its award of visitation privileges. Again, we would point out that the trial court has wide discretionary powers in the settlement of visitation rights. Whiteport v. Whiteport, 283 Ala. 704, 220 So.2d 891. And, we do not feel that the trial court exceeded its discretion in awarding appellant the right to be with his son one week out of each month, one week right after Christmas, and one month during the summer of each year.
+Appellant did not argue the assignment of error relating to the division of the personal property and we consider that assignment waived. Rule 9, Supreme Court Rules.
+Appellant’s last contention is that the trial court erred to reversal in requiring him to pay $100 per month for the support of his son. He says that due to his indebtednesses, he has practically nothing left after each pay period with which to buy food and lodging.
+The ascertainment of the proper amount of support to be awarded in a child custody case must arise from the facts and circumstances of each case, for there is no mathematical formula available to guide and assist the trial court. Lipham v. Lipham, 50 Ala.App. 583, 281 So.2d 437; Cooley v. Cooley, 45 Ala.App. 461, 231 So.2d 915.
+As previously pointed out, appellant’s take-home pay at the time of the trial was $361.50 per month, but he says that at the time of the hearing on the motion for new trial that amount had been reduced to $331.50. He stated that his outstanding bills were as follows: $50 per month rent; $40 per month for utilities; gasoline for commuting, which amounts to about $60 per month; bank note on 1970 Chevrolet, $58 per month; a $3,000 note; $630 to Sears, Roebuck & Co.; $300 to Shell Oil Co.; Ratliff’s Clothing Store, $300; $30 drug bill; $400 doctor’s bill. Appellant’s testimony was that all of the outstanding bills were in default.
+The evidence shows that the Chevrolet was purchased by appellant’s mother, and she testified that she paid the rent, bank notes (the one for the car), light and water bills, and bought groceries and clothes for appellant’s family. She said she averaged $200 a month toward their support. Appellant also stated that should the court award him custody of the child, he and the child would live with his mother.
+It is also to be noted that in none of the indebtednesses listed above, except the note of the 1970 Chevrolet, was there a specific amount required to be paid each month. So far as the evidence is concerned, appellant could pay whatever amount he chose toward the reduction of these debts.
+The testimony in this case was taken orally by the court and it could have concluded from the testimony that appellant could get by with one car rather than two, particularly since his mother was paying for it. Furthermore, it could have been concluded by the court that appellant could live with his mother, as he had done in the past, and thereby reduce his expenses considerably; furthermore, it could have been decided that appellant could further reduce his expenses by working more — the evidence showed that he was out of work by his own choosing more often than he was employed — and by curtailing his fishing and hunting activities.
+It is quite obvious that the trial court believed that appellant could provide more than the thirty dollars that he had given his son since the separation, for the court in its judgment said:
+“ . . . The court is not impressed at all with the plaintiff’s attitude concerning support of his minor child; . . .”
+This court, after carefully reviewing the evidence and giving weight to the inferences reasonably to be drawn therefrom, cannot say that the trial court abused its discretion in requiring appellant to contribute $100 per month to his son’s support.
+In child support cases the judgment is not so final that it cannot be changed should conditions and circumstances warrant a change at a later date. Montgomery v. Montgomery, 275 Ala. 364, 155 So.2d 317. Should appellant’s future financial condition change, he can petition the court for whatever relief he may think himself entitled.
+For the reasons discussed above, we find no error in the record and the judgment of the trial court is affirmed.
+Affirmed.
+WRIGHT, P. J., and HOLMES, J., concur.
