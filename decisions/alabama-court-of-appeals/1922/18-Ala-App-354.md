@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 927"
+decided: "1922-01-17"
+citations: ["18 Ala. App. 354", "92 So. 35"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROLLINS v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645536
+cites_cases: ["16 Am. St. Rep. 51", "17 Ala. App. 167", "17 Ala. App. 539", "203 Ala. 239", "55 Ala. 154", "56 Am. Rep. 40", "7 South. 346", "76 Ala. 42", "78 Ala. 425", "88 Ala. 236"]
+---
+
+# Rollins v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The defendant was convicted of miscegenation under an indictment which charges that Edith Labue, a white person, and Jim Rollins alias, etc., a negro or descendant of a negro, did intermarry or live in adultery or fornication with each other, etc.
+It cannot be seriously questioned that in the absence of the alleged confessions of this defendant the evidence adduced upon the trial of this case is too vague and uncertain, and therefore insufficient to overcome the presumption of innocence, evidentiary in its nature, which as a matter of law attended this defendant on his entering upon this trial; and, in the absence of the alleged confession the evidence in our opinion did not meet the burden of proof required of the state. And as the so-called confessions were for two reasons improperly admitted, it must necessarily cause a reversal of the judgment of conviction. The confessions were improperly admitted, first, because at the time they were offered the corpus delicti had not been proven, nor was there any evidence from which it could be inferred. At that time there was no evidence whatever to sustain the material allegation that Edith Labue, the codefendant, was a white woman, or that the defendant was a negro or a descendant of a negro. No contention was made that these parties had ever intermarried, and the state relied for a conviction upon the averment that they lived together in adultery or fornication. But there was no testimony to sustain this allegation, and throughout the trial the evidence disclosed but few and very slight incriminating facts in this respect. The error in admitting the confessions of the defendant before the corpus delicti had been first shown by other evidence could have been cured, if said confessions were otherwise competent, by the introduction of subsequent proof of the corpus delicti (Carr v. State, 17 Ala. App. 539, 85 South. 852), but in this case, as above stated, such proof was not adduced upon this trial at any stage of the proceedings. For this reason therefore the court erred in admitting the alleged confession of the defendant in evidence over his timely objections and exceptions.
+These confessions were also improperly admitted, for the further reason it clearly appears that they were not of the free and voluntary nature which the law demands in order to make them admissible. The evidence shows without dispute that one of the state’.s witnesses, a city detective, extorted from this defendant, an aged negro man, a confession at the point of a pistol, and it is clearly evident it was given through fear and constraint superinduced by this means and no other. There was some question as to whether or not the defendant had, jprior to the time the pistol was brought into play, made a confession to another state witness, dnd on the theory that this was true, and that such alleged confession was free and voluntary, the learned trial judge permitted, the same to be offered in evidence by the state. The record before us does not sustain the court in this ruling. To the contrary, it appears from the record that no confession was made by the defendant until the witness Hubbard had drawn a pistol on him and forced him to confess. This witness Hubbard, it Is very clear, afterwards called the witness Sullivan to hear the confession repeated, and this is the witness who was permitted to testify thereto. It is very evident, however, that if this defendant had already under proper and lawful conditions made the alleged confessions, there would have been no reason why at a later period a pistol should be drawn upon him and the same confession coerced or forced from him again. As stated in Carr v. State, supra:
+“This court does not feel called upon to discuss here the principle so often written which holds that, to render confessions and declarations competent evidence in a criminal case, it is necessary that they were made freely and voluntarily, and that such confessions should always be received with great caution; that they are prima facie inadmissible,” etc.
+It affirmatively appearing that the manner by which the so-called confessions of this defendant were obtained was in almost every particular repugnant to the rule governing such testimony, it was error of the most grievous nature to allow the state, over the objection of defendant, to prove same.
+There was no competent evidence to show that the woman in question, Edith Labue, was a white woman, or that she did not have negro blood in her veins and was not the descendant of a negro. This fact was essential to a conviction in this case,’ and, like any other material ingredient of the offense must be proven by the evidence beyond a reasonable doubt and to a moral certainty. The mere fact that the testimony showed this woman came from Sicily can in no sense be taken as conclusive that she was therefore a white woman, or that she was not a negro or a descendant of a negro.
+Other questions are presented;, but, as what has been said in conclusion of this appeal, there appears no necessity to discuss them.
+For the errors pointed out let the judgment of conviction pronounced against this defendant in the ■ circuit court be reversed, and the cause remanded.
+Reversed and remanded.
+<§^>Eor other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
