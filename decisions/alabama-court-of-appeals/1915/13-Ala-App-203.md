@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1915-05-13"
-citations: ["13 Ala. App. 203", "68 So. 699", "13 Ala. App. 201", "68 So. 698"]
+citations: ["13 Ala. App. 203", "68 So. 699"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Harkey v. The State."]
 source_url: "https://static.case.law/ala-app/13/cases/0203-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1628521
-cites_cases: ["105 Ala. 126", "16 South. 706", "3 Ala. App. 58", "45 Ala. 56", "46 Ala. 186", "57 South. 402", "68 South. 698"]
+cites_cases: ["68 South. 698"]
 ---
 
 # Harkey v. State
