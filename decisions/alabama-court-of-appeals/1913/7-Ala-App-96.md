@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1913-01-16"
-citations: ["7 Ala. App. 96", "61 So. 40", "7 Ala. App. 92", "61 So. 39"]
+citations: ["7 Ala. App. 96", "61 So. 40"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Barr v. The State."]
 source_url: "https://static.case.law/ala-app/7/cases/0096-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8819906
-cites_cases: ["1 Ala. App. 89", "100 Ala. 42", "104 Ala. 43", "105 Ala. 107", "107 Ala. 412", "11 South. 158", "11 South. 401", "12 Ala. 840", "121 Ala. 41", "133 Ala. 145", "135 Ala. 145", "135 Ala. 60", "142 Ala. 112", "151 Ala. 279", "152 Ala. 77", "156 Ala. 161", "168 Ala. 1", "168 Ala. 90", "17 South. 123", "18 South. 170", "2 Ala. App. 214", "22 Ala. 43", "29 South. 799", "37 South. 937", "39 Ala. 229", "47 South. 77", "52 Ala. 415", "54 Am. St. Rep. 101", "55 Ala. 187", "58 Ala. 301", "6 Ala. 851", "61 Ala. 448", "63 Ala. 155", "71 Ala. 313", "74 Ala. 84", "77 Ala. 71", "83 Ala. 76", "83 Ala. 96", "87 Ala. 94", "95 Ala. 31", "96 Ala. 53", "96 Ala. 58"]
+cites_cases: ["1 Ala. App. 89", "104 Ala. 43", "107 Ala. 412", "11 South. 158", "121 Ala. 41", "133 Ala. 145", "135 Ala. 145", "135 Ala. 60", "142 Ala. 112", "168 Ala. 1", "168 Ala. 90", "18 South. 170", "29 South. 799", "37 South. 937", "52 Ala. 415", "54 Am. St. Rep. 101", "55 Ala. 187", "58 Ala. 301", "63 Ala. 155", "77 Ala. 71", "83 Ala. 76", "83 Ala. 96", "95 Ala. 31"]
 ---
 
 # Barr v. State
