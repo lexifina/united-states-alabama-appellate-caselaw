@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1916-09-07"
-citations: ["15 Ala. App. 298", "73 So. 210", "15 Ala. App. 194", "72 So. 766"]
+citations: ["15 Ala. App. 298", "73 So. 210"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Johnson v. The State."]
 source_url: "https://static.case.law/ala-app/15/cases/0298-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1632862
-cites_cases: ["102 Ala. 65", "117 Ala. 36", "12 Ala. App. 243", "139 Ala. 144", "14 Ala. App. 46", "144 Ala. 14", "15 South. 722", "162 Ala. 66", "165 Ala. 135", "174 Ala. 56", "174 Ala. 63", "198 Ala. 700", "2 Okl. 180", "22 Ala. 23", "23 South. 688", "26 Ala. 605", "36 South. 718", "37 Pac. 548", "55 Ala. 28", "57 South. 31", "59 Ala. 106", "63 Ala. 83", "66 Ala. 48", "73 South. 1000", "9 South. 456", "92 Ala. 72"]
+cites_cases: ["102 Ala. 65", "12 Ala. App. 243", "139 Ala. 144", "14 Ala. App. 46", "144 Ala. 14", "15 South. 722", "162 Ala. 66", "165 Ala. 135", "174 Ala. 56", "198 Ala. 700", "22 Ala. 23", "36 South. 718", "55 Ala. 28", "57 South. 31", "59 Ala. 106", "63 Ala. 83", "66 Ala. 48", "73 South. 1000", "9 South. 456", "92 Ala. 72"]
 ---
 
 # Johnson v. State
