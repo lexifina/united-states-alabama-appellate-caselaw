@@ -1,0 +1,57 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 28"
+decided: "1958-06-10"
+citations: ["39 Ala. App. 481", "103 So. 2d 812"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAM’S PLACE v. A. J. MIDDLETON."]
+source_url: "https://static.case.law/ala-app/39/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1701448
+cites_cases: ["101 S.E.2d 898", "120 W.Va. 142", "163 S.W.2d 59", "174 So. 530", "179 Tenn. 98", "191 N.E. 203", "194 S.W.2d 643", "197 S.E. 20", "224 Ala. 104", "224 Minn. 305", "228 N.C. 447", "229 Ala. 396", "234 Ala. 313", "236 Minn. 81", "251 Ala. 163", "254 Ala. 285", "263 Ala. 571", "28 N.W.2d 697", "302 Ky. 601", "355 Mo. 670", "356 Ill. 645", "36 So.2d 513", "38 Ala.App. 372", "46 S.E.2d 109", "49 S.E.2d 117", "51 N.W. 2d 805", "58 Wyo. 479", "75 So.2d 762", "77 Ga.App. 556", "84 So.2d 130", "97 Ga.App. 26", "99 So.2d 688"]
+---
+
+# Sam's Place v. Middleton
+
+## Majority (CATES, Judge.,)
+
+CATES, Judge.,
+The court below failed to make the written determination required by our Workmen’s Compensation Law, Code 1940, T. 26, § 304. Hereinafter all section references shall be to said T. 26 unless otherwise shown. This omission of the written determination is reversible error under the view of Richardson Lumber Co. v. Pounders, 254 Ala. 285, 48 So.2d 228.
+Here the cause was submitted to the trial judge on an agreed statement of facts, the last.stipulation of which was:
+“* $ * Plaintiff relies upon the averments of the verified complaint arid * * * the Defendant relies upon answer * * both further subject to support by-'this Agreed Statement of Facts.” ■ v ’
+Since the record raises certain mixed questions of law and fact with permissible inferences either for Middleton or for Sam’s Place, we do not consider the agreement obviated the need for a determination since the instant judgment of the court does not break the findings down even to the extent done in the Richardson Lumber Co. case, supra. Accordingly, the principle in West Point Mfg. Co. v. Bennett, 263 Ala. 571, 83 So.2d 303, where the judgment aided by the submission only on the complaint and answer sufficed to fill the statutory requisites of § 304, does not apply.
+Since this necessitates a reconsideration below, we wish to elaborate our views on the issues.
+This appears to be a case of first impression in an Alabama appellate court as to the possibility of harmonious (or antithetical) construction of the pre-existing injury section (§ 288) along with the narrowly circumscribed scope of the law as to hernia as delimited in § 279(F)1 (as amended by Act No. 563, approved August 29, 1951, 1951 Acts, p. 978), which pertinently reads:
+“In all claims for compensation for hernia resulting from injury by an accident arising out of and in the course of his employment, it must be definitely proved to the satisfaction of the court:
+“(a) That there was an injury resulting in hernia.
+“(b) That the hernia appeared suddenly.
+“(c) That it was accompanied by pain.
+“(d) That the hernia immediately followed an accident.
+“(e) That the hernia did not exist prior to the accident for which compensation is claimed.”
+Here Middleton is stipulated to have had a hernia some twelve years before the accident; for six years theretofore he had to wear a' double truss, but was not in•capacitated from the usual duties of his work as an automobile mechanic at Sam’s Place in Atmore, Alabama.
+The disabling accident happened April 22, 1955, while he was grinding a forty-pound cylinder head which was thrown by the high-speed grinding wheel into^ Middleton’s stomach causing pain. He continued working (though he had immediately told his employer of the accident), but on May 11 was taken to Mobile where, on July 7, the examining surgeon operated and corrected the defect.
+Thereafter, he suffered lost time — temporary total disability, § 279(A), as amended — for six weeks, which, if the injury is compensable, would according to the stipulation entitle him to $23 per week, i. e., $138. The hospital, medical and surgical expense came to $420.77. The judgment below was for $538.77.
+We consider an award of $420.77 for hospital, medical and surgical expense would have been proper. Under the majority holding in Ingalls Shipbuilding Corp. v. Cahela, 251 Ala. 163, 36 So.2d 513, “compensation” (under the Act then extant) included hospital, medical, or surgical payments, at least for the purposes of the third sentence of § 296; cf. Whitted v. Palmer-Bee Co., 228 N.C. 447, 46 S.E.2d 109. However, the Legislature quite promptly abolished the effect of the Cahela doctrine by amending § 262 by adding to its subsection (a) the following:
+“The word ‘compensation’ does not include medical and surgical treatment and attention, medicine, medical and surgical supplies, crutches and apparatus furnished an employee on account of an injury.” § 2, Act No. 36, approved June 2, 1949, 1949 Acts, p. 47.
+This exclusion cuts across the entire law and is not restricted merely to § 296.
+Accordingly, since the proviso in § 279(F)! (a), (b), (c), (d) and (e), as amended, supra, is confined to “claims for compensation for hernia,” any exclusory effect of the five conditions (a) through (e) would not apply to medical, surgical and other benefits required of the employer under § 293, as amended by § 7 of Act No. 36, approved June 2, 1949, supra,' if the other terms of the statute apply to the injury.
+Here, on the basis of the stipulation, the trial judge could have found the aggravation of the existing hernia was the proximate cause of the need for surgery. The surgeon’s testimony seems to support the theory of aggravation though he did consider the blow from the cylinder head “was probably not sufficient to have caused bilateral hernia in a normal person.” It would seem that the principle applied to the physician’s testimony in Benson-Jackson-Mathers Post No. 5106 v. Donaldson, Ala., 99 So.2d 688, is without influence: the rule that the trier of fact is not bound by an expert’s opinion where there is other evidence fits better here. Provident Life & Accident Ins. Co. v. Nelson, 38 Ala.App. 372, 84 So.2d 130.
+We do not consider the exclusive remedy provisions of § 272 to exclude the medical benefits on the theory that the denial (if there is a denial) of “compensation” by § 279(F)l (a)-(e), as amended, extinguishes also the medical claim. This is a remedial statute and exemptions from it are to be strictly construed.
+The taking of medical benefits does not constitute an election against a common-law remedy or one conferred by the Employer’s Liability Act, §§ 326--329 — except as to the medical -expense thereby avoided, § 13, Constitution; Gentry v. Swann Chemical Co., 234 Ala. 313, 174 So. 530. Also, see, Lloyd v. Minnesota Valley Canning Co., 224 Minn. 305, 28 N.W.2d 697 (disfigurement not touching employ-ability outside Act); the principle of Frank v. Anderson Bros., 236 Minn. 81, 51 N.W. 2d 805, does not obtain in Alabama'because of our change in the statutory definition of “compensation” to exclude medical benefits.
+However, the weight of recent opinions renders idle any speculation on our part as to whether on remand the instant complaint might be amended to claim for damages at common law or under the Employer’s Liability Act. Thus, in American Rolling Mill Co. v. Leslie, 302 Ky. 601, 194 S.W.2d 643, and In re Frihauf, 58 Wyo. 479, 135 P.2d 427, the courts were careful to point out that they did not consider the lawmakers as intending to deny compensation (because of “pre-existence”) in cases where a congenital hernia or bodily predisposition to hernia was claimed to be a disqualifying pre-existing hernia; note Mr. Justice Foster’s introductory remarks in Gulf States Creosoting Co. v. Walker, 224 Ala. 104, 139 So. 261.
+We construe the opinions in Wood v. Wagner Electric Corp., 355 Mo. 670, 197 S.W.2d. 647, Boswell v. Liberty Mutual Ins. Co., 77 Ga.App. 556, 49 S.E.2d 117, Manufacturers Cas. Ins. Co. v. Peacock, 97 Ga.App. 26, 101 S.E.2d 898, and Padrick Chevrolet Co. v. Crosby, (Fla.) 75 So.2d 762, as authorizing compensation under sections corresponding to § 288.
+Thus, Florida Statutes Ann. § 440.02(19), ' feads in part:
+“* *. * Where a preexisting disease is accelerated or aggravated by an accident arising out of and in the course of the employment, only acceleration of death or the acceleration or aggravation of disability reasonably attributable to the accident shall be compensable. * * *”
+Our § 288 reads:
+“If the degree or duration of disability resulting from an accident is increased or prolonged because of a preexisting injury or infirmity, the employer shall be liable only for the disability that would have resulted from the accident had the earlier injury or infirmity not existed.”
+The Florida court in the Padrick case, supra, in intellectual honesty, pointed out that West Virginia and Tennessee have come to contrary conclusions, Jordan v. State Compensation Comm., 120 W.Va. 142, 197 S.E. 20; Matthews v. Hardaway Contracting Co., 179 Tenn. 98, 163 S.W.2d 59; both courts citing Mirific Products Co. v. Industrial Commission, 356 Ill. 645, 191 N.E. 203.
+Larson, Workmen’s Compensation, § 39.-70, lists the (a) through (e) hernia conditions, supra, as being virtually identical in the Acts of Alabama, Florida, Georgia, Missouri, North Carolina, South Carolina, Tennessee, Virginia and West Virginia. So that, according to the Florida court, three of these states would pay disability compensation in second injury hernia cases under the theory of § 288 and two would deny altogether any compensation, unless the workman negatived a pre-existing hernia.
+Our Supreme Court appears to have considered the possibility (without disapproval) of the view of the Florida court in Randle v. Dumas, 229 Ala. 396, 157 So. 218, 219, where it said, per Gardner, J.:
+“* * * And while the testimony of Dumas tends to show the previous hernia was enlarged by the injury here sued for (section 7561, Code 1923) [now T. 26, § 288], yet the trial judge confined his finding to injury to the right hip, amply sustained by the proof, and to a total disability to the extent of 10 per cent, for thirty weeks, likewise sustained by the proof of Dumas as well as Dr. McGehee, one of the examining physicians.”
+Certainly the Randle case puts a narrow construction on the claimed disqualification.
+We consider that if the trial court makes up an issue based on how much of the disability, if any, is attributable to the pre-existing hernia — which here seems to have been virtually nondisabling — and the quantum of disability because of the blow to the stomach, together also with the disability resulting from the surgical treatment which the stomach trauma required, then the disqualifying conditions of § 279(F) 1 (a)-(e), as amended, can be balanced against the effect of the second injury as required by the provisions of § 288. The fact that the “benign” hernia “flared up” as a conseqttence of the blow— the problem of causation — will be for the trial court’s reconsideration.
+As we view § 304, in addition to the other required findings, there should be an express finding, in percentage terms if possible, under § 288. This would seem to accord with the Florida court’s view in Padrick, supra.
+Reversed and remanded.
+. 267 Ala. 60.
