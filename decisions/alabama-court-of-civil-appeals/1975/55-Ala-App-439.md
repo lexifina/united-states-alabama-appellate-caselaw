@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 535"
+decided: "1975-07-16"
+citations: ["55 Ala. App. 439", "316 So. 2d 689"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and HOLMES, J., concur."]
+parties: ["In re Meta JONES v. The CITY OF HUNTSVILLE, ALABAMA, INC., a Municipal Corporation. Ex parte Meta Jones."]
+source_url: "https://static.case.law/ala-app/55/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1744436
+cites_cases: ["295 So.2d 419", "50 Ala.App. 251", "52 Ala.App. 565"]
+---
+
+# Jones v. City of Huntsville
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+The judgment rendered by the trial court awarded petitioner temporary total benefits of $6,199.16, all of her medical expenses, and an eighty percent permanent partial disability with benefits of $33.97 per week for 169 weeks. Petitioner contends that she should have been awarded benefits for a total permanent disability rather than an eighty percent permanent partial disability, and asks this court to reverse that aspect of the trial court’s judgment.
+The evidence shows that petitioner at the time of trial was a sixty-four year old widow with no dependents and was employed full-time as a cook at the Huntsville City Jail. She stated that she had attended the ninth grade in school, but tests that were administered to her indicated a third grade educational level.
+Petitioner’s work history revealed that she had worked as a farm laborer, as a household maid, cooking and cleaning at a public school, and for the six years prior to her accident had been a cook at the city jail.
+On February 1, 1972 while working at the city jail, petitioner slipped, fell, and injured her right hip. The injury caused petitioner to undergo two operations, ultimately to replace the ball and socket in the right hip with an artificial ball and socket.
+The rule is well established in Alabama that in a workmen’s compensation case the appellate courts do not review the weight or preponderance of the evidence but are concerned only with the existence of legal evidence to support the trial court’s finding of facts. Defense Ordinance Corp. v. England, 52 Ala.App. 565, 295 So.2d 419. And, where there is such evidence, or reasonable inferences to be drawn therefrom, to support the finding of facts, the findings will not be disturbed on appeal. Dale Motels, Inc. v. Crittenden, 50 Ala.App. 251, 278 So.2d 370.
+In the trial court’s finding of facts, it was stated that the orthopedic surgeon attending petitioner described her recovery as very satisfactory, although she had a thirty percent physical disability to the right leg and a fifteen percent disability to the body as a whole. An expert in vocational disability and rehabilitation stated that he found no reason why petitioner could not do work requiring less than a full day’s attendance. The evidence taken in the case fully supports these findings of fact.
+We would also comment that the determination of the percentage of permanent partial disability is for the trial court to make after considering all the facts and circumstances contained in the evidence. Defense Ordinance Corp. v. England, supra. Moreover, the trial judge had the opportunity of observing the petitioner’s courtroom demeanor when she took the stand as a witness in her own behalf. After thoroughly examining the evidence in the case at bar, we cannot say that the trial court’s finding of eighty percent permanent partial disability is unsupported by the facts.
+Finding no reversible error in the record of the case before us, the trial court’s judgment is affirmed.
+Affirmed.
+WRIGHT, P. J., and HOLMES, J., concur.
