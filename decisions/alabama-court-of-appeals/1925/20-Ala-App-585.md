@@ -1,0 +1,43 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 618"
+decided: "1925-03-17"
+citations: ["20 Ala. App. 585", "104 So. 436"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCULLAR v. STATE."]
+source_url: "https://static.case.law/ala-app/20/cases/0585-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1647313
+cites_cases: ["10 Ala. App. 214", "10 Ala. App. 215", "100 So. 465", "101 So. 531", "101 So. 74", "104 So. 438", "104 So. 771", "119 Am. St. Rep. 722", "14 Ala. App. 69", "15 Ala. App. 201", "18 Ala. App. 219", "182 Ala. 67", "183 Ala. 25", "19 Ala. App. 289", "19 Ala. App. 319", "191 Ala. 540", "20 Ala. App. 3", "20 Ala. App. 75", "209 Ala. 5", "3 So. 720", "42 So. 542", "6 So. 357", "62 So. 864", "64 So., 170", "65 So. 91", "67 So. 683", "72 So. 773", "83 Ala. 79", "89 Miss. 810", "9 Ala. App. 21", "96 So. 605", "96 So. 651"]
+---
+
+# McCullar v. State
+
+## Majority (RICE, J.)
+
+RICE, J.
+The defendant was convicted of the offense of burglary, and he appeals.
+The indictment is laid against “Nelson McCulla, alias Nelson McCullough,” and the undisputed evidence in the case shows that defendant’s true name is “Nelson McCullar.” Appropriate plea in abatement was filed by defendant, setting up the facts above, to which plea apt demurrers, interposed by the state, were sustained. This, as consistently held by this court, presents a question of law as to whether or not the names by which 'appellant was charged, or either of them, were idem sonans with, or to, his true name-.
+“In -applying the doctrine of idem sonans, it is universally accepted that, if two proper names, as commonly and ordinarily pronounced in the English language, sound alike, a difference in their spelling is immaterial; and that much latitude is permissible in pronunciation, slight differences being unimportant, if the attentive ear finds difficulty in distinguishing between the pronunciation-of the two names. It has been held and cited with approval in this state that: ‘The proper rule in such cases is that, if two names, according to the ordinary rules -of pronouncing the English language, may be' sounded alike, without doing violence to the letters found in the variant orthography, then the variance is, prima facie at least immaterial, and may be so decided by the court.” Burton v. State, 10 Ala. App. 214, 65 So. 91.
+The above rule is amply supported by the decisions of our Supreme Court. Rooks v. State, 83 Ala. 79, 3 So. 720, and authorities therein cited. ■ Accordingly we hold that in this case the names “McCulla, McCullough, and McCullar” are idem sonans, and the trial judge properly sustained the state’s demurrers to appellant’s plea in abatement. Odom v. State, 20 Ala. App. 75, 101 So. 531.
+•Neither did the court err in refusing to give at defendant’s request the general affirmative charge in his favor. Authorities cited supra. .
+Appellant complains of the admission over his timely objection of testimony of the witness Cockrell (whose store it was alleged had been broken into) to the general effect that some two days after the store had been burglarized, and, after the defendant had been arrested, accused of the crime, and had made bond, the defendant carné to the witness and stated to him, in substance, “that if he [.witness] testified against him [defendant] he would never testify against any one else,” etc.
+Under the authority of the cases of Bufford v. State, 14 Ala. App. 69, 71 So. 614, Dempsey v. State, 15 Ala. App. 201, 72 So. 773, Smith v. State, 183 Ala. 25, 62 So. 864, and McClain v. State, 182 Ala. 67, 62 So. 241, we think this testimony clearly admissible. While it may not be in the nature of a confession, yet it might be construed as an apparent attempt to suppress testimony against the defendant, and, as such, it was proper to be considered by the jury.
+The case of Cobb v. State, 20 Ala. App. 3, 100 So. 463, cited and relied upon by appellant, is without application here, for the reason the facts were not similar, or the same, and the principle of law therein laid down conflicts in no way with the holding hereinabove.
+The defendant, in writing,, requested the court to give to the jury the following charge:'
+(12) “The court charges the jury that each., and every one of you are entitled to have his own conception of what constitutes a reasonable doubt of the guilt, of this defendant; that before you can convict him the evidence of his guilt must be so strong that it convinces each juror of his guilt beyond all reasonable doubt, and if, after consideration of all the evidence, a single juror has a reasonable doubt of the defendant’s guilt, then you cannot convict him”
+—and- assigns as error the court’s refusal to give same.
+The court, in its very full and accurate, oral charge to the jury used this language:
+“Gentlemen of the jury, I want to call your attention to one other thing, and' that is that, under our system of laws, it takes twelve men to reach a verdict. If one man was firmly convinced beyond a reasonable doubt, after considering all the evidence, that the defendant is guilty as charged, although others were not convinced beyond a reasonable doubt, why you could not render a verdict at all, and there would be a mistrial. If on the other hand (italics supplied), eleven of you believe beyond a reasonable doubt that the defendant is guilty as ehm-ged, and one man had a reasonable doubt of his guilt, arising from the evidence or from a laoh of evidence, why then there would not i be any verdict; you couldn’t convict.”
+While this court, after perhaps some slight confusion, has recently reaffirmed its former repeated holdings to • the effect that a written charge, similar in substance to the one stet out above, stated a correct, proposition of law, and should be given (Alonzo Jones v. State, 104 So. 771), yet an examination of the authorities cited in support of that holding will reveal that in each instance the matter or principle contained in the charge was nowhere else, either in the court’s oral charge, or in other given written charges, conveyed to the jury. Here, it must be apparent from the excerpt from the court’s oral chargé, which we have quoted, that the identical principle embraced in the charge which was refused was in substance at least fully and fairly covered and included in the said oral charge. And therefore, under Supreme Court rule 45, we are unwilling to predicate a reversal of the case upon the trial court’s action in refusing to give the defendant’s written charge 12. Acts 1915, p. 815.
+Appellant can take nothing from his assignment of error No. 6, for the reason that the testimony on cross-examination, admitted over his objection, was but of matters about which the same witness had already testified fully, and without objection, on his direct examination. Manifestly the defendant sufferéd no injury by the rulings complained of.
+We are of the opinion that it was proper to allow the questions put to the witness Mrs. Nelson McCullar made the basis of appellant’s assignment of error.. No: 7; also those to the witnesses Andy Davis and Dr. Robinson made the basis of assignments' Nos, 8 and 9. The witness Mrs. Nelson McCullar having undertaken to testify fully as to the whereabouts of the defendant, her husband, on the night of the alleged burglary, and of the absence of Newton Taylor, whom the evidence tended to link up with the defendant in the commission of the offense, and the evidence being circumstantial, we think any circumstance having to do with the actions and whereabouts of the defendant in connection with the said Newton Taylor, and tending in any way to explain or give color to his said actions, was relevant and admissible. And the witness Mrs. Nelson McCullar having testified concerning the matters in question, it was entirely competent to ask her. if she had not made contradictory statements regarding the same matter.
+The written charges refused the defendant have 'all been examined, and in thé action of the court we find no error. In each instance, where the proposition of law is sound, we find the matter contained therein was covered by the court’s oral charge.
+All the exceptions reserved by the defend? ant have been considered, as well as the record in the case, and we are of the opinion that no prejudicial error intervened in any of the trial court’s rulings.
+Let the cáse be affirmed. •
+Affirmed.
+Post, p. 660.
+^=»For other eases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
+^soEor otner 'cases see same topic and KEY-NUMBER in all Key-Numbered Digests and'Indexes
