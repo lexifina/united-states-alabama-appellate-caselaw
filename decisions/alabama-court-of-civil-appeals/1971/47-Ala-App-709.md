@@ -1,0 +1,62 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "6 Div. 108"
+decided: "1971-09-22"
+citations: ["47 Ala. App. 709", "261 So.2d 49"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joan Carolyn McGOUGH v. William L. McGOUGH."]
+source_url: "https://static.case.law/ala-app/47/cases/0709-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1722295
+cites_cases: ["173 Ala. 106"]
+---
+
+# McGough v. McGough
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+The appellant here filed a bill of complaint in the Circuit Court of Jefferson County, in Equity, asking that court to void a divorce decree rendered by it on June 29, 1966. The complain^ was a combination bill of review and a bill in the nature of a bill of review. A copy of the divorce decree was attached to and incorporated in the bill of complaint.
+The appellee-respondent filed an answer and cross-bill. In his cross-bill appellee asked the court to grant a divorce and award him custody of the children in the event of the 1966 divorce decree was declared null and void.
+After a hearing on the matter the trial court sustained the demurrer of appellant to the cross-bill, denied the relief prayed for by appellant in her complaint and dismissed the case. It is from this decree that appellant appeals to this court.
+The intended effect of the complaint filed by appellant was to have the 1966 decree voided because the court rendering that decree lacked jurisdiction due to the misrepresentation of the required jurisdictional facts in said bill.
+The bill of complaint that was filed by the appellee in the Circuit Court of Jefferson County, in Equity, sought a divorce from the appellant on the grounds of abandonment and adultery.
+The bill averred that appellant was a non-resident of Alabama, then averred that: “Complainant * * * is a bona fide resident of Birmingham, Jefferson County, Alabama, and his permanent domicile is in Alabama.”
+' The appellant was served with a copy of this bill by registered mail in the State of Illinois. She did not appear in said proceeding and a decree pro confesso was entered against her.
+A final decree of divorce was rendered on June 29, 1966, granting appellee here, complainant there, a divorce without a specification of the grounds supporting it, and awarding custody of the three children to appellee.
+It should be pointed out also that the bill of complaint, which was the basis of the divorce decree, averred that: “ * * * the respondent did, during the time of said marriage, abandon the bed and board of complainant. * * * ”
+Appellant here contends that the trial court erred in denying her the relief prayed for in her bill of review and bill in the nature of a bill of review, for the reasons that there was no averment that complainant was a bona fide resident of Alabama “for one year next before the filing of the bill, * * ' * ” which is required to be alleged and proved where the respondent is a non-resident of Alabama, Title 34, Section 29, Code of Alabama 1940, as Recompiled 1958; and there was no averment in the paragraph of said bill alleging abandonment, that complainant had been a bona fide resident citizen of Alabama “for twelve months next preceding the filing of the bill * * *,” which must be alleged and proved where the respondent is a nonresident of Alabama, Title 34, Section 27, Code of Alabama 1940, as Recompiled 1958.
+Sections 27 and 29 of Title 34, supra, also provide that it is not necessary to allege and prove the twelve months residency requirement where both parties to the proceeding are within the jurisdiction of the court.
+We- are not here concerned with the provisos in either Section 27 or 29 of Title 34, for the reason that the bill of complaint specifically averred that the respondent— appellant here—was a resident of Illinois, and the affidavit executed by complainant’s attorney to obtain service by registered mail,-stated that respondent was a non-resident of Alabama. Also in his answer to the bill of review and bill in the nature of a bill of review, appellee admits that appellant is a non-resident of Alabama.
+The evidence taken at the hearing of the present controversy tended to show that the appellant and appellee were born and raised in Walker County, Alabama, and were-married there on May 11, 1959. After their marriage the McGoughs lived in Birmingham, Alabama until appellee entered the service in 1962. Appellee, while in the service, was stationed in Illinois and Alaska. Appellant accompanied appellee to these duty stations.
+After being discharged from the Army in January 1965, appellee and his family moved to Addison, Illinois where he was employed by the Illinois National Guard as a civilian technician. In January 1966 the appellee and his family moved to Joliet, Illinois where he obtained employment with Arnaco Chemical Co.
+The McGoughs lived in Joliet, Illinois as a family until May 3, 1966 when appellee left Joliet, Illinois. He went to Birmingham, Alabama and took his three children with him.
+Appellant stated that appellee left Illinois carrying their three children with him just a day or two after she informed him that she had started proceedings to obtain a divorce.
+On May 16, 1966 appellee filed a complaint in the Circuit Court of Jefferson County, in Equity, seeking a divorce from his wife on the grounds that she had abandoned him and that she had committed adultery with diverse persons.
+On this same day, appellant obtained an order from the Juvenile and Domestic Relations Court of Jefferson County, Alabama giving her actual custody and control over the persons of her three children and permitting her to take them back to the State of Illinois, and to the jurisdiction of the Circuit Court in Illinois where she had commenced divorce proceedings against appellee.
+The two girls returned to Illinois with appellant, but the young boy remained in Alabama, apparently because of appellant’s inability to find him. The two girls came back to Alabama in August of September of 1966 and have been here ever since. The appellant never did obtain physical custody of the boy, and under the Alabama divorce decree, custody of the children, including the boy, was placed with the appellee.
+The Alabama court granted appellee a divorce on June 29, 1966.
+Appellant filed her suit for divorce in the State of Illinois on May 9, 1966 and her attorney attempted to obtain service on appellee through the office of the sheriff of Jefferson County, Alabama, but was unsuccessful; he then tried to obtain service through the sheriff of Walker County, Alabama, but was also unsuccessful; he then tried the Jefferson County sheriff again and was successful this time in obtaining service on appellee. Service was had on appellee on August 16, 1966. A divorce decree was rendered in favor of appellant by the Illinois court on November 17, .1966 and granted her custody of the children.
+Appellant’s assignment of error here is that the trial court erred in refusing to grant the relief for which she had prayed.
+Appellee made four assignments of error but did not argue any of them. Under these circumstances we consider them waived.
+In brief, appellant argues that the Circuit Court of Jefferson County was without jurisdiction to grant the decree of June 29, 1966, and it is therefore void.
+The argument of absence of jurisdiction is premised on the failure of appellee to allege and prove that he was a resident of Alabama for one year next before the filing of his complaint and his failure to allege and prove that he was a resident of Alabama for one year next before the allegation in his complaint that he 'had been abandoned by his wife.
+Title 34, Sections 27 and 29, Code of Alabama 1940, as Recompiled 1958, provide as follows:
+“ § 27. No bill can be filed for a divorce on the ground of voluntary abandonment, unless the party applying therefor, whether husband or wife, has been a bona fide resident citizen of this state for twelve months next preceding the filing of the bill which must be alleged in the bill and proved; provided however, the provisions of this section shall not be of force and effect when the court has jurisdiction of both parties to the cause of action.”
+“ § 29. When the defendant is a nonresident, the other party to the marriage must have been a bona fide resident of this state for one year next before the filing of the bill, which must be alleged in the bill and proved; provided however, the provisions of this section shall not be of force and effect when the court has jurisdiction of both parties to the cause of action.”
+First, we would point out that the complaint, which was the basis of the divorce decree of Jun.e 29, 1966, did not aver facts which would comply with the requirements of Sections 27 and 29, supra, and, second, the provisos in the two Code sections have no application in this case for the reason that the respondent was not a resident of Alabama and did not submit to the jurisdiction of the Alabama court, generally or specially.
+It is quite apparent from the face of the bill of complaint that the complainant in the Alabama divorce suit did not allege that he had been a resident of Alabama for one year next preceding the filing of his bill; hence the only real question we need answer now is whether the complainant proved he was a resident for the required period of time.
+In Martin v. Martin, 173 Ala. 106, 55 So. 632, the Supreme Court said that the jurisdiction of an equity court to grant divorce decrees is statutory and the authority of an equity court is thus limited; and, where it is limited, the jurisdiction must appear from the record. The court also said that on collateral attack, the existence of such facts will not be presumed. It said that it must affirmatively appear from the record that the residence of complainant in the State was “for one year next before the filing of the bill; ” otherwise the decree is void.
+The allegation in Martin as to residence of the complainant was as follows: “ * * * orator has been a bona fide resident of Cleburne county for more than three years.”
+There was a divorce granted and the other party collaterally attacked the decree on the ground that the court granting the decree was without jurisdiction because the complaint did not contain the jurisdictional allegation that complainant had been a resident “for one year next before the filing of the bill.”
+In the case at bar there was no averment in the complaint that complainant had been a resident of Alabama “for one year next before the filing of the bill,” which would have satisfied the jurisdictional requirements of Sections 27 and 29.
+Furthermore, the evidence showed that appellee had only been in Alabama some six to eight days before he filed his bill for divorce. Prior to that time he had been working, living and making his home in Illinois. There was nothing in the record to indicate that Illinois was not his permanent residence during the time he was there.
+In our opinion the evidence fails to establish that appellee was a bona fide resident of Alabama “for one year next before the filing of the bill” for divorce in Alabama.
+As was said in Martin, supra, the- bill of-complaint is silent as to any period of residence prior to the filing of the bill. And, as held in Martin, the bill must aver residence of complainant in Alabama for one-year next before the filing of the bill;-, otherwise the trial court lacks jurisdiction; to render a valid decree.
+Not only were there no averments of residence on the part of appellee in Alabama for “one year next before the filing of the bill,” but there was no proof that appellee had been a resident of Alabama “for one year next before the filing of the bill.”
+The failure of appellee in his divorce suit to allege and prove that he had been a resident of Alabama “for one year next before the filing of the bill” causes the divorce decree to be invalid and subject to being set aside on collateral attack.
+We are of the opinion that the trial court erred in refusing to set aside the divorce decree of June 29, 1966 and to declare same null and void.
+A decree will be rendered by this court declaring the divorce decree of June 29, 1966, rendered by the Circuit Court of Jefferson County, in Equity, in favor .of appellee, null and void.
+Reversed and rendered.
