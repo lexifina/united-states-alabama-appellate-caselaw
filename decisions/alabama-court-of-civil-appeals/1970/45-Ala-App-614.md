@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "7 Div. 6"
+decided: "1970-04-29"
+citations: ["45 Ala. App. 614", "234 So. 2d 893"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dewitt REAMS as Chairman of Alabama Alcoholic Beverage Control Board in and for the State of Alabama, et al. v. STATE of Alabama on Relation of David L. CLOKEY, David L. Clokey, Ind."]
+source_url: "https://static.case.law/ala-app/45/cases/0614-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716081
+cites_cases: ["252 Ala. 130", "273 Ala. 235"]
+---
+
+# Reams v. State ex rel. Clokey
+
+## Majority (THAGARD, Presiding Judge.)
+
+THAGARD, Presiding Judge.
+In the general election in November, 1968, St. Clair County, in which the Town of Ashville is located, voted wet in a liquor referendum: Subsequently, the Alcoholic Beverage Control Board (hereinafter called Board) granted to appellee Clokey a license for the sale of beer for off-premises consumption at his Midway Cafe, a restaurant situated outside the town limits but within the police jurisdiction of the Town of Ashville. The Board also granted Clokey a license for the sale of beer for on-premises consumption at another restaurant that he owned and operated at another location in St. Clair County.
+In February of 1969, Clokey filed an application with the Board for a license for the sale of beer for on-premises consumption at his Midway Cafe location. The Town of Ashville, through its governing body, filed its protest with the Board. After hearing, the Board denied the application, assigning as its sole reason the opposition of the Town of Ashville to the issuance of the license. The Board said that it had a long-standing custom of denying beer licenses if opposed by the governing body of the affected municipality, but that it had no officially adopted regulation to that effect. The Town of Ashville has no ordinance or license schedule for the sale of beer for on-premises consumption, and, as far as the record discloses, no ordinance prohibiting the sale of beer within the town or its police jurisdiction.
+On March 17, 1969, appellee Clokey filed in the Circuit Court of St. Clair County a petition for an alternative writ of mandamus directed to the ABC Board commanding it to show cause why it should not be required to grant the license. The court ordered the issuance of the alternative writ and the same was promptly issued and served upon the chairman and members of the Board. The Town of Ashville applied for and was granted intervention, after which it filed its answer opposing the granting of the writ. The cause was submitted on the pleadings and an agreed statement of facts. On April 25, 1969, the trial court rendered final judgment ordering the Board and its members to issue the license to appellee Clolcey. We quote two paragraphs from the judgment of the trial court as follows:
+“That said Board had a standing established policy that was unwritten as a Board regulation but which in substance was ‘The Alabama Alcoholic Beverage Control Board would deny a Retail Beer License for on premises consumption where the governing body of a Municipality had refused to grant permission for same’.
+“Thereafter, said Board acting solely on its said established policy, denied plaintiff said License and in the said Board's own words ‘the governing body of Ashville, Alabama refused to approve the application’.”
+From the final judgment of the trial court the Board and the Town of Ashville prosecute this appeal. The trial court granted stay of execution pending the outcome of the appeal. There is but one assignment of error, to-wit: That the court erred in granting the peremptory writ requiring the Board to issue an “on premises” beer license to petitioner.
+Judge Whitten, the trial judge, in the judgment rendered by him cites as an authority for the issuance of the writ the case of State ex rel. Morrow v. Santa Cruz, Tax Collector, et al., 252 Ala. 130, 131, 39 So.2d 786, 787, a case in which the petition for mandamus to require the City of Mobile to issue a beer license to one to whom the ABC Board had already issued a Board license was denied in which the court said as follows:
+“We are asked to determine the question of the city’s right to refuse the issuance of its license where the Alcoholic Beverage Control Board has issued a state license for the sale of beer in a place of business located within the city limits. But this question is in no way presented by this record. No ordinance, rule or regulation of the city of any kind was pleaded or introduced in evidence, and we cannot take judicial notice thereof, if such there be. In the absence of some showing we cannot pass upon the question posed just above.
+“The petition having been substantially sustained by the evidence, the trial court was in error in refusing the peremptory writ of mandamus.”
+In Paulson’s Steerhead Restaurant, Inc. v. Morgan, 273 Ala. 235, 238, 139 So.2d 330, 333, the court said, inter alia,:
+“The legislature appears to have made a distinction between liquor licenses and beer licenses. In § 5 Title 29, the authority of the board to issue and suspend liquor licenses is stated in one sentence. Like authority as to beer licenses is stated in the sentence following immediately thereafter. The issuance of liquor licenses is dealt with in §§ 13, 14, 15 et seq., Title 29, while the issuance of retailer's beer licenses is provided for in § 25 et seq., of the same title. § 22, Title 29, provides that every license issued to a restaurant for the sale of liquor shall authorize the licensee to sell vinous or brewed beverages at the same place, subject to certain restrictions. The quoted Code sections require approval of the municipal governing body for the issuance of liquor licenses, but, so far as we are advised, the statute does not state that such approval is required for the issuance of beer licenses. The conclusion appears to us inescapable that the legislature has placed beer licenses in one category and liquor licenses in another. * * * ”
+Title 29, § 5, 1940 Code of Alabama reads, in part as follows:
+“The functions, duties and powers of the board shall be as follows:
+******
+“To grant, issue and suspend or revoke for cause malt or brewed and vinous beverage licenses as provided in this chapter.”
+The only statutory limitation upon the issuance of retail beer licenses is found in the last paragraph of Title 29, § 28, 1940 Code of Alabama, which provides:
+“Licenses shall be granted by the board only to reputable individuals, or to associations, partnerships and corporations whose members or officers and directors are reputable individuals.”
+That the Board had already ascertained that appellee Clokey was a “reputable person” was confirmed by the fact that the Board had issued to him an on-premises license for another restaurant in St. Clair County and an off-premises license for the Midway Cafe location. The Supreme Court has held in a number of well-reasoned decisions that the Board has a wide discretion in the granting or refusing to grant original licenses, but we do not think that court has held that the Board has an unbridled discretion. We think and hold that the Board must find and assign some reason of greater weight than merely giving effect to some long-standing custom of the Board.
+As pointed out in the Steerhead Restaurant case, supra, there is no statutory requirement that an application for a beer license have the approval of the municipality affected, nor does the statute in any way confer the veto power on the municipality. Of course, the municipal government as well as any other interested citizen or citizens would have standing to appear at the hearing and offer evidence in opposition to the granting of the license, but such evidence must provide the Board with something more substantial than the opponent’s belief that restaurants licensed for the sale of beer are intrinsically bad.
+We conclude, therefore, that under the facts as shown by the record in this case the Board was under a statutory duty to issue the license as applied for, and that the trial court properly granted the peremptory writ of mandamus.
+Affirmed.
