@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-02-03"
+citations: ["10 Ala. App. 191", "64 So. 637"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee v. The State."]
+source_url: "https://static.case.law/ala-app/10/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626612
+cites_cases: ["125 Ala. 644", "129 Ala. 305", "133 Ala. 341", "136 Ala. 139", "145 Ala. 385", "156 Ala. 108", "169 Ala. 1", "2 Ala. App. 190", "22 South. 113", "27 South. 843", "30 South. 574", "32 South. 595", "34 South. 223", "4 Ala. App. 384", "42 Ala. 546", "5 Ala. App. 167", "59 South. 230", "62 Ala. 305", "62 South. 977", "69 Ala. 163", "8 Ala. App. 589", "97 Ala. 35", "99 Ala. 57"]
+---
+
+# Lee v. State
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+The prosecution was begun by affidavit, and it is not show that objection was made in tlie trial court to the failure of the solicitor to file a brief statement of the cause of complaint, as required by section 6730 of the Code, when the trial in that court is de novo, and no ruling of the trial court is shown: to have been invoked or made on this question. See Wright v. State, 136 Ala. 139, 145, 34 South. 223. Section 32 of the act commonly known as the “Fuller Bill” (Acts Sp. Sess. 1909, p. 92) authorizes prosecutions of this nature to be begun by affidavit, as well as by' indictment, and when so begun to continue, no matter in what court the trial is had, on the original affidavit; and this method of procedure has been recognized as a correct procedure by the Supreme Court under the provisions of the statute cited. — Fitzpatrick v. State, 169 Ala. 1, 53 South. 1021.
+The affidavit upon which the defendant was tried charged a storing, keeping, or having in possession prohibited beverages for sale or unlawful disposition, as well as charging a sale thereof; and, as there was no evidence of a sale, the trial and conviction was undoubtedly on the theory of an unlawful storing, keeping, or having in possession. The place where the liquors were found was the dwelling house of the defendant, and used exclusively for that purpose.
+It is contended by appellant that there was not sufficient evidence of guilt to submit the case to the jury, and that the court was in error in refusing the general charge requested by the defendant. No evidence was introduced in behalf of the defendant, and the evidence for the state, without conflict, showed that the officers found in the defendant’s house 64 half pints of whisky, one quart of whisky, four gallons of wine, a large barrel and several “crocus” sacks filled with empty bottles. It was also shown that the defendant had ordered 48 half pints of whisky in another person’s name that was intercepted and seized by the officers the day before the search of the house was made, and that the defendant had made statements in regard to this shipment which had a tendency to disclose a consciousness of guilt in connection therewith. These facts, taken into consideration with the unusual places in the house that the large quantities of liquor were found, some of it rebottled and kept under conditions and in bottles of sizes not usual for private use, and convenient for unlawful disposition, afforded sufficient evidence from which the jury could reasonably draw an inference of the defendant’s guilt of the offense charged, and the court properly refused to withdraw that question from the jury.
+Affirmed.
+
+## Rehearing
+
+ON APPLICATION POE REHEARING.
+The case of Haynes v. State, 5 Ala. App. 167, 59 South. 325, cited by appellant in brief on application for rehearing, was disposed of on the theory that, under a very confused state of the record as shown by the transcript in that case, there was nothing set out tending to show how the circuit court acquired jurisdiction of the case. We are confronted with no such condition in this case, for set out in the transcript before us, in addition to the affidavit and warrant, is a bond executed by the defendant and sureties requiring the defendant to appear in the circuit court that rendered the judgment from which this appeal is prosecuted, and there answer the charge preferred against her. The defendant having .a bond to answer the charge in the circuit court, its recitals are sufficient to give that court jurisdiction. — S. & N. Ala. R. R. v. Pilgreen, 62 Ala. 305; Hardee v. Abraham, 133 Ala. 341, 343, 32 South. 595.
+Even though the transcript contained nothing showing that the circuit court had jurisdiction to try the case, it could result in no benefit to the defendant on this appeal, for the judgment rendered would be coram non judice, and there being no valid judgment to support the appeal, the proper order to be made in this court would be a dismissal of the appeal. — Gunter v. Mason, 125 Ala. 644, 27 South. 843; Adams v. Wright, 129 Ala. 305, 30 South. 574; Ill. Cent. R. R. Co. v. Burleson, 4 Ala. App. 384, 59 South. 230; Cent. of Ga. Ry. Co. v. Coursen, 8 Ala. App. 589, 62 South. 977.
+The fair and reasonable construction of the provisions contained in section 32 of the Fuller Bill (Acts 1909, p. 92), to the effect that, upon appeal from a lower court to the circuit court the appeal shall be in such form and manner and subject to such restrictions as govern appeals under the Code from justices of the peace or county courts, is that such appeals are made subject to, and are to be governed by, those rules and regulations referred to wherein it is not otherwise provided by that section (32) of the act. The statute must be construed as a whole, and effect given, to every provision it contains. — Hawkins v. L. & N. R. R. Co., 145 Ala. 385, 40 South. 293. The plain and unambiguous language of section 32 of this act authorizes prosecutions of this nature to be commenced and tried to a conclusion on an affidavit, no matter in what court the trial is had, and this was overlooked in what was said in Haynes v. State, supra, with reference to an indictment, and the necessity of filing a complaint in the circuit court, and the general rule correctly stated that applied to cases not brought under the influence of this statute.
+The application for a rehearing is denied.
