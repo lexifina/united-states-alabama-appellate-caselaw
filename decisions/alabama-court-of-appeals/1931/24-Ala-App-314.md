@@ -1,0 +1,40 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 713"
+decided: "1931-04-14"
+citations: ["24 Ala. App. 314", "135 So. 421"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McDANIEL v. STATE."]
+source_url: "https://static.case.law/ala-app/24/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1661288
+cites_cases: ["101 So. 772", "101 So. 774", "130 So. 902", "17 Ala. App. 424", "18 Ala. App. 413", "19 Ala. App. 282", "20 Ala. App. 269", "20 Ala. App. 299", "21 Ala. App. 522", "212 Ala. 125", "85 So. 855"]
+---
+
+# McDaniel v. State
+
+## Majority (SAMEORD, J.)
+
+SAMEORD, J.
+The defendant objected to being put to trial at the time the case was called and moved the court to reset the case alleging prejudice on the part of the jury by reason of the fact that twelve cases of similar nature had been set for the same day, two of them had been tried before two separate juries, and that all of the jurors in attendance on the court had been hearing the evidence, and that large crowds were in attendance on' the court. He further charges that the clerk had taken the case from the docket of Judge Steele, one of the circuit judges, and without the consent of the defendant had placed the case with others on the docket tó be tried by Judge Martin. The duty of the clerk with reference to setting criminal cases for trial is provided by section 5565 of the Code of 1923, and, so far as we can tell from this record, the clerk did not abuse his power or exceed his authority in setting defendant’s c.ase for trial before Judge Martin, and there is no evidence to convince us that defendant failed to receive a fair trial by reason of the trial of other cases, in no way connected with his.’ We see no reason for interfering with the discretion of the court in putting defendant to trial.
+The defendant stands convicted on a charge of seduction in that he did, by a promise of marriage, seduce Ruby Harris, an unmarried woman. In making proof of this charge, evidence is relevant and admissible, tending to show when the parties met, the. visits he made to prosecutrix, .where they, went together, how often they were together,how they acted towards each other, what he said to her regarding marriage or leading up to a proposal of marriage. In fact everything said and done between the parties prior to the act -of intercourse, tending to show’ a tender relationship between them and'that would naturally tend toward marriage, is' relevant and competent evidence.
+The appellant also complains that, the trial judge examined in part by leading questions the prosecutrix, while she was being examined as a witness. This, too,, is, within the discretion of the trial court, and, unless abuse is shown, this court will not review the trial court’s action.
+It has been so many times decided and is so well understood as not to require the citation of authority that the court exercising a sound discretion may permit the asking of leading questions in developing the testimony in a case on trial. So, it was per-, missible for the court to allow a leading question directing the attention to a state-, ment of defendant, prior to the act of intercourse complained of, that he had bought a Yictrola for the prosecutrix, and that in that connection defendant said that, when they (he and prosecutrix) got married, they would already have a Yictrola bought. This testimony, when taken and considered with all the facts -and circumstances in the case, tended to corroborate the prosecutrix as to a promise of marriage made by defendant prior to the time when prosecutrix yielded to the defendant. It is true that the exact time of making this statement was not fixed, but’ it was while defendant was visiting prosecu^ trix and before the July 15th on which the alleged intercourse took place.
+Evidence tending to prove that ■ after* the act of intercourse, and upon being in-' formed by prosecutrix that she was pregnant as a result thereof, defendant procured and gave to the prosecutrix medicine designed to produce abortion, with instructions to use it, was relevant and material as tending to prove a consciousness of guilt and an effort to suppress testimony. Johns v. State, 20 Ala. App. 299, 101 So. 772; Ex parte Johns, 212 Ala. 125, 101 So. 774.
+When the state had closed its case defendant moved to exclude the evidence and for a discharge of the defendant on the ground that there was no evidence tending to corroborate the testimony of the prosecutrix as is required by section 5490 of the Code of 1923, under which this prosecution is brought. The corrobpration necessary to meet the requirements of the statute is sufficient if it extends to a material fact and satisfies the jury that the woman is worthy of credit. Tarver v. State, 17 Ala. App. 424, 85 So. 855; Burk v. State, 18 Ala. App. 413, 92 So. 506.
+The bare fact standing alone that defendant had stated that he had bought a Victr'ola for prosecutrix so that when they got married they would already have it might not be sufficient corroboration within itself, but when taken in connection with the frequent visits of defendant, his going about alone with the prosecutrix to church and other social affairs, that his visits were to the exclusion of other young men, and his attentions generally to the prosecutrix were marked, coupled with the fact that within the period of gestation after one of these trips prosecutrix gave birth to a child, which in itself is a corroboration of the act of intercourse, we are of the opinion that evidence of sufficient corroboration was adduced to meet the requirements of the Statute.
+This court is presumed to know the period of gestation in the development of a child before birth as is declared in Standard Works on Science. We, therefore, know that from July 15, 1928, to March 2, 1929, is sufficient time in which a fetus may be developed into a fully formed child and that births frequently occur within that time. That being the ease it was competent to prove by Dr. Rowan who qualified as a physician that the medicine alleged to have been given prosecutrix by defendant during the period of gestation contained elements likely to produce an abortion. Maloy v. State, ante, p. 123, 130 So. 902.
+Refused charge 1 was covered by the oral charge and by written charges given at the request of defendant.
+Refused charge 2 was misleading, while the mere fact that the parties had ridden together in defendant’s car would not he sufficient corroboration on which to bas.t a verdict; the fact that they did so ride and frequently was evidence which when .taken and considered with other testimony may-have authorized a conviction.
+Charges- 4 and 6, being the general charges,, were properly refused.
+There is no exception reserved to the-action of the court in refusing the motion for a new trial, and therefore we are without power to review it.
+There is no error, and the judgment is affirmed.
+Affirmed.
+
+## Rehearing
+
+On Rehearing.
+Courts take judicial notice that the-usual period of pregnancy is a.rule of nature subject to many exceptions covering a period from 220 to 330 days. During this period a fully developed child may be naturally born,, depending on heredity, age, and the physical condition of the mother. This rule is universally agreed to by all the standard works on Obstetrics, such as De Lee, p. 112; Parvin. p. 210; Van Wiekel, Volkmanns Klin, N. F. 1901, p. 293; Handbook d. Geb. vol. 1, p. 652. Of this rule, generally known of all men having a knowledge of the subject, courts-take judicial notice. 23 Corpus Juris, 148. The foregoing being the law and the prosecutrix having by her testimony fixed the time-of pregnancy within a natural period, evidence of an attempted or suggested abortion by defendant was relevant. Johns v. State, 20 Ala. App. 269, 101 So. 513; Whatley v. State, 19 Ala. App. 282, 97 So. 121; McMahan v. State, 21 Ala. App. 522, 109 So. 553.
+Opinion extended, and ai>plication is overruled.
