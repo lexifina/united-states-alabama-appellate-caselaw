@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-04-06"
+citations: ["12 Ala. App. 456", "68 So. 545"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith v. Davenport & Co."]
+source_url: "https://static.case.law/ala-app/12/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821417
+cites_cases: ["110 Ala. 106", "121 Ala. 333", "121 Ala. 644", "129 Ala. 185", "135 Ala. 300", "137 Ala. 468", "141 Ala. 668", "155 Ala. 368", "156 Ala. 419", "159 Ala. 317", "25 South. 800", "26 South. 491", "3 South. 774", "30 South. 36", "33 South. 41", "34 South. 392", "37 South. 920", "40 South. 484", "41 South. 708", "44 Am. Rep. 522", "47 South. 237", "49 South. 246", "6 South. 351", "65 Ala. 499", "67 South. 393", "69 Ala. 403", "78 Ala. 30", "79 Ala. 335", "8 Ala. App. 487", "83 Ala. 393", "87 Ala. 575", "87 Am. St. Rep. 54", "97 Am. St. Rep. 52"]
+---
+
+# Smith v. Davenport & Co.
+
+## Majority (BROWN, J.)
+
+BROWN, J.
+It was essential to the plaintiff’s right of recovery in an action of rrover, and it is incumbent upon the plaintiff, to show in himself at the time of the alleged conversion a property right — title general or special- — in the property, and possession or an immediate right of possession.—Rolfe v. Huntsville Lumber Co., 8 Ala. App. 487, 62 South. 537; Tallassee Falls Mfg. Co. v. First Nat. Bank, 159 Ala. 317, 49 South. 246; Johnson v. Wilson & Co., 137 Ala. 468, 34 South. 392, 97 Am. St. Rep. 52; Fields v. Copeland, 121 Ala. 644, 26 South. 491; 38 Cyc. 2044, brief point 58.
+The subject of the alleged conversion in this case is “one bale of cotton and the seed out Of the same,” and the only evidence of the plaintiff’s title is a mortgage executed by one Young to the plaintiff on the 22d day of March, 1912, covering the following property: One mule and “our entire crops, cotton and' produce, and all rents accruing to us for the year 1912, and each succeeding year in this county in which we now reside, until paid.” The property alleged to have been converted not being described in the mortgage with reasonable certainty so that it could be pointed out by reference to the description, the burden of proof was on the plaintiff to show, not only that the bale of cotton and the cotton seed described in the complaint were raised by the mortgagor, Young, in DeKalb county, but that it was the product of lands in which the mortgagor had a present interest at the time he gave the mortgage.—Paden & Co. v. Bellenger & Ralls, 87 Ala. 575, 6 South. 351; Fields v. Barter, 121 Ala. 333, 25 South. 800; Mayer v. Taylor, 69 Ala. 403, 44 Am. Rep. 522; Varnum v. State, 78 Ala. 30; Grant v. Steiner, 65 Ala. 499.
+Such proof was not only necessary to sustain plaintiff’s title to the cotton in controversy, but it was necessary to make reasonably certain the description of the property in the mortgage, as without it the mortgage itself was void for uncertainty in the description of the property.-Woods v. Rose, 135 Ala. 300, 33 South. 41; Smith v. Fields, 79 Ala. 335. No such proof was offered by the. plaintiff, and on the case made by the evidence the plaintiff was not entitled to:'recover.—Butler-Kyser Mfg. Co. v. Central of Ga. Ry. Co. (Sup.) 67 South. 393.
+The plaintiff not- being entitled to recover as against the defendants’ plea of the general issue, the rulings of tbe court on tbe demurrers to tbe special pleas, or in giving or refusing special charges, if error, were without injury, and will not work a reversal of the judgment of tbe trial court.—Culberson v. Empire Cowl Co., 156 Ala. 419, 47 South. 237; Peck & Bro. v. Karter, 141 Ala. 668, 37 South. 920; Supreme Court Rule 45 (175 Ala. xxi, 61 South, ix).
+While the defendants’ pleas 2 and 3 were defective, the grounds of demurrer assigned to them were general and did not specifically point out their defects, and the court did not err in overruling the demurrers. — Code, § 5340; Bryant v. A. C. S. R. R. Co., 155 Ala. 368, 40 South. 484. It occurs to us that all of these defenses could have been set up under the general issue.-Barrett v. City of Mobile, 129 Ala. 185, 30 South. 36, 87 Am. St. Rep. 54.
+• Charge 1, refused to- plaintiff, invaded the province of the jury in assuming that plaintiff was entitled to recover at all. Its refusal can be justified for the further reason that the word .“that” is used when the word “than” should have been used.
+The evidence on the issue presented by the third plea' was conflicting, and this justified the court in refusing charge 3, requested by the plaintiff.
+The mortgage offered by the defendants was executed on the 19th day of March, 1912, and was not filed for record until the 2d day of May, while the mortgage offered by plaintiff-was dated March 22, 1912, and was filed for record April 3, 1912. The mortgage of the plaintiff, if it conveyed any right at all, was superior to the right of the defendants, unless at the time plaintiff’s mortgage was given and he parted with the consideration therefor he had notice of the mortgáge held by the defendant or had knowledge of facts sufficient to put him on inquiry which if he had followed it up would have brought notice to him of defendants’ mortgage.—Tompkins v. Henderson & Co., 83 Ala. 393, 3 South. 774. Charges 3 and 4, given at defendants’ instance, were faulty in that they justified a verdict for defendants on notice brought to plaintiff after his rights had accrued, and, if plaintiff had shown a prima facie case, the giving of these charges would have constituted reversible error. But, in view of the fact that plaintiff failed to show a prima facie right to recover, the giving of these charges was without prejudice.
+There being no reversible error in the record, the judgment of the circuit court is affirmed.
+Affirmed.
