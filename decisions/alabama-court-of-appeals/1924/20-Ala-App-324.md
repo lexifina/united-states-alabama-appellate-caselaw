@@ -1,0 +1,65 @@
+---
+court: "Alabama Court of Appeals"
+docket: "2 Div. 273"
+decided: "1924-10-07"
+citations: ["20 Ala. App. 324", "102 So. 55"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARPER v. STATE."]
+source_url: "https://static.case.law/ala-app/20/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1647584
+cites_cases: ["102 So. 58", "114 N. W. 45", "12 So. 421", "134 Ala. 165", "137 Iowa, 673", "156 Ind. 41", "17 Ala. 181", "18 Ala. App. 21", "18 Ind. App. 48", "19 Ala. 586", "19 Ala. App. 533", "21 Ala. 218", "212 Ala. 123", "24 L. R. A. (N. S.) 103", "25 Am. Rep. 643", "32 So. 767", "35 Ala. 363", "39 Ala. 75", "42 Atl. 772", "46 N. E. 697", "53 Ala. 481", "56 Neb. 369", "58 L. R. A. 925", "59 N. E. 169", "63 N. J. Law, 35", "69 A. 1066", "71 Ala. 345", "73 Ark. 453", "76 N. W. 861", "84 S. W. 723", "97 Ala. 79", "98 So. 702"]
+---
+
+# Harper v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+The defendant was convicted under 'an indictment charging as follows:
+“The grand jury of said county charge, that before the finding of this indictment Jesse Harper did treat, or offer to treat, diseases of human beings in this state by prescribing medicine, and kind and description of which is to the grand jury unknown, without having first obtained a certificate of qualification from the state board of medical examiners against the peace and dignity of the state of Alabama.”
+Section 7564 of the Code of Alabama of 1907, as amended by an act of the Legislature, General Acts 1915, p. 661, provides as follows:
+“Any person who treats, or offers to treat diseases of human beings in this state by any system of treatment, whatsoever, without having obtained a certificate of qualification from the state board of medical examiners, shall'be guilty of a misdemeanor,” etc.
+The indictment is not in the form prescribed by the Gode, § 7161, No. 84. However, it does substantially follow the statute prescribing the offense sought to he charged. It employs the language of the statute in so far as such language is necessary, The statute provides that the offense shall consist of treating or offering to treat diseases of human beings in this state “by any system of treatment whatsoever.” The indictment charges that defendant treated or offered to treat diseases of human beings in this state “by prescribing medicine.” Prescribing medicine is a system of treatment and comes within the inhibition of the statute. Bragg v. State, 134 Ala. 165, 32 So. 767, 58 L. R. A. 925; Fason v. State, 19 Ala. App. 533, 98 So. 702.
+The indictment specifies the means of treatment alleged to have been employed by defendant in treating or offering to treat diseases of human beings. It is not a valid objection to the. sufficiency of an indictment that it describes the offense alleged to have been committed with a greater degree of particularity than the statute creating the offense. The indictment was sufficient and the demurrer thereto was properly overruled. Gullatt v. State, 18 Ala. App. 21, 88 So. 371; Fason v. State (Ala. App.) 98 So. 702 ; Aaron v. State, 39 Ala. 75; Johnson v. State, 35 Ala. 363.
+The defendant was a licensed vendor of patent medicines. Certain parties who testified as witnesses for the state went to defendant and told him they suffered from certain diseases of the hody, and he sold them of his wares, certain patent medicines, on which there were labels recommending such medicines for the ailment indicated and designating the dose to be taken. The defendant did not hold himself out as a physician, made no charge for services as such, and received no compensation other than such profit as he derived from the sale of the patent medicines.- It is also in evidence that in selling the medicine defendant recommended it as being a remedy for the disease specified.
+In our opinion this does not constitute a violation of the statute. General Acts 1915, p. 661; Nelson v. State, 97 Ala. 79, 12 So. 421; 30 Cyc. p. 1563 (VI).
+The rulings of the trial court were not in accord with this view, and for this error the judgment is reversed, and the cause is remanded.
+Reversed and remanded.
+19 Ala. App. 533.
+<@z^>For other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
+
+## Dissent (POSTER, J.')
+
+POSTER, J.'
+(dissenting). The defendant was convicted under an indictment charging as follows:
+“The grand jury of said county charge, that before the finding of this indictment Jesse Harper did treat, or offer to treat, diseases of human beings in this state by prescribing medicine, and kind and description of which is to the grand jury unknown, without having first obtained a certificate of qualification from the state board of medical examiners against the peace and dignity of the state of Alabama.”
+Section 7564 of the Code of Alabama of 1907, as amended by an act of the Legislature, General Acts 1915, p. 661, provides as follows:
+“Any person who treats, or offers to treat diseases of human beings in this state by any system of treatment, whatsoever, without having obtained a certificate of qualification from the state board of medical examiners, shall be guilty of a misdemeanor,” etc.
+The indictment is not in the form prescribed by the Code, § 7161, No. 84. However, it does substantially follow the statute prescribing the offense sought to be charged. It employs the language of the statute in so far as such language is necessary. The statute provides that the offense shall consist of treating or offering to treat diseases of human beings in this state “by any system of treatment, whatsoever.” The indictment charges that defendant treated or offered to treat diseases of human beings in this state “by prescribing medicine.” Prescribing medicine is a system of treatment and comes within the inhibition of the statute. Bragg v. State, 134 Ala. 165, 32 So. 767, 58 L. R. A. 925; Fason v. State, 19 Ala. App. 533, 98 So. 702.
+The indictment specifies the means of treatment alleged to have been employed by defendant in treating or offering to treat diseases of human beings. It is not a valid objection to the sufficiency of an indictment that it describes the offense alleged to have been committed with a greater degree of particularity than the statute creating the offense. The indictment was sufficient, and the demurrer thereto was properly overruled. Gullatt v. State, 18 Ala. App. 21, 88 So. 371; Fason v. State (Ala. App.) 98 So. 702 ; Aaron v. State, 39 Ala. 75; Johnson v. State, 35 Ala. 363.
+The; evidence for the state tended to show the following facts: The defendant was a vendor of patent medicines, and on several occasions various parties had come to him afflicted with diseases or physical troubles, such as rheumatism, indigestion, and gonorrhoea. The parties suffering from such diseases related to the defendant their trouble, and the defendant directed that they should take certain medicine out of his stock of patent medicines which he was selling. He told them that such medicine would cure or r'emedy the disease complained of. The parties dealing with him purchased the medicine that he advised and followed his direction in taking it.
+The evidence for the defendant tended to show that he did nothing more than sell patent medicines; that he did not direct which medicine should be used; and that he was duly licensed to sell patent medicine in Bibb county, Ala.
+Insistence is made.by appellant that the trial court erred in the refusal of the general charge for the defendant.
+We are unable to agree with the conclusion reached by counsel for appellant in his very able discussion as to what constitutes prescribing medicine. To prescribe does not necessarily imply a “written prescription.” It may be an oral one. What is necessary is for the party prescribing to indicate or recommend the medicine to be used. When he places himself in the position of a medical adviser, when he designates, indicates, or names the medicine to be used or administered for a certain disease, he is prescribing such medicine for that disease.
+“Prescribe” means “to advise, appoint, or designate as a remedy for a disease; to give medical directions; designate the remedies to be used; as to prescribe for a patient in a fever.” Century Dictionary. According to Webster’s Dictionary, the term as applied to medicine means “to write or give medical directions; to indicate remedies; as to prescribe for a patient in a fever.” The above definitions were adopted in the case of Burris v. State, 73 Ark. 453, 84 S. W. 723, 724, citing McCaughey v. State, 156 Ind. 41, 59 N. E. 169.
+In medicine, to “prescribe” remedies is to “write or give medical directions; to inclicate remedies.” It is-not necessary that such prescription he written. It may be given or indicated verbally. State v. Paul, 56 Neb. 369, 76 N. W. 861; State v. Lawson, 6 Pennewill (Del.) 395, 69 A. 1066, 1067.
+From 3 Words and Phrases, Second Series, p. 1155, the following quotation is taken:
+“One who caters to the patronage of the sick, who ask relief from their ills, and assures them of her ability to help them, and supplies them with her alleged appropriate remedies, giving instruction for their application or use, would seem to come within the ordinary and usual signification attached to the words ‘prescribing and furnishing medicine.’ ” State v. Bresee, 137 Iowa, 673, 678, 114 N. W. 45, 24 L. R. A. (N. S.) 103.
+According to the evidence for the state, after having been informed by the party seeking his aid of the character of his disease, the defendant told him the medicine that he should take as a remedy for such disease. He did not merely sell the medicine asked for. He indicated to the patient the appropriate medicine for his particular disease. The conclusion is inescapable that the defendant “prescribed” the medicine.
+The next question arising for consideration is: Would the fact that the medicine prescribed was patent medicine and the defendant was licensed to sell patent medicine absolve him from criminal responsibility? I think not. The defendant’s license was to sell the medicine — nothing more. His license to sell such medicine did not authorize him to prescribe the same. If such were the law, it would mean that one obtaining a license to sell patent medicine might equip himself with a “cure for every ill,” assert his competency to cure diseases of all kinds, pose as one trained in the art of healing, and after conferring with the patient and ascertaining his disease, determine the proper remedy for such affliction, select the medicine decided upon, advise its administration to the diseased person, and thereby evade a law directed primarily for the purpose of preventing quacks from imposing upon the public by masquerading as men trained and learned in medical science. The license to sell patent medicines does not protect the vendor thereof from criminal responsibility for prescribing such medicine as a remedy for a particular disease.
+The facts in Nelson’s Case, 97 Ala. 79, 12 So. 421, are readily distinguishable from the instant case. One finding another sick may administer medicine to him, in the absence of a physician, without charge for medicine or" services and as a humane act, without violating any law.
+In the instant case, although the evidence failed to show that defendant received compensation for his services merely, there may have, been a consideration for his services, in
+the purchase of the medicine. It cannot he said as a matter of law that the service he rendered .in prescribing the medicine was a gratuity, for it could have been inferred from the evidence that he received a valuable consideration and adequate compensation therefor in the sale of the medicine prescribed.
+The evidence was sufficient to make the guilt or innocence of defendant a question for the jury. The affirmative charge for defendant was properly refused.
+19 Ala. App. 533.
+
+## Rehearing (PER CURIAM. FOSTER, J.)
+
+On Rehearing.
+PER CURIAM.
+Rehearing denied.
+FOSTER, J.
+I respectfully dissent from the views expressed in the majority opinion. If the law is as there laid down, the “Indian doctor” may peddle patent medicines from house to house, and under the guise of a patent medicine vendor visit the sick in their homes, and upon inquiry as to the nature of their diseases prescribe for their ailments, whether they be tuberculosis, venereal diseases, malaria, typhoid fever, or what not, may impose upon the ignorant and the gullible, without fear of molestation by the officers of the law. The law of Alabama, as I understand it, and as given in my original dissenting opinion in this case (to which I now adhere), is intended to discountenance and ■ prevent such practices. I am of the opinion that the application of the state for a rehearing • should be granted, and that the judgment of reversal should be set aside and the judgment of the lower court affirmed.
