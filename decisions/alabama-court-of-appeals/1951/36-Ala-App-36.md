@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 143"
+decided: "1951-03-06"
+citations: ["36 Ala. App. 36", "53 So. 2d 398"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SIMMONS v. STATE."]
+source_url: "https://static.case.law/ala-app/36/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1695182
+cites_cases: ["102 So. 621", "104 Ala. 71", "109 So. 125", "15 Ala.App. 584", "16 Ala.App. 190", "16 So. 82", "161 So. 264", "17 Ala.App. 575", "190 So. 295", "20 Ala.App. 466", "204 Ala. 372", "21 Ala.App. 423", "212 Ala. 410", "24 Ala.App. 75", "250 Ala. 307", "26 Ala.App. 405", "28 Ala.App. 585", "86 So. 70"]
+---
+
+# Simmons v. State
+
+## Majority (PRICE, Judge.)
+
+PRICE, Judge.
+The indictment in this case contained 3 counts. Counts 1 and 2 charged the defendant with the offense of grand larceny. Count 3 charged that he did buy, receive, conceal, or aid in concealing 289 pounds of seed cotton, one pair of steelyards and five cotton pick sacks, of the value of $38, the personal property of Noah Oliver Helms, knowing that said property was stolen and not having the intent to restore it to the owner, etc.
+The trial was had in the Enterprise Division of the Circuit Court of Coffee County and resulted in the conviction of the defendant as charged in count 3 of the indictment. The court sentenced the defendant to imprisonment in the penitentiary for a term of four years. From the judgment and sentence and from the action of the court in overruling defendant’s motion for a new trial, this appeal is prosecuted.
+The verdict of the jury operated as an acquittal of the defendant of the offense of larceny under the first and second counts of the indictment. Glover v. State, 21 Ala.App. 423, 109 So. 125; Jacobs v. State, 28 Ala.App. 585, 190 So. 295.
+The State’s evidence was to the effect that the property described in the indictment, was stolen from Noah Oliver Helms in Coffee County on the night of August 23, 1949. The cotton was sold by defendant the next day.
+L. C. Simmons and Rex Carmichael, son and nephew, respectively, of defendant, admitted stealing the cotton and the other property described in the indictment and taking it to defendant’s home in the Key-ton Community. They weighed the cotton in the back room, reloaded it on defendant’s truck and left with defendant to sell the cotton.
+The defendant admitted that he sold the cotton. He stated that he was asleep when the cotton was brought to his home; that he was awakened by Simmons and Carmicháel around 4:00 o’clock in the morning and told that Charlie Carr, defendant’s brother-in-law, wanted defendant to sell the cotton for him. Defendant was living on Carr’s place and the 2 boys were staying with Carr. The defendant insists he had been drinking heavily for sometime and took two or three drinks before leaving home. He stated that he fell asleep on the cotton in the back of the truck and was awakened by the boys shortly before they reached Slocomb, in Geneva County. Defendant then got into the truck cab and they drove to the gin yard of the Segrest Company. The boys went to a cafe. Defendant received $46.00 for the cotton. He insisted he gave the money to L. C. Simmons to give to Charlie Carr.
+Defendant’s contention that the venue had not been proven as to count 3 of the indictment was not called to the court’s attention during the trial. It affirmatively appears that the question- of the sufficiency of the evidence showing venue of the crime to have been in Coffee County was not raised by request of the affirmative charge predicated upon failure of proof as to venue as required by Circuit Court Rule 35, Code 1940, Tit. 7 Appendix. Shaver v. State, 250 Ala. 307, 34 So.2d 220; Ratliff v. State, 212 Ala. 410, 102 So. 621; Watts v. State, 204 Ala. 372, 86 So. 70; Hall v. State, 24 Ala.App. 75, 130 So. 531.
+When the State had closed its case and rested, defendant made the following motion: “If the court please, we -want to move to exclude the State’s evidence in this case.” The court overruled the motion and defendant excepted.
+The appellant concedes there was no error in the action of the court in denying said motion at the time' it was made, since at that time defendant was charged under all 3 counts of the indictment. He insists that upon the return of the verdict of the jury acquitting him under the first two counts of the indictment the State’s testimony became insufficient as failing to prove, venue as to count 3 of the indictment. This contention is without merit. The court’s attention was not directed to a want of evidence showing venue by a proper ground of motion to exclude.
+In Britton v. State, 15 Ala.App. 584, 74 So. 721, 722, the court held: “After the prosecution had offered the evidence in chief and rested, the defendant made a motion to exclude the evidence on the ground, among others, that the venue had not been proven. This motion was appropriate and timely and presents the question sought to be raised.” (Italics ours.)
+• Defendant assigned as a ground of motion for a new trial the action of the court in overruling the motion to exclude the evidence because of the State’s failure to prove venue as to count 3 of the indictment. The question of failure to prove venue Was not properly called to the court’s attention during the trial, and cannot be raised for the first time on motion for a new trial. Prescott v. State, 20 Ala.App. 466, 103 So. 75.
+The appellant cites the case of Jacobs v. State, supra, as being directly in point here as to the question of' venue, and insists this case should be governed by that case. We are unable to agree with appellant’s counsel. It is clear from reading the whole opinion in the Jacobs case that the real basis of the reversal of the cause was the insufficiency of the evidence to sustain the verdict. While there are statements in the opinion from which it might be inferred that failure of venue was a part of the insufficiency of the evidence, a reading of the entire opinion distinctly shows that actually it was the insufficiency of the factual evidence, exclusive of venue, that was the basis of the reversal. If inferences may be drawn from that opinion that a failure to prove venue may be taken advantage of on a motion for a new trial, which failure was not called to the attention of the trial court prior to the conclusion of the argument in the case, then such inferences are contrary to the settled doctrines of innumerable cases in this State.
+The general affirmative charge was properly refused. The evidence is without conflict that defendant was in recent possession of stolen goods. This being true, the onus of explaining his possession was cast upon the defendant, and if he failed to make a reasonable explanation, a presumption of guilt arises which will support a verdict of conviction. Whether he had met the burden' imposed upon him was for the determination of the jury. Martin v. State, 104 Ala. 71, 16 So. 82; Sherrer v. State, 16 Ala.App. 190, 76 So. 474; Jordan v. State, 17 Ala.App. 575, 87 So. 433; Thomas v. State, 26 Ala.App. 405, 161 So. 264.
+There was no error in overruling the motion for a new trial.
+The judgment of conviction is affirmed.
+Affirmed.
