@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 645"
+decided: "1920-02-03"
+citations: ["17 Ala. App. 405", "85 So. 590"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte FORBES."]
+source_url: "https://static.case.law/ala-app/17/cases/0405-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1641646
+cites_cases: ["101 N. W. 1045", "112 Am. St. Rep. 98", "115 N. C. 57", "117 Am. St. Rep. 817", "121 Ala. 432", "13 Ala. App. 520", "142 Ala. 72", "144 Ala. 104", "152 Ala. 68", "174 Ala. 1", "188 U. S. 691", "20 S. E. 375", "204 Ala. 698", "207 U. S. 100", "221 U. S. 280", "28 L. R. A. 294", "29 South. 751", "30 Am. Rep. 217", "39 South. 55", "42 South. 23", "44 Am. St. Rep. 433", "49 Am. Rep. 63", "61 Atl. 502", "63 Ind. 344", "70 L. R. A. 686", "72 Neb. 703", "73 Ala. 503", "78 Conn. 150", "78 South. 313", "8 Ala. App. 321", "85 South. 921"]
+---
+
+# Ex parte Forbes
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+The appellant was arrested in Calhoun county, Ala., on the 26th day of July, 1919, by the sheriff on the warrant of the Governor of Alabama, issued on the 25th day of July, 1919, in compliance with the requisition of the Governor of the state of Michigan, charging the petitioner with being a fugitive from justice from the state of Michigan. The petitioner on the same day filed his petition addressed to Hon. Hugh D. Merrill, judge of the circuit court of Calhoun county, Ala., praying the issuance of a writ of habeas corpus directed to the sheriff of Calhoun county, and commanding the sheriff to have the body of the petitioner before the said judge, together with the cause of his detention. The writ was issued on July 26, 1919. The petition for said writ contained a prayer for the discharge of the petitioner, setting forth as grounds therefor the following: (1) That he was illegally and unlawfully restrained of his liberty, in that he was not a fugitive from justice; (2) that the court having issued the warrant and affidavit for his arrest was without jurisdiction to do so; (3) that the process under which ne was held was void on account of the defects in the matter therein contained or in the substance thereof; (4) that said process was issued in this cause under circumstances not allowed by law; and (5) that he Is not guilty of the offense charged against him in said process, and had committed no such offense in the state of Michigan.
+On the trial of this cause it was shown by the return, with testimony sufficient to establish the allegations therein made, that the executive authority of the state of Michigan had demanded the person of the petitioner as a fugitive from justice of the executive authority of the state of Alabama, to which petitioner is alleged to have fled, and there was produced a copy of an affidavit, made before a proper magistrate of the state of Michigan, charging the petitioner with having committed a felony, certified as authentic by the proper officials of the state of Michigan, and also, the warrant of the Governor of the state of Alabama, authorizing the arrest of petitioner and his delivery to the custody of the agent of the Governor of the state of Michigan. These papers were in all things regular, and thereby made out a prima facie ease that the person was legally held. Godwin v. State, 16 Ala. App. 397, 78 South. 313; Mohr’s Case, 73 Ala. 503, 49 Am. Rep. 63; Barriere v. State, 142 Ala. 72, 39 South. 55; Singleton v. State, 144 Ala. 104, 42 South. 23.
+The petitioner does not deny that he is the identical person named in the affidavit, and the warrant of the Governor, but his contention is that he is not a fugitive from justice, for that the affidavit charges that he abandoned his family in the state of Michigan on the 22d day of December, 1918, when as a matter of fact he was not* in the state of Michigan on that date, having left on the 21st of December, 1918, and come to the state of Alabama. It is the general rule that to be a fugitive from justice a person must have been actually within the state from which a demand for his surrender comes at the time at which the said crime is alleged to have been committed. Farrell v. Hawley, 78 Conn. 150, 61 Atl. 502, 70 L. R. A. 686, 112 Am. St. Rep. 98, 3 Ann. Cas. 874; Hartman v. Aveline, 63 Ind. 344, 30 Am. Rep. 217; Dennison v. Christian, 72 Neb. 703, 101 N. W. 1045, 117 Am. St. Rep. 817.
+However, the crime with which the petitioner is charged is that of abandonment of his family, which is continuing in its nature, covering a period not barred by the statute of limitations, and, where the departure from the jurisdiction after the commission of an act in furtherance of a crime subsequently consummated, it is a flight from justice, and renders the fugitive liable to extradition. Strassheim v. Daily, 221 U. S. 280, 31 Sup. Ct. 558, 55 L. Ed. 735; In re Sultan, 115 N. C. 57, 20 S. E. 375, 28 L. R. A. 294, 44 Am. St. Rep. 433.
+The petitioner offered certain evidence which might be available to Mm on the trial of Ms case in the state of Michigan as tending to prove that he did not abandon his family, but that is not a proper inquiry in this proceeding. The question of the guilt or innocence of the petitioner, as tending to disprove flight, is not a proper inquiry in this case, and hence the trial court properly excluded the testimony offered.
+We find no error in the record, and the judgment of the judge of the circuit court is affirmed.
+Affirmed.
