@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1923-10-30"
+citations: ["19 Ala. App. 481", "98 So. 315", "6 Div. 282"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOBILE & O. R. CO. v. BORDEN COAL CO."]
+source_url: "https://static.case.law/ala-app/19/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8826682
+cites_cases: ["1 Ala. App. 302", "129 Ala. 523", "131 Ala. 419", "14 Ala. App. 261", "16 Ala. App. 138", "16 Ala. App. 271", "16 Ala. App. 51", "164 Ala. 188", "17 Ala. App. 463", "18 Ala. App. 537", "181 Ala. 486", "182 Ala. 640", "189 Ala. 487", "192 Ala. 486", "198 Ala. 102", "200 Ala. 543", "201 Ala. 9", "203 Ala. 280", "30 South. 623", "30 South. 774", "51 South. 37", "55 South. 260", "6 Ala. App. 461", "61 South. 881", "69 South. 591", "75 South. 22", "75 South. 694", "76 South. 901", "86 South. 121", "93 South. 212"]
+---
+
+# Mobile & O. R. Co. v. Borden Coal Co.
+
+## Majority (SAMFOBH, J.)
+
+SAMFOBH, J.
+1 The plaintiff’s mule left the corral, was gone about 45 minutes, and on its return was found to have been injured in the manner described in the complaint. It was tracked and traced to a point on the track of the Southern Bailway. where the circumstances proven indicated it had been injured by a locomotive running on that track. The facts proven made the fact of injury by a train or locomotive on the track of the Southern Bailway a question for the jury. So. Ry. Co. v. Hudson; 16 Ala. App. 271, 77 South. 421; So. Ry. Co. v. Blankenship, 14 Ala. App. 261, 69 South. 591. The cases above cited were based upon the assumption that trains and locomotives running on the track were presumed to be operated by the owner of the track. In the case at bar, while, from the facts proven, the jury might conclude that plaintiff’s mule was injured by a locomotive or train on the track of the Southern Bailway ■ Company, the burden would still' rest upon plaintitf to reasonably satisfy the jury that the locomotive or train that caused the injury was being operated by the defendant, the Mobile & Ohio Bailroad Company, or under its authority, before a presumption of negligence under section 5476 of the Code of 1907, as against the defendant.
+In attempting to discharge this burden, the plaintiff was permitted to. prove by the records of the train dispatcher of the Southern Bailway Company that the only train passing along this particular part of the track of the Southern Bailway Company, at the time of the injury complained of, was a locomotive and train owned and being operated by defendant. The only information the train dispatcher had from which he made his record was the dispatch reports from telegraph operators along the line of the Southern Bailway, and as to the independent facts he had no knowledge. In Shirley v. So. Ry., 198 Ala. 102, 73 South. 430, the witness testified:
+“Said pay roll was made by me, an<^,no other person had anything to do with keeping or making it. * * * The information- shown in and on said pay roll is correct.”
+And in the opinion in the Shirley Case the court said, in passing on the question of the admissibility of the pay roll:
+“It was not made to appear to the trial court that the entrant Adams did not have personal knowledge of the facts entered on said pay roll, nor that said pay roll was compiled by him from oral or written reports made by some other transactor who knew the facts reported.”
+The case of M. J. & K. C. R. R. v. Hawkins, 163 Ala. 565, 51 South. 37, has no application here. South B. C. Co. v. McCollum, 200 Ala. 543, 76 South. 901, decides an entirely different question and is based on the decision in the Shirley Case, supra.
+We are not convinced that a record of the movement of trains kept by a train dispatcher is a “book of account,” in such sort as to be governed by section 4003 of the Code of 1907. Be that as it may, an entry in the record of the receipt of a dispatch might be evidence that the dispatch was received and of its contents, but would not be the best evidence of the truth of its contents. But, even as applied to book accounts, .in Love-man, Joseph & Loeb v. McQueen, 203 Ala. 280, 283, 82 South. 530, 533, the court said:
+“It is, we think, sufficiently clear that the statute, does not change, and was not intended to change, the pre-existing requirement of opr common law that the party making the entries must have had personal knowledge of the transactions entered by him, in order to render his entries admissible as independent evidence, without corroborating proof of their correctness.”
+That is what the Supreme Court held in the Shirley Case, supra; that is what this court held in Brown v. Grayson, 17 Ala. App. 463, 86 South. 121, and Martin v. State, 18 Ala. App. 537, 93 South. 212. Under any aspect, the best evidence of the facts sought to be proved as to the running of defendant's train over the tracks of the Southern Bail-way Company is by some one who knew. The testimony of the train dispatcher, based upon the reports of other agents of the Southern Bailway Company, was res inter alias acta, hearsay, and inadmissible. If the suit was against the Southern Bailway Company and the plaintiff was seeking to prove an admission of the defendant, another question would be presented; but even in that case the train dispatcher's record, having been made up from* telegraphic reports of subordinates, is admissible only, under the rule, when accompanied by the testimony of such subordinates that it represents truly •what had transpired, combined with that of the train dispatcher that the entry was truly entered. 10 E. C. L. p. 909, par. 63.
+The case is not one for the affirmative charge, ’but facts necessary to reasonably satisfy the jury that the defendant was running a train along the track of the Southern Eailway Company at the place where the mule'was struck at the time of the injury must be shown by competent evidence.
+The rulings of the court on the trial were not in accord with the foregoing views, and for the reasons given and errors pointed out the judgment is reversed, and the cause is remanded.
+Eeversed and remanded.
