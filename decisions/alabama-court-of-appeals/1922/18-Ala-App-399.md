@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 773"
+decided: "1922-01-31"
+citations: ["18 Ala. App. 399", "92 So. 502"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAMINACK v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645599
+cites_cases: ["121 Ala. 13", "133 Am. St. Rep. 20", "158 Ala. 44", "159 Ala. 71", "16 Ala. App. 534", "17 Ala. App. 464", "207 Ala. 712", "25 South. 1023", "3 Ala. App. 218", "5 South. 14", "55 Ala. 210", "60 Ala. 52", "85 Ala. 14", "88 South. 362", "90 South. 16", "92 South. 920"]
+---
+
+# Laminack v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+This appeal is upon the record, there being no bill of exceptions.
+The indictment upon which the defendant was tried and convicted contains two counts as follows:
+“The State of Alabama, Cleburne County. No. 12.
+“Circuit Court, January Term, 1921. “The grand jury of said county charges that before the finding of this indictment, Dewey Laminack, whose true name is to the grand jury unknown otherwise than as stated,, distilled, made, or manufactured alcoholic, spirituous, malted, or mixed liquors or beverages, a part of which was alcohol.
+“Second. The grand jury of said county further charge that before the finding of this indictment, Dewey Laminack, whose true name is to the grand jury unknown otherwise than stated, manufactured, sold, gave away, or had in his possession a still, apparatus, appliance, or device or substitute therefor, to be used for the purpose of manufacturing prohibited liquors or beverages, against the peace and dignity of the state of Alabama.
+“J. B. Sanford,
+“Solicitor Seventh Judicial Circuit.”
+This indictment was properly authenticated, and no contention is made or error insisted upon in this respect'. Nor was the indictment challenged by demurrer or otherwise objected to in the lower court when this cause was there tried. But it is earnestly contended here that the indictment was rendered void by failing to áver the time of the commission of the alleged offense charged. And in support of this insistence appellant’s counsel rely upon and cite the following cases, to wit: Howard v. State, 17 Ala. App. 464, 86 South. 172; Miller v. State, 16 Ala. App. 534, 79 South. 314; Weaver v. State (Ala. App.) 88 South. 362; Marks v. State, 159 Ala. 71, 48 South. 864, 133 Am. St. Rep. 20; Glenn v. State, 158 Ala. 44, 48 South. 505; Clark v. State, ante, p. 217, 90 South. 16.
+Each of these eases cited supra contain in our opinion correct propositions of law, and the decisions‘cited from this court are hereby reaffirmed and adhered to. These decisions would clearly sustain the contention of appellant’s counsel if the same conditions had existed at the time of the trial of the case at bar which existed at the time the cases supra were tried in the several lower courts. But this is not true as to the first count of the indictment in the instant case, for the reason that time was not a material ingredient of this offense when this indictment was found, which was true in each of the cases relied upon here. In other words, the indictment in each of the cases cited charged both a misdemeanor and a felony, the time in these indictments covered a period when the acts complained of under the statute was a felony and also a misdemeanor, and therefore for the reasons stated were obviously void for uncertainty. But here the first count of this indictment was good for the reason that at the time the indictment was. found and returned into court by the gland jury it could not have charged the offense of a misdemeanor as such offense was on its face barred by the statute of limitations. To be more specific, the offense charged in the first count of this indictment was made a misdemeanor by the statute which went into effect at 11 o’clock p. m. on the 30th day of June, 1915. Acts 1915, pp. 1, 7. Under the statute approved January 25,1919 (Acts 1919, pp. 6-17), the offense charged in this count was made a felony. It follows, therefore, that an indictment charging this offense, without alleging the time, charged both a misdemeanor and a felony during the first 12 months immediately subsequent to the approval of the 1919 act supra. But not so after the expiration of the 12 months immediately following -January 25, 1919. As before stated after the expiration of the 12 months subsequent to January 25, 1919, an indictment of this character could charge a felony only, for the reason that on the face of the indictment itself a charge of misdemeanor would have been barred by the statute of limitations of 12 months. Adams v. State, 60 Ala. 52.
+Count 2 of the indictment was bad. And in the absence of the averment of time of the commission of the offense, or that the offense complained of was committed subsequent to the time said act went into effect, to wit, November 30, 1919, was void for uncertainty. Miller v. State, 16 Ala. App. 534, 79 South. 314. This act created a new offense; a felony; the time covered therefore a period of time of three years anterior to the date of the finding of the indictment, extending hack, as will he seen, to a period of time in which it was no offense against the laws of this state to commit every, or several, the acts complained of in the second count. The effect of this holding is that in order to render an indictment valid for, the offense charged in the second count of this indictment, it will be necessary to allege the time of the alleged commission of the offense as long as time remains a material or essential ingredient thereof. The time covering as it does a period of three years, every indictment charging this offense up to November 30, 1922, must aver the time, of its alleged commission. Otherwise for the reasons stated it will of necessity, by its three-year field of operation, cover a period of time when the alleged offense was not unlawful under any statute of this state.
+The indictment as a whole in this case is not void. The first count thereof by its terms charged a felony only, as has been said. There was a general verdict of guilt, and under the universal decisions in this state it (the verdict) will be referred to the good count and sustained, rather than to the bad count. Handy v. State, 121 Ala. 13, 25 South. 1023. If an indictment contains two or more counts, only one of which is sufficient, and a general verdict of guilty is returned, it will be referred to the good count. May v. State, 85 Ala. 14, 5 South. 14; Rowland v. State, 55 Ala. 210; Phillips v. State, 3 Ala. App. 218, 57 South. 1033. A general verdict, under an indictment containing good and bad counts, will be referred to the good, counts and sustained, rather than referred to the bad ones. Handy v. State, supra.
+This record appears free from error. Let the judgment be affirmed.
+Affirmed.
+Ante, p. 47.
+<g=>For other oases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes.
