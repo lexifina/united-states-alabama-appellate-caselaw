@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-12-15"
+citations: ["12 Ala. App. 507", "67 So. 713"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McEntire, et al. v. Paffe."]
+source_url: "https://static.case.law/ala-app/12/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821710
+cites_cases: ["11 South. 299", "145 Ala. 629", "175 Ala. 130", "18 Ala. 667", "19 Ala. 319", "2 Stew. & P. 470", "20 Ala. 364", "4 Port. 107", "5 Stew. & P. 448", "64 Ala. 234", "67 Ala. 333", "9 Port. 252", "96 Ala. 111"]
+---
+
+# McEntire v. Paffe
+
+## Majority (PELHAM, P. J.)
+
+PELHAM, P. J.
+It is shown by the amended record filed pursuant to a written agreement of counsel that this case was tried in the city court of Birmingham on the 29th day of October, 1912, before a jury, who returned a verdict in due. and regular form on that day in favor of the plaintiff (appellee) assessing his damages in a trover suit for conversion of certain property at $200, but that no judgment was entered by the court on the verdict until the 25th day of February, 1913, om which date the court entered up a judgment in proper form.
+It is shown by the bill of exceptions that the plaintiff’s counsel, on February 25, 1913, called the attention of the court to failure to enter judgment on the verdict, whereupon the judgment referred to was entered against the objection of the defendants interposed by their counsel, who subsequently made a motion to set aside the judgment' as improperly and illegally entered without authority. The term of the city court at which the case was tried commenced on the first Monday in October, 1912, and continued to the last day of September, 1913. — Local Acts 1911, p. 58. In fact, it is admitted by appellants’ counsel in brief filed that the judgment entered by the court on the 25th day of February, 1913, was during the same term of the court at which the case was tried and verdict returned by the jury on, to wit, the 29th day of October, 1912.
+The question presented is not one of authority of the court to make a nunc pro' tunc entry, as argued. Thd failure of a court to act can never be made the basis for such entry.—A. G. Story Mercantile Co. v. McClellan, 145 Ala. 629, 40 South. 123, and authorities therein cited. The facts in this case show that the court failed to act — failed to enter judgment of any kind on the verdict returned by the jury on the 29th day of October, 1912 — until the 25th day of the following February. No judgment had been previously rendered that was corrected by the judgment entered at that time, and the non-action of the judge during the period shown did not make his delayed act in entering the judgment that of rendering a judgment nunc pro tunc. . The proposition that we are to deal with, then, is not the authority of the court to amend or correct a judgment previously rendered by an order nunc pro tunc, but the authority of the c.ourt to render in the first instance a correct judgment on a verdict returned during the same term, but some three months prior in point of time to entering the judgment.
+From the time the jury returned the verdict until the rendition of the judgment, the case was in fieri, and the court had ample authority to enter a judgment on a verdict returned during the same term when there could have been no discontinuance of the cause.—Charles v. State, 4 Port. 107; Clanton v. State, 96 Ala. 111, 11 South. 299.
+Section 20 of the act approved February 28, 1889, relating to the practice and procedure in the city court of Birmingham (Wealdey’s Compilation of Local Laws of Jefferson County, p. 598), and limiting the control of the court over its judgments to 30 days, does not fix any time after verdict returned into1 court before judgment thereon shall be entered, but has reference only to the time within which the court has control over its judgments after final judgment has been rendered. The only judgment that was rendered in the case at bar is the judgment complained of, that was rendered and entered of record February 25, 1913, and the statute can have no application thereto.
+On the hearing of the motion to set aside the judgment as unauthorized, the court admitted in evidence the piece of paper containing what purported to be the finding of the jury. If this was error, as contended by appellants, it would be without injury requiring a reversal. No question was raised with respect to the identity of the paper and its containing the verdict of the jury in the case, upon which the judgment was entered. The amended transcript filed by written agreement of counsel contains the judgment entry of the court identifying the verdict returned in the case on October 29, 1912, sets it out in full, and further recites that issue was joined, and that the case was tried and the verdict returned on that day in that case. This judgment entry filed by agreement of counsel also shows that the judgment rendered on February 25, 1913, was pronounced on “said verdict” set out in the judgment entry as having been returned in that case on October 29, 1912. The bill of exceptions contains nothing to the contrary, and, if it did, the recitals of the judgment entry in the record proper would control.
+The assignments of error are not well taken, and the judgment will be affirmed.
+Affirmed.
