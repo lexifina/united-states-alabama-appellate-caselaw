@@ -1,0 +1,58 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "6 Div. 13"
+decided: "1969-12-08"
+citations: ["45 Ala. App. 301", "229 So. 2d 803"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mrs. Floy HARDEN v. ALABAMA GREAT SOUTHERN RAILROAD CO., a Corp."]
+source_url: "https://static.case.law/ala-app/45/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716154
+cites_cases: ["149 So.2d 897", "172 Ala. 495", "216 Ala. 138", "234 Ala. 116", "277 Ala. 389", "282 Ala. 177", "282 Ala. 477", "53 A.L.R. 840"]
+---
+
+# Harden v. Alabama Great Southern Railroad
+
+## Majority (THAGARD, Presiding Judge.)
+
+THAGARD, Presiding Judge.
+Consolidated .action by husband for loss of consortium and services of wife and action of wife for damages arising out of injuries to her nervous system. The Circuit Court, Jefferson County, J. Russell McElroy, J., entered judgment for wife in her suit and judgment for defendant in husband’s suit. The defendant in the case of Mrs. Floy Harden filed a motion for new trial which was granted and the judgment ' and verdict were vacated and set aside.
+Mrs. Floy Harden, appellant, filed her suit in the Circuit Court of Jefferson County, to recover damages for injuries to her nervous system that she allegedly sustained -when her automobile became bogged down in loose slag which covered a railroad grade crossing and was struck by a railroad train of the appellee as the appellant ran from the automobile.
+Appellant’s husband, Edward J. Harden, filed his suit contemporaneously with his wife’s suit and claimed damages for loss of services and consortium of his wife, and for money spent for doctors and medicines necessary to treat his wife’s injuries.
+Both suits alleged negligence of the defendant in failing to maintain its public grade crossing in a reasonably safe condition and negligence of defendant in operating its railroad train at an excessive rate of speed on approaching said crossing.
+The cases were consolidated and tried together by consent of the parties. The jury returned a verdict for the wife and assessed her damages at $9,000.00 and returned a verdict for the defendant in the husband’s suit, and judgments were rendered accordingly.
+The defendant in the case of Mrs. Floy Harden filed a motion for a new trial which was granted on grounds 35, 37, and 40 only. These grounds dealt only with inconsistent verdicts. From this ruling, Mrs. Floy Harden appeals, complaining that the trial court erred in granting appellee’s motion for new trial on the basis of an inconsistency between the verdicts rendered in the consolidated cases.
+Both the appellant and appellee have cited Smith v. Richardson, 277 Ala. 389, 171 So.2d 96, and Carter v. Franklin, 234 Ala. 116, 173 So. 861, as pertaining to the issue of inconsistent verdicts.
+In the case of Smith v. Richardson, supra, the jury returned a verdict for the father in his derivative suit for loss of services and medical expense which resulted from his child’s broken leg, but held for the defendant in the child’s suit for damages for personal injury. Also, in the case of Carter v. Franklin, supra, the jury rendered a verdict against an employer based on respondeat superior doctrine and yet returned a verdict against the plaintiff in the suit against the tort feasor agent.
+These two cases are prime examples of inconsistent verdicts.
+.In the case at bar the trial court jury rendered a verdict for the injured wife but held for the defendant in the husband’s derivative suit. The record does not show that the husband presented any evidence showing specific damages as to loss of services and consortium. As to loss of consortium and services the court stated in Cook v. Sweatt, 282 Ala. 177, 209 So.2d 891, as follows:
+“Compensatory damages to the husband for loss of consortium due to personal injuries to the wife cannot be ascertained by any fixed standard, but are left to the jury’s sound discretion, subject to correction by the court .only when there has been a clear abuse of such- discretion as will evidence passion or bias for or against the plaintiff or defendant.
+“The award to the wife in her suit against the defendant does not indicate the jury was influenced by any bias or prejudices, but on the other hand supports a reasonable judicial conclusion that they were free of passion or prejudice in evaluating the evidence and in assessing •'damages.”
+The court went on to say in Cook v. Sweatt, supra, that:
+“The award by the jury of a substantial verdict for Mrs. Cook, and awarding nothing for appellant, are not inconsistent, verdicts. The jury was entitled, to conclude- from the- evidence that even though the defendants were -guilty of negligence as charged, the plaintiff-husband suffered no damages therefrom. Pagano v. Morrison’s Textiles, Inc. (Fla.App.), 149 So.2d 897.”
+In regard to the $65.00 doctor bill' which Mr. Harden paid to a psychiatrist who treated his wife, the Supreme Court has said in Birmingham Amusement Co. v. Norris, 216 Ala. 138, 112 So. 633, 53 A.L.R. 840:
+“In every case where a party has incurred expense as the result of another’s wrong, only so much is recoverable therefor as is a reasonable and proper amount under the circumstances. Manifestly, the party so claiming must show to the jury what is reasonable and proper, as a necessary basis for their finding. If the subject be a matter of common knowledge, and the nature of the charge or expense be before the jury, the sum paid may serve as some evidence of reasonable value in the absence of evidence to the contrary. B. R. L. & P. Co. v. Humphries, 172 Ala. 495, 497, 55 So. 307, citing 3 Suth. on Damages (2d Ed.) 2674. Otherwise, there- being no evidence to show what is a reasonable amount, the defendant must either-move for the exclusion of the testimony as to payment or liability to pay, at the close of the evidence, or he must ask for an affirmative instruction against recovery in that behalf, as in other cases of failure of proof.”
+As to the particular evidence of medical expenses incurred in Birmingham Amusement Co. v. Norris, supra, the court further stated:
+“In the instant case, what would be a reasonable and proper charge for the surgical and medical attendance had by plaintiff was not a matter of common knowledge, but was clearly a matter for expert opinion. There being nothing in the evidence to show that the charge made was reasonable, or to show what would have been reasonable, there was no proper' basis for - a finding by the jury in, allowance of the claims; * *
+In the case at bar, no showing was made in the trial court that the $65.00 Mr. Harden paid to the psychiatrist who treated his wife was a reasonable expense or charge. The-charges of a psychiatrist are not matters of common knowledge,’ but rather are matters for expert 'opinion. No expert testified as to the reasonableness of the charge for medical services rendered. At the close of the evidence presented in the instant case, the attorney for the defendant-appellee moved that the court exclude the testimony as to the $65.00 charge. The trial court overruled the motion. This ruling, we think, was in error.
+Also, there was no evidence introduced as to specific damages suffered by the husband, Edward Harden, for loss of services and consortium. Evidence was entered in the case of Mrs. Harden that she suffered damages arising out of injuries to her nervous system.
+Therefore, based on the evidence presented in the trial court, the jury rendered verdicts which were different but not inconsistent, even though they assessed damages for the wife and denied them to her husband.
+We are most reluctant to reverse the distinguished and learned judge who tried this case and granted the motion for a new trial. But even Homer nods. So for the error pointed out the judgment granting the motion for a new trial is reversed and rendered.
+Reversed and rendered.
+
+## Rehearing (WRIGHT, Judge.)
+
+Extended Opinion On Application For Rehearing
+WRIGHT, Judge.
+This matter has been presented to the Court on application for rehearing.
+It is insisted in brief by appellee on application for rehearing that plaintiff, Mr. Harden, was entitled to compensation at the hands of the jury in his derivative suit for loss of services and consortium because it must necessarily follow from proof of hysteria and neurosis of the wife that the husband, sustained measurable loss as a result.
+This reasoning forms a portion of the •basis for this Court’s opinion that the verdiets are not inconsistent. If damage to the husband in some measurable amount must necessarily follow proof of personal injury and right to recover by the wife, there would be no defense to the derivative action by the husband. It must follow that the husband would be entitled to the ahfirmative charge without hypothesis as to damages in some amount. This would be true in consolidated actions. It would then follow that right to recover, and damages in some amount, would be due in separate but nonconsolidated suits brought by the husband if it has been previously determined that the wife was entitled to recover for personal injuries. The matter of injury and right to damages would be res judicata and only the amount of damages would remain to be determined.
+We do not believe this to be the law nor should it be the law in this State.
+It is insisted by appellee that it necessarily follows finding of personal injury and damages to wife that the husband also suffered loss in value of the society of his wife, and the jury was bound to place a monetary value on such loss. Appellee states as a matter of fact the following “Any man who has ever had a neurotic wife knows that the husband suffers more than the wife.” We know not from whence counsel for appellee drew this statement of fact. We assume it is not from personal knowledge. This Court will not concede this as a matter entitled to judicial notice. Thus we must find it is a mere conclusion with which members of the jury did not concur and would not speculate. We know that a jury is not required to speculate as to damages. They were not charged to do so by the trial court but were charged as follows:
+“ * * * Now, if you find that Mrs. Harden is entitled to an award of damages in her case for personal injury as distinguished from damages only to the automobile, and you find that such personal injuries 'to Mrs. Harden caused Mr. Harden to sustain injuries and damages of the kind alleged by him in his complaint, then, Mr. Harden in his case would be entitled to a verdict in such a sum as would reasonably compensate him for the injuries and expenditures so sustained or made by him. * * * ”
+This was a correct charge. The question of whether Mr. Harden suffered compensable damages as a result of his wife’s injuries was properly left for the jury. Cook v. Sweatt, 282 Ala. 177, 209 So.2d 891.
+We do not consider it “amazing”, as stated by appellee, that we commented in our original opinion that the trial court should have granted defendant’s motion to exclude the evidence as to the charge of the psychiatrist when it was not shown to be a reasonable one. We cannot agree that a jury can determine from its own knowledge the reasonableness of a psychiatrist’s charge. In this case it was stated to be $65.00. In the next it could very possibly be $6500.00. Foodtown Stores, Inc. v. Patterson, 282 Ala. 477, 213 So.2d 211.
+We are chagrined at the amazement of appellee, but we must deny his. application for rehearing.
+Rehearing denied.
