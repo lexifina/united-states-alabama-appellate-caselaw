@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-02-08"
+citations: ["4 Ala. App. 1", "58 So. 121"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robinson v. The State."]
+source_url: "https://static.case.law/ala-app/4/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1617686
+cites_cases: ["104 Ala. 79", "105 Ala. 57", "105 Ala. 60", "105 Ala.. 8", "107 Ala. 106", "107 Ala. 26", "107 Ala. 372", "107 Ala. 444", "107 Ala. 97", "109 Ala. 28", "118 Ala. 102", "123 Ala. 84", "130 Ala. 148", "131 Ala. 492", "140 Ala. 172", "140 Ala. 491", "144 Ala. 1", "147 Ala. 110", "154 Ala. 237", "156 Ala. 81", "157 Ala. 160", "157 Ala. 165", "16 South. 925", "160 Ala. 40", "18 South. 226", "18 South. 238", "19 South. 909", "26 South. 516", "32 L. R. A. 520", "37 South. 321", "40 Ala. 77", "40 Ala. 98", "41 Ala. 9", "47 Ala. 603", "53 Am. St. Rep. 10", "58 Ala. 306", "82 Ala. 209", "86 Ala. 20", "96 Ala. 227", "97 Ala. 85"]
+---
+
+# Robinson v. State
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+The question raised by the defendant as to the legality of the grand jury by which the indictment against him was found is based upon suggestions against the constitutional validity of the act approved March 3, 1911, which purports to change the times for holding the regular terms of the county court of Clay. — Local Acts 1911, p. 63.
+The first of these suggestions is that the notice which was published of the intention to apply for that act did not “state the substance of the proposed law,” as required by section 106 of the Constitution. The- no.tice, as it is set out in the record, stated that' “application will he made to the Legislature óf Alabama that meets January, 1911, for the passage of a bill, the substance of which is and will be to amend the act establishing a county court for the county of Clay, approved December 13, 1898, as amended March 2, 1901, and August 6, 1907, as follows” — here the notice sets out specifically the changes proposed to be made in the wording of sections 6 and 11 of the law so referred to. The notice sufficiently stated the substance of the proposed law within the meaning of the constitutional requirement above mentionad. — Ex parte O’Neal, 154 Ala. 237, 45 South. 712; Ex pate Black, 144 Ala. 1, 40 South. 133; Wallace v. Board of Revenue, 140 Ala. 491, 37 South. 321.
+It is also suggested that the title of the act is insufficient in failing to indicate in what respect it proposed to amend the former statute of which it made mention. The bill contained but one subject, namely, the amendment of a former statute specifically referred to, and this subject was clearly expressed in the title. “The inclusion in the act of matters which are not mentioned in the title, hut which are cognate to the subject éxpressed by the title, does not render the bill unconstitutional.” — Lewis v. State, 123 Ala. 84, 26 South. 516.
+There is no merit in the further suggestion that the parts of the former law which were proposed to be amended should have been set out in the amending act as they stood before they were amended. The requirement of section 45 of the Constitution that “so much thereof — that is, of the law revived, amended, etc. — as is revived, amended, extended, or conferred shall be reenacted and published at length,” is sufficiently complied with when the statute which would affect some previous statute or variant provisions applicable to the subject dealt with sets out the law as .it is to be after its amendment or change, without a repetition or recital of it as it stood before.—Town of Tallassee v. Toombs et al., 157 Ala. 160, 165, 47 South. 308; Lewis v. State, supra; State ex rel, etc., v. Rogers, 107 Ala. 444, 19 South. 909, 32 L. R. A. 520; Ex parte Pollard, 40 Ala. 98.
+The refusal of the court to give written charge 1 requested by the defendant does not constitute a ground of reversal. It cannot be assumed that in the absence of such an instruction the jury would not give proper consideration to the written instructions which were given to them by the court at the réquest of the defendant.—Turner v. State, 160 Ala. 40, 49 South. 828.
+It was a fault in charge 3 requested by the defendant, justifying its refusal, that under it the jury might have felt themselves warranted in capriciously rejecting the entire testimony of the witness referred to if they found that he swore falsely as to any material fact, though they did not find that such statement was willfully false, but was the result of a mere error of observation or of a faulty memory as to a detail, and did not fairly indicate that the witness was unworthy of credit.—Hamilton v. State, 147 Ala. 110, 41 South. 940; Prater v. State. 107 Ala. 26, 18 South. 238.
+The refusal of charge 4 requested by the defendant was justified because it was calculated to convey the impression that the jury would be authorized to reject the testimony of a witness if they should conclude that there was a bare possibility of his being mistaken as- to a material fact in reference to which he deposed.—Bonner v. State, 107 Ala. 97, 18 South. 226.
+Charge 15 requested by the defendant was properly refused, as some, at least, of the expressions in it were calculated, to convey the impression that the jury might consider the evidence of the defendant’s good character by itself, independent of the other evidence, as furnishing a foundation for a reasonable doubt as to his guilt, and also because it gave undue prominence to the evidence on that subject.—Scott v. State, 105 Ala. 57, 16 South. 925, 53 Am. St. Rep. 10. Refused charge 17 is subject to similar criticism.
+The refusal of other written charges requested by the defendant was justifiable on obvious grounds. The counsel for the appellant does not claim in his brief that they should have been given.
+Affirmed.
