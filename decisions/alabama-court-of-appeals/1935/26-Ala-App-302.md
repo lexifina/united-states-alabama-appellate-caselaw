@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 87"
+decided: "1935-01-15"
+citations: ["26 Ala. App. 302", "159 So. 269"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HILL GROCERY CO. v. STATE."]
+source_url: "https://static.case.law/ala-app/26/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1667811
+cites_cases: ["110 Am. St. Rep. 43", "124 So. 119", "134 Ala. 636", "142 Ala. 552", "143 Ala. 506", "155 So. 638", "158 So. 906", "209 Ala. 341", "23 Ala. App. 239", "32 So. 1007", "38 So. 67", "39 So. 297", "70 L. R. A. 209"]
+---
+
+# Hill Grocery Co. v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+This appeal is from a judgment of conviction for a violation of the revenue law of the state. Appellant, a corporation doing business in this state by and through its agents and employees, was charged by -indictment with engaging in and carrying on the business of displaying, offering for sale, or selling fruit in Union Springs, Ala., a city of less than 10,000 inhabitants, without having first obtained a license therefor.
+The state insisted that the act complained of was in violation of schedule 76.(55), Revenue Code; Acts of Alabama 1919, pp. 282, 395, § 361, schedule 55, which reads as follows: “Fruit Btmds. — For each fruit stand in cities or towns of over ten thousand inhabitants, ten dollars; in other places, five dollars.”
+The defendant moved to quash the indictment, said motion being as follows:
+“Now comes the defendant, Hill Grocery Company, a corporation, and moves the Court to quash the indictment heretofore returned by the Grand Jury of Bullock County against the said Hill Grocery, a corporation, and which said indictment is made the basis of this prosecution, and as grounds of said motion, defendant sets down and assigns the following separate and several grounds, viz.:
+“1. For that said indictment does not state sufficient facts so as to apprise this defendant of the nature of the offense charged against it.
+“2. For that the allegations of said indictment do not state an offense against the State of Alabama.
+“3. For that said indictment is vague, indefinite and uncertain.
+“4. For that no offense is charged under the facts set up in said indictment.
+“5. For that for ought that appears from the averments of said indictment the defendant was engaged in a lawful business.
+“6. For that the averment in said indictment ‘that Hill Grocery Company, a corporation, doing business in the State of Alabama, acting by and through its agents and employees engaged in or carried on the business of displaying, offering for sale or selling fruit in Union Springs, Alabama, a city of less than 10,000 inhabitants, without having first obtained a license therefor, and contrary-to law against the peace and dignity of the State of Alabama,’ charges the defendant with no offense under the laws of the State of Alabama.
+“7. For that the business of displaying, offering for sale' or selling fruit is not unlawful under the laws of the State of Alabama.
+“8. For that the facts stated in said indictment charges this defendant with no offense under the laws of the State of Alabama.
+“9. For that no license is required in Alabama as a condition precedent to the right to engage in or carry on the business of displaying, offering for sale or selling fruit in Union Springs, Alabama; wherefore, the doing of said acts without having first obtained a license therefor is not contrary to law, and constitutes no offense under the laws of the State of Alabama.”
+Defendant also interposed demurrers to the indictment on practically the same grounds. Both the motion to quash and the demurrers were overruled, and defendant duly excepted. The trial thereupon proceeded, and at its conclusion the court gave the general affirmative charge in favor of the state.
+Each of the foregoing rulings by the trial court was error.
+Manifestly and clearly the indictment charged no offense known to the law. Great Atlantic & Pacific Co. v. State (Ala. App.) 158 So. 906. The motion to quash and also the demurrers went directly to this point. There is no law in this state and, so far as we can ascertain, in no other state, which makes it an offense for a person to carry on “the business of displaying, offering for sale, or selling fruit”; nor is there any provision in the revenue laws of this state to require a license so to do, and an indictment which does not allege sufficient facts to charge a statutory offense is subject to demurrer. That is to say, if the words employed in the indictment as descriptive of the offense have not the full signification of the words of the statute, if they are narrower in meaning, they cannot be deemed sufficient; for -statutory words in common use must be given their natural, plain, ordinary and commonly understood meaning. It would require a stretch of imagination to construe the tax schedule, supra, to bring the allegations of the indictment within its purview or scope. Moreover, statutes of this character are to be strictly construed in favor of the taxpayer and against the taxing power. This is definitely settled. Yarbrough Bros. Hdw. Co. v. Phillips, 209 Ala. 341, 96 So. 414; State v. H. G. Fain Service Station, 23 Ala. App. 239, 124 So. 119.
+The insufficiency of the indictment, as indicated, is not the only reason why a conviction in this case cannot be permitted to stand. The evidence discloses without dispute that appellant was engaged in doing a large general grocery store business in Union Springs, Ala., a city of less than 10,000 inhabitants, and kept fruit in small quantities as part of its general stock, an integral part thereof, and was duly licensed by the state of Alabama to conduct such grocery business. It is a matter of common knowledge, and, being such, this court is presumed to know that the operating of a general retail grocery business necessarily, from the very nature of such business, contemplates and entails the sale of fruit, and where a condition of this character .exists, the general rule applies, that when a license to do a general business has been exacted and such license paid another license cannot be required and collected for the doing of a part of a particular act, or series of acts, constituting an integral part of such business. Mayor and Aldermen of City of Tuscaloosa v. Holczstein, 134 Ala. 636, 32 So. 1007; Gambill v. Endrich Bros. et al., 143 Ala. 506, 39 So. 297; City Council of Montgomery v. Kelly, 142 Ala. 552, 38 So. 67, 70 L. R. A. 209, 110 Am. St. Rep. 43, and cases cited. The general rule above announced is a safe rule of construction of laws imposing occupation taxes or license. It simply means, in the absence of express words disclosing a different intent, that they were not intended to subject the same business to double taxation or license for the exercise of the same privilege. That is to say, a person who has taken out a license for, or paid a tax on, a certain business cannot be compelled to take out another license or pay another tax for anything which constitutes an essential part of such business. From Corpus Juris, vol. 37, p. 244, § 104, E, we quote the following: “All acts, however, which are merely incidental to, and properly connected with, the licensed privilege or occupation may be performed under the license.”
+Other insistences of error are presented, but we see xxo reason to prolong this opinion, except to say in reference to an opinion of the Attorney. General, which is referred to ixx briefs of counsel, what we said in this connection in the case of W. H. Holcombe v. Mobile County, 155 So. 638, 639, “Written opinions of the Attorney General are not controlling. They are merely advisory and, under the Statute, such opinions operate only to protect the officer to whom it is directed from liability because of any official act performed by such official as directed or advised in such opinion. Section 869, Code 1923.”
+The judgment of conviction from which this appeal was taken is reversed, and, as no conviction can he had in this case, as shown by the record, a judgment is here rendered in behalf of appellant, who may go hence.
+Reversed and rendered.
+Ante, p. 151.
