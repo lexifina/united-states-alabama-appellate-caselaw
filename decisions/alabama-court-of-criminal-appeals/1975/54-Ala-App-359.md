@@ -1,0 +1,58 @@
+---
+court: "Alabama Court of Criminal Appeals"
+docket: "8 Civ. 600"
+decided: "1975-02-04"
+citations: ["54 Ala. App. 359", "308 So. 2d 718"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concur."]
+parties: ["John Thomas MATTHEWS v. STATE."]
+source_url: "https://static.case.law/ala-app/54/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741157
+cites_cases: ["104 Ala. 1", "112 Ala. 55", "15 Ala.App. 262", "16 So. 523", "21 So. 56", "23 Ala.App. 518", "265 Ala. 623", "278 Ala. 224", "38 Ala.App. 379", "40 Ala.App. 208", "86 So.2d 842"]
+---
+
+# Matthews v. State
+
+## Majority (HARALSON, Supernumerary Circuit Judge.)
+
+HARALSON, Supernumerary Circuit Judge.
+Appellant was convicted in the circuit court of assault with intent to murder, and sentence fixed at two years imprisonment in the penitentiary.
+From the testimony presented by the State it appears that on November 30, 1970, the appellant, John Thomas Matthews, accompanied by his brother, Willie Eddie Matthews and Willie Paul Gilbert, drove an automobile into a filling station in Limestone County and ordered 50 cents worth of gasoline from the attendant, Charles Ray Kennemer. The cap to the gasoline tank was locked and the attendant procured the key from the appellant and put the gasoline in the tank. At this time appellant appears to have ordered Kennemer to “Go get me a God-damn pack of Winstons” which was done by Kennemer and upon returning with the cigarettes and receiving pay for the same, Kennemer said to appellant “Leave you son of a bitch”. Appellant seems to have gotten out of the car and was standing between the front door and the driver’s seat at this time and after being ordered to leave he pulled a .32 caliber pistol and shot Kennemer in the chest. Kepnemer seems to have fallen partly in front of the automobile but moved as it was driven away to avoid being run over. It further appears that appellant’s brother, Willie Eddie Matthews, was driving the car when it left the filling station.
+Sometime later in the day a State trooper, who had received news of the incident at the filling station, stopped the automobile with the above three mentioned parties inside and forced them to get out and lie prone on the ground where they were searched. The trooper called for assistance and turned the three over to other officers who- had answered the call, who placed them under arrest and took them away. In the meantime the automobile was searched and a .32 caliber pistol and a .25 caliber automatic was found therein.
+Several other witnesses were present and substantiated the shooting but not all of them were eyewitnesses to all the events that occurred.
+The appellant in his testimony claimed self-defense and while admitting both he and Kennemer, the attendant, used profanity tQ each other, he also claimed when the attendant brought the cigarettes that he had ordered that he, appellant, was shaken by attendant and choked and was forced between the car and door in such a position as to cause him to be unable to move out. It was at this point that he claims that he shot the attendant with the .32 caliber pistol, which he had put in his pocket after driving into the station.
+Clearly a jury question was presented by the evidence offered by the State and appellant. However, at the conclusion of the testimony the appellant moved to exclude upon the principal ground that there was a variance between the charge laid in the indictment and the proof offered in the trial in that the indictment charged both the appellant and his brother, Willie Eddie Matthews, with assault with intent -to murder but no testimony was offered by the State to connect Willie Eddie Matthews with the shooting. The indictment being joint, the appellant argues it was incumbent upon the State to prove a joint commission of the charge set out therein, or else the appellant was due to be acquitted of criminal liability.
+In support of his argument he cites the case of Grimes v. State, 23 Ala.App. 518, 128 So. 122.
+Grimes, supra, does in fact hold that when two persons are charged jointly with a crime, it is necessary that the evidence show the commission by each of the offense charged before there can be a conviction. This principle of law has long been recognized by our courts and is supported by many decisions in the Appellate Courts. However, as is often the case, in the construction of this rule some modifications have been made.
+Title 15, Section 319, Code of Alabama 1940, Recompiled 1958, provides that “when two or more defendants are jointly indicted, they may be tried, either jointly or separately, as either may elect.” In construing this section the courts have held it does not entitle either the defendant or the State to demand a joint trial but provides the unqualified right to demand a separate trial by any defendant jointly charged with another. Wilkins v. State, 112 Ala. 55, 21 So. 56; Palmer v. State, 15 Ala.App. 262, 73 So. 139; Jackson v. State, 104 Ala. 1, 16 So. 523.
+And if a separate trial is not demanded it is in the trial court’s discretion whether the trial will be separate or joint. Wilkins, supra; Palmer, supra; Jackson, supra. It has further been held that where the record is silent it will be presumed the proceedings were regular and the court did its duty. Palmer v. State, supra.
+In the case at hand there is no record of a written demand for severance filed by either of the persons charged in the indictment. It appears the case was tried by Hon. K. J. Griffith, on special assignment as a Supernumerary Circuit Judge to duty in Limestone County, and it further appears that the parties named in the indictment had been arraigned before one of the regular circuit judges having jurisdiction in that county, Hon. Newton B. Powell, and that each entered a plea of not guilty •at the arraignment. In' addition thereto it appears that the cases were given different numbers on the circuit court docket and appeared on different docket sheets in that court.
+The district attorney stated in open court after the motion to exclude the testimony that there had, indeed, been a severance demanded at the arraignment of the defendants and this statement was not denied by the ' attorneys for appellant, although they were not clear as to it having been made or not. The court seems to have tried the case upon the theory that a severance had been granted. And this matter was not brought up or called to the court’s attention until the conclusion of the State’s testimony. We think the decision of this matter should be governed by the authorities above set out and we see no error in the action of the trial court in overruling the motion to exclude the evidence, nor in the refusal to give the affirmative charge for the.appellant.
+Some of the testimony indicates that Willie Eddie. Matthews, the other person charged in the indictment, drove the car away after the shooting, as above indicated, and thereby may be said to have participatéd to a small degree, in the crime found to have been committed, as an aider or abettor.
+During the State’s closing argument the following occurred:
+“MR. LEGG: Now, your Honor, we object to him arguing as to the length of time that can be spent in the penitentiary of the State of Alabama, or whether he gets probation or not, and it is a reversible error, and we object and move to exclude.
+“MR. MOEBES: Well, your Honor, they argued as to the sentence, and I have a right to argue as to probation.
+“MR. LEGG: Well, there has been no argument made on the part of the defense that anything except the minimum sentence, which is two years, could be given, and there has been no argument that he would have to serve any sentence, and it is reversible error under the law.
+“THE COURT: Well, I don’t think that he used the probation. Anyway it has nothing to do with this case. Overrule your objection.
+“MR. LEGG: We except. Can we show the Court some cases on that ?
+“THE COURT: I am familiar with what you are talking about. I have had it raised before.
+“MR. LEGG: Well, the district attorney made the statement that it was within the discretion of the Court as to whether or not he would spend a day in the penitentiary, regardless of what the sentence was, and we object.
+“THE COURT: In my discretion.
+“MR. MOEBES: Well, your Honor—
+“THE COURT: I have read the cases on the subject.
+“MR. LATHAM: Your Honor, that doesn’t give him the right to argue about probation.
+“THE COURT: He hasn’t used the word probation, and you were the one that brought out the word probation. He has the right to argue about it; if you bring out the sentence, he has a right to answer that, and I am going to overrule your objections.
+“MR. LATHAM: We except.”
+Although the record does not reflect the exact words used by the District Attorney, objected to by the appellant, it does appear that the court and the attorneys considered in the dialogue between attorneys and court that statements attributed to both the District Attorney and the appellant’s attorney had, at least in substance, been made during their argument to the jury.
+It is true that argument by a District Attorney to a jury that a defendant convicted and sentenced to the penitentiary may be eligible for pardon or parole is improper and has been held to be reversible error. Eaton v. State, 278 Ala. 224, 177 So.2d 444 and Lee v. State, 265 Ala. 623, 93 So.2d 757. However, it is further held if that argument is in reply to argument by the defense that the defendant, if convicted, will be sentenced to the penitentiary, the rule above referred to does not apply and the district attorney is within his rights in making his reply to a subject first introduced in argument from the defendant. It seems to be conceded that one of the appellant’s attorneys had stated to the jury in his argument that the minimum sentence, if the defendant should be convicted, would be two years. The district attorney, as it appears from the record did not use the term pardon, parole, or probation. He merely reminded the jury that whether or not the appellant should spend a day in the penitentiary, regardless of what sentence he received, was in the discretion of the court.
+Under the rule in Ellis v. State, 38 Ala.App. 379, 86 So.2d 842 and Smith v. State, 40 Ala.App. 208, 110 So.2d 340, it appears that the district attorney had the right to make the argument objected to and there was no error in the action of the court in response to the objection of appellant.
+We have responded to the matters argued in brief by the appellant and the appellee and in addition thereto we have read the record carefully. The ruling of the court on objections to the testimony and other argument of the district attorney to the jury have been examined and we are of the opinion that there is no error to reverse apparent in the record. We see no reason to extend this opinion to deal with these matters in detail.
+We reiterate that there was no error in the action of the court in overruling the motion to exclude, refusing the affirmative charge requested by appellant nor in overruling the objection of appellant to the district attorney’s argument to the jury.
+The case is due to be affirmed.
+The foregoing opinion was prepared by Honorable W. J. Haralson, Supernumerary Circuit Judge, serving as a Judge of this Court under Section 2 of Act No. 288, Acts of Alabama, July 7, 1945, as amended; his opinion is hereby adopted as that of the Court.
+The judgment below is hereby
+Affirmed.
+All the Judges concur.
