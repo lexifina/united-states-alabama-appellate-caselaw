@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1914-01-22"
+citations: ["10 Ala. App. 179", "64 So. 520"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moore v. The State."]
+source_url: "https://static.case.law/ala-app/10/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1626636
+cites_cases: ["143 Ala. 78", "3 South. 305", "39 Ala. 247", "39 South. 370", "42 Ala. 543", "6 Ala. App. 41", "60 South. 455", "8 Ala. App. 367", "83 Ala. 46", "84 Am. Dec. 782"]
+---
+
+# Moore v. State
+
+## Majority (PELHAM, J.)
+
+PELHAM, J.
+The defendant was tried on an indictment charging in two separate counts the sale of spirituous, vinous, or malt liquors without a license, and contrary to law. No charge of keeping for sale was made under either count of the indictment, and two of the state’s witnesses testified directly and positively to sales made by the defendant to each of them. The verdict of the jury was a finding that the defendant was “guilty as charged,” fixing a fine of $200. The only questions presented for review are certain rulings on the evidence during the course of the trial.
+The court permitted the defendant to show on the cross-examination of the state’s witness Nicholson, as affecting his bias, ill will or feeling against the defendant, that the defendant at one time had the witness arrested for mortgaging a cow; and it was not error for the court to refuse to allow the defendant to go into the details of the transaction, and show that the cow had been taken away by a Mr. Rushton, and that the witness was still indebted for the cow. It is proper to ask a witness if he was not unfriendly with the party against whom he testifies on account of his indebtedness to such party; but it is not competent to ask him simply if he was not indebted to such party. — Sanford v. State, 143 Ala. 78, 39 South. 370.
+The paper writing that the bill of exceptions recites was shown this witness, and offered in evidence by the defendant, is not set out, and no data furnished this court by which it can pass on the rulings of the lower court in connection with the admissibility of the paper as evidence. .
+The indictment in its two separate counts alleged two sales of prohibited beverages, and, the state having proved by direct and positive testimony two sales of whisky to have been made by the defendant, one to the state’s witness Latimore on June 14, 1913, and one to the state’s witness Nicholson on the fourth Sunday in January, 1913, this constituted an election as to the crimes charged in the indictment upon which the state relied for a conviction, and it was error to permit the state to subsequently show, in support of its case by another witness, one Dilliard, that he had bought whisky and beer and gin from the defendant at different times at his place of business, and that he was there in May, 1913, and saw bottles, and men drinking, and the defendant, with a quart bottle, dispensing whisky in a drinking glass. Nor would the attempt of the court ex mero motu to limit this testimony “for the purpose of seeing whether he [defendant] was selling whisky” at the times and place previously elected by the state cure the error. The evidence introduced and relied upon by the state for a conviction did not consist of different circumstances connecting the defendant with the commission of the offense charged from Avhich the jury might draw an inference of his guilt in Avhich case the proof of other and different circumstances might be admissible, although they involved the proof of other offenses.- Testimony of that nature seeking to connect the defendant with the commission of the offense charged by the proof of circumstances showing similar offenses not charged in the indictment is not admissible in evidence for the purpose of making out a case against the defendant in a case like this, when the state has introduced evidence showing the commission of the offense charged, and the defendant’s guilty connection therewith, by direct, positive testimony of a specific act Avhich in itself constitutes the crime charged, and the defendant’s commission thereof.. — Askew v. State, 6 Ala. App. 41, 60 South. 455; Hammock v. State, 8 Ala. App. 367, 62 South. 322.
+It is a general rule that it is not permissible to prove or admit circumstances going to shoAV that the defendant commmitted another offense, or other offenses, of similar character to that charged, except Avhen necessary to show scienter or intent, establish identity, complete the res gestse, show motive, or make out a chain of circumstantial evidence of guilt in respect to the act charged. — Mason & Franklin v. State, 42 Ala. 543, and companion case, page 532; Ingram v. State, 39 Ala. 247, 84 Am. Dec. 782; McDonald v. State, 83 Ala. 46, 3 South. 305.
+The court was also in error in overruling the objection to the question asked the defendant’s witness Barnett by the solicitor on cross-examination, as follows: “Don’t you know everybody in that county complained about this negro selling whisky?” But, as the bill of exceptions does not show an answer made to the question after the court overruled the defendant’s objection to it, no prejudicial error is presented for review.
+For the errors committed in rulings on the evidence prejudicial to the defendant that we have above discussed, the judgment of the lower court must be reversed.
+Reversed and remanded.
