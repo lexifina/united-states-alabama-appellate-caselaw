@@ -1,0 +1,84 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 136"
+decided: "1973-06-20"
+citations: ["50 Ala. App. 435", "280 So. 2d 140"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and HOLMES, J., concur."]
+parties: ["GUARANTEE TRUST LIFE INSURANCE COMPANY v. L. D. OVERTON."]
+source_url: "https://static.case.law/ala-app/50/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1731176
+cites_cases: ["258 Ala. 521", "279 Ala. 16", "38 Ala.App. 372", "46 Ala.App. 611", "84 So.2d 130"]
+---
+
+# Guarantee Trust Life Insurance v. Overton
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+This case was submitted on appellee’s motion to dismiss the appeal and on the merits on April 26, 1973.
+ON THE MOTION
+The motion to dismiss the appeal cites as the only ground therefor that the record does not show service of the citation of appeal as required by law.
+On April 23, 1973 the Supreme Court of Alabama adopted a new rule, Rule 52 of the Alabama Supreme Court Rules. Rule 52 became effective on the date of adoption and reads in pertinent part as follows:
+“No appeal shall be dismissed, either on motion of a party or ex mero motu, where the transcript of the record on appeal . . .(b) fails to show that the adverse party was served with notice of the appeal under Tit. 7, § 801, but the adverse party has filed some document in this court showing that he had timely knowledge of the appeal, . . . unless the failure, defect or insufficiency . has been called to the attention of this court prior to submission by written motion, a copy of which motion shall be furnished counsel for the adverse party and the failure, defect or insufficiency remains uncorrected at time of submission. . . . ”
+On April 24, 1973 appellant filed in this court a supplemental copy of the original transcript showing service of notice of appeal on appellee. We therefore deem Title 7, Section 801, Code of Alabama 1940, as Recompiled 1958 to have been complied with. The motion to dismiss the appeal is therefore denied.
+
+## On the merits
+
+ON THE MERITS
+Appellee commenced this action by filing a complaint in the Circuit Court of Lauderdale County alleging the breach of a policy of insurance issued by appellant on the life of Virgil Overton, minor son of appellee, for accidental death. After the complaint was answered, trial was had before the court and a jury with a verdict being rendered in favor of appellee in the amount of $1,591.00. The request for a new trial was denied and appellant perfected its appeal to this court from the judgment on the merits.
+Appellant filed six assignments of error in the record but argued only four of them in brief. Those assignments not argued are deemed waived. Rule 9, Supreme Court Rules.
+In its assignment of error one, appellant asserts two grounds for error in the overruling of the motion for new trial. These are: (1) that the evidence does not support the verdict; and (2) that the general affirmative charge either with or without hypothesis should have been given on behalf of appellant.
+The evidence shows that appellant had issued its School Accident Policy on Virgil Overton on September 1, 1970; that the policy was in full force and effect on the date of the alleged injury; and that appellant had notice of appellee’s claim.
+The appellee, father of Virgil Overton, testified that on a Friday his son came home from school complaining of a pain in his left leg. The pain got worse and on Monday the child developed a fever. On Tuesday the boy was taken to a doctor’s office. An examination was made and the child was admitted to a hospital. At this time, the father stated, the area of the left knee was slightly swollen and looked bruised. The father stated that his son’s leg hurt all night and only a pain killer was administered during this time. Then on Wednesday medication was started. Around about midnight of that night Dr. Jeffres stuck a needle in the child’s left leg to make a test and shortly thereafter Virgil had convulsions. He died early Thursday morning.
+The appellee stated that his son injured his leg on September 24, 1970 while playing ball at school and later received another injury while riding his motorbike.
+Tommy Larry Nichols, a friend of Virgil Overton’s, stated he saw Virgil on Saturday before he went in the hospital on Tuesday, and Virgil had a three inch rip in his left pants’ leg in the vicinity of the knee and a “skinned” or “scratched” spot in the area of his knee; Virgil was limping and rubbing that leg.
+Dr. Jeffres testified he saw Virgil on September 29, 1970 in his office. The thirteen year old boy had pain in his left knee and was running a fever. The doctor stated that he found no abrasions in the area of the knee but there was swelling and the boy did have pain in that area, especially when the leg was flexed.
+A culture taken from Virgil’s throat revealed staphylococcus aureus. A blood sample revealed the same thing. Fluid taken from the surface of the bone just above the left knee revealed staphylococcus aureus. A sample of fluid from the knee joint did not reveal any signs of the staph. Dr. Jeffres stated he found no discoloration around the swelling in the knee area.
+Dr. Jeffres said that he signed the death certificate, which listed the cause of death as:
+“Cardiac arrest due to Staphylococcal septicemia, early osteomyelitis of left femur and possible brain abscess or septic embolus. . . . Injury to the left knee two days prior to death, probably not related. . . . ”
+Dr. Jeffres further stated that he did not think that the injury to Virgil’s leg had anything to do with the child’s death. However, the doctor did say that the staph germs could gain entrance to the body and bloodstream through breaks in the skin and that he found evidence of the staph germ in the bone next to the left knee.
+Dr. Jeffres said that he found Virgil’s throat to be a little red but he attributed that condition to the existence of fever; however a culture taken from his throat later revealed staph. He also stated that the staph germ can be carried all over the body by the bloodstream, and that it was possible that the staph in the throat came from the staph germs growing in the leg. He stated that his diagnosis of staph was confirmed when they found the pus pocket in the leg.
+Dr. Luckey testified that he saw Virgil on September 30, 1970, at which time the boy had a high fever and very painful swollen left knee. This doctor did not remember seeing any abrasions on the knee. Virgil’s history revealed that he had received an injury to the left knee two or three days before Dr. Luckey saw him. Dr. Luckey said that the child’s throat looked infected. He started looking for evidence of rheumatic fever or osteomyelitis. Rheumatic fever was later ruled out.
+Dr. Luckey stated that the germ staphylococcus which had been in a sore throat could travel through the bloodstream to the site of a bruise or fracture or point of injury and set up housekeeping at that site. The resulting infection is called osteomyelitis. He stated that death was due to the complications caused by the staph in the throat, bloodstream and leg. He further said that the osteomyelitis was consistent with the injury, and that the injury and osteomyelitis contributed to the death. He further stated that the injury to the leg caused a place for the staph germ to take up residence in that area of the body, and that the infection could have been transmitted from that spot to other parts of the body, including the throat, by the bloodstream.
+He said the length of time it would take for the infection to get to the stage it was on the day Virgil died depended on the resistance that the body could mount; that six or seven days was not an unreasonable period of incubation from the time of the injury.
+Dr. Pritchett testified that he did not see or treat Virgil Overton, but he did look at the death certificate and at that part of the Colonial Manor Hospital records that pertained to Virgil’s history and physical examination.
+He stated that a bruise does not cause staph infection because such infection is caused by a germ. He said that osteomyelitis is an infection of the bone and usually takes several days to get a good hold on a person. He also said that a septic embolus is an infected clot of blood that has worked its way into the brain, usually from a leg vein or a vein in the pelvic area. He also said that a scratch on the skin could be a source of introduction into the body of the staph germ.
+Dr. Pritchett stated that to him, that part of Dr. Jeff res’ report showing an absence of any finding of redness in Virgil’s throat at the time of admission indicated that there was an absence of severe infection in the boy’s throat.
+We will consider first appellant’s argument that the trial court erred in overruling the motion for new trial on the ground that the verdict was contrary to the weight and preponderance of the evidence.
+Verdicts are presumed to be correct and no ground of a motion for new trial is more carefully scrutinized than the one asserting that the verdict is not supported by the evidence. Johnson v. Howard, 279 Ala. 16, 181 So.2d 85. And when the trial court overrules the new trial motion, such presumption is given added strength. Perkins v. Reynolds Construction Co., 46 Ala.App. 611, 247 So.2d 118.
+The policy of insurance insuring appellee’s deceased son provides, in pertinent part, as follows:
+“ . . . Guarantee Trust Life Insurance Company . . . Hereby Insures, . . . the Policyholder named in the Application, . . . against loss of life, . . . resulting directly and independently of all other causes from accidental bodily injury, .
+“Part III Exclusions
+“This Policy does not cover the Insured, nor is any premium charged for . . . (c) Vegetation, ptomaine poisoning or bacterial infection (except pyogenic infections due to accidental open cuts).”
+The benefits payable under this policy for loss of life were $1,500 plus certain maximum amounts for hospital and doctors’ bills.
+Appellant argues that the death certificate shows prima facie that the cause of death was due to a disease rather than an accidental injury and there was no proof to rebut this prima facie case. Appellant says that it insured appellee’s son only against loss due to accidental bodily injury resulting directly and independently of all other causes.
+In support of its argument we are cited to the cases of Provident Life and Accident Insurance Co. v. Nelson, 38 Ala.App. 372, 84 So.2d 130; and Emergency Aid Ins. Co. v. Connell, 258 Ala. 521, 63 So.2d 603, which stand for the proposition that under the doctrine of concurring causes, liability is properly denied where an additional clause in the policy excludes coverage where death results from a disease or bodily infirmity which is the efficient cause of death.
+In one case, Connell, the Supreme Court said that it was for the jury to decide if there was an existing disease at the time of the injury and if that disease was an efficient cause of death. In the other, Nelson, the Court of Appeals held that the efficient cause of death was an existing disease.
+In the instant case the appellee is in effect contending that death was caused by a pyogenic infection that gained entrance to the body through a break in the skin in the area of the left knee. Liability in such instance is specifically not excluded. Consequently, it would then be a question for the jury to answer from the evidence adduced as to whether a loss was occasioned by an injury causing a break in the skin permitting the entrance and growth of a pyogenic infection. If such is found to exist, the terms of the policy will have been satisfied.
+The evidence shows that Virgil injured his left leg around the knee while playing on the school ground and then again while riding his motorbike. The evidence also shows, although it is in dispute, that the injury produced a red, scratched area on the leg. The pain suffered by Virgil emanated from the left knee area. Dr. Jeffres’ testimony was that when the pus pocket was found near the bone of the left leg he confirmed the diagnosis of osteomyelitis and eliminated rheumatic fever.
+The testimony of the doctors was that the staph germ was in the left leg, bloodstream and throat. It was also their testimony that the staph germ can enter the body through a break in the skin and then be transmitted to other parts of the body through the bloodstream.
+The evidence shows that when Dr. Jeffres examined Virgil, he found a slight redness in the throat and that the boy had a fever. There was also severe pain in the left leg where the knee area was swollen and red.
+Dr. Pritchett testified that the statement made by Dr. Jeffres that he found only a slight redness in the throat would indicate only a small amount of infection.
+The evidence also reflected that an infected clot of blood, probably from the veins of the leg or groin, wound up in the brain causing an emboli, or blockage of a blood vessel in the brain.
+We conclude that the evidence is sufficient to warrant the jury in concluding that Virgil’s death was due to the result of the accidental injury which in turn permitted staph germs to enter the body and multiply with such great rapidity that the germ went all over Virgil’s body reaching his brain and contributing to heart stoppage.
+The other ground of the motion for new trial which appellant contends warranted a new trial is the refusal to give the general affirmative charge with and without hypothesis.
+Alabama still adheres to the scintilla rule, under which all that is necessary is for the evidence to support the complaint by a “gleam, glimmer or glint.” We conclude that the evidence in this case was sufficient to meet the scintilla test. Hence the trial court was not in error in refusing to give at the request of the appellant the general affirmative charge with and without hypothesis.
+Assignment of error three asserts that the trial court erred in overruling the objection to the question propounded to Dr. Jeffres on cross-examination, which is as follows:
+“Q. Could the Staph infection that developed from a culture that you learned about after he died from his throat have been originated from the localized infection in his knee or his femur?”
+The evidence reflects that Dr. Jeffres examined Virgil prior to his death, testified as to his history and condition, and signed the death certificate.
+The question was asked of Dr. Jeffres on cross-examination and sought to elicit testimony from the doctor as to the cause of the infection in the knee area and whether it could have been caused by the infection in the throat. The question appears to be directed toward testing the opinion of the doctor as to the cause of death of Virgil.
+Inasmuch as Dr. Jeff res had given his opinion as to the cause of death, we see no reason why the doctor could not be further interrogated concerning his opinion as to the cause of death. We consider the question to have been proper cross-examination of the witness.
+Assignment of error five contends that the trial court committed error when it sustained the objection to the following question propounded to Dr. Pritchett:
+“Q. Yes, there does, thank you — and from the facts that you know about this case, state whether or not it is your opinion that the Staph germ in the throat caused the Staph germ or the Osteomyelitis that was present in the knee area?”
+The question propounded to Dr. Pritchett sought to elicit his opinion as to whether the staph germ in the throat caused the existence of the staph germ in the knee area.
+Dr. Pritchett had previously stated that he had not seen or examined Virgil before or after his death, and that the extent of his knowledge about the case was what he had obtained from the death certificate and a portion of the hospital records pertaining to appellee’s deceased son.
+The question asked of Dr. Pritchett was not hypothetical, but one based on the facts he had obtained relating to the child’s death and its cause. It is obvious from the record that those facts were limited. The question before the trial court and this court is whether or not the doctor was sufficiently qualified to give an opinion as to the cause of the osteomyelitis found in Virgil’s left leg.
+Whether or not a witness is qualified to testify as ¿n expert is a question to be answered by the trial court and his discretion in the matter will not be overturned except for abuse. We find none here.
+We therefore conclude that the trial court did not err in refusing to grant a new trial nor on its rulings as to admissibility of evidence.
+Motion denied.
+Affirmed.
+WRIGHT, P. J., and HOLMES, J., concur.
