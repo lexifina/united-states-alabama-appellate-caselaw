@@ -1,0 +1,28 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 78"
+decided: "1935-02-26"
+citations: ["26 Ala. App. 411", "161 So. 456"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TATE v. STATE."]
+source_url: "https://static.case.law/ala-app/26/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666993
+cites_cases: ["109 So. 845", "137 So. 535", "142 Ala. 14", "21 Ala. App. 473", "211 Ala. 346", "223 Ala. 529", "24 Ala. App. 512", "3 Ala. App. 64", "39 So. 329"]
+---
+
+# Tate v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+In the first place, the objection that the indictment was found by a grand jury from which two of its members — relatives of the deceased — had absented themselves upon the request of the solicitor, is not one that can be taken by plea in abatement. Code 1923, § 8630; Collins v. State, 3 Ala. App. 64, 58 So. 80. But if it were, there is alleged nothing to show that the indictment was not found in accordance with Code, § 8682; hence the demurrer to the said plea in abatement would have been sustained without error. Smith v. State, 142 Ala. 14, 39 So. 329.
+Obviously, the motipn to quash the indictment, on the ground set up, was properly overruled. Code, § 8630, supra.
+Drunkenness is no defense as to either degree of manslaughter. Briley v. State, 21 Ala. App. 473, 109 So. 845; Cagle v. State, 211 Ala. 346, 100 So. 318.
+Whether or not the wound inflicted upon deceased by appellant caused the death of deceased was a question properly submitted to the jury for decision. There was no error in allowing the witness Dr. Floyd, sufficiently shown to be qualified as a medical expert, to give his opinion as to this. See Howard v. State, 24 Ala. App. 512, 137 So. 532, certiorari denied 223 Ala. 529, 137 So. 535.
+We have endeavored to fully perform our duty under Code 1923, § 3258, aided by the brief filed here on behalf of appellant; but we observe nothing calling for more comment than we have made, above.
+Appellant appears to have had a fair trial in every way.
+The judgment is affirmed.
+Affirmed.
