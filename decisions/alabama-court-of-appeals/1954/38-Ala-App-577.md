@@ -1,0 +1,52 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 921"
+decided: "1954-06-15"
+citations: ["38 Ala. App. 577", "90 So. 2d 100"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARMSTRONG v. LOUISVILLE & N. R. CO."]
+source_url: "https://static.case.law/ala-app/38/cases/0577-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1699427
+cites_cases: ["101 So. 661", "105 Ala. 354", "11 Ala.App. 253", "12 So. 801", "121 Ala. 230", "13 So. 377", "141 Ala. 351", "143 Ala. 149", "146 Ala. 384", "148 Ala. 35", "150 Ala. 390", "16 So. 797", "212 Ala. 41", "222 Ala. 557", "25 So. 731", "25 So. 733", "250 Ala. 618", "259 Ala. 629", "265 Ala. 113", "34 Ala.App. 644", "37 Ala.App. 182", "37 So. 439", "41 So. 425", "41 So. 427", "42 So. 108", "42 So.2d 837", "65 So. 918", "98 Ala. 326", "98 Ala. 395"]
+---
+
+# Armstrong v. Louisville & N. R.
+
+## Majority (CARR, Presiding Judge. PER CURIAM.)
+
+CARR, Presiding Judge.
+This is a cause of action brought by the plaintiff against the defendant in which damages are sought for the killing of a cow by the alleged negligent operation of a train.
+In the court below there was a verdict and judgment in favor of the defendant.
+The trial judge refused the general affirmative charge with hypothesis in plaintiff’s behalf. This action constitutes the question of prime concern for our review.
+In the main the evidence is not in dispute. We will confine our delineation of the facts to those most favorable to appellee. This is proper in approaching the question of instant review. Southern R. Co. v. Randall, 212 Ala. 41, 101 So. 661; Alabama Power Co. v. Buck, 250 Ala. 618, 35 So.2d 355; Perry v. Atlantic Coast Line R. Co., 34 Ala.App. 644, 42 So.2d 837.
+Appellee’s locomotive engineer was driving a two unit diesel engine. His load consisted of forty-two loaded and ten empty freight cars. There is no disputed question about the experience of the engineer or his care in keeping a lookout. The mechanical equipment of the train was in every respect in good working order.
+It cannot be doubted that from the time the engineer first observed the cow standing on the track to the time he struck her he did everything reasonably possible to avoid the injury.
+The train was traveling down grade at about thirty-five miles per hour on a clear, dark night. On a straightaway track the engine headlight ray extended a distance of about nine hundred feet. As the train approached the place where the cow was standing on the track it rounded a curve. Under these circumstances the animal was not seen until the light “picked her up” at a point about five hundred feet from the engine.
+The engineer testified that it was impossible to stop his train within this distance. In fact, he stated that he brought his train to a rest as soon as he could, and this was about twelve hundred feet from the point where he first saw the cow.
+Reduced to its last analysis we have this situation: The speed of the train made it impossible, by the use of ordinary means and appliances, to stop the engine and prevent the injury within the distance in which the cow could have been seen by the aid of the engine headlight, even if the track at the place had been straight.
+In the case of Louisville & N. R. Co. v. Green, 222 Ala. 557, 133 So. 294, 295, the Supreme Court gave the following explanation of the effective application of Sec. 173, Title 48, Code 1940:
+“Our statute simply means that, when injury is shown by a railroad, the plaintiff makes out a prima facie case, and that the burden is then shifted to the railroad to rebut or overcome said prima facie case by introducing evidence sufficient to dispute or overcome the said prima facie case of the plaintiff. This may be done by undisputed facts sufficient to rebut the prima facie case, and, when so done, would entitle the defendant to the affirmative charge. On the other hand, if the plaintiff makes out a prima facie case and in doing so does not acquit the defendant of negligence or does not also show sufficient evidence to take the negligence to the jury, and this was all, the plaintiff would be entitled to the general charge.”
+See also, Alabama Great Southern R. Co. v. Bishop, 259 Ala. 629, 68 So.2d 530.
+It is pointed out in the Green case, supra, that the statute “fixes the burden upon the railroad as to injury whether occurring at places fixed by the three preceding sections or not.”
+In a long line of authorities in this jurisdiction it has been declared that it is the duty of a railroad company to run its trains in the nighttime at such a rate of speed that they can be stopped, by the use of ordinary means and appliances, within the distance in which animals would be seen upon the track by the aid of engine headlight. A failure in this respect is negligence and if injury to stock is caused on this account damages therefor are recoverable. Birmingham Mineral R. Co. v. Harris, 98 Ala. 326, 13 So. 377; Central R. & Banking Co. of Ga. v. Ingram, 98 Ala. 395, 12 So. 801; Alabama Midland R. Co. v. McGill, 121 Ala. 230, 25 So. 731; Southern R. Co. v. Hoge, 141 Ala. 351, 37 So. 439; Central of Georgia R. Co. v. Main, 143 Ala. 149, 42 So. 108; Hogue v. Southern R. Co., 146 Ala. 384, 41 So. 425; Western Ry. of Alabama v. Mitchell, 148 Ala. 35, 41 So. 427; Louisville & N. R. Co. v. Christian Moerlein Brewing Co., 150 Ala. 390, 43 So. 723; Louisville & N. R. Co. v. Fox, 11 Ala.App. 253, 65 So. 917; Louisville & N. R. Co. v. King, 37 Ala.App. 182, 67 So.2d 49, 51.
+As we have indicated, on the basis of the undisputed evidence the appellee was guilty of negligence when the above rule is applied. However, this is not necessarily an end to the matter. The doctrines of causal connection and proximate cause must be taken into account.
+In many cases this becomes a question of fact for the jury because of proof of intervening unusual, natural causes, such as heavy fog, falling rain, or snow. Then, too, we have circumstances where animals suddenly approach the path of danger. Some of the authorities cited supra point this out.
+Counsel for appellant calls our attention to a statement contained in our recent case of Louisville & Nashville Railroad Co. v. King, supra. Judge Harwood, writing for the court, did say:
+“Further, a jury question was presented as to the engineer’s negligence growing out of the evidence to the effect that the night was clear; that the headlight permitted observation of obstructions on the track possibly 200 feet ahead, but that at the speed he was operating the train it could not be stopped under 300 feet.”
+This should be considered in connection with the facts in the case, and when this is done a departure from the general rule is not declared.
+In the case of Alabama Midland Railway Co. v. McGill, supra, the cow was killed by a train on a foggy night. In response to the review the court observed [121 Ala. 230, 25 So. 733]:
+“It was not shown that the train could have been stopped within a hundred yards, — the distance the engineer testified he could have seen ahead of him on an ordinary night by the aid of the headlight. It thus appears, that independent of the fog, and if it had been a clear night, he might not have been able to save the animals, and was, as for the animals on the track, guilty of negligence in running the train. The court did not err in giving the general charge for plaintiff, and refusing the like charge in favor of defendant.”
+In the case of Louisville & N. R. Co. v. Cochran, 105 Ala. 354, 16 So. 797, 798, a horse was killed by a train near a curve in the track. Apparently it occurred in the daytime. The place of injury was about two hundred and fifty yards from the point in the curve where the animal could be first observed by the engineer. The train was proceeding at a rate of speed that made it impossible to stop within this distance. The court held that under these circumstances in consonance with the authorities “a liability for the value of the horse was fixed on the appellant.”
+We cite this authority to illustrate our view that the fact that the train was rounding a curve in the instant case did not affect the application of the general rule.
+The case of Louisville & N. R. Co. v. Fox, supra, seems to be decisive of the question of instant concern.
+The train was traveling up grade around a curve. The insistence was made that the fact it was raining at the time should make the general doctrine inapplicable. This court rejected this insistence and held in effect that the injury to the animal was not attributable to the rain, because the train was proceeding at such a rate of speed that it could not have been stopped within the distance in which the animal could have been seen by the servants of the railroad company if it had been a clear night. The court made this observation [11 Ala.App. 253, 65 So. 918]:
+“The injuring of an animal due to its being on the track at a place at which, because of the plan adopted in the construction of the roadbed along there, such a rate of speed must be maintained that the train cannot be stopped within the distance in which objects ahead can be discovered, is not in the same category as a similar injury which is attributable to an unusual natural condition prevailing at the time which makes it impossible for the engineer to see an obstacle on the track in time to avoid a collision with it. A railroad proprietor may be responsible for an injury due to a danger resulting from the way the road was built and is used, when he would not be liable for a similar injury which is attributable to the existence of exceptional conditions brought about by the operation of natural causes.”
+The conclusion was reached that the lower court did not err in giving the general affirmative charge for the plaintiff.
+In the case at bar there are no reasonable inferences or deductions to be drawn from the evidence which could lead to any conclusion other than that the negligence of the appellee’s agent was the sole proximate cause of the injury to the cow.
+We hold, therefore, that the appellant was due the general affirmative charge with hypothesis. For its refusal the judgment below is ordered reversed and the cause remanded.
+Reversed and remanded.
+PER CURIAM.
+Affirmed on authority of Armstrong v. Louisville & N. R. Co., 265 Ala. 113, 90 So.2d 103.
