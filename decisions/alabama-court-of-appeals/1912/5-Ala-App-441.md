@@ -1,0 +1,25 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-06-13"
+citations: ["5 Ala. App. 441", "59 So. 717"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Glenn Refining Co. v. Webster."]
+source_url: "https://static.case.law/ala-app/5/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1619598
+cites_cases: ["105 Ala. 240", "116 Ala. 630", "118 Ala. 246", "119 Ala. 461", "124 Ala. 596", "125 Ala. 280", "125 Ala. 442", "125 Ala. 512", "127 Ala. 189", "128 Ala. 410", "128 Ala. 671", "129 Ala. 336", "130 Ala. 633", "131 Ala. 269", "131 Ala. 568", "132 Ala. 269", "132 Ala. 348", "135 Ala. 546", "150 Ala. 95", "159 Ala. 437", "16 South. 720", "164 Ala. 631", "165 Ala. 387", "169 Ala. 472", "170 Ala. 87", "20 Ala. 242", "24 South. 20", "24 South. 427", "26 South. 918", "28 South. 74", "28 South. 880", "29 South. 555", "30 South. 491", "30 South. 600", "30 South. 674", "30 South. 827", "31 South. 484", "31 South. 555", "32 South. 489", "33 South. 670", "41 Ala. 626", "43 South. 194", "51 South. 415", "54 South. 191"]
+---
+
+# Glenn Refining Co. v. Webster
+
+## Majority (PELHAM, J. —)
+
+PELHAM, J. —
+The appellant brought his suit in the first instance in a justice’s court of Etowah county, declaring on a written contract or ordei’, seeking to recover $25 for certain oils and belt dressing, which were refused by the defendant and afterwards burned in the railroad depot. It was defendant’s contention that he had not ordered the quantity shipped, and that the written order for the goods was procured by fraud. There was a judgment for defendant in the justice court, an appeal taken by plaintiff to the circuit court, where the cause was tried before the court without a jury, and judgment there rendered in favor of the defendant, from which this appeal is prosecuted.
+The first ground of error assigned on the record is that the circuit court erred in overruling the plaintiff’s demurrers to the defendant’s plea No. 4. No judgment of the court is shown by the record overruling demurrers to the fotirth plea, so as to present the question for the consideration of this court. The recital in the judgment entry shows that it is “ordered that said demurrers to plea four be and the same are hereby overruled,” but does not show a formal adjudication on the demurrers. — Ala. Nat. Bk. v. Hunt et al., 125 Ala. 512, 28 Strath. 488; Cartlidge v. Sloan, 124 Ala. 596, 26 South. 918; Carter v. Long Bros., 125 Ala. 280, 28 South. 74; Bessemer L. & I. Co. v. Dubose, 125 Ala. 442, 28 South. 880; Dantzler v. Swift Greek Co., 128 Ala. 410, 30 South. 674; Tutwiler Co. v. Enslen, Adm'r, 129 Ala. 336, 30 South. 600; M. & C. R. R. Co. v. Martin, 131 Ala. 269, 30 South. 827. The special plea (No. 4) demurred to, however, was sufficient, as it alleged and set out the fraudulent representations made in procuring the defendant’s signature to the contract, and was a sufficient averment of fraud in a plea filed in a trial on appeal from a justice court, where the trial is de novo and “according to equity and justice,” etc. — Code, § 4720.
+There are other assignments of error going to the court’s rulings on the evidence; but the bill of exceptions show no exception reserved to any of these various rulings assigned as error, and they cannot he considered. — Van Kirk Land Co. v. Green, 132 Ala. 348, 31 South. 484; Stuart v. Mitchum, 135 Ala. 546; 33 South. 670; Woodson v. State, 170 Ala. 87, 54 South. 191; Gordon v. McLeod, 20 Ala. 242.
+The judgment of the court finding for the defendant was supported by the evidence under the issues formed. The written contract or order relied upon by plaintiff is not set out in the bill of exceptions, and we have nothing before us that would enable us to pass intelligently on the assignment of error that the judgment is erroneous in disregarding the written contract. This court is not authorized to disturb the findings of the trial court on the evidence in a trial had before it without a jury, unless plainly erroneous or manifestly wrong. The judgment and conclusions of the lower court upon the evidence must he given the force and effect of a finding by a jury. — Montgomery Lodge v. Massey, 159 Ala. 437, 49 South. 231; Minchener v. Robinson, 169 Ala. 472, 53 South. 749; Kelly v. Anniston, 164 Ala. 631, 51 South. 415; City of Ensley v. Smith, 165 Ala. 387, 51 South. 343; Woodrow v. Hawving, 105 Ala. 240, 16 South. 720; Ward v. Shirley, 131 Ala. 568, 32 South. 489; Little v. Smith, 119 Ala. 461, 24 South. 427; Bank v. Chaffin, 118 Ala. 246, 24 South. 20; Millner v. State, 150 Ala. 95, 43 South. 194; Callaban v. Nelson, 128 Ala. 671, 29 South. 555; Randall v. Wadsworth, 130 Ala. 633, 31 South. 555; L. & N. R. R. Co. v. Solomon, 127 Ala. 189, 30 South. 491; Kirksey v. Kirksey, 41 Ala. 626.
+The couelusion of the circuit court in finding the issues for the defendant is without error. The judgment of the court below is affirmed.
+Affirmed.
