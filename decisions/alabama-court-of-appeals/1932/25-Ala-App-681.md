@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "2 Div. 519"
+decided: "1932-11-08"
+citations: ["25 Ala. App. 681", "144 So. 926"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willis Herman SMITH v. STATE."]
+source_url: "https://static.case.law/ala-app/25/cases/0681-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1665211
+---
+
+# Smith v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+Affirmed.
