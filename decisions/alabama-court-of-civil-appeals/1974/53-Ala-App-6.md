@@ -1,0 +1,40 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 351"
+decided: "1974-06-28"
+citations: ["53 Ala. App. 6", "296 So. 2d 907"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["Oliver Donald COLLUM, Jr. v. Linda Mae COLLUM."]
+source_url: "https://static.case.law/ala-app/53/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1738758
+cites_cases: ["268 Ala. 619", "272 Ala. 517", "276 Ala. 675", "278 Ala. 610", "291 Ala. 569", "46 Ala.App. 206", "48 Ala.App. 363", "49 Ala.App. 662", "50 Ala.App. 682"]
+---
+
+# Collum v. Collum
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+This is an appeal from a divorce decree rendered by the Law and Equity Court of Chilton County. The trial court, in February of 1974, divorced the parties, provided for child support, made certain distribution of real and personal property, and awarded custody of a four year old male child of the parties to the appellee-wife, with the appellant-husband having certain specific visitation rights.
+The appellant-husband appeals from this decree and assigns as error the trial court’s action* in not awarding primary custody of the child to the appellant.
+The facts pertinent to the issue involved are as follows: The parties were married in February of 1968 and shortly thereafter the appellant was called into military service where he served his country in Vietnam. During the time appellant was in military service the appellee-wife, other than for a relatively short period of time, lived with her parents in their home. In August of 1969, while appellee was residing with her parents, the parties’ child was born. After the birth of the child the appellee and the child resided with the maternal grandparents until the child was approximately ten months old. During this time, because of his military duties, the appellant did not get to see his child until the child was over six months old.
+The record reveals that the parties had a satisfactory marriage, under the circumstances, until appellant returned from his military service. Thereafter, the parties did not have a satisfactory marriage. They bickered, had very little communication between one another, and under one view of the evidence, physically abused each other, finally separating in May of 1973.
+Additionally, the appellee-mother, during this time, began to experience emotional and/or mental difficulties culminating in her being hospitalized for mental problems on September 14, 1970. She was discharged from the hospital on September 23, 1970. Appellee was readmitted to the hospital for mental illness on June 12, 1973, and discharged on July 10, 1973. At the time of the trial appellee was taking certain medication daily and visited a psychiatrist approximately every two and one-half months.
+The record also, to this court, reveals that both the appellant-father and the appellee-mother love their child. Furthermore, the appellant is an industrious, hard working, church going young man. From the record it appears his personal life is exemplary. Likewise, the appellee-fnother is not deficient other than a consideration of the aforesaid mental illness. In this regard we observe that the medical testimony is that the appellant is capable of looking after and caring for the child. There is ample lay testimony to this effect, also, and none to the contrary.
+We note also that both parties are now residing with their parents. These grandparents, maternal and paternal, are approximately the same age; have comfortable homes; love their grandchild; and testified they are willing for the child to live in their homes.
+The trial court, after having an ore ten-us hearing, made certain findings, to wit, that both parties had good qualities and few faults, that each is qualified to have the responsibility of the custody of the child, that the mental illness suffered by the mother in the past does not “disqualify” her to have custody, that the child needs the care and guidance of both his mother and father. Additionally, the court found that the mother does not work (although a trained beautician) and, therefore, is home most of the time, while the father does work and is necessarily away during the day of a work week.
+Based upon these findings, the learned trial court awarded custody to the mother, with the father having overnight visitation rights every weekend, thirty consecutive days during the summer months, and seven days during the Christmas holidays.
+At the outset, we deem it appropriate to again reiterate that cases involving family tragedies are among the hardest to deal with and the court is seldom fully satisfied with the result reached. Evans v. Wilkes, 48 Ala.App. 363, 265 So.2d 145.
+With the aforestated facts in mind, able counsel for the appellant contends that the best interest of the child would be served if primary custody was awarded to the father. Counsel cites to this court Hammett v. Hammett, 46 Ala.App. 206, 239 So.2d 778, for the proposition that where there is not involved a child of such tender years as to be peculiarly dependent upon the mother, there is no rule of law or requirement that custody be granted to the mother rather than the father, when both are fit and proper custodians. We quite agree with this proposition of law; however, in all cases involving child custody the primary consideration always is, regardless of age, sex or circumstances involved, the best interest and welfare of the minor child. The cases pronouncing this principle are legion, representative are Calhoun v. Calhoun, 278 Ala. 610, 179 So.2d 737; McBride v. McBride, 268 Ala. 619, 109 So.2d 718; Linderman v. Linderman, 49 Ala.App. 662, 275 So.2d 342; Stuckey v. Stuckey, 50 Ala.App. 682, 282 So.2d 283.
+Coupled with the above principle,as this court must view an appeal of this nature, is the strong presumption favoring the trial court’s findings in cases of this class. See Statham v. Statham, 276 Ala. 675, 166 So.2d 403; 2A Ala.Dig., Appeal and Error, @=>931. It is well established that where evidence is heard orally by the trial court the finding of the court has the effect of a jury’s verdict and will not be disturbed on appeal unless plainly erroneous, whether in law or equity, and we must affirm the trial court’s decree if fairly supported by credible evidence under any reasonable aspect. Jackson v. Rodda, 291 Ala. 569, 285 So.2d 77.
+In this instance, from a close scrutiny of the trial court’s decree, it is apparent the court had in mind the best interest and welfare of the child. The lower court’s findings and decree is, to this court, an attempt under the circumstances to provide an opportunity for the child to have the companionship, love and training of both parents.
+In view of the aforementioned presumption, we cannot say the trial court erred to reversal; we particularly note that at the present time the child is in the home where he spent the better part of the first year of his life.
+This court would confess, under the facts of this case, had the trial judge awarded primary custody to the father, we would have affirmed. However, in view of the facts of this case, coupled with the presumption of correctness, we cannot say the trial court committed reversible error in awarding custody to the mother.
+We do point out to both parties that in a case of this nature this court’s ruling and the trial court’s order is never res judicata and under different circumstances the court may later well reach a different conclusion. Danford v. Dupree, 272 Ala. 517, 132 So.2d 734.
+Counsel for the appellee-wife has requested that this court award an attorney’s fee to him for his representation of the wife on this appeal: It is noted that counsel for the wife was awarded a fee of $300 for his services in the lower court. An award of $150 is hereby made for his representation on the appeal.
+Affirmed.
+WRIGHT, P. J., and BRADLEY, J., concur.
