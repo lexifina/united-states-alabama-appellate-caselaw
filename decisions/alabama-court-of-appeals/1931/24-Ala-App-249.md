@@ -1,0 +1,31 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 662"
+decided: "1931-02-10"
+citations: ["24 Ala. App. 249", "134 So. 815"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["REYNOLDS v. STATE."]
+source_url: "https://static.case.law/ala-app/24/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1660563
+cites_cases: ["20 Ala. App. 56", "3 So. 425", "3 So. 616", "83 Ala. 16", "83 Ala. 9"]
+---
+
+# Reynolds v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+Appellant was indicted for manslaughter in the first degree; charge being that he unlawfully and intentionally killed Myrtice String-fellow by running into her with an automobile, but without malice. The deceased was killed in an automobile accident in October, 1929. At the time of the accident, the defendant, his wife, and one R. S. Coskrey were going to Pine Apple from the direction of Greenville, Ala. In going they passed a road tractor to which was attached a drag, which was being driven at the time by a negro named Eugene Watts, who was dragging the road. Just as the car driven by appellant was passing the drag, it struck the deceased, who was on the road at the time, with such force as to cause her death. The insistence on the part of the state was that defendant was under the influence of liquor, that-he was driving at a rapid rate of speed, and that the accident was caused by this and his recklessness in driving of the car. The defendant insisted that he was not drinking; that just before meeting the tractor he was driving at the rate of thirty-five miles per hour, and that in passing he slowed down to about thirty miles per hour; that he tried to keep a lookout down the road in the direction he was going, but that, because of the sun and the dust raised from the tractor, he was unable to see the deceased, who. the undisputed testimony shows, was traveling in the road in the same .direction defendant was going, and that he did not know the deceased was on the road until after she was struck.
+The jury found the defendant guilty of ínánslau'ghter in the first degree, and fixed his sentence at five years in the penitentiary.' Defendant' made a motion for a new trial. This was overruled, and he appeals.
+The indictment charged the unlawful and intentional killing of deceased. It is contended for appellant that the evidence must prove the intent to kill before a conviction dan be'justified! To'constitute manslaughter in'the first degree, there must either be a positive intent to kill or an act of violence fiom which ordinarily,- in the usual course of events, depth or great bodily harm may be the consequence. The foregoing has been the accepted definition of manslaughter in the first degree since the cases of Harrington v. State, 83 Ala. 9, 3 So. 425; Williams v. State, 83 Ala. 16, 3 So. 616. The indictment is in Code form and. charges manslaughter as above defined. If the defendant in this case so recklessly drove an automobile along the public highway and in such manner as to endanger humánlife, and death resulted, the act would be 'manslaughter in the first degree whether the positive intention to kill was proven or not. As to this, the evidence was in conflict, and therefore was a question for the jury under appropriate instructions from the court. GhhrgeS I and 2' raising this question were properly-' refused, and we do not think the preponderance of the evidence would justify us in holding that the court was in error in refusing to grant the motion for a new trial
+One of the questions to be passed upon .by the jury was whether or not the defendant was .driving the automobile along the public highway, while intoxicated or drunk. It was .therefore competent for the state’s witness Saucer to testify that between 1 and 2 o’clock he saw. defendant with a bottle of liquor, and the fact’ that the killing occurred some two hours afterwards did not render such evidence inadmissible as being too remote.
+In a homicide ease,-a description of the locus in quo is always relevant, and therefore the location of the scattered brains of the deceased and the finding of a bottle partially-filled with' whisky just over the fence in á field opposite the place where defendant stopped his car just after he had struck deceased was relevant as tending to prove circumstances relating to the homicide.
+Defendant reserved an exception to the exclusion of a statement by the witness Autrey that “the drag covers about eight feet of the- road, that is usual when dragging.” The question was not what was usual, but what part of 'the road did the drag cover at the time of the homicide. Moreover, this witness had just testified without objection that the drag was about eight feet wide— covers about eight feet of the road.
+The question as to the usual method of dragging the road was also immaterial. How was it being done at the time of the killing? As to this the driver of the drag was a witness and testified on this point.
+Other 'questions reserved on the admission of évidence are without merit. If technically objectionable, there could have been no injury.
+It is insisted on motion for new trial that there is no evidence of an intent to kill, and, in the absence of such evidence, the defendant cannot be convicted of manslaughter in the first degree. The law governing homicide is not so narrow. If a person knowingly and consciously drives a high-powered automobile at an excessive rate of speed along tile public highway, where other vehicles arid pedestrians are liable to be and the driver’s vision is obstructed by clouds of dust and the sun is shining in his face, and. at a point where he must pass a road machine which takes up at least half the road and death results to a pedestrian walking along the highway, a jury would be justified in finding that the offense was manslaughter in the first degree. State v. Massey, 20 Ala. App. 56, 100 So. 625. The charge of the court was in line with the foregoing, and the evidence for the state -tended to sustain the verdict rendered. The motion for new trial was properly overruled:
+The judgment is affirmed.
+Affirmed.
