@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 972"
+decided: "1931-01-13"
+citations: ["24 Ala. App. 158", "132 So. 65"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARRUTH et al. v. STATE."]
+source_url: "https://static.case.law/ala-app/24/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1660335
+cites_cases: ["109 Ala. 266", "112 Ala. 179", "120 So. 577", "129 So. 291", "129 So. 792", "16 Ala. App. 70", "182 Ala. 291", "19 So. 533", "20 So. 846", "23 Ala. App. 113", "23 Ala. App. 542", "23 Ala. App. 58"]
+---
+
+# Carruth v. State
+
+## Majority (SAMFORD, J.)
+
+SAMFORD, J.
+This was a suit brought in the name of the state of Alabama, by W. H. Quillin, solicitor of law and equity court of Franklin county, seeking to recover licenses claimed to be due the state under section 7% of an Act of the Legislature, approved July 22, 1927. Acts 1927, p. 139 et seq.
+Motion was made by the defendants in the court below to dismiss the cause out of court on the ground that W. H. Quillin, solicitor, etc., had no authority to bring the suit; he not having been authorized by the Governor or other duly constituted authority to do so. On this motion evidence was introduced showing without dispute that W. H. Quillin, acting as solicitor, etc., had instituted the suit of his motion, and that he was not authorized so to do other than by the general authority given solicitors.
+A remedy for the enforcement of the collection of the license levied by section 7% of the Revenue Act of 1927 is found in section 72 of said act, page 183. But this remedy is not exclusive. Dunning v. Town of Thomasville, 16 Ala. App. 70, 75 So. 276. The amount of the license being fixed and certain, the state can recover the amount due in an action as for debt. State v. Fleming, 112 Ala. 179, 20 So. 846; Greil Bros. Co. v. City of Montgomery, 182 Ala. 291, 62 So. 692, Ann. Cas. 1915D, 738.
+For the recovery of the license named in section 7%, supra, the state has an inherent right of action to be brought and prosecuted in such manner and by such officers as the Legislature may direct. In this state such action may be brought by order of the Governor, Code 1923, § 5644, the Attorney General, Code 1923, § 854, and by the circuit, county, and other solicitors within the circuit, county, or other territory for which he is elected or appointed, provided the same originates or is being prosecuted in the circuit court, Code 1923, § 5498 (3); 22 R. C. L. p. 92 (6).
+The act of omission complained of occurred in Franklin county. Under the statute the venue was properly in that county. Code 1923, § 10467; Rand v. Gibson, 109 Ala. 266, 19 So. 533.
+The demurrers to counts C, D, and E take the point that the complaint does not allege that defendants were not within the exception provided in the statute levying the license or tax. This was defensive matter not necessary to be alleged in the complaint. Sanford v. State, 23 Ala. App. 58, 120 So. 577; Tucker v. State, 23 Ala. App. 542, 129 So. 291.
+The defendants claim, by their pleas and by evidence offered and excluded by the court, to come within the exemption provided in the statute, in that the S. Hamilton Company, Inc., had at the time of the bringing of this suit a regular place of business in Alabama, and that they paid license as such merchant. By the pleading and proof it was developed on the trial that S. Hamilton Company, Inc., one of the defendants and for whom the defendant Carruth acted as agent in Fránklin county, was a wholesale merchant and jobber owning its own storehouse in Jasper, Walker county, Ala.; that as a part of said wholesale and jobbing business it sold auto accessories and cigarettes, for which it paid the license required by law. The auto accessories and cigarettes were carried and sold as a part of the general business of wholesale merchant and jobber in which the corporation was engaged, and, for the sale of these, licenses were required by the state and paid by the defendant S. Hamilton Company, Inc. There was no license required for doing the business of wholesale merchant and jobber. The defendant S. Hamilton Company, Inc., was a merchant having a regular place of business in Alabama, and as such merchant defendant paid such license as was required of it by the law then in force. If there had been a general license required for wholesale merchants and jobbers and that license had been paid by S. Hamilton Company, Inc., on its business located at Jasper, there could be no question but that defendant would be exempt from the license here sued for. If in lieu of a general license the state fixes licenses on certain branches of the business and those licenses are paid,- is the status of defendant changed from that of a permanent business to that of a migratory dealer? The general rule of construction applicable to license statutes is that, where the language of the statute is reasonably capable of two constructions, that most favorable to the taxpayer must be adopted. Williams, Judge, v. Pugh (Ala. App.) 129 So. 792. It seems quite reasonable to us that this section 7% of the revenue law was adopted, not alone for the purpose of revenue, but to protect local merchants from such transient and migratory dealers who without permanent and fixed places of business in the state take advantage of flooded conditions of the markets of perishable merchandise to reap a quick harvest, and pass quickly on without bearing their fair share of the burdens of government. Such reason could not apply to either of these defendants. Construing, as we must, the exemption in favor of the taxpayer, we hold that, “having a regular place.of business in Alabama and having paid license as such merchant,” neither defendant S. Hamilton Company, Inc., nor Carruth, its agent, is liable for the tax.
+The rulings of the trial court were not in accord with the foregoing views, and, for the errors in such rulings, the judgment is reversed, and the cause is remanded.
+Reversed and remanded.
+Ante, p. 57.
