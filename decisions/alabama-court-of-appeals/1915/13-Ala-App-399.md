@@ -1,7 +1,7 @@
 ---
 court: "Alabama Court of Appeals"
 decided: "1915-06-15"
-citations: ["13 Ala. App. 399", "69 So. 402", "13 Ala. App. 411", "69 So. 406"]
+citations: ["13 Ala. App. 399", "69 So. 402"]
 reporter: "ala-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Smith v. The State."]
 source_url: "https://static.case.law/ala-app/13/cases/0399-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1628359
-cites_cases: ["102 Ala. 161", "106 Ala. 30", "11 Ala. App. 134", "11 Ala. App. 147", "110 Ala. 85", "113 Ala. 58", "117 Ala. 183", "117 Ala. 199", "118 Ala. 126", "118 Ala. 97", "121 Ala. 1", "129 Ala. 1", "132 Ala. 471", "133 Ala. 158", "134 Ala. 90", "138 Ala. 673", "141 Ala. 175", "141 Ala. 258", "141 Ala. 71", "142 Ala. 546", "145 Ala. 585", "145 Ala. 69", "15 South. 438", "151 Ala. 316", "152 Ala. 105", "160 Ala. 590", "162 Ala. 74", "162 Ala. 81", "17 South. 456", "170 Ala. 1", "193 Ala. 680", "194 U. S. 25", "20 South. 392", "21 South. 463", "23 South. 42", "23 South. 43", "24 South. 111", "24 South. 43", "25 South. 1017", "28 N. W. 179", "30 South. 33", "31 Ill. 170", "31 South. 573", "32 South. 635", "32 South. 750", "33 South. 1015", "37 South. 343", "37 South. 395", "37 South. 493", "38 Ala. 190", "38 Am. Rep. 262", "38 South. 750", "43 Conn. 480", "44 Ala. 234", "44 Mich. 245", "44 South. 53", "47 Ala. 625", "50 Ala. 193", "50 South. 281", "51 Ala. 521", "54 South. 430", "55 Ala. 225", "56 Pac. 853", "6 N. W. 654", "6 South. 420", "60 Ala. 533", "60 South. 959", "62 South. 991", "63 Ala. 18", "65 South. 678", "66 Wis. 415", "67 Ala. 575", "67 Ala. 81", "69 South. 1020", "69 South. 379", "7 Ala. App. 64", "71 Ala. 210", "72 Ala. 173", "72 N. C. 421", "79 Ind. 151", "8 Ala. App. 147", "8 Ala. App. 333", "8 Okl. 75", "87 Ala. 120", "9 Ala. App. 65"]
+cites_cases: ["11 Ala. App. 134", "117 Ala. 183", "118 Ala. 97", "134 Ala. 90", "162 Ala. 74", "162 Ala. 81", "193 Ala. 680", "23 South. 43", "24 South. 43", "32 South. 750", "50 South. 281", "6 South. 420", "60 South. 959", "62 South. 991", "63 Ala. 18", "69 South. 1020", "69 South. 379", "7 Ala. App. 64", "79 Ind. 151", "8 Ala. App. 147", "8 Ala. App. 333", "87 Ala. 120"]
 ---
 
 # Smith v. State
