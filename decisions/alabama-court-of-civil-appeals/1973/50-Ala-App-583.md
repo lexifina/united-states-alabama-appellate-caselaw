@@ -1,0 +1,52 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 145"
+decided: "1973-08-08"
+citations: ["50 Ala. App. 583", "281 So. 2d 437"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and BRADLEY, J., concur."]
+parties: ["Herbert LIPHAM, Jr. v. Peggy LIPHAM."]
+source_url: "https://static.case.law/ala-app/50/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1731197
+cites_cases: ["221 So.2d 677", "274 So.2d 80", "277 Ala. 2", "278 Ala. 79", "280 Ala. 506", "280 So.2d 150", "283 Ala. 275", "284 Ala. 39", "285 Ala. 516", "290 Ala. 370", "45 Ala.App. 461", "49 Ala.App. 514", "49 Ala.App. 665"]
+---
+
+# Lipham v. Lipham
+
+## Majority (HOLMES, Judge.)
+
+HOLMES, Judge.
+The appellee-wife originally brought suit for divorce against appellant-husband in the Marshall County Circuit Court in May of 1972. The ground for divorce in the suit was incompatibility of temperament.
+In addition to the divorce, the appellee sought permanent custody of the parties’ minor child, alimony and child support, certain personal property (household goods and furniture), the home owned by the parties as tenants in common, and a reasonable attorney’s fee.
+Issue was joined; testimony on the bill of complaint proceeded ore tenus-, and after certain modifications of its original decree the trial court entered a final decree of divorce, granting a divorce on the ground of incompatibility of temperament; custody of the child of the parties was awarded to the wife with the husband having visitation rights from Friday afternoon until Sunday afternoon every other weekend, also the entire month of July and Thanksgiving holidays; appellant was ordered to pay $100 per month as child support; further, he was to continue medical and hospital insurance on the child; appellee was awarded as alimony in gross certain personal property; appellee-wife was further awarded all of appellant’s interest in the home, however, certain joint debts were to be a lien on said home to secure payment of the debts; appellant was required to pay certain other debts; and the decree provided that appellant was to pay an attorney’s fee of $350 to the attorney for appellee.
+From the decree, appellant has taken this appeal, and the case was submitted to this court on July 11, 1973.
+As we perceive appellant’s assignments of error and argument in brief, it is contended that the trial court erred to reversal in that the evidence adduced was insufficient to support the decree granting a divorce on the statutory ground of incompatibility of temperament; that the amount of alimony in gross in this instance was so unjust and inequitable that the trial court abused its discretion; that the amount of child support is excessive; and lastly, that visitation rights are so restrictive as to constitute an abuse of discretion by the trial court.
+The appropriate facts and law, as it applies, will be discussed as they relate to the above issues raised by appellant’s assignments of error.
+As to the sufficiency of the evidence to support the decree granting a divorce on the grounds of incompatibility of temperament, the evidence from the record reveals that the parties were married in 1963 and separated in 1972. There was one child born of this union, who is approximately nine years of age.
+The wife testified that the husband drank alcoholic beverages to excess. She further testified that the husband was financially irresponsible; that he was extremely jealous; that there had been some minor physical abuse; that she did not love him and would not live with him.
+On the other hand, the husband testified there were no real marital problems and that he did not want a divorce. We note, however, that during appellee’s testimony an attempt was made to show appellee had at best been indiscreet while the parties were separated, to wit, in her apartment with a male with the lights turned off. Further, appellant, himself, testified that the wife was “indifferent” and she would not talk to him. Appellant also, during cross examination, on page 92 of the record, stated, as we read the testimony, that he hopes to be divorced.
+As this court said in Self v. Self, 49 Ala.App. 665, 667, 275 So.2d 345, 347, citing Phillips v. Phillips, 49 Ala.App. 514, 274 So.2d 71 (January 1973), cert. den. 290 Ala. 370, 274 So.2d 80, 1973:
+“[Tjhis court defined and discussed incompatibility of temperament as a ground for divorce in Alabama, and we do not here need to reiterate what we stated in that opinion. However, in general terms, in Phillips, supra, we defined incompatibility as referring to conflicts in personality and disposition so deep as to be irreconcilable and to render it impossible for the parties to continue a normal marital relationship with each other. We further said that this new ground for divorce in Alabama gives to the trial court additional discretional power and its determination that a divorce should be granted or should not be granted on such ground will only be reversed if such decision is plainly and palpably wrong.
+“As was stated in Phillips, supra, the trial court, in determining whether or not incompatibility exists, should consider whether or not there is a conflict of personality; whether or not there is mutual concern for the emotional needs of each other; whether the marriage is characterized by financial difficulties, long physical separation, difference of interests, resentment, coolness, distrust and constant bickering; and whether antagonistic feelings exist that are irreversible and demonstrate an irremediable rift.”
+Considering the discussion in Phillips, supra, and reiterated in Self, stipra, and further considering the fact that the trial court heard the witnesses and observed their demeanor, we cannot say, in this instance, the trial court was plainly and palpably wrong.
+The tendencies of the evidence, as relate to the issue of the award of alimony in gross, reveal the following:
+Both of the parties were employed at the time of the divorce, with appellee earning $117 per week with a take home pay of $76 per week; appellant had a gross pay of $144 per week with a take home pay of $93.64. The parties owned as tenants in common a family home with an equity of $6,000 to $7,200. There were various debts and certain personal property consisting mainly of two automobiles and various household goods.
+The trial court, as noted earlier, awarded as alimony in gross the appellant’s interest in the home; however, certain debts were assumed by appellee and said debts were to be a lien on the property. Also, the household goods were divided. In effect, the trial court, in awarding the home to appellee, made an award of approximately $3,000 to $3,600 as the appellee, in this instance, already owned a one-half interest.
+There can be no question but that the awarding of alimony to the wife is largely discretionary with the trial court, but the exercise of such discretion is subject to review on appeal. Horsley v. Horsley, Ala.App., 280 So.2d 150 (1973); Hewitt v. Hewitt, 285 Ala. 516, 234 So.2d 283; Sides v. Sides, 284 Ala. 39, 221 So.2d 677; Self v. Self, supra.
+Furthermore, it is the law of this state that on appeal we view a decree rendered after hearing ore tenus as if it were a jury verdict, and will reverse such decree only if after considering all the evidence we conclude that it is clearly and palpably wrong. 2A Ala.Dig., Appeal and Error, '®=3934(2) and 1009(1).
+In this instance we cannot say that the trial court was clearly and palpably wrong in the award to the wife.
+We further cannot say under the evidence that the court erred to reversal in awarding $100 per month as child support. We would note that each case, as to the amount of child support, must depend upon the facts of such case and no mathematical formula can determine what is an appropriate award of child support. Self v. Self, supra; Skipper v. Skipper, 280 Ala. 506, 195 So.2d 797. As our now Presiding Judge Wright stated in Cooley v. Cooley, 45 Ala.App. 461, 463, 464, 231 So.2d 915, 917, 918:
+“We cannot hold that the award of support was excessive or palpably wrong. The amount of such award is within the discretion of the trial court in the light of the surrounding circumstances. Phillips v. Phillips, 277 Ala. 2, 166 So.2d 726; Lee v. Lee, 283 Ala. 275, 215 So.2d 718.”
+Able counsel argues, for appellant’s final contention, that the trial court erred in placing restrictive visitation privileges on appellant. The court, in its final order, allowed appellant to visit with the minor child on the second and fourth weekends of each month, Thanksgiving holidays, and the month of July. We cannot agree with appellant.
+As the Alabama Supreme Court stated in Skipper v. Skipper, supra:
+“Much discretion is left with the trial court in the settlement of visitation rights between the parents. In determining the propriety of the decree regarding visitation rights of a divorced parent, each case must be decided on its own peculiar facts and personalities involved. The personal contact of the trial court with the litigants and the witnesses gives the trial court an opportunity for personal observation which we do not have, and which accounts for the presumption we accord its decrees. Mockridge v. Mockridge, 278 Ala. 79, 175 So.2d 772; . . .” (280 Ala. at 508, 195 So.2d at 799)
+See also 8 Ala.Dig., Divorce, @=,296 and 299.
+In this instance we cannot say the trial court abused its discretion.
+Counsel for appellee, who favored this court with a comprehensive brief, has argued certain principles of appellate practice to the effect that the brief of appellant does not comply with the rules of this court. While some of appellee’s contentions could be said to have merit, we have refrained from deciding the case on that basis, and have addressed ourselves to the merit of the appeal. We do this in light of the nature of the case, the length of the transcript, and the substantial compliance with the rules of this court.
+Appellee has petitioned this court for a reasonable attorney’s fee for her appeal in this court. A fee of $200 is hereby awarded.
+Having considered all of appellant’s argued assignments of error and finding no reversible error, the case is due to be affirmed.
+Affirmed.
+WRIGHT, P. J., and BRADLEY, J., concur.
