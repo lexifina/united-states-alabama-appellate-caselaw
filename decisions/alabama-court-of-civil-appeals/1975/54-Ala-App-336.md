@@ -1,0 +1,45 @@
+---
+court: "Alabama Court of Civil Appeals"
+docket: "Civ. 397"
+decided: "1975-02-12"
+citations: ["54 Ala. App. 336", "308 So. 2d 249"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WRIGHT, P. J., and HOLMES, J., concur."]
+parties: ["Shirley Ann Melba KILGORE v. Billy Johnny KILGORE."]
+source_url: "https://static.case.law/ala-app/54/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741142
+cites_cases: ["248 Ala. 88", "280 Ala. 395", "283 Ala. 704", "49 Ala.App. 662"]
+---
+
+# Kilgore v. Kilgore
+
+## Majority (BRADLEY, Judge.)
+
+BRADLEY, Judge.
+This is a child custody case.
+The appellee here, petitioner below, on August 28, 1973 filed a petition in the Circuit Court of Fayette County seeking custody of his three year old daughter. An order was issued on that same day granting temporary custody of the child to the petitioner-father. Within a few days, i. e., September 10, 1973, respondent filed an answer and cross-claim in which she sought a divorce from petitioner, custody of the minor child, and the right to obtain certain personal belongings from the marital abode. On the same day, an order was issued giving temporary custody of the child to respondent.
+About one month later respondent filed a petition in said court alleging that subsequent to the order giving her temporary custody, the child was forcibly taken from her by petitioner and she has not seen the baby since that time. She requests that the court adjudge petitioner in contempt, cause him to be arrested, and the baby returned to her. On the same day this petition was filed (October 2, 1973), the court issued an order holding petitioner in contempt and directing that he be arrested and brought before the court.
+On November 9, 1973 petitioner filed an answer to respondent’s cross-claim, and on January. 21, 1974 the matter was heard before the court on the issues developed by the pleadings. The petitioner was not in court on this date but was represented by counsel.
+At the conclusion of the hearing the trial judge dictated to the court reporter his judgment. The decree dissolved the bonds of matrimony on account of the cruelty of petitioner, awarded custody of the child to respondent, found petitioner in contempt and directed that he be placed in the Fayette County jail, and required the sheriff of Fayette County to find the child and place it in the custody of respondent.
+Petitioner, on February 20, 1974, filed a petition in said court wherein he sought a rehearing of the January 21, 1974 decree and averred that he would return the child to the respondent and would appear at any future hearings on the matter.
+On the same day that this petition was filed, the court ordered that the child be returned to the respondent, and that the hearing of January 21, 1974 be set aside and a rehearing granted. The rehearing or another hearing was held on April 19, 1974 before the court. At the conclusion of testimony from both parties and other witnesses, the court decreed that the parties were divorced on the ground of incompatibility, and the custody of the child was divided between the parents in the following fashion: The respondent to have custody from 5 p. m. Saturday to 5 p. m. Thursday, with petitioner receiving custody the remaining two days of the week. Beginning in 1974 petitioner was to have the child from 9 a. m. on Thanksgiving day to 9 a. m. on the next day and from 9 a. m. Christmas Eve day until 9 a. m. Christmas day. This time schedule shall be reversed for 1975 and such alternating schedule shall continue until further order of the court. Custody on the child’s birthday in 1975 shall be in respondent and for the birthday in 1976 custody shall be in petitioner. Such alternating custody on birthdays shall also continue until further order of the court. The petitioner is also to have the child for one week during the summer, with petitioner making the election. The above custody arrangement is to continue until the child is six years old.
+Upon the child’s reaching age six, the custody is in respondent from 5 p. m. Sunday until 5 p. m. Friday from September 1 to June 1 of each year. On Saturdays and Sundays custody is to be in petitioner. From June 1 to September 1 of each year the above procedure is reversed.
+Child support in the amount of $10 per week is awarded to respondent.
+The main issue on appeal is the split custody arrangement decreed by the trial court. However, appellant also argues that the trial court committed reversible error when it failed to afford respondent a hearing on petitioner’s request for a rehearing or new trial prior to a ruling on said request. Respondent relies on that portion of Rule 59(g), Alabama Rules of Civil Procedure, which is as follows :
+“Rule 59
+"New Trials; Amendment of Judgments
+“(g) . . . All such motions remain pending until ruled upon by the court, but shall not be ruled upon until the parties have had an opportunity to be heard thereon(Emphasis supplied.)
+Respondent argues that the trial court granted a rehearing of the January 21, 1974 judgment on the same day that petitioner filed his petition and no hearing thereon was held, which is contrary to the directive set out in the cited portion of Rule 59(g).
+The record confirms that respondent was not accorded a hearing prior to the granting of a new trial as required by Rule 59(g). But, respondent made no objection to the court’s failure to grant such a hearing either prior to or during the new trial that had been ordered. Not having objected to the award of a new trial prior to trying the case anew, respondent waived any error that might have infected the trial court’s order granting a new trial.
+Next, the respondent contends that the trial court erred in splitting the custody of the minor child between the parents. She says that a female child of three or four years of age should be with its mother. Furthermore, no stability of home environment will inure to the child due to the constant movement of the child from one parent to the other.
+As has been said so many times before in child custody cases, the paramount concern of the courts is to ascertain what is best for the child, Linderman v. Linderman, 49 Ala.App. 662, 275 So.2d 342; and, in the present case, the trial court and this court must be concerned with the child’s present and future welfare.
+A careful examination of the evidence reveals that the respondent is a fit person to have custody of the child. Also the evidence supports the trial court’s finding that the petitioner is also a fit person to have custody of the child. Granted, the testimony shows that petitioner has a hearing deficiency for which he receives some kind of compensation, and is unemployed. However, it is amply shown that while respondent worked, he stayed at home with his small daughter and an older daughter by a previous marriage and cared for their needs. He cooked for them; cleaned them and the house; washed clothes; and did all of the other necessary chores around the house.
+Respondent replies that the mother is to be favored over the father when the question arises as to who shall be the custodian of a three or four year old female child, assuming the mother to be a fit person. The cases support this statement as a general proposition. Messer v. Messer, 280 Ala. 395, 194 So.2d 552. However, it is also a generally accepted proposition that each child custody case is to be decided on its own peculiar facts and circumstances. Sneed v. Sneed, 248 Ala. 88, 26 So.2d 561. And, the trial court’s judgment in these matters will not be overturned unless it is plainly and palpably wrong, for much discretion is reposed in the trial court for the settlement of lengths of custody in each parent when that custody is divided between the parents, and visitation rights. Whiteport v. Whiteport, 283 Ala. 704, 220 So.2d 891.
+In the case at bar the facts show that the mother worked and contributed to the support of the family, but the facts also show that the father stayed at home and looked after the child. The evidence clearly revealed the love and affection felt and exhibited by these parents for this child.
+It is conceded that the constant shifting back and forth between the two parents might possibly affect the child’s well-being in that no permanent environment is experienced; yet in considering the proximity of the parties’ homes and particularly the paternal grandparents who live right across the street from petitioner and in whose home the child has spent much time, we cannot say that such custodial arrangement would be so deleterious to the child’s welfare as to require that we set aside the trial court’s decree and enter one fashioned by this court. In other words, we do not find the trial court’s decree to be plainly and palpably wrong.
+No reversible error having been argued to this court, the trial court’s judgment is affirmed.
+Affirmed.
+WRIGHT, P. J., and HOLMES, J., concur.
