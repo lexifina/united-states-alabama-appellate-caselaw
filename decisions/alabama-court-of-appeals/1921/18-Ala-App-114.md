@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 758"
+decided: "1921-04-12"
+citations: ["18 Ala. App. 114", "90 So. 49"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STEWART v. STATE."]
+source_url: "https://static.case.law/ala-app/18/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645348
+cites_cases: ["17 Ala. App. 493", "79 South. 802", "85 South. 867"]
+---
+
+# Stewart v. State
+
+## Majority (BRICKEN, P. J.)
+
+BRICKEN, P. J.
+The defendant was indicted, tried, and convicted for the offense of making or manufacturing spirituous, vinous, or malt liquors; his term of imprisonment being fixed by the court within the limits provided by law.
+On this appeal it is earnestly insisted that the state failed to make out its case*, in that it failed to prove that whisky had been made, and therefore failed to prove that the defendant was guilty of the offense charged, and was therefore entitled to the affirmative charge as a consequence of such failure of proof. The case of Mills v. State, 17 Ala. App. 493, 85 South. 867, is cited by defendant to sustain this contention. In the Mills Case this court held that the corpus delicti had not been proven, and therefore the defendant should have been given the affirmative charge.
+An examination of the facts in the Mills Case clearly shows that they were widely different from the facts in this case as disclosed by the record. In the Mills Case nothing was found by the arresting officers, except an empty tin container that smelled like beer had been in it, and a top to the container, with a hole near its edge; also a small quantity of “mixture that appeared to contain corn meal, or mash, water, and some syrup" — out of which the state’s testimony showed that alcoholic liquor or beverages might have been distilled or manufactured. And after a careful search of the Mills dwelling and surrounding premises no finished product was found, and nothing to show that any of the prohibited liquors had been distilled, made, or manufactured. This was th'e evidence upon which this court very properly held that the defendant, who was charged with distilling, should have had the affirmative charge given in his behalf, for the very patent reason that there was no evidence whatever in that case that any .one had distilled, made, or manufactured prohibited liquors, and that the verdict of guilt was necessarily based upon supposition, conjecture, or suspicion, which of course, is not sufficient under the elementary rules of law to predicate or sustain a conviction.
+However, the record in the case at bar discloses a very different state of fapts. In the instant case it was shown without dispute that a furnace for a still was found within a short distance from the defendant’s place of residence, and near this furnace (which contained recently burned coals) there was found a large quantity of beer, to wit, about 14 barrels of beer or mash, and a lot of jugs and other vessels. Wood was near the furnace, and fresh tracks were plainly visible all around. There was also a worm to a still, which smelled like whisky, found hidden under a log nearby, and every evidence that a still had been in operation at that place very recently. The testimony without dispute showed that the beer or mash was made of sugar and corn and that it was fermented. It was further disclosed, without dispute, that the officers arrived at the “still place” about daylight, and remained concealed nearby until about sun-up, at which time the defendant appeared, carrying upon his shoulder some tools, consisting of an axe, a hoe, and a shovel; that he stopped at the still place, threw his tools upon the ground right at the furnace, looked around, and started into the woods nearby, when he was accosted by the officers and arrested. Upon his person was found a bottle of hom'e-made white whisky, and a similar container filled with the same kind of prohibited liquor was found in defendant's home. All these facts, coupled with the further fact that in the barn of the defendant was found 200 pounds of sugar, was sufficient, we think, to go to the jury for their consideration in determining the issues involved upon the trial of this case. Further, the defendant’s statement, while testifying as a witness in his own behalf, to wit:
+“This still was in the pasture. It was no more mine than anybody else’s. I used it the same as anybody else. I told you I knew the still was there a day or two before that. Yes; I had some liquor in my pocket. I picked up a bottle right close there. I picked it up, lying on the ground, where somebody had dropped it.”
+All this was properly submitted to the jury, and it was for the jury to judge of its reasonableness, and the further fact of his close proximity to the still place at such an early hour with his tools, together with his explanation of the large amount of sugar found in his barn, “that I put it in the barn just because I was in a hurry,” was also a question for the jury to determine. Under these facts we are of the opinion that the defendant was not entitled to the affirmative charge, but that the case was properly submitted to the jury, and that the verdict rendered by them was justified under the evidence adduced upon the trial.
+While it is true that the state relied upon circumstantial evidence in this case for a conviction, it is also true that a charge of this character can be based upon circumstantial evidence, just as any other criminal accusation, and if the measure of proof required is met, whether by circumstantial or by positive evidence, the jury • will be authorized' to find accordingly. The rulings of the court upon the admission of testimony were without error.
+There are no errors apparent on the record, and the judgment of the circuit court is-affirmed.
+Affirmed.
+<S=5>Por other cases see same topic and KEY-NUMBER in all Key-Numbered Digests and Indexes
