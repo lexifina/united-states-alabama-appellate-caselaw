@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 573"
+decided: "1948-04-27"
+citations: ["33 Ala. App. 659", "35 So.2d 921"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter JEMISON v. STATE."]
+source_url: "https://static.case.law/ala-app/33/cases/0659-05.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1688088
+---
+
+# Jemison v. State
+
+## Majority (CARR, Judge.)
+
+CARR, Judge.
+Affirmed.
