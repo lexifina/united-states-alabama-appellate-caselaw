@@ -1,0 +1,23 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1911-05-17"
+citations: ["1 Ala. App. 487", "56 So. 109"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Murphy v. Williams."]
+source_url: "https://static.case.law/ala-app/1/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1611760
+cites_cases: ["113 Ala, 329", "113 Ala. 223", "113 Ala. 323", "14 L. R. A. 139", "151 Ala. 420", "155 Ala. 395", "161 Ala. 171", "21 South. 449", "25 Ala. 81", "32 Ala, 731", "36 Ala. 328", "36 L. R. A. 84", "39 Ala. 551", "44 So. 203", "54 Ala. 401", "56 Ala. 195", "59 Am. St. Rep. 111", "63 Ala. 215", "68 Ala, 48", "87 Am. Dec. 49"]
+---
+
+# Murphy v. Williams
+
+## Majority (WALKER, P. J.)
+
+WALKER, P. J.
+To the complaint in this case, claiming damages of the defendant for wrongfully causing the arrest and imprisonment of the plaintiff, the defendant pleaded the general issue and also two special pleas, each of which undertook to set up, as a justification of the alleged arrest and imprisonment, a judgment rendered by the defendant in his capacity as a notary public, ex-officio justice of the peace, in a contempt proceeding instituted before him against the plaintiff. By demurrers to each of the special pleas, the plaintiff raised the questions whether the alleged judgment was shown by the pleas to be supported by jurisdiction of the subject-matter or of the person of the plaintiff. These demurrers were overruled. This action of the court below is the subject of the only assignment of error.
+The second plea sets forth in detail the contempt proceedings, showing the issuance of a writ of arrest charging the plaintiff with a contempt in the presence of the court; that he was duly brought before the court on such charge; that a hearing was had in open court;' that the plaintiff was adjudged guilty of the contempt charged; and that the imprisonment complained of was in pursuance of such judgment, which was within the limit of the statutory authority conferred upon a justice of the peace to punish for contempt. — Code, § 4642. As the counsel for the appellant does not in his argument. suggest wherein there was any merit in the demurrer to that plea, the ruling of the.trial court on that demurrer need not be considered.
+The third plea is not so formal or detailed in its allegations. Showing, however, as it does, that the judgment set up in bar was such as the statute authorized, and was based upon a. charge of a contempt committed in the presence of the court, there is no room for imputing to it a failure to show that the subject-matter— a contempt of court — was one within the jurisdiction of the court. The criticism of the plea on the ground that it fails to show that jurisdiction of the plaintiff’s person was so acquired as to warrant a judgment against him for a contempt committed in the presence of the court seems to he based upon the assumption that, to sustain such a judgment, there must have been a formal charge against the party, and an arrest on a warrant issued in pursuance of such charge. Such an assumption is unwarranted. It sufficiently appears from the averments of the third plea, taken in connection with the averments of the complaint to which it was an answer, that the plaintiff, after having a hearing in open court on a charge of contempt committed in the presence of the court, was duly convicted and punished as authorized by law. To show jurisdiction of the person in such a proceeding, it was not essential to aver that the defendant in the proceeding was brought into court on a formal charge which had been entered against him.—Coleman et al. v. Roberts, 113 Ala. 323, 21 South. 449, 36 L. R. A. 84, 59 Am. St. Rep. 111; Easton v. State, 39 Ala. 551, 87 Am. Dec. 49; Ex parte Walker, 25 Ala. 81, 106; 9 Cyc. 37. Briekell, C. J., in delivering the opinion of the court in the case of Coleman et al. v. Roberts, supra,, said: “The contempt having been committed in the presence of the court, there was no necessity, as there would have been no propriety, in the issue of process for the arrest of the offender, so long as he remains in court. The court had the jurisdiction of the person, which would have attached, if he had been detained by the most formal process.” In the text-book cited, it is said: Where the contempt is direct, in the immediate presence of the court, summary punishment may be inflicted without affidavit, notice, rule to show cause, or other process.”—9 Cyc. 37. The third plea sufficiently shows that the conviction pleaded was after a hearing in open court, and there was no error in overruling the demurrer to that plea.
+Affirmed.
