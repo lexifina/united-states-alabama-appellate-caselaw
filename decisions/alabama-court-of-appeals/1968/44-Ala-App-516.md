@@ -1,0 +1,43 @@
+---
+court: "Alabama Court of Appeals"
+docket: "3 Div. 343"
+decided: "1968-10-08"
+citations: ["44 Ala. App. 516", "214 So. 2d 867"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Glen Ray WASHINGTON v. STATE."]
+source_url: "https://static.case.law/ala-app/44/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1713262
+cites_cases: ["247 Ala. 53", "32 Ala.App. 176", "38 Ala. App. 505", "39 Ala.App. 257", "42 Ala.App. 564", "44 Ala. 398", "88 So.2d 854", "97 So.2d 594"]
+---
+
+# Washington v. State
+
+## Majority (PRICE, Presiding Judge.)
+
+PRICE, Presiding Judge.
+This appellant stands convicted of burglary in the second degree.
+The evidence presented by the State tends to show that on the night of June 16, 1967, a service station operated by Alton Ray Jones in Flomaton, Alabama, was broken into and entered.
+Mr. Jones testified that shortly before this someone had gained entrance to the station by breaking a small hole in the wash rack window, reaching in and unlatching the wash rack door. The window had not been replaced and Mr. Jones had nailed a board over the hole in it. Before closing the evening before the present breaking he had nailed a bar on the inside of the wash rack door and locked the front door. When called to the station around 3:30 or 4:00 A.M. he found the hole in the window had been enlarged and the bar on the inside of the door “had been knocked off and then stuck back on because the nails wasn’t completely embedded in the wood, * * The front door was open. The Cigarette machine had been broken into and the box that catches the money was gone. The cash register was open. A small amount of money had been left in it the night before and about a door (sic) in quarters, and dimes had been taken, leaving nothing but pennies. He checked the gas pumps to see if any gasoline was missing and found the box from the cigarette machine, with the money still in it, on the island-up next to the gas pump.
+Officer Mullins of the Flomaton police-department, testified that around 3 :30 a. m., June 16, 1967, he saw defendant standing in the door of the Jones Service Station. The door was open and defendant reached back and pulled it shut. As the officer drove into the station defendant stepped out to about .halfway between the door and the gas pumps and stopped. The officer momentarily lost sight of defendant as he was parking the car, but when he had stopped his car defendant had stepped up on the gas island and was. leaning on a gas pump.
+The policeman approached defendant and' asked what he was doing there. Defendant replied that he worked there and: was fixing a flat tire, “If you don’t believe me go around in the back and see.”' The witness walked to the door where he had seen defendant standing and tested fosee if it was locked. The door was unlocked and he left it unlocked. He did not check the premises for signs of a forcible entry and did not go inside the-station. Defendant was arrested and placed in the back seat of the patrol car. “The car has got a cage that runs between the front seat and back seat.” There is no way for a person to get out once he is placed in the back. As he was leaving the premises witness received a call to investigate reports of a prowler at the depot. He asked the radio operator to notify Mr. Jones that his front door was open and proceeded to the depot where he stayed for a short time and then drove defendant to the police station. He opened the car door, defendant got out and walked to the cell door, stopped and asked what he was being arrested for. Witness replied that he had already told him “for breaking in that station,” and to wait till Mr. Jones got there. Defendant refused to go in the cell and about that time the radio operator said Mr. Jones wanted “us” to go to the service station, so witness told defendant to get up and let’s go to the station. Defendant walked to the front door of the car, but found it locked. He said “I dern sure ain’t getting in that car in the back seat, * * * the rest of the policemen let me ride up in the front with them and I dern sure ain’t going to ride in the back with you. * * * Well he went to walking back and when he did I opened the door and told Mr. Ellis how about coming out there and standing with me if you will, * * *. And so whenever I did, well he broke and run.” Defendant returned voluntarily to the police station about nine o’clock.
+This witness testified on cross examination that when he searched defendant before putting him in the police car he found a pocket knife and a pocket book, but he didn’t know whether there was any money in the pocket book; that he didn’t know then whether anything had been taken out of the station.
+The defendant testified he had worked for Mr. Jones at the service station, but was not working for him on June 16th. He had been told to report to the Shopper’s Fair at Atmore early that morning to see about a job and was waiting for a man from Brewton to give him a ride to Atmore; that he walked across the street to the Jones service station and got a drink of water and was headed toward the highway when the policeman came up. The officer asked what he was doing there and he told him he was waiting for a ride to Atmore. The officer told him to get in the car and they started into Flomaton but the policeman received a call to go to the train station and he was left in the car for about an hour while the policeman looked around the depot. When they reached the police station he went to get a drink of water and then he and the officer walked outside, waiting for Mr. Jones to come; that the officer went back inside for a drink of water and defendant ran; that he went to get someone to malee his bond; that he did not break into the service station and did not take anything from it.
+On cross examination the defendant denied that he stood in the door of the service station; denied telling the officer he was working at the station, but said he told him he used to work there; denied saying he was fixing a flat tire; that the officer never told him to get in the cell; denied telling the officer he wouldn’t get in the back seat and that other policemen let him ride in front; stated that the officer didn’t tell him to get in the car at the jail.
+Defense counsel insists the proof fails to show defendant was ever inside the service station; no evidence to prove any money was missing at the time of defendant’s arrest; the officer admitted he did not lock the door to the station and there was ample opportunity for others to enter and get the money after defendant was taken away; not shown defendant had anything in his hands, such as tools or money, when the officer saw him in the doorway; no proof of method of entry; no proof of possession of fruits of crime; no proof of intent to steal.
+The gravamen of the offense charged here is breaking and entering with intent to steal. It is not required that a theft be committed. Wicks v. State, 44 Ala. 398; Ray v. State, 39 Ala.App. 257, 97 So.2d 594.
+The undisputed evidence shows the service station was broken into and entered. Lowe v. State, 32 Ala.App. 176, 22 So.2d 618; Holland v. State, 247 Ala. 53, 22 So. 2d 519.
+The guilt of a defendant may be established by circumstances as well as by direct evidence. Lowery v. State, 38 Ala. App. 505, 88 So.2d 854; Brannon v. State, 42 Ala.App. 564, 171 So.2d 845.
+The defendant’s proximity at the time; the conflict in the evidence as to his explanation of his presence at the service station at that hour of the night, coupled with his flight from the police station, were questions for the jury to decide. We are of opinion the evidence was sufficient to sustain the verdict.
+The judgment is affirmed.
+Affirmed.
+
+## Dissent (JOHNSON, Judge)
+
+JOHNSON, Judge
+(dissenting).
+The strongest evidence presented against the appellant seems to be the fact that, while stainding by the open doorway of the building, he was observed to close the door thereto. It could, however, be contended that such closing was a precautionary measure for the purpose of securing the building rather than a felonious breaking.
+While it is true that guilt may be established by circumstances as well as by direct evidence, in this case I do not feel, after a careful consideration of the entire evidence, that the burden of proof has been met. Although the evidence creates a suspicion against the appellant, it is insufficient to warrant a finding of guilt.
+Therefore, I respectfully dissent from the majority opinion.
