@@ -1,0 +1,35 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 468"
+decided: "1937-06-08"
+citations: ["27 Ala. App. 493", "175 So. 415"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOODWIN v. STATE."]
+source_url: "https://static.case.law/ala-app/27/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1672185
+cites_cases: ["111 Ala. 74", "20 So. 597", "23 Ala.App. 400"]
+---
+
+# Goodwin v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The homicide complained of in this case occurred on the night in question at a public dance in a roadhouse known and called “The Bloody Bucket,” where a large throng of people were assembled, resulting in there having been ordered summoned a large number of witnesses to attend the trial and testify.
+The indictment charged this appellant with the offense of murder in the second degree, in that, he unlawfully and with malice aforethought killed Marvin Lusk by cutting or stabbing him with a knife, but withdut premeditation or deliberation, etc. The trial resulted in the conviction of the defendant of manslaughter in the first degree and his punishment was fixed by the jury at eight years’ imprisonment. The court duly sentenced him to the penitentiary for said term and pronounced and entered judgment of conviction accordingly, from which this appeal was taken.
+The corpus delicti was proven without conflict; that is to say, there is no dispute in the evidence as to the material allegation that Marvin Lusk came to his death as the result of having been cut or stabbed with a knife by this appellant (defendant below). The controlling question is, therefore, was such killing an unlawful homicide as contended by the State, or, was the defendant justified in taking the life of deceased as contended by him under his plea of self-defense?
+The State insisted that the killing was unprovoked, unjustified, and hence unlawful, and offered testimony to sustain this insistence. On the other hand, the defendant insisted, under his plea of self-defense, that he took the life of Lusk in order to save his own life and that in so doing he violated' no law of the State; and in this connection offered testimony of numerous witnesses tending to sustain him in this insistence. As a result of the foregoing conflict in the evidence, a jury question was, of course, presented.
+On this appeal appellant relies upon numerous insistences of error for reversal of the judgment and has assigned errors based upon some 75 distinct grounds. Each of the questions thus presented has had our attentive and careful consideration. We shall, however, refrain from a detailed discussion of all of these numerous points of decision as not being necessary. We will advert and confine ourselves to those questions which in our opinion control this appeal, and likewise necessary to a conclusion.
+The first question presented, and made the basis of several of the assignments of error, is the action of the court in refusing to grant the defendant’s motion to continue the case on account of the absence of several of his witnesses, and, further, for lack of time to properly prepare his case.
+The refusal of the court to grant a continuance of the case upon motion of defendant, because of the absence of certain witnesses, is a matter within the discretion of the trial court. Such action will not be revised, unless it clearly appears that, in the exercise of this discretion, the court abused same to the injury of defendant’s substantial rights. Here no such abuse is apparent. As indicated by the showings offered and admitted, the testimony 'sought was merely cumulative of that given by several witnesses who were present and testified.
+There was no error in the action of the court in requiring defendant to add the formal part to the several showings. This should have been done in the first place. The exceptions reserved in this connection cannot be sustained.
+The questions raised and presented as to the venue in this case cannot avail defendant. It clearly appears there was evidence from which it could be inferred .that the act complained of was committed within the jurisdiction of the court where the case was tried. It is the law that venue need not be proven by direct evidence, but evidence from which it may be inferred is sufficient. Tinney v. State, 111 Ala. 74, 20 So. 597. In that case the Supreme Court said (McClellan, J.): “While it was not, in terms, proved that the offense charged in the indictment was committed, if at all, in Jefferson county, there was evidence from which the ‘jury might well have so inferred. The general charge requested by the defendant on the theory that no evidence of venue had been adduced was therefore properly refused.” See, also, Lagle v. State, 23 Ala.App. 400, 126 So. 181.
+Portions of the argument of the solicitor were objected to and motions made to exclude, as the rule required, also exceptions were duly reserved. An examination of the objectionable statements of counsel for the State fails to disclose such illegitimate and improper argument as would authorize or warrant this court to predicate a reversal thereon. Moreover, in each instance, in this connection, the court appears to have ruled with the defendant.
+As stated, the evidence in this case presented a question for the determination of the jury; therefore, the several affirmative charges were properly refused. The remaining “refused” charges, which correctly stated the law, were fairly and substantially covered by the oral charge of the court, and by defendant’s given charges (42 in number).
+The motion for a new trial is rested upon practically the same points of decision as those on the main trial and which have hereinabove been considered and decided. The motion was refused without error.
+Throughout the trial of this case, as shown by the record, it appears that in practically every ruling invoked, the defendant “accepted” said rulings. However, we regard this as a clerical misprision, and construe the word “accepted” to mean “excepted.” This court is of the opinion that a contrary construction would be highly technical and would operate to deprive the appellant of a consideration here of practically every point of decision relied upon.
+It appears to this .court that this defendant has been accorded a fair and impartial trial. Certainly, it appears that the trial judge was painstaking, careful, and fair. His oral charge to the jury was of this nature, and ably and fully stated every phase of the law hearing upon the .issues involved. The law contemplates a fair and impartial trial for one accused of the commission of any offense. Where it affirmatively appears that such a trial has been accorded, the accused is without right to complain or to demand more. The decision in this case rested with the jury. There was evidence to sustain them in their verdict. As no hurtful error appears, we must perforce order an affirmance of the judgment appealed from, and this we do.
+Affirmed.
