@@ -1,0 +1,20 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 660"
+decided: "1942-03-24"
+citations: ["30 Ala. App. 691", "8 So. 2d 226"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrew STEWART v. STATE."]
+source_url: "https://static.case.law/ala-app/30/cases/0691-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1680361
+---
+
+# Stewart v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+Affirmed.
