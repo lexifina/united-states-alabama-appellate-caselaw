@@ -1,0 +1,41 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 150"
+decided: "1945-06-19"
+citations: ["32 Ala. App. 204", "23 So. 2d 612"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVIS v. STATE."]
+source_url: "https://static.case.law/ala-app/32/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1686110
+cites_cases: ["15 Ala.App. 213", "164 So. 114", "191 Ala. 436", "234 Ala. 1", "234 Ala. 9", "26 Ala.App. 492", "28 Ala.App. 268"]
+---
+
+# Davis v. State
+
+## Majority (RICE, Judge.)
+
+RICE, Judge.
+Appellant was convicted of the offense of burglary.in the second degree (Code 1940, Title 14, Section 86), and his punishment fixed at imprisonment in the penitentiary for the term of eight years.
+One Bryant Harris was apprehended by the officers of the law while in the act of burglarizing a designated store of the Hill Grocery Company, a Corporation.
+After his arrest, he told the officers— and, for that matter, testified on the trial of appellant — that he and appellant and Loyd Dees planned the burglary and that the appellant was originally planned to enter .the store but at the last moment the plans were changed and the appellant was assigned the job as a watchman. This witness — -Bryant Harris — testified that after he got on top of the store and was prepared to break an entrance through the skylight by removing a glass pane therefrom, he went to the front of the building and looked down from the top of the building to see if Glenn Davis — appellant—was watching. He saw Glenn there, he said, then went back to his work of breaking an entrance into the store through the skylight, and was captured after getting part of his body through the entrance into the store.
+It is not controverted, and, indeed, it is admitted by astute counsel here representing appellant, that the burglary was committed ; that* Bryant Harris was an accomplice; and that his testimony fully made out a case of guilt against appellant. The sole litigated question was as to whether or not the testimony of the accomplice, Bryant Harris, was corroborated in the way requisite to appellant’s conviction, in the light of the provisions of Code 1940, Title 15, Section 307 — the offense charged being, of course, a felony.
+A great many cases in the appellate courts of our State have dealt with the kind, amount and degree of corroboration necessary to support a conviction under the terms of the Code section hereinabove cited. We do not feel it worthwhile for us-to now discuss that' matter again.
+It will suffice for us to say that the rules as announced in the following cases have been our guide as we have studied the testimony in this case, viz.: Horn v. State, 15 Ala.App. 213, 2 So. 768; Freeland v. State, 28 Ala.App. 268, 182 So. 414; Slayton v. State, 234 Ala. 1, 173 So. 642; Id., 234 Ala. 9, 173 So. 645; and Pearce v. State, 26 Ala.App. 492, 164 So. 114.
+Especially have we been influenced —in fact, controlled — by the utterance of our Supreme Court in the opinion in the case of Slayton v. State, 234 Ala. 9, 173 So. 645, as epitomized, we think correctly, in the fifth headnote to the report of the case in 234 Alabama, 173 Southern, viz.: “Jury may not believe evidence of accomplice beyond reasonable doubt with respect to details, but still believe his evidence on facts essential to conviction beyond reasonable doubt, and if corroborated by evidence consisting of facts and circumstances ascertained in checking up on accomplice’s testimony, a conviction should follow.” (Code 1923, Sec. 5635, now Code 1940, Title 15, Section 307.)
+We believe it unnecessary to here detail the testimony tending to corroborate the witness Bryant Harris in his statement that appellant was a co-conspirator of his in the burglarizing of the store involved. The learned trial court partially did so, in his oral charge to the jury.
+It is enough for us to say that, measuring the testimony by the law as we have quoted, and cited, hereinabove, we entertain no doubt — and hold — that the testimony given on the -trial by the witnesses Lewis, Moore, and Mrs.. Bryant Harris, fully corroborated the witness Bryant Harris, in the way required by Code 1940, Title 15, Section 307, in order to sustain the conviction. And we pass on.
+Very damaging testimony against appellant was given by State’s witness Lewis, a detective in the police department of the City of Birmingham. Appellant, on cross-examination of this witness brought out from him, without objection on the part of the State, testimony that the witness had. not testified before Judge Abernathy at appellant’s preliminary trial; in fact, that appellant had never had a preliminary trial.
+Thereupon this question was put to the witness — still on his cross-examination : “I will ask if you and Fred Cain didn’t go down there and have the case continued each time it was set down there until you could get a grand jury indictment?”
+The State objected to the question, and the court addressed this remark to appellant’s counsel: “ITow do you figure'that would be relevant?” To this question by the court appellant’s counsel replied: “It will come out later. This is cross-examination. I would not want it made known at this time.” Whereupon the court said: “If you refuse to enlighten me, I will sustain the objection.” Appellant’s counsel then said: “We reserve an exception.”
+We have been thus tedious in setting out the circumstances leading up to the reservation of the exception, above, for the reason that able counsel representing appellant here have devoted more than three long pages of their carefully prepared brief to a discussion of same. But we think no error is shown.
+The learned trial judge, in overruling appellant’s motion to set aside the verdict of the jury, filed a written statement, which appears in the record, in which he was at some pains to set forth his reasons for sustaining the State’s objection to the question as above set out. To our minds his said statement is conclusive to the effect that we have ruled — especially is this so because of the quotation he takes from the opinion of our Supreme Court in the case of Southern R. Co. v. Harrison, 191 Ala. 436, 67 So. 597, 599 viz.: “The trial court committed ím reversible error in declining to let the defendant ask the witness Ernest, on cross-examination, to state whether or not he was laid off by the Southern Railway Company on the morning of the accident. The witness had just stated he had not worked for the defendant since that time, and it was therefore immaterial to the issues involved whether he quit or was laid off by the company, unless, as is now suggested in brief of counsel, that the fact that he was laid off by the defendant was a circumstance showing ill feeling towards the said defendant, and was a circumstance affecting his credibility. If this be true, the purpose or relevancy of the evidence should have been suggested to the trial court, as there is nothing in the question which would indicate that it was being asked to show bias on the part of the witness.”
+The above is, we think, the situation here.
+And, moreover, we are led to remark that the question, as framed, called for incompetent testimony because we know, as a matter of judicial fact, that the witness Lewis (we,do not know the party “Fred Cain”) had not the authority, nor power, to “go down there and have the case continued,” nor to “get a grand jury indictment.” He could only “request,” in one case, and “testify,” in the other.
+Above herein we have treated the two matters upon which appellant’s able counsel, vastly experienced, rely, according to their brief, for a reversal of the judgment of conviction.
+Other exceptions appearing in the record are treated cursorily by them — as are the written, requested and refused charges. It is sufficient that we say that we have given careful consideration tó all that counsel state in their brief.
+In addition, we have endeavored to fully comply with our duty under the terms of Code 1940, Title 15, Section 389. But it seems not worth while to write more. No error of a prejudicial nature anywhere appears. And the judgment must be affirmed.
+It is so ordered.
+Affirmed.
