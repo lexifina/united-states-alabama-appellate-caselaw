@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1916-11-14"
+citations: ["15 Ala. App. 223", "73 So. 127"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pounds v. The State."]
+source_url: "https://static.case.law/ala-app/15/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632729
+cites_cases: ["105 Ala. 60", "113 Ala. 43", "115 Ala. 92", "152 Ala. 30", "155 Ala. 44", "156 Ala. 15", "17 South. 114", "176 Ala. 6", "181 Ala. 81", "182 Ala. 38", "182 Ala. 67", "21 South. 356", "22 South 534", "46 South. 259", "5 Ala. App. 75", "59 Am. St. Rep. 97", "62 South. 244"]
+---
+
+# Pounds v. State
+
+## Majority (PELHAM, P. J.)
+
+PELHAM, P. J.
+Additional copies of the record having been furnished, as provided by Supreme Court rule 46 (see rule 46, front pages, 178 Ala.), this case has been considered and opinion prepared in compliance with that rule.
+The general affirmative charge in behalf of the defendant was properly refused. It is.not necessary to prove venue in express terms by direct testimony. Venue, as any other fact, may be proven by circumstances from which the inference may be drawn by the jury. — Powell v. State, 5 Ala. App. 75, 83, 59 South. 530. The state’s witness Keener Welsh testified to facts from which the jury might properly conclude that the venue was within the jurisdiction of the court. There was considerable testimony by other witnesse, affording proof of venue. It is not shown that the trial court’s attention was directed to the fact that the general charge was requested upon the ground of failure of proof of venue; and the trial court cannot be put in error for the refusal of the general charge predicated upon that ground. — Circuit Court Rule 35, 175 Ala. xxi.
+Charge No. 2, requested by the defendant, exacts too high a degree of proof of guilt. — Thornton v. State, 113 Ala. 43, 21 South. 356, 59 Am. St. Rep. 97; Yarbrough v. State, 115 Ala. 92, 22 South 534.
+Charge No. 3 is erroneous in assuming the truth of facts which the jury had the right to disbelieve. — Powell v. State, 5 Ala. App. 75, 83, 59 South. 530. It also misplaces the burden of proof as to an element of self-defense. Under the plea of self-defense, the burden is on the defendant, and, unless the jury are satisfied from the evidence that the plea is sustained, the defense fails. — Lawson v. State, 155 Ala. 44, 46 South. 259.
+The court is under no duty to give charges which instruct the jury that they may “look to” certain evidence, or “consider” certain facts, and charge No. 4 was, for this reason, properly refused. — Stone v. State, 105 Ala. 60, 17 South. 114.
+The probability of defendant’s innocence, which justifies an acquittal, must arise from a consideration of all the evidence. Charge No. 11 is bad in stating in the alternative that the jury would be justified in acquitting the defendant, based on a probability of his innocence from a consideration of a part only of the evidence. — Olden v. State, 176 Ala. 6, 58 South. 307.
+Charge 17 submits a question of law to the jury, and was properly refused. — Greer v. State, 156 Ala. 15, 47 South. 300.
+A number of charges were given by the court at- the request of the defendant. Some of these charges were more favorable to the defendant than was justified under the well-settled rules of law, several times announced by the Supreme Court and this court, in condemning similar charges to some of those given. The Supreme Court has approved in Smith’s Case, 182 Ala. 38, 62 South. 184, a charge in the same language in that case (charge 16) as refused charge No. 13 in the case under consideration. The charge is criticised in the opinion in Smith’s Case as subject to hypercriticism, yet a correct statement of the law. It would seem to be open to the same criticism of a somewhat similar charge condemned in a group of charges in McClain’s Case, 182 Ala. 67, 62 South. 241, as being an incorrect statement of the law, in predicating an acquittal on a reasonable doubt of guilt or probability of innocence “not existing in the face of the whole evidence.” — 181 Ala. 81, 62 South. 244. (The word “consistent,” as it appears in the report of this case, in charge H should read “inconsistent,” as appears from the original record.) See, also, Moss’ Case, 152 Ala. 30, 44 South. 598.
+The refusal of this charge in Smith’s Case, supra, was held not to be error, because it was satisfactorily covered by charges 3 and 4 in that case. We have examined these charges in the original record, and think that, on the authority of that holding, given charges Nos. 5, 6, 12, and 14 satisfactorily cover the refused charge 13 in the instant case. In the court’s general charge to the jury, they were also instructed that if, from a fair and just consideration of the whole evidence, the jury had a reasonable doubt of the guilt of the defendant, it was the duty of the jury to return a verdict of not guilty. The charge (13) is on the probability of innocence arising out of a consideration of the .evidence authorizing an acquittal. As held in Smith’s Case, supra, the refusal of such a charge is not error, where it is covered by given charges to the same effect on a reasonable doubt of guilt. It is but a different way of stating the same rule of law; the charges, in substance and effect, embody the same proposition in each instance, and the principle involved is not distinguishable.
+The evidence was before the jury without objection. The issues were clearly presented, and the jury was fairly instructed by the court on the law applicable to the issues. We think the jury could not have been left in doubt on the principle of law sought to be brought to their attention by charge 13. It seems to us that the defendant was accorded a fair and impartial trial, and that no error prejudicial to his substantial rights is presented by the record that would authorize a reversal of the judgment of conviction.
+Affirmed.
