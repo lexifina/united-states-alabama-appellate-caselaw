@@ -1,0 +1,36 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 238"
+decided: "1936-12-15"
+citations: ["27 Ala. App. 298", "171 So. 390"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROXTON v. STATE."]
+source_url: "https://static.case.law/ala-app/27/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1672203
+cites_cases: ["130 N.W. 972", "131 Ala. 18", "20 Ala.App. 504", "215 Ala. 2", "218 Ala. 603", "31 So. 725", "33 L.R.A.(N. S.) 403", "89 Neb. 34"]
+---
+
+# Broxton v. State
+
+## Majority (SAMFORD, Judge.)
+
+SAMFORD, Judge.
+The defendant in the court below, appellant here, was driving his automobile along the public highway between Troy and Elba, and at a point indicated by the testimony in the case he ran over and killed Joseph M. Walden. The defendant was driving his car at a speed of about 35 or 40 miles per hour,, was on the right-hand side of the road, and on a curve in the road. Walden was crossing the main highway at a settlement road when he was struck and killed. The evidence for the defendant tended to prove that the accident was unavoidable and that therefore there was no culpability. The State’s testimony tended to prove that the road at the point where the accident occurred was free from obstruction, giving a plain view to the defendant that Walden was crossing the road oblivious to his peril, that no alarm was given by the defendant upon his approach. There was also evidence on the part of the State tending to prove that the defendant, at the -time of the accident, was under the influence of intoxicating liquors. This last was denied by the defendant.
+In Sawyer’s Case, 20 Ala.App. 504, 103 So. 309, Bricken, Presiding Judge, speaking for this court, gives the general rule obtaining in this State as defining involuntary manslaughter as follows: “Generally it is defined as the unintentional killing of another in the commission of an unlawful act.” This same definition has many times been affirmed by this court and the Supreme Court and is the law whether the unlawful act be malum prohibitum or malum in se. Thompson v. State, 131 Ala. 18, 31 So. 725.
+While the foregoing is the general rule, there must be some evidence tending to prove a connection between the unlawful act and the homicide. In other words, there must be some evidence tending to prove that the unlawful act committed proximately resulted in the death of the person killed. Crisp v. State, 215 Ala. 2, 109 So. 287. For instance, a person fires a gun across or along the public road. The statute makes such act a misdemeanor. The act itself is dangerous- to persons liable to be on the road. If a person is killed by the shots, it is at least manslaughter in the second degree and may, according to the evidence, be a higher degree of homicide.
+Under section 1397 (50) of the Code of 1928, it is unlawful for a person to drive any vehicle upon a public highway while under the influence of liquor or narcotics. If, while under the influence of liquor or narcotics, he drives the vehicle along the public highway and kills a person as a proximate result of such intoxication, the crime of unlawful homicide is complete. If, however, there is no connection between the driving while intoxicated and the killing, this rule would not apply.
+The taking of one or more drinks of intoxicating liquor would not of itself be sufficient to establish the fact of intoxication. The evidence must go further and show facts indicating a mental condition not normal and produced or brought about by the intoxicating liquor. When, therefore, an accident occurs on a public road in which a person' is killed by being run over by an automobile, and it is shown that the driver has been drinking, it becomes a question for the jury to say, from all the facts and circumstances surrounding the homicide, whether or not the driver at the time of the accident was under the influence of liquor, and, if so, was that condition the proximate cause of the homicide. If these facts be proven to the satisfaction of the jury beyond a reasonable doubt, the crime of manslaughter in the second degree would be complete.
+While the evidence in this case shows without dispute that at the time of the accident the defendant was driving his automobile at a legal rate of speed arid on the right-hand side of the road, it was up to the jury to say, from the attendant facts and circumstances, whether at the time the defendant was under the influence of intoxicating liquor, and, if so, did such fact render him oblivious to the peril of Walden, who was crossing the road ahead of him in plain view of the defendant and obviously ignorant of the peril in which he was placing himself.
+The fact that Walden had an equal opportunity of seeing the approach of the automobile and o"f avoiding the accident is no defense in this case. As was said in the case of Schultz v. Nebraska, 89 Neb. 34, 130 N.W. 972, 975, 33 L.R.A.(N. S.) 403, Ann.Cas.1912C, 495, “contributory negligence as such is not available as a defense in a criminal prosecution for a homicide caused by the gross and reckless misconduct of the accused, although the decedent’s behavior is admissible in evidence, and may have a material bearing upon the question of the defendant’s guilt. If, however, the culpable negligence of the accused is found to be the cause of the decedent’s death, the former is responsible under the criminal law, whether the decedent’s failure to use due care contributed to his injury or not.” The rule'concerning contributory negligence is applicable in actions for damages for personal injuries and has no application in criminal cases.
+The trial judge carefully and fully instructed the jury as to the distinctions to be drawn from the facts in this case and properly refused the general charge as requested in writing by the defendant.
+Refused charge 3, while stating technically a correct proposition of law, as applied to the facts in this case, is somewhat involved as to its language, with a tendency to mislead the jury in its consideration of the evidence as applied to the law. As to this charge, the court in his oral charge fully, fairly, and explicitly instructed the jury as to its duties in the premises. Therefore, the charge being fully covered in addition to the above criticism, its refusal was proper.
+Charge 6 was properly refused, in that the same was fully covered in the court’s oral charge.
+Charge 7 is invasive of the province of the jury and, in a similar charge, the Supreme Court held the same to be misleading and tending to confuse. City of Birmingham v. Whitworth, 218 Ala. 603, 119 So. 841.
+Refused charge 9 was bad, in that it sought to set up contributory negligence on the part of the deceased.
+Refused charges 10, 11, 13, and 14 were covered by the court in its oral charge.
+Charges 15 and 17 relate solely to the charge of manslaughter in the first degree, of which charge the defendant was acquitted by the jury in its verdict of manslaughter in the second degree; but, aside from that, the legal propositions in the two charges were fully covered in the court’s oral charge.
+We find no error in the record, and the judgment is affirmed.
+Affirmed.
