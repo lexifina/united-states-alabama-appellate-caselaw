@@ -1,0 +1,39 @@
+---
+court: "Alabama Court of Appeals"
+docket: "8 Div. 657"
+decided: "1938-03-08"
+citations: ["28 Ala. App. 151", "181 So. 123"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FINLEY et al. v. STATE."]
+source_url: "https://static.case.law/ala-app/28/cases/0151-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674942
+cites_cases: ["68 Ala. 476"]
+---
+
+# Finley v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+The indictment, as returned into court, contained two counts. Before submitting the case to the jury, the court charged out count 2, and the defendants were put to trial on count 1. There were five defendants named in the indictment, but the above-named appellants were the only ones tried in this case, a severance having been granted.
+Count 1 charged the defendants with a violation of the “Corrupt Practice Law,” Code 1923, § 582 et seq., the specific statute being section 596 of the Code 1923, which reads as follows: -
+“596. Bills, placards, advertisements, etc., must bear name of committee. — Every bill, placard, poster, i pamphlet, advertisement, newspaper advertisement, cartoon, or other printed matter, having reference to an election, or to any candidate, shall-bear upon the face thereof the name and address of the person or committee causing the same to be published. The failure tp place thereon the name and address of such person or committee, or the printing or publishing, or circulating of any such printed matter withput the same bearing upon the face thereof the name and address of such person or committee, is a corrupt practice.”
+Section 3937 of the Code 192,3, provides :
+“Any person or persons who do any act defined or declared to be a corrupt practice under the election or primary election laws of this state, or who wilfully fails or refuses to do any act required of such person under article 26 of chapter 19 of this Code, relating to the corrupt practice law of this state, shall be guilty of a misdemeanor, and, on conviction, must be fined not more than five hundred dollars, and may also be imprisoned in the county jail or sentenced to hard labor for the county for not more than six months at the discretion of the court trying the case.”
+The principal point of decision in-, volved is the sufficiency of the indictment, upon which appellants were tried and convicted. Count 1 of the indictment above referred to is as follows:
+“The Grand Jury of said County charge that before the finding of this indictment: Rex Finley, Edgar Webb, Walter Chenault, Sam Trotman and Carl Hendon, did print, publish or circulate printed matter consisting of hills, placards, posters or advertisements having reference to an election, to-wit, the municipal election of the City of Decatur, held on September 21, 1936, which bills, placards, posters or advertisements did not bear upon the face thereof the name and address of the person or committee causing the same to be published.”
+It is earnestly insisted, in elaborate briefs of counsel for appellants, that the indictment was not only defective, but void, and in this connection challenges its sufficiency by demurrer predicated upon twenty-five separate and distinct grounds.
+This court has carefully and attentively examined each insistence raised and presented by the demurrer, and has reached the conclusion that the court ruled properly in overruling said demurrers.
+The statute, supra, created a new offense, unknown to the common law, and describes its constituents, and the indictment, as we see it, charges the offense in the language of the statute, and sets out all the statutory elements creating the offense, and every necessary fact which was an ingredient thereof. It is not required that an indictment shall set up the proof necessary to a conviction; it has many times been held, it is sufficient if it charges the offense in the language of the statute. 12 Alabama Digest, Indictment and Information, <&=3110 (3), page 60.
+Another proposition insisted upon is based upon the alleged improper remarks, made in argument to the jury, by the special prosecuting attorney. In this connection the record shows the following:
+“Before the Court charged_ the jury as shown by the transcript, or record proper, in his argument to the jury, the special attorney prosecuting for the state referred ih substance to the supposed fact that defendant, Rex Finley, may have been a candidate at said election himself, and intimated that such candidacy was the cause, or the inspiration, of the circulars in question; and further intimated that said Finley was defeated in, said election. Defendants jointly and severally excepted to said remarks as highly improper and prejudicial. The court declared that the remarks were improper and not evidence.”
+We may not put the court to error upon this insistence. In the • first place, the court held that “the remarks were improper and not evidence.” Further, it does not appear that the rule announced by Mr. Justice Stone, in the case of Cross v. State, 68 Ala. 476, 484, was invoked, nor was there an adverse ruling by the court or exception reserved. The rule referred to, supra, is thus stated:
+“There must be objection in the court below, the objection overruled, and an exception reserved. The statement must be made as of fact; the fact stated must be unsupported by any evidence, must be pertinent to the issue, or its natural tendency must be to influence the finding of the jury; or the case is not brought 'within the influence of this rule.”
+The evidence in this case, which was without dispute or conflict, tended to show that the municipal election of the city of Decatur was held on Monday, September 21, 1936, and that the circulars or printed matter complained of were circulated by these appellants on Sunday night before the election. Said circulars read as follows:
+“Slate for Aldermen. C. D. Patterson, J. B. Leeman and Charley Rountree are asking people of Decatur to vote for the following for Aldermen: T. R. (Tom) Harrison, Dick Kennedy, J. D. Ligón, H. H. Hunter. In the issue the Decatur Daily of October 28, 1933, the following appeared : ‘As citizens interested in City’s welfare and its people, We believe Municipal Operation of an Electric System would be a costly mistake; C. D. Patterson Gin Company, by C. D. Patterson: C. D. Patterson; H. & H. Machine Company, by L. E. Hurst, Manager, and others, Tax & Rate Payers committee of Decatur. John Patterson, Chairman. T. R. (Tom) Harrison is a member of the firm of H. & H. Machine Company. Dick Kennedy is a brother-in-law of Garner Pride, the Man-. ager of Alabama Power Company, J- D. Ligón declined to contribute to the Campaign fund for Municipal Ownership. C. D. Patterson and J. B. Leeman carried a petition around asking citizens to petition the above ‘Slate’ to run for Aldermen. They told these men ,if they would run it wouldn’t cost them a cent. They proposed to pay all expense. C. D. Patterson and J. B. Leeman fought Municipal Ownership; they have always been against TVA; they now want to control the City Council. Everyone who is a friend of Municipal Ownership, TVÁ and Good Government will vote against this Slate. Citizens for Good Government. Paid Political Advertisement Authorized by Citizens for Municipal Ownership, TVA and Good Government.’ ”
+We are clear to the conclusion that the circulars, supra, come within the terms of the statute above quoted; and, further, there was a noncompliance of the statute in that the circulators thereof failed to place thereon the names and addresses of the persons who circulated same.
+We find no reversible error in the rulings of the court. The record proper is regular and without apparent error, it follows that the judgment of conviction from which this appeal was taken must be, and is, affirmed.
+Affirmed.
