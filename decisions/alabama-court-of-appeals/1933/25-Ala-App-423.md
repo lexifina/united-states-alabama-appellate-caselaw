@@ -1,0 +1,30 @@
+---
+court: "Alabama Court of Appeals"
+docket: "4 Div. 870"
+decided: "1933-03-07"
+citations: ["25 Ala. App. 423", "148 So. 160"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GLOVER v. STATE."]
+source_url: "https://static.case.law/ala-app/25/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1664186
+cites_cases: ["135 So. 652", "17 Ala. App. 394", "24 Ala. App. 378"]
+---
+
+# Glover v. State
+
+## Majority (BRICKEN, Presiding Judge.)
+
+BRICKEN, Presiding Judge.
+Prom a judgment of conviction for the offense of robbery and a sentence of ten years’ imprisonment in the penitentiary, this .appeal was taken.
+It was insisted by the state that this appellant feloniously took $173, lawful money of the United States, from the person of Shelby Layton, and against his will, by violence to his person, or by putting him in such ’fear as unwillingly to part with the same. The state offered evidence by several witnesses tending to sustain the charge. The defendant emphatically denied that he robbed Layton, and his testimony throughout was practically in direct conflict with that offered by the state. Under this condition it could not be seriously insisted that the accused was entitled to the general affirmative charge. Grimes v. State, 24 Ala. App. 378,135 So. 652, and eases cited.
+This appellant is represented by eminent counsel, who practically concede the affirmative charge wds not in point, and was therefore properly refused. But the insistence is made that, because of manifest discrepancies in the state’s testimony, the court should have promptly granted his motion for a new trial. We cannot accord to this insistence. The evidence as a whole was in sharp conflict; hence for the jury to determine and not for the trial .court. We concur with the court and sustain its action in overruling said motion.
+We have given attentive consideration to each ruling of the court presented here by exception for review. We discover no reversible. error in any of these rulings, and, while numerous of these questions are so clearly free from error, no discussion is deemed necessary; in order that the points of decision may be reviewed by certiorari, if so desired, we will discuss the propositions of law insisted upon in briefs by appellant’s able counsel in order that he may be deprived of no rights accorded him under our rules of practice.
+It must be conceded that, if the crime as charged was perpetrated by appellant, it was so committed on the 3d day of July, 1931, and upon no other date. It follows' that evidence of all the facts and circumstances leading up to its commission was relevant and admissible upon the trial of this case in the court below. Jones v. State, 17 Ala. App. 394, 85 So. 830. However, this rule does not apply or extend to subsequent facts and circumstances, no part of the res gestee. We therefore are of the opinion that the court committed no error in sustaining objections by the state to question propounded by defendant to witness Layton, to wit: “Now I will ask you this question Mr. Layton: Isn’t it a matter of fact that you, on the night of July 4, 1931, over at, or near the home of a lady by the name of Bertha Newman, if you did not have about $100.00 there flashing it at a poker game?” The evidence sought by this question related to matters occurring on the next day after the commission of the offense. It was therefore no part of the res gestee, and, where this is true, the conduct of the person injured subsequent to the commission of the crime is irrelevant.
+The foregoing rule is applicable also to the next point of decision wherein the court sustained the state’s objection to the question propounded by defendant to his witness Mr. Eree, to wit: “In your judgment was he about drunk?” This question had reference to Lay-ton, the alleged injured party. The witness testified, “I saw Mr. Layton about nine o’clock. * * * 1-Ie said he had been robbed. * * ,* I came on over to Enterprise with him — • I went from Enterprise with him back out home. * * * I didn’t notice but one place on his head where he was wounded. * * * We came over here to the hospital with him. * * * As to whether he was drinking — I could smell a little whiskey when I first got with him. * * * Well, from my house down to Mr. Austin’s the road is kinder rough and he staggered a little bit in going down that road.” As to the foregoing, we think the court was correct in its rulings from the point of time which was admittedly an appreciable time after the commission of the offense, and the testimony shows he was several miles distant from where the alleged offense was committed. The testimony above quoted was allowed without objection, and it in effect answered the question to which objection was sustained by stating facts as to Layton’s condition rather than the opinion or conclusion of the witness. Moreover, several other witnesses testified in this connection also.
+The scope of the cross-examination of ■the defendant, who testified as a witness in his own behalf, was within the sound discretion of the trial court, and nothing appears in this eonnection which discloses an abuse of such discretion.
+The remaining insistences have reference to certain several charges refused to defendant. We approve the contention in the brief of the Attorney General wherein it is insisted: “The trial court in this ease gave to the jury a very comprehensive charge and also a number of charg-es requested by the defendant. The charges cover all the principles contained in the refused charges which stated correct principles of law. Several of the refused charges are very confused and misleading and some do not correctly state the law as applicable to this case.”
+We have, as stated, discovered no reversible error upon the. trial of this case in the court below. The record proper has been examined also and is free from error. The judgment of conviction from which this appeal was taken must be, and is, affirmed.
+Affirmed.
