@@ -1,0 +1,29 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-04-08"
+citations: ["12 Ala. App. 309", "68 So. 492"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State v. Bush."]
+source_url: "https://static.case.law/ala-app/12/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820880
+cites_cases: ["115 U. S. 512", "13 South. 317", "140 Ala. 177", "162 Ala, 277", "168 Ala. 107", "24 L. Ed. 565", "37 South. 250", "39 Ala. 560", "44 Am. Rep. 128", "50 South. 218", "52 South. 884", "53 South. 286", "53 South. 908", "54 South. 213", "58 Ala. 594", "6 South. 328", "66 Ala. 87", "67 South. 727", "68 Ala. 63", "76 Ala. 603", "87 Ala. 46", "87 Ala. 481", "95 U. S. 733", "99 Ala. 225"]
+---
+
+# State v. Bush
+
+## Majority (BROWN, J.)
+
+BROWN, J.
+The principle that no man shall be deprived of his liberty or property except by “the law of the land” is said to be more ancient than written constitutions, “and breathes so palpably of exact justice that it needs no formulation in the organic law.” It is but an expression of the fundamental principle that inspired civilized man to form a government, the ultimate purpose of which is to protect the individual in working out his destiny, and finds expression in our Constitution in these words: “That in all criminal prosecutions, the accused has a right to be heard by himself and counsel, or either; * * * and he shall not be compelled to give evidence against himself, nor be deprived of life, liberty, or property except by due process of law,” and “that all courts shall be open; and that every person, for an injury done him, in his * * * person, or reputation, shall have a remedy by due process of law; and right and justice shall be administered without sale, denial, or delay.” — Constitution of Alabama 1901, §§ 6, 13.
+Speaking of “due process of law,” our Supreme Court has said: “The definitions of this phrase * * * are so various in the reported American decisions that it would be unsatisfactory to attempt an accurate definition of it here. ‘Omnis definitio in jure periculosa est’ is a wise maxim of judicial caution, a want of proper regard for which has aggravated that proverbial uncertainty of the law so frequently charged to be its chief reproach.”—Davis v. State, 68 Ala. 63, 44 Am. Rep. 128.
+The manifest purposes of the quoted constitutional provisions, where life, liberty, and property are affected, are to secure the citizen against the arbitrary action of those in authority, and to place him under the protection of the law. The expression “due process of law” has been held to be the equivalent of “the law of the land.” — 3 Words and Phrases, 2228; Missouri Pac. R. R. v. Humes, 115 U. S. 512, 6 Sup. Ct. 110, 29 L. Ed. 463.
+“Whatever difficulty may be experienced in giving to these terms a definition which will embrace every permissible exertion of power affecting private rights, and exclude such as is forbidden, there can be no doubt of their meaning when applied to judicial proceedings. They * * * mean a course of legal proceedings according to those rules and principles which have been established in our systems of jurisprudence for the protection and enforcement of private rights.”—Pennoyer v. Neff, 95 U. S. 733, 24 L. Ed. 565; 3 Words and Phrases, 2234, and authorities there cited; Ex parte MacDonald, 76 Ala. 603; Mead v. Larkin, 66 Ala. 87, 88; Zeigler v. S. & N. A. R. R. Co., 58 Ala. 594.
+The affidavit, the basis for the issuance of the warrant under which the petitioner was held by the sheriff when he sued out the writ of habeas corpus, charged an offense which was not within the final jurisdiction of the justice of the peace. — Code 1907, § 6733. The justice had no jurisdiction under section 6733, supra, or under section 32 of the legislation entitled “An act to further suppress the evils of intemperance,” etc., approved August 25, 1909 (Gen. Acts, Sp. Sess. 1909, p. 92), to try the defendant and adjudge him guilty of the offense. The sole authority of the justice to deal with the cause is found in chapter 275 of the Code, which embraces sections 7584-7615. These sections are not only the source of his authority, but are a limitation of his authority.-Ex parte Pruitt, 99 Ala. 225, 13 South. 317.
+The warrant authorized by section 7588, which prescribes its form, is to be returnable before the justice of the peace, and, if the defendant when arrested does not elect to give bail without preliminary trial as provided for in sections 7589 and 7590, he is entitled to a preliminary trial before the justice. — Code, §§ 7593-7615. This is one of the rights protected by the Constitution, and the act of the justice in mailing the warrant returnable to the circuit court of Houston county was an arbitrary exercise of authority without the scope of his jurisdiction, a violation of the petitioner’s constitutional rights, and the warrant ivas therefore void.—Jones v. State, 168 Ala. 107, 53 South. 286.
+The warrant being void, the petitioner’s restraint under it was illegal and habeas corpus was an appropriate remedy to protect his right of liberty. — -Constitution of Alabama 1901, § 17; Ex parte Lane, infra, 67 South. 727; Ex parte Dickens, 162 Ala, 277, 50 South. 218; Bray v. State, 140 Ala. 177, 37 South. 250; Ex parte State, 87 Ala. 46, 6 South. 328.
+The circuit court being one of general jurisdiction having original jurisdiction in the trial of misdemeanors, when a case by regular course of procedure reaches that court, section 32 of the act approved August 25, 1909, supra, affords ample authority for the court to proceed on original affidavit without the indictment of a grand jury.
+The trial judge ruled in accordance Avith the views above expressed, and his order discharging the petitioner must be affirmed.
+Affirmed.
