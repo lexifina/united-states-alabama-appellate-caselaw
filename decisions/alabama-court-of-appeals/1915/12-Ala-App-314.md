@@ -1,0 +1,24 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1915-12-13"
+citations: ["12 Ala. App. 314", "68 So. 567"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Talley v. The State."]
+source_url: "https://static.case.law/ala-app/12/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820944
+cites_cases: ["10 Ala. App. 249", "11 Ala. App. 53", "115 Ill. App. 549", "137 Ala. 89", "153 Mass. 148", "181 Ala. 53", "219 U. S. 219", "34 South. 611", "4 South. 291", "4 South. 775", "40 South. 163", "40 South. 190", "5 Am. St. Rep. 381", "5 South. 799", "6 South. 370", "6 South. 420", "61 South. 13", "61 South. 334", "62 Wis. 251", "63 Md. 239", "63 South. 18", "65 South. 732", "69 N. Y. 101", "7 Ala. App. 28", "77 Ala. 240", "8 Ala. App. 215", "8 Ala. App. 33", "8 Fed. 231", "84 Ala. 11", "84 Ala. 435", "86 Ala. 601", "87 Ala. 107", "87 Ala. 121"]
+---
+
+# Talley v. State
+
+## Majority (THOMAS, J.)
+
+THOMAS, J.
+“Whatever be the rule elsewhere, it is well settled in this state that witnesses are not permitted to testify to their motive, belief, or intention, when secret and uncommunicated; such mental status, when relevant, being a matter of inference to be determined” by the jury from all the facts and circumstances of the case.—Brown v. State, 7 Ala. App. 28, 61 South. 13; Harris v. State, 8 Ala. App. 33, South. 477; Hardin v. State, 8 Ala. App. 215, 63 South. 18; McCormick, et al. v. Joseph, et al., 77 Ala. 240, and cases cited in the report of this case in 48 Ala. Beports Annotated. Consequently, the court committed no error in declining to permit the defendant to testify in his own behalf that he- meant nothing offensive by the words that had been attributed to him by the prosecutrix as having been used by him to her on meeting her alone in the road on the occasion in controversy, as this was a question for the jury, to be determined by them from the words used, in the light of the place, facts, and circumstances of their use.—Wiley v. State, 10 Ala. App. 249, 65 South. 204; Jackson v. State, 137 Ala. 89, 34 South. 611; Myers v. State, 84 Ala. 11, 4 South. 291.
+If the jury believed beyond a reasonable doubt that the words were in fact used and were intended by the defendant as an indecent proposal to the prosecutrix, and that she so understood it, and that such proposal was made without her invitation or consent, then there was no alternative but to convict him, however friendly may have been her previous attitude, towards him and however agreeable to her may have been his previous association with her; but, in fixing the amount of the punishment for the offense, which was a matter resting within the sound discretion of the jury, they were entitled to know of her previous friendly attitude towards him and of her previous friendly association with him— she being a white woman and he a negro man- — since we apprehend that ordinarily a jury of reasonable men would not be disposed to inflict as severe a punishment upon a negro man for making an indecent proposal to- a white woman when her previous attitude towards him had been such as was calculated to lead one to believe that such proposal might possibly not be resented than when her attitude towards him had been so circumspect that he must surely know that such proposal would be an insult of the highest character and of the gravest magnitude.—Golson v. State, 86 Ala. 601, 5 South. 799; McQuirk v. State, 84 Ala. 435, 4 South. 775, 5 Am. St. Rep. 381; Allen v. State, 87 Ala. 107, 6 South. 370. The court, therefore, erred, we think, in not permitting the defendant to show the previous attitude of the woman towards the defendant.
+The court likewise erred in permitting the state to show that the woman was a member of the church. The defendant, it is true, sought, as was undoubtedly his right, to impeach her testimony by showing that she was of general bad character; and the state had a right to rebut this evidence by showing by its witnesses, as it did do> that she was a woman of general good character; but it had no right to bolster that testimony up by also showing by these witnesses that she was a member of the church.—Hussey v. State, 87 Ala. 121, 6 South. 420. The law does not allow character to be proved in this way. Character cannot be shown by proof of particular acts of good or bad conduct, but only by proof of general reputation; that is, what a person’s neighbors say about him or her, and how he or she is generally accepted and regarded in the community.-Hussey v. State, 87 Ala. 121, 6 South. 420; Watson v. State, 181 Ala. 53, 61 South. 334; Maxwell v. State, 11 Ala. App. 53, 65 South. 732.
+For the errors pointed out, the judgment is reversed, and the cause remanded.
+Reversed and remanded.
