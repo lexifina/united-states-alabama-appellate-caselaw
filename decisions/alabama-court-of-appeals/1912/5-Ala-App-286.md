@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+decided: "1912-08-02"
+citations: ["5 Ala. App. 286", "59 So. 681"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State v. Cole."]
+source_url: "https://static.case.law/ala-app/5/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1619672
+cites_cases: ["1 Ala. App. 265", "108 Ala. 161", "155 Ala. 145", "160 Ala. 123", "25 Am. Rep. 646", "52 Ala. 311", "58 Ala.. 495", "77 Ala. 92", "86 Ala. 622"]
+---
+
+# State v. Cole
+
+## Majority (PELHAM, J. —)
+
+PELHAM, J. —
+The rule laid down in McAnally’s Case, 58 Ala.. 495, 25 Am. Rep. 646, by the Supreme Court, through Brickell, C. J., to the effect that, the primary court in proceedings of this nature having the opportunity and advantage of a personal observance of the witness, “it should be clear that it has erred in its judgment, or a revisory court should abstain from interference,” has been uniformly and universally followed and many times approved. This court, after citing McAnally’s Case, in Butler et al. v. State, 1 Ala. App. 265-267, 56 South. 20, 21, said: “On such an inquiry, the evidence of the presence or lack of honesty and frankness, or of partiality or hostility on the one side or the other, the indications of intelligence, or the lack of it, and the character, good or bad, on the part of the witnesses, or that they were subject to improper influences, and, in short, the impressions made by their appearance and general demeanor, properly may be controlling factors. In the consideration of such circumstances, an obvious advantage is possessed by one Avho saw and heard the Avitnesses testify over one Avhose information is derived solely from a written report of the testimony.”
+We have carefully examined the evidence’ set out in the bill of exceptions in this case to ascertain whether or not, under the declared and established rule existing in this state that we have referred to, the judgment of the primary tribunal admittiirg the defendant to bail should be interfered with.
+There is no positive testimony connecting the defendant directly with a participation in the physical act causing the death of the deceased. The defendant, as a witness in his own behalf, denied all connection with, and participation in the homicide, and introduced several witnesses, who testified to his whereabouts at or about the time the crime was committed, whose testimony, if believed, make it quite improbable that the defendant could have been personally present at the particular point on the road where the deceased was killed, or close enough to that locality at the time to have been personally present and participated in the murder.
+The tendencies of the evidence lead to the conclusion that the deceased was assassinated while driving along the road in his buggy, unattended by any one, and while going in the direction of his home, about two miles d.istant. The assassin, or assassins, it would seem, shot from ambush on the side of the road, but no eye witness to the killing was examined nor does it appear from the evidence set out that any one, except the parties concerned and connected with the tragedy, were in the range of vision of the place at the time.
+The evidence set out in the bill of exceptions as connecting the defendant with the commission of the crime, or as having any tendency to show his criminal responsibility therefor, consists of threats, made a short time before the homicide, and certain circumstances tending to show the defendant’s connection with or guilty agency in the commission of the offense. The evidence with respect to all these matters in any way materially tending to show the defendant’s guilt, including the threats testified to, is, however, in serious conflict, and, under I,he settled rule that the revisory court will not lightly interfere with the judgment of the primary tribunal, unless it. clearly appears that it has erred, we cannot say, even though the burden of proof be upon the defendant, that the primary tribunal, which had the advantage of hearing the witnesses ore tenus, was clearly in error in allowing the defendant bail in this case. The question before the primary tribunal was not one simply and alone of guilt vel non, and it was not called upon and did not, nor do we, pass upon that question. It was the duty of the judge before whom these proceedings were had to admit the petitioner to bail, if, after considering all of the evidence, he was not convinced that, if justice was properly and fairly administered on the final trial of the case, the defendant 'would probably and properly be convicted of an offense for which the jury, in their discretion, might inflict capital punishment.
+The evidence tending to show the defendant’s guilty agency, or that he had a hand in planning the murder, is in sharp conflict in its principal features, and was weighed pro and con by the primary tribunal having the witnesses before it. Under the rules of law governing a review of the finding by this court, we are not convinced by the evidence set out in the bill of exceptions that the conclusion of the primary court is erroneous. For reasons that are obvious, we refrain from discussing the evidence in detail or at more length.
+The judgment of the primary court appealed from, admitting the petitioner to bail, is affirmed.
+Affirmed.
