@@ -1,0 +1,47 @@
+---
+court: "Alabama Court of Appeals"
+docket: "7 Div. 426"
+decided: "1957-08-13"
+citations: ["39 Ala. App. 175", "96 So. 2d 701"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Helen CHRISTISON v. STATE."]
+source_url: "https://static.case.law/ala-app/39/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1701446
+cites_cases: ["141 So. 699", "163 S.C. 302", "180 Ala. 252", "180 F.2d 853", "221 Ala. 298", "225 Ala. 8", "226 Ala. 69", "242 Ala. 105", "244 Ala. 503", "250 Ala. 384", "257 Ala. 191", "262 Ala. 420", "32 F.2d 505", "33 S.W. 872", "35 Ala.App. 561", "35 Tex.Cr.R. 378", "37 Ala.App. 57", "55 S.W. 340", "60 So. 837", "66 A.L.R. 468"]
+---
+
+# Christison v. State
+
+## Majority (PRICE, Judge.)
+
+PRICE, Judge.
+Appellant was indicted for the offenses of forgery and embezzlement. The indictment contained three counts. The conviction was for embezzlement under the second count. Punishment was fixed at five years imprisonment in the penitentiary.
+One of the main questions for review on this appeal arises from the trial court’s denial of defendant’s motion for a new trial on the ground of the separation of the jury during the progress of the trial.
+The trial began on March 12, 1956, and ended on March 15, 1956. The jury was allowed to go to their respective homes on the nights of March 12th, 13th and 14th, and to separate at lunch time and during other recesses.
+At the end of the first day of the trial the court stated: “Gentlemen we will take an adjournment until tomorrow morning. You will not be kept together during recess, nor at night,” and instructed the jury that during such recess they were not to discuss the facts of the case with each other nor with anyone else.
+The transcript of the testimony in the record further shows that when the court adjourned on each of the other days, and at other recesses, the court gave to the jury “the usual instructions as to their precautions and conduct during the recess.”
+The settled rule in this State is that the separation of the jury pending trial for felony cases creates, prima facie, a cause for reversible error. When the fact of the separation is established the burden is on the State to affirmatively show that no injury resulted to defendant from the separation. Arnett v. State, 225 Ala. 8, 141 So. 699; Payne v. State, 226 Ala. 69, 145 So. 650; Mitchell v. State, 244 Ala. 503, 14 So.2d 132; Lynn v. State, 250 Ala. 384, 34 So.2d 602; Bradford v. State, 35 Ala.App. 561, 50 So.2d 286; Huddleston v. State, 37 Ala.App. 57, 64 So.2d 90.
+In Wright v. State, 262 Ala. 420, 79 So.2d 74, 75, our Supreme Court, denying certiorari, pointed out that in non-capital felonies the defendant may consent to a separation of the jury, and stated further: “In such a situation the court being apprised of such consent beyond the hearing of the jury may in its discretion authorize such a separation. In this event there would be no burden on the state to establish affirmatively that the separated juror or jurors were subjected to no influence or contacts that might have influenced their verdict.”
+In support of the motion the defendant offered the transcript of the testimony taken during the trial and the motion, which was sworn to by the defendant, setting up the fact that the jury, without the consent of defendant or her attorneys, was permitted to go to their respective homes each night, and allowed to separate at meal time and other recesses during the trial.
+“A verified petition and verified answer are treated as evidence, because they are affidavits. Salmon v. Salmon, 180 Ala. 252, 60 So. 837.” Ex parte Green, 221 Ala. 298, 299, 129 So. 72, 73.
+The evidence introduced by the defendant sufficiently established the fact of the separation of the jury. No evidence was submitted by the State to rebut the defendant’s prima facie right to a new trial, therefore, the denial of the motion constituted reversible error.
+Since, for the reasons pointed out, the judgment must be reversed, we will set out only the portion of the evidence necessary to illustrate our view that the defendant was not entitled to the general affirmative charge as to count 2 of the indictment because of a fatal variance between the allegations of said count and the proof offered on the trial.
+Count 2, omitting the formal parts, charges that defendant, “the custodian of Etowah County School Funds, and being then and there entrusted with the disbursement of money or funds belonging to the Board of Education of Etowah County, Alabama, did embezzle or convert to her own use, or to the use of another, $225.00, lawful United States Currency, which said money had come into her possession by virtue of her public office or public trust, as above set out * *
+The evidence for the State tended to show that the defendant was bookkeeper and general secretary of the Etowah County Board of Education. She was custodian of the Etowah County school funds, receiving and disbursing all of the county school monies. The said funds were deposited in the American National Bank of Gadsden in the name of the Custodian of Etowah School Funds. Appellant had sole authority to sign checks on said account.
+It is the contention of the State, and evidence was introduced tending to support such contention, that on January 16, 1951, appellant signed a check in her official capacity as custodian in the sum of $225 made payable to Helen Christison, bookkeeper; that she endorsed the check; that it was paid by the bank, and the proceeds deposited in appellant’s personal account at said bank; that after the check was cancelled by the bank the name of the payee was erased and the name “C. R. Killian, Gadsden” was typed in the check as payee; that the endorsement on said check was also erased and the name “C. R. Killian” written in pencil over the erasure.
+C. R. Killian denied ever having seen the check or having endorsed it or authorizing anyone else to endorse it. He also testified he never performed the services for which the check was purportedly issued.
+The defendant argues in brief that an indictment charging the embezzlement of money is not sustained by proof of the embezzlement of checks only and that “a careful reading of the record will indicate that throughout the trial, there was absolutely no evidence introduced to prove that the defendant embezzled or converted to her own use any United States Currency, but to the contrary, the entire body of the evidence dealt with the alleged forgery and/or embezzlement of certain bank checks.”
+We are of the opinion the appellant’s contention is without merit. In the words of Chief Justice Gardner in Simmons v. State, 242 Ala. 105, 4 So.2d 905, 906, the check was “merely the instrumentality through which the defendant received his money, and to hold a fatal variance in such a case would run counter to common sense and tend to frustrate the practical end, for the accomplishment of which courts were established.” The court also said:
+“It would be carrying technicality to a most regrettable extreme to hold that the proof of the mere instrumentality of obtaining the money constitutes a variance with the charge of obtaining the money itself, when the same evidence discloses the fact that the money was so obtained.”
+The record discloses that the solicitor in his argument to the jury “stated that the school money was the taxes of each and every one of us, even the men on the jury, and that we have an interest in this matter.”
+Counsel for defendant objected to the argument and the court stated: “I will let him argue it was tax money, and that it went to each and every one of us, I will rule that out.”
+In Buttermore v. United States, 6 Cir., 180 F.2d 853, 856, a trial for income tax evasion, this argument was made: “Little Creek (one of the mines operated by defendant) paid part of it, — you and I paid the balance.” And, “You and I are paying the premium.” And, “Each one of us helped pay for that piece of property.” The court stated:
+“We do not commend this character of argument. It was improper and the court not only should have reproved counsel but should have instructed the jury to disregard it.”
+However, the argument was not considered to be so prejudicial in this particular case as to prevent the honest administration of justice by the jurors, and to warrant a mistrial or a new trial.
+In Williams v. City of Anniston, 257 Ala. 191, 58 So.2d 115, 116, where counsel for defendant argued to the jury in effect that any money awarded plaintiff would have to come out of taxes, the court said: “These statements are obviously an appeal to the self-interest of the jurors as taxpayers and are of such a prejudicial nature as to constitute a ground for reversal. 78 A.L.R. page 1457; Piner v. Standard Oil Company of New Jersey, 163 S.C. 302, 161 S.E. 504; Robinson v. United States, 8 Cir., 32 F.2d 505, 66 A.L.R. 468; Parks v. State, 35 Tex.Cr.R. 378, 33 S.W. 872; Davis v. State, Tex.Cr.App., 55 S.W. 340.”
+Since this case must be reversed for the reason set out herein above, we are not called upon to decide whether the solicitor’s argument in this case constituted reversible error, however, in view of the likelihood of another trial we feel that we should point out the questionable propriety of such remarks under the above decisions.
+It is ordered that the judgment below be reversed and the cause remanded.
+Reversed and remanded.
