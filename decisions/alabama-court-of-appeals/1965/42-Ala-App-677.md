@@ -1,0 +1,27 @@
+---
+court: "Alabama Court of Appeals"
+docket: "6 Div. 5"
+decided: "1965-08-17"
+citations: ["42 Ala. App. 677", "178 So. 2d 180"]
+reporter: "ala-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter Lee FOWLKES v. CITY OF BIRMINGHAM."]
+source_url: "https://static.case.law/ala-app/42/cases/0677-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1707816
+---
+
+# Fowlkes v. City of Birmingham
+
+## Majority (JOHNSON, Judge.)
+
+JOHNSON, Judge.
+This appellant was first convicted in the Recorder’s Court of the City of Birmingham, Alabama, for violating Section 1142, Section 311, and Section 1231 of the City Code of Birmingham of 1944. Section 311, supra, the only section of the city code relevant here, is as follows :
+“Section 311. Disorderly conduct defined. Any person who disturbs the peace of others by violent or offensive conduct, or carriage, or by loud or unusual noises, or by profane or obscene or offensive language, or any person who shall commit any act or diversion causing or tending to a breach of the peace, or any person who shall be guilty of lewd, immoral or indecent conduct, or any person who shall use any obscene or filthy language in a public place, or any person who shall commit any act or diversion tending to or calculated to debauch the morals of any person, shall be deemed guilty of disorderly conduct, and, upon conviction, shall be punished as provided in section 4 of this code.”
+Appellant perfected an appeal from recorder’s court to the Circuit Court of Jefferson County. The complaint filed in the circuit court contained two counts. Count I charged that appellant “did disturb the peace of others by violent or offensive conduct in that the defendant did waive a shirt in front of a dog, a member of the police canine corps, thereby making the said dog ferocious, contrary to and in violation of Section 311 of the General City Code of Birmingham of 1944.” Count.II charged that appellant “did commit an act tending to a breach of the peace in that the defendant did waive a shirt between a dog, a member of the police canine corps, and a child, thereby making said dog ferocious and endangering the health and well-being of said child, contrary to and in violation of Section 311 of the General City Code of Birmingham of 1944.” The jury found the appellant guilty as charged in Count I of the complaint.
+The evidence presented by the City in the trial below tends to show that the appellant, on May 3, 1963, was in a crowd of about fifteen hundred to two thousand people who had been forced off the public streets and into a park adjacent to Fifth Avenue, North, in Birmingham, Alabama, by police officials using water hoses and dogs from the police Canine Corps. The crowd was cheering, making loud noises, and some were throwing rocks and bricks. Police Officers Bobbie J. Danner and John C. Ferrell, members of the Canine Corps, were assisting in controlling the crowd. The Canine Corps is a group of officers trained to work with dogs in special details, including mob control. When first observed by Officers Danner and Ferrell, appellant was in the crowd in the park, or directly in front of the crowd. Appellant had removed his- shirt and was holding it in his hands, waving it in front of a dog under the control- of Officer Ferrell, who was facing appellant. While waving the shirt, appellant ran “backwards and forwards,” yelled “Toro, Toro,” and was acting “like a bullfighter.” This action on the part of appellant infuriated the dog, causing him to jump in the air, and snap and growl at appellant. Ferrell testified that every time appellant waved the shirt "the dog would just about take me off my feet trying to go for him.” , Danner testified that it did not appear to him that appellant was trying to protect himself from the dog. There was evidence that appellant waved his shirt between children and the dog. Danner and Ferrell both testified that their dogs had bitten people in the crowd, but it does not appear from their testimony whether this was before or after appellant waved his shirt
+Officer Danner, acting on orders, moved in to arrest appellant. Appellant ran and managed to elude Danner. Later, when the crowd had moved out of the park onto Sixth Avenue and Sixteenth Street, appellant “broke out of the crowd” and waved his shirt in front of Ferrell’s dog. The dog took the shirt out of appellant’s hands, and appellant ran backwards about ten feet and fell over an automobile. He was then arrested by Danner and another officer.
+Appellant testified that he was walking toward his brother in the park when he first saw Ferrell; that he was wet from the water hoses used to disperse the crowd; that he had taken his shirt off; that Ferrell’s dog had bitten his brother; and that he put his shirt in front of him to protect himself from the dog. He stated that he backed away from the dog as Ferrell approached and went to a cafe on the other side of the park. He further testified that when he came out of the cafe police officers grabbed him and threw him down; that he did not have his shirt on at this time; that he lost it when he ran out. of the park.
+After careful consideration we do not feel that the facts outlined herein show an offense falling within the prohibition of Section 311, supra, and this cause is, therefore,
+Reversed and remanded.
